@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-08-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -356,41 +356,40 @@ Version Consolidée au 2001-07-13
         - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#353)
           - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#354)
         - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1)](#355)
-      - [Titre III : Dispositions particulières aux territoires d'outre-mer (art. R931-3 à R931-9)](#356)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-3 à R931-9)](#357)
-          - [Section I : La cour d'appel. (art. R931-3)](#358)
-          - [Section II : Le tribunal de première instance (art. R931-9)](#359)
-            - [Sous-section I : Institution et compétence. (art. R931-9)](#360)
-      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-5)](#361)
-        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#362)
-        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#363)
-          - [Section I : Organisation. (art. R942-1 à R942-3)](#364)
-          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#365)
-            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#366)
-            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#367)
-            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#368)
-            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#369)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#370)
-          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#371)
-          - [Section II : Organisation. (art. R943-4 à R943-6)](#372)
-          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#373)
-            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#374)
-            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#375)
-            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#376)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#377)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#378)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#379)
-      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#380)
-        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#381)
-        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#382)
-          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#383)
-            - [Sous-section I : Dispositions générales. (art. R952-1)](#384)
-            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#385)
-          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#386)
-            - [Sous-section I : Compétence. (art. R952-5 à R952-6)](#387)
-            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#388)
-          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#389)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#390)
+      - [Titre III : Dispositions particulières aux territoires d'outre-mer (art. R931-9)](#356)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-9)](#357)
+          - [Section II : Le tribunal de première instance (art. R931-9)](#358)
+            - [Sous-section I : Institution et compétence. (art. R931-9)](#359)
+      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-5)](#360)
+        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#361)
+        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#362)
+          - [Section I : Organisation. (art. R942-1 à R942-3)](#363)
+          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#364)
+            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#365)
+            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#366)
+            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#367)
+            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#368)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#369)
+          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#370)
+          - [Section II : Organisation. (art. R943-4 à R943-6)](#371)
+          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#372)
+            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#373)
+            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#374)
+            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#375)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#376)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#377)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#378)
+      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#379)
+        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#380)
+        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#381)
+          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#382)
+            - [Sous-section I : Dispositions générales. (art. R952-1)](#383)
+            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#384)
+          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#385)
+            - [Sous-section I : Compétence. (art. R952-5 à R952-6)](#386)
+            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#387)
+          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#388)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#389)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -21135,13 +21134,25 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE PROCEDURE PENALE - art. D43 (M)
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 _Anciens textes_:
 
   - CODE DE PROCEDURE PENALE - art. D43 (M)
+
+_Cite_:
+
+  - Code de procédure pénale - art. D43
 
 
 ### Titre II : Les juridictions de jugement de droit commun<a id=262></a>
@@ -22498,6 +22509,7 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -22509,7 +22521,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°96-157 du 27 février 1996 - art. 16 () JORF 1er mars 1996
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 _Cité par_:
 
@@ -27505,6 +27517,43 @@ _Cite_:
   - Code de l'organisation judiciaire R211-2, R211-1
 
 
+###### Article R931-3
+
+Les dispositions du chapitre II du titre Ier du livre II (partie Réglementaire) relatives à l'organisation de la cour d'appel
+sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième et troisième alinéas de l'article
+R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des adaptations
+suivantes :
+
+1° Pour l'application de l'article R. 212-2, la référence au code de procédure pénale est remplacée par une référence aux
+dispositions de procédure pénale applicables localement ;
+
+2° Pour l'application de l'article R. 212-5, la chambre des appels correctionnels ou la chambre de l'instruction assure avec
+la chambre civile le service des audiences solennelles ;
+
+3° Pour l'application de l'article R. 212-7, la référence au nouveau code de procédure civile est remplacée par une référence
+aux dispositions de procédure civile applicables localement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
+
+
 ###### Article R931-4
 
 Les dispositions du chapitre III du titre Ier du livre II (partie Réglementaire) relatives au fonctionnement de la cour
@@ -29185,43 +29234,9 @@ _Modifié par_:
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=357></a>
 
-##### Section I : La cour d'appel.<a id=358></a>
+##### Section II : Le tribunal de première instance<a id=358></a>
 
-###### Article R931-3
-
-Les dispositions du chapitre II du titre Ier du livre II (partie Réglementaire) relatives à l'organisation de la cour d'appel
-sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième et troisième alinéas de l'article
-R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des adaptations
-suivantes :
-
-1° Pour l'application de l'article R. 212-2, la référence au code de procédure pénale est remplacée par une référence aux
-dispositions de procédure pénale applicables localement ;
-
-2° Pour l'application de l'article R. 212-5, la chambre des appels correctionnels ou la chambre d'accusation assure avec la
-chambre civile le service des audiences solennelles ;
-
-3° Pour l'application de l'article R. 212-7, la référence au nouveau code de procédure civile est remplacée par une référence
-aux dispositions de procédure civile applicables localement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Décret n°78-330 1978-03-16
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Cite_:
-
-  - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
-
-
-##### Section II : Le tribunal de première instance<a id=359></a>
-
-##### Sous-section I : Institution et compétence.<a id=360></a>
+##### Sous-section I : Institution et compétence.<a id=359></a>
 
 ###### Article R931-9
 
@@ -29241,9 +29256,9 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-### Titre IV : Dispositions particulières à Mayotte<a id=361></a>
+### Titre IV : Dispositions particulières à Mayotte<a id=360></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=362></a>
+#### Chapitre Ier : Dispositions générales.<a id=361></a>
 
 ###### Article R941-1
 
@@ -29299,9 +29314,9 @@ _Cite_:
   - Nouveau code de procédure civile 342 à 366
 
 
-#### Chapitre II : Le tribunal supérieur d'appel<a id=363></a>
+#### Chapitre II : Le tribunal supérieur d'appel<a id=362></a>
 
-##### Section I : Organisation.<a id=364></a>
+##### Section I : Organisation.<a id=363></a>
 
 ###### Article R942-1
 
@@ -29372,9 +29387,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section II : Fonctionnement<a id=365></a>
+##### Section II : Fonctionnement<a id=364></a>
 
-##### Sous-section I : Dispositions générales.<a id=366></a>
+##### Sous-section I : Dispositions générales.<a id=365></a>
 
 ###### Article R942-4
 
@@ -29471,7 +29486,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Le ministère public.<a id=367></a>
+##### Sous-section II : Le ministère public.<a id=366></a>
 
 ###### Article R942-8
 
@@ -29559,7 +29574,7 @@ _Abrogé par_:
   - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
 
 
-##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=368></a>
+##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=367></a>
 
 ###### Article R942-12
 
@@ -29815,7 +29830,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=369></a>
+##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=368></a>
 
 ###### Article R942-20
 
@@ -29837,9 +29852,9 @@ _Cite_:
   - Code de l'organisation judiciaire R213-29
 
 
-#### Chapitre III : Le tribunal de première instance<a id=370></a>
+#### Chapitre III : Le tribunal de première instance<a id=369></a>
 
-##### Section I : Institution et compétence.<a id=371></a>
+##### Section I : Institution et compétence.<a id=370></a>
 
 ###### Article R943-1
 
@@ -29917,7 +29932,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section II : Organisation.<a id=372></a>
+##### Section II : Organisation.<a id=371></a>
 
 ###### Article R943-4
 
@@ -29989,9 +30004,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section III : Fonctionnement<a id=373></a>
+##### Section III : Fonctionnement<a id=372></a>
 
-##### Sous-section I : Dispositions générales.<a id=374></a>
+##### Sous-section I : Dispositions générales.<a id=373></a>
 
 ###### Article R943-7
 
@@ -30239,7 +30254,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=375></a>
+##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=374></a>
 
 ###### Article R943-16
 
@@ -30311,7 +30326,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Sous-section III : Dispositions particulières à certaines matières.<a id=376></a>
+##### Sous-section III : Dispositions particulières à certaines matières.<a id=375></a>
 
 ###### Article R943-18
 
@@ -30363,7 +30378,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R311-29-3
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=377></a>
+#### Chapitre IV : Les juridictions des mineurs.<a id=376></a>
 
 ###### Article R944-1
 
@@ -30394,7 +30409,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre V : La cour criminelle.<a id=378></a>
+#### Chapitre V : La cour criminelle.<a id=377></a>
 
 ###### Article R945-1
 
@@ -30416,7 +30431,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=379></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=378></a>
 
 ###### Article R946-1
 
@@ -30529,9 +30544,9 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
 
 
-### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=380></a>
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=379></a>
 
-#### Chapitre Ier : Des fonctions judiciaires.<a id=381></a>
+#### Chapitre Ier : Des fonctions judiciaires.<a id=380></a>
 
 ###### Article R951-1
 
@@ -30714,11 +30729,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-7 (V)
 
 
-#### Chapitre II : Des juridictions<a id=382></a>
+#### Chapitre II : Des juridictions<a id=381></a>
 
-##### Section I : Dispositions communes<a id=383></a>
+##### Section I : Dispositions communes<a id=382></a>
 
-##### Sous-section I : Dispositions générales.<a id=384></a>
+##### Sous-section I : Dispositions générales.<a id=383></a>
 
 ###### Article R952-1
 
@@ -30754,7 +30769,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R511-1 (V)
 
 
-##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=385></a>
+##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=384></a>
 
 ###### Article R952-2
 
@@ -30852,9 +30867,9 @@ _Cite_:
   - Loi n°1881-07-29 art. 38 ter
 
 
-##### Section II : Le tribunal de première instance<a id=386></a>
+##### Section II : Le tribunal de première instance<a id=385></a>
 
-##### Sous-section I : Compétence.<a id=387></a>
+##### Sous-section I : Compétence.<a id=386></a>
 
 ###### Article R952-5
 
@@ -30909,7 +30924,7 @@ _Cité par_:
   - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=388></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=387></a>
 
 ###### Article R952-7
 
@@ -30971,7 +30986,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal supérieur d'appel.<a id=389></a>
+##### Section III : Le tribunal supérieur d'appel.<a id=388></a>
 
 ###### Article R952-9
 
@@ -31030,7 +31045,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L951-3
 
 
-# Annexes<a id=390></a>
+# Annexes<a id=389></a>
 
 ###### Article Annexe Tableau des costumes
 
