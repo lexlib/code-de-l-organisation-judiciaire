@@ -1141,7 +1141,7 @@ Ressort du tribunal d'instance de Saint-Pierre
 
 Cour d'appel de Nouméa
 
-Territoire de la Nouvelle-Calédonie
+Nouvelle-Calédonie
 
 Tribunal de première instance de Nouméa.
 
@@ -1201,7 +1201,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°97-96 du 5 février 1997 - art. 2 (V) JORF 6 février 1997 en vigueur le 17 février 1997
+  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 _Cité par_:
 
