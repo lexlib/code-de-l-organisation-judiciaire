@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1982-12-21
+Version Consolidée au 1982-12-30
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -204,53 +204,57 @@ Version Consolidée au 1982-12-21
       - [Titre II : Les juridictions de jugement de droit commun (art. R621-1 à R*623-1)](#201)
         - [Chapitre Ier : La cour d'assises (art. R621-1)](#202)
         - [Chapitre III : Le tribunal de police (art. R*623-1)](#203)
-      - [Titre III : Les juridictions pénales spécialisées (art. R633-1)](#204)
-        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#205)
-    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*711-1 à R*7-11-1-1)](#206)
-      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#207)
-      - [Titre II : Incompatibilités (art. R*721-1 à R*721-3)](#208)
-      - [Titre III : Récusation et renvoi (art. R731-1)](#209)
-      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#210)
-      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#211)
-      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#212)
-      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#213)
-      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#214)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*812-4 à R882-2)](#215)
-      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*812-4 à R*813-4)](#216)
-        - [Chapitre II : Fonctionnement (art. R*812-4 à R*812-5)](#217)
-        - [Chapitre III : Etats et statistiques (art. R*813-2 à R*813-4)](#218)
-      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R821-4)](#219)
-        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-4)](#220)
-      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#221)
-      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#222)
-      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-1 à R882-2)](#223)
-        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-1 à R882-2)](#224)
-    - [Livre IX : Dispositions particulières (art. R*911-1 à R*921-10)](#225)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#226)
-        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#227)
-          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#228)
-          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#229)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-2)](#230)
-        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#231)
-      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-3 à R*913-7)](#232)
-        - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#233)
-          - [Section I : Dispositions générales (art. R*911-3)](#234)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#235)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#236)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#237)
-          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#238)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#239)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#240)
-          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#241)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#242)
-        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#243)
-        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#244)
-        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#245)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#246)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#247)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#248)
-    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#249)
-  - [Annexes (art. Annexe Tableau II)](#250)
+      - [Titre III : Les juridictions pénales spécialisées (art. R632-1 à R633-1)](#204)
+        - [Chapitre II : Les juridictions des forces armées (art. R632-1 à R632-3)](#205)
+          - [Section I : Des tribunaux territoriaux des forces armées (art. R632-1)](#206)
+          - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#207)
+          - [Section III : Des tribunaux prévôtaux (art. R632-3)](#208)
+        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#209)
+    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*711-1 à R*7-11-1-1)](#210)
+      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#211)
+      - [Titre II : Incompatibilités (art. R*721-1 à R*721-3)](#212)
+      - [Titre III : Récusation et renvoi (art. R731-1)](#213)
+      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#214)
+      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#215)
+      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#216)
+      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#217)
+      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#218)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*812-4 à R882-2)](#219)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*812-4 à R*813-4)](#220)
+        - [Chapitre II : Fonctionnement (art. R*812-4 à R*812-5)](#221)
+        - [Chapitre III : Etats et statistiques (art. R*813-2 à R*813-4)](#222)
+      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R821-4)](#223)
+        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-4)](#224)
+      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#225)
+      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#226)
+      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#227)
+        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#228)
+    - [Livre IX : Dispositions particulières (art. R*911-1 à R*921-10)](#229)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#230)
+        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#231)
+          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#232)
+          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#233)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-2)](#234)
+        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#235)
+      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-3 à R*913-7)](#236)
+        - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#237)
+          - [Section I : Dispositions générales (art. R*911-3)](#238)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#239)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#240)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#241)
+          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#242)
+          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#243)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#244)
+          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#245)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#246)
+        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#247)
+        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#248)
+        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#249)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#250)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#251)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#252)
+    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#253)
+  - [Annexes (art. Annexe Tableau II)](#254)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -9584,7 +9588,99 @@ _Nouveaux textes_:
 
 ### Titre III : Les juridictions pénales spécialisées<a id=204></a>
 
-#### Chapitre III : Le tribunal maritime commercial<a id=205></a>
+#### Chapitre II : Les juridictions des forces armées<a id=205></a>
+
+##### Section I : Des tribunaux territoriaux des forces armées<a id=206></a>
+
+###### Article R632-1
+
+Les règles relatives à l'établissement en temps de guerre des tribunaux territoriaux des forces armées sont fixées par un
+décret pris en application des articles 25 et 26 du Code de justice militaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°65-1156 1965-12-23 art. 1 à art. 3
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°82-1146 1982-12-29 art. 2 JORF 30 décembre 1982
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de justice militaire - art. 25
+  - Code de justice militaire - art. 26
+
+
+##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées<a id=207></a>
+
+###### Article R632-2
+
+Les règles relatives à l'établissement en temps de paix des tribunaux aux armées sont fixées par un décret pris en
+application de l'article 4 du Code de justice militaire.
+
+Les règles relatives à l'établissement en temps de guerre des tribunaux militaires aux armées sont fixées par un décret pris
+en en application de l'article 50 du Code de justice militaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°56-1219 du 26 novembre 1956 - art. 1 (V)
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°82-1146 1982-12-29 art. 2 JORF 30 décembre 1982
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de justice militaire - art. 4
+  - Code de justice militaire - art. 50
+
+
+##### Section III : Des tribunaux prévôtaux<a id=208></a>
+
+###### Article R632-3
+
+Les tribunaux prévôtaux sont établis par décision du ministre chargé de la défense.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°74-163 du 27 février 1974 - art. 1, v. init.
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°82-1146 1982-12-29 art. 2 JORF 30 décembre 1982
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+#### Chapitre III : Le tribunal maritime commercial<a id=209></a>
 
 ###### Article R633-1
 
@@ -9611,9 +9707,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre VII : Dispositions communes à plusieurs juridictions<a id=206></a>
+## Livre VII : Dispositions communes à plusieurs juridictions<a id=210></a>
 
-### Titre Ier : L'année judiciaire<a id=207></a>
+### Titre Ier : L'année judiciaire<a id=211></a>
 
 ###### Article R*711-1
 
@@ -9676,7 +9772,7 @@ _Cité par_:
   - Code du travail - art. R1423-13 (VD)
 
 
-### Titre II : Incompatibilités<a id=208></a>
+### Titre II : Incompatibilités<a id=212></a>
 
 ###### Article R*721-1
 
@@ -9766,7 +9862,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
 
 
-### Titre III : Récusation et renvoi<a id=209></a>
+### Titre III : Récusation et renvoi<a id=213></a>
 
 ###### Article R731-1
 
@@ -9789,7 +9885,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 342 à 366
 
 
-### Titre IV : Rangs, costumes et insignes<a id=210></a>
+### Titre IV : Rangs, costumes et insignes<a id=214></a>
 
 ###### Article R*741-1
 
@@ -9946,7 +10042,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-### Titre V : Dispositions générales relatives au ministère public<a id=211></a>
+### Titre V : Dispositions générales relatives au ministère public<a id=215></a>
 
 ###### Article R*751-1
 
@@ -9972,7 +10068,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-1 (V)
 
 
-### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=212></a>
+### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=216></a>
 
 ###### Article R*771-1
 
@@ -10016,7 +10112,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre IX : Participation aux commissions non juridictionnelles<a id=213></a>
+### Titre IX : Participation aux commissions non juridictionnelles<a id=217></a>
 
 ###### Article R*791-1
 
@@ -10039,7 +10135,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
 
 
-### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=214></a>
+### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=218></a>
 
 ###### Article R*7-11-1-1
 
@@ -10065,11 +10161,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=215></a>
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=219></a>
 
-### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=216></a>
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=220></a>
 
-#### Chapitre II : Fonctionnement<a id=217></a>
+#### Chapitre II : Fonctionnement<a id=221></a>
 
 ###### Article R*812-4
 
@@ -10109,7 +10205,7 @@ _Abrogé par_:
   - Décret n°83-847 1983-09-23 art. 6 JORF 25 septembre 1983
 
 
-#### Chapitre III : Etats et statistiques<a id=218></a>
+#### Chapitre III : Etats et statistiques<a id=222></a>
 
 ###### Article R*813-2
 
@@ -10157,9 +10253,9 @@ _Anciens textes_:
   - Ordonnance 1826-04-15 art. 79
 
 
-### Titre II : Le greffe du tribunal de commerce<a id=219></a>
+### Titre II : Le greffe du tribunal de commerce<a id=223></a>
 
-#### Chapitre I : Dispositions générales.<a id=220></a>
+#### Chapitre I : Dispositions générales.<a id=224></a>
 
 ###### Article R821-1
 
@@ -10244,7 +10340,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R742-29 (M)
 
 
-### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=221></a>
+### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=225></a>
 
 ###### Article R841-1
 
@@ -10283,7 +10379,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-11 (M)
 
 
-### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=222></a>
+### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=226></a>
 
 ###### Article R861-1
 
@@ -10311,28 +10407,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=223></a>
+### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=227></a>
 
-#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=224></a>
-
-###### Article R882-1
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°67-1048 1967-11-30
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Abrogé par_:
-
-  - Décret n°82-1146 1982-12-29 art. 2 I JORF 30 décembre 1982
-
+#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=228></a>
 
 ###### Article R882-2
 
@@ -10359,13 +10436,13 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre IX : Dispositions particulières<a id=225></a>
+## Livre IX : Dispositions particulières<a id=229></a>
 
-### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=226></a>
+### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=230></a>
 
-#### Chapitre Ier : Le tribunal d'instance<a id=227></a>
+#### Chapitre Ier : Le tribunal d'instance<a id=231></a>
 
-##### Section I : Dispositions générales<a id=228></a>
+##### Section I : Dispositions générales<a id=232></a>
 
 ###### Article R*911-1
 
@@ -10445,7 +10522,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 33
 
 
-##### Section II : Dispositions particulières au service du livre foncier<a id=229></a>
+##### Section II : Dispositions particulières au service du livre foncier<a id=233></a>
 
 ###### Article R*911-13
 
@@ -10670,7 +10747,7 @@ _Anciens textes_:
   - Décret n°1937-04-15 art. 1 et art. 2
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=230></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=234></a>
 
 ###### Article R*913-1
 
@@ -10725,7 +10802,7 @@ _Anciens textes_:
   - Ordonnance 1879-06-13 art. 9 Loi locale art. 112 et s.
 
 
-#### Chapitre V : Les secrétariats-greffes<a id=231></a>
+#### Chapitre V : Les secrétariats-greffes<a id=235></a>
 
 ###### Article R*915-1
 
@@ -10858,11 +10935,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. art. 35 al. 3
 
 
-### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=232></a>
+### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=236></a>
 
-#### Chapitre I : Le tribunal d'instance<a id=233></a>
+#### Chapitre I : Le tribunal d'instance<a id=237></a>
 
-##### Section I : Dispositions générales<a id=234></a>
+##### Section I : Dispositions générales<a id=238></a>
 
 ###### Article R*911-3
 
@@ -10897,7 +10974,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile Annexe art. 34
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=235></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=239></a>
 
 ###### Article R*913-4
 
@@ -10972,11 +11049,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 28 al. 3
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=236></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=240></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=237></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=241></a>
 
-##### Section I : La cour d'appel<a id=238></a>
+##### Section I : La cour d'appel<a id=242></a>
 
 ###### Article R*921-1
 
@@ -11040,7 +11117,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=239></a>
+##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=243></a>
 
 ###### Article R*921-4
 
@@ -11091,7 +11168,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal mixte de commerce<a id=240></a>
+##### Section III : Le tribunal mixte de commerce<a id=244></a>
 
 ###### Article R*921-7
 
@@ -11159,7 +11236,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-##### Section V : Les secrétariats-greffes et secrétariats<a id=241></a>
+##### Section V : Les secrétariats-greffes et secrétariats<a id=245></a>
 
 ###### Article R*921-12
 
@@ -11248,7 +11325,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-6 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=242></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=246></a>
 
 ###### Article R*922-1
 
@@ -11320,7 +11397,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=243></a>
+#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=247></a>
 
 ###### Article R*922-2
 
@@ -11338,7 +11415,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-#### Chapitre III : Dispositions particulières au département de la Réunion<a id=244></a>
+#### Chapitre III : Dispositions particulières au département de la Réunion<a id=248></a>
 
 ###### Article R*923-1
 
@@ -11388,7 +11465,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=245></a>
+#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=249></a>
 
 ###### Article R*924-1
 
@@ -11413,11 +11490,11 @@ _Cite_:
   - Code de l'organisation judiciaire R522-4
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=246></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=250></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=247></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=251></a>
 
-##### Section III : Le tribunal mixte de commerce<a id=248></a>
+##### Section III : Le tribunal mixte de commerce<a id=252></a>
 
 ###### Article R*921-6
 
@@ -11492,7 +11569,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-5 (V)
 
 
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=249></a>
+## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=253></a>
 
 ###### Article R*913-3
 
@@ -11516,7 +11593,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 26
 
 
-# Annexes<a id=250></a>
+# Annexes<a id=254></a>
 
 ###### Article Annexe Tableau II
 
