@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1991-05-18
+Version Consolidée au 1991-06-25
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -290,7 +290,7 @@ Version Consolidée au 1991-05-18
           - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#287)
           - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#288)
           - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#289)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#290)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#290)
         - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#291)
         - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1 à R924-3)](#292)
       - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-9)](#293)
@@ -20508,36 +20508,6 @@ _Nouveaux textes_:
 
 
 #### Chapitre II : Dispositions particulières au département de la Guyane<a id=290></a>
-
-###### Article R*922-1
-
-En toutes matières, la cour d'appel de Fort-de-France [*compétence*] tient audience à Cayenne pour connaître des décisions
-rendues par les juridictions de première instance du département de la Guyane.
-
-Le premier président fixe, par ordonnance prise sur avis conforme du procureur général, la date des audiences selon les
-besoins du service.
-
-Un conseiller de la cour d'appel de Fort-de-France réside à Cayenne. Il est nommé, pour une durée de deux ans renouvelable
-dans la forme exigée pour la nomination des magistrats du siège.
-
-Le magistrat de la Cour d'appel de Fort-de-France résidant à Cayenne assure la mise en état des procédures et exerce, dans
-les cas et conditions prévus par le nouveau Code de procédure civile et le présent code, les attributions qui lui sont
-déléguées par le premier président, à l'exception de celles relevant de la formation collégiale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-209 1966-04-08 art. 8
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Abrogé par_:
-
-  - Décret n°91-584 du 19 juin 1991 - art. 1 (V) JORF 25 juin 1991
-
 
 ###### Article R*922-3
 
