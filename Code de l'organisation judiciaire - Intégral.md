@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-07-25
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -262,7 +262,7 @@ Version Consolidée au 1990-01-25
         - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#259)
         - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#260)
       - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R822-19)](#261)
-        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-11)](#262)
+        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-12)](#262)
         - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce (art. R822-1 à R822-19)](#263)
           - [Section I : Procédure devant le tribunal de grande instance statuant disciplinairement. (art. R822-1 à R822-6)](#264)
           - [Section II : L'exécution des peines disciplinaires ; l'administration provisoire. (art. R822-7 à R822-12)](#265)
@@ -18851,6 +18851,32 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code de commerce. - art. R741-8 (V)
+
+
+###### Article R821-12
+
+En cas de suppression d'une juridiction commerciale, les minutes, registres, actes, pièces et documents déposés au greffe de
+la juridiction supprimée sont transférés au greffe de la ou des juridictions commerciales désormais compétentes.
+
+Les frais de transfert sont pris en charge par l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°90-651 du 18 juillet 1990 - art. 1 () JORF 25 juillet 1990
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R741-9 (V)
 
 
 #### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce<a id=263></a>
