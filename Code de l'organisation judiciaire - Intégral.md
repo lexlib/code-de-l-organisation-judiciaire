@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-08-01
+Version Consolidée au 1992-08-05
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -162,7 +162,7 @@ Version Consolidée au 1992-08-01
           - [Section II : Organisation (art. R*311-7 à R311-11)](#159)
           - [Section III : Fonctionnement (art. R*311-14 à R*311-38)](#160)
             - [Sous-section I : Dispositions relatives au service des chambres du tribunal (art. R*311-14 à R311-21)](#161)
-            - [Sous-section II : Dispositions relatives au juge unique et au juge de la mise en état (art. R311-29)](#162)
+            - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution. (art. R311-29-1 à R311-29-3)](#162)
             - [Sous-section III : Dispositions relatives aux assemblées générales (art. R311-30)](#163)
             - [Sous-section IV : Le ministère public (art. R*311-34 à R*311-37)](#164)
             - [Sous-section V : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des tribunaux d'instance de leur ressort (art. R*311-38)](#165)
@@ -246,7 +246,7 @@ Version Consolidée au 1992-08-01
       - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#243)
     - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#244)
       - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#245)
-        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-5)](#246)
+        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-6)](#246)
         - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#247)
         - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#248)
         - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#249)
@@ -9871,9 +9871,9 @@ _Anciens textes_:
   - Décret n°1808-03-30 art. 48
 
 
-##### Sous-section II : Dispositions relatives au juge unique et au juge de la mise en état<a id=162></a>
+##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution.<a id=162></a>
 
-###### Article R311-29
+###### Article R311-29-1
 
 Comme il est dit à l'article 817 du nouveau code de procédure civile, "la désignation des juges de la mise en état et celle
 des magistrats appelés à statuer comme juge unique sont faites selon les modalités fixées pour la répartition des juges entre
@@ -9887,18 +9887,70 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-1 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29 (T)
 
 _Cite_:
 
   - Nouveau code de procédure civile 817
+
+
+###### Article R311-29-2
+
+Lorsque le président du tribunal de grande instance délègue les fonctions de juge de l'exécution à un ou plusieurs juges du
+tribunal, la délégation est effectuée selon les modalités prévues aux articles R. 311-23 et R. 311-24.
+
+L'ordonnance prise en application de l'alinéa qui précède est adressée au bâtonnier de l'ordre des avocats et au président de
+la chambre départementale des huissiers. Elle est affichée au greffe des juridictions comprises dans le ressort du tribunal
+de grande instance ainsi que dans les mairies des communes comprises dans le même ressort.
+
+En cas de modification de l'étendue territoriale de la délégation par le président du tribunal de grande instance, le dossier
+est transmis au secrétariat-greffe de la nouvelle juridiction. Les actes et formalités liés au déroulement des mesures
+d'exécution et des mesures conservatoires déjà engagées continuent à être effectués au secrétariat-greffe de la juridiction
+initialement désignée qui en assure la transmission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+
+_Cité par_:
+
+  - Décret n°92-755 du 31 juillet 1992 - art. 301 (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R311-23, R311-24
+
+
+###### Article R311-29-3
+
+En cas de renvoi devant la formation collégiale du tribunal de grande instance en application de l'article L. 311-12-2,
+l'affaire est inscrite à la première audience utile de cette formation. Celle-ci comprend le juge qui a ordonné le renvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-19 (Ab)
 
 
 ##### Sous-section III : Dispositions relatives aux assemblées générales<a id=163></a>
@@ -17859,6 +17911,30 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article R*811-6
+
+Le greffe du juge de l'exécution est le secrétariat-greffe du tribunal de grande instance.
+
+Toutefois, lorsque le juge chargé de l'instance a été désigné pour exercer les fonctions de juge de l'exécution, le
+secrétariat-greffe compétent est celui du tribunal d'instance.
+
+En cas de renvoi à la formation collégiale, le dossier est transmis dans les huit jours de l'ordonnance de renvoi au
+secrétariat-greffe du tribunal de grande instance. Celui-ci pourvoit exclusivement aux nécessités du déroulement de
+l'audience et à la mise en forme du jugement. Dans les cinq jours du prononcé du jugement par la formation collégiale, le
+dossier et la minute sont retransmis au secrétariat-greffe du juge de l'exécution qui en assure la conservation et procède
+aux notifications utiles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
 
 
 #### Chapitre II : Fonctionnement<a id=247></a>
