@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-10-01
+Version Consolidée au 1983-12-18
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -242,7 +242,7 @@ Version Consolidée au 1983-10-01
         - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#239)
           - [Section I : Dispositions générales (art. R*911-3)](#240)
         - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#241)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#242)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R924-3)](#242)
         - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#243)
           - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#244)
           - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#245)
@@ -251,7 +251,7 @@ Version Consolidée au 1983-10-01
         - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#248)
         - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#249)
         - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#250)
-        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#251)
+        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1 à R924-3)](#251)
       - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#252)
         - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#253)
           - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#254)
@@ -12343,6 +12343,55 @@ _Abrogé par_:
 _Cite_:
 
   - Code de l'organisation judiciaire R522-4
+
+
+###### Article R924-2
+
+Le tribunal de première instance connaît de toutes les affaires autres que pénales dont la compétence n'est pas attribuée
+expressément à une autre juridiction, et notamment de toutes les affaires dont la connaissance est attribuée aux tribunaux de
+grande instance, aux tribunaux d'instance et aux tribunaux de commerce par les règles relatives à l'organisation judiciaire
+et par des dispositions particulières.
+
+Il connaît également de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une autre
+juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+
+###### Article R924-3
+
+Le tribunal de première instance statue à charge d'appel lorsque le montant de la demande excède le taux de la compétence en
+dernier ressort des tribunaux d'instance prévu à l'article R321-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R321-2
 
 
 ### Titre II : Dispositions particulières aux départements d'outre-mer<a id=252></a>
