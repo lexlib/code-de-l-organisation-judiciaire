@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1980-01-06
+Version Consolidée au 1980-05-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -9812,6 +9812,36 @@ _Anciens textes_:
 _Nouveaux textes_:
 
   - Code de commerce. - art. R741-1 (V)
+
+
+###### Article R821-2
+
+Le greffier dirige, sous l'autorité du président du tribunal et sous la surveillance du ministère public, l'ensemble des
+services du greffe. Il est dépositaire des minutes et archives dont il assure la conservation. Il délivre les expéditions et
+copies et a la garde des scellés et de toutes sommes déposées au greffe.
+
+Il dresse les actes de greffe et procède aux formalités pour lesquelles compétence lui est attribuée.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°70-708 du 31 juillet 1970 - art. 10-1 (Ab)
+  - Arrêté du 26 février 2016 - art. 4 (V)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
+  - Décret n°2016-230 du 26 février 2016 - art. 10 (V)
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R741-2 (V)
+
+_Modifié par_:
+
+  - Décret n°80-307 1980-04-20 art. 21 JORF 3 mai 1980
 
 
 ###### Article R821-3
