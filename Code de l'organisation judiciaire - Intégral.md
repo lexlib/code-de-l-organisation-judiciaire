@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-06-01
+Version Consolidée au 1979-11-09
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -5150,6 +5150,28 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
+###### Article R*131-3
+
+Les deux conseillers de chaque chambre siégeant à l'assemblée plénière sont désignés par ordonnance du premier président sur
+proposition du président de chambre.
+
+L'un d'eux est désigné chaque année dans la première quinzaine du mois de décembre pour l'année judiciaire suivante.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1208 1967-12-22 art. 5
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 13 JORF 9 novembre 1979
+
+
 ###### Article R*131-4
 
 Chaque année, dans la première quinzaine du mois de décembre, le premier président, par ordonnance prise sur proposition de
@@ -5204,6 +5226,34 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'organisation judiciaire R131-2, R131-3 et R131-4
+
+
+###### Article R*131-6
+
+Le conseiller appelé à compléter une chambre mixte dans le cas prévu au dernier alinéa de l'article R131-4 et le conseiller
+appelé à remplacer un membre empêché d'une chambre mixte ou de l'assemblée plénière dans le cas prévu au troisième alinéa de
+l'article L131-6 sont désignés par ordonnance prise par le premier président ou, à défaut de celui-ci, par le président de
+chambre qui le remplace.
+
+Les conseillers doivent appartenir à la même chambre que les magistrats qu'ils remplacent.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1208 1967-12-22 art. 8
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 13 JORF 9 novembre 1979
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L131-6 al. 3, R131-4 al. 3
 
 
 ###### Article R*131-7
