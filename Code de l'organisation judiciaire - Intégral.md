@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-10-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -17885,9 +17885,10 @@ _Nouveaux textes_:
 
 ###### Article R*814-4
 
-Par dérogation à l'article 9 du décret n° 64-486 du 28 mai 1964, les régisseurs paient l'ensemble des frais de justice
-criminelle, correctionnelle et de police visés à l'article R92 du Code de procédure pénale, ainsi que les frais qui leur sont
-assimilés par l'article R93 du même code.
+Par dérogation à l'article 9 du décret n° 64-486 du 28 mai 1964, les régisseurs sont habilités à payer les frais de justice
+criminelle, correctionnelle et de police mentionnés à l'article R92 d Code de procédure pénale ainsi que les frais mentionnés
+à R93 du même code, à l'exclusion de ceux dont la liste est fixée par arrêté conjoint du garde des sceaux, ministre de la
+justice, et du ministre chargé du budget.
 
 Les dispositions de l'article 10 du décret n° 64-486 du 28 mai 1964 concernant le blocage des crédits ne sont pas applicables
 aux avances consenties à ces régisseurs.
@@ -17896,8 +17897,9 @@ aux avances consenties à ces régisseurs.
 
 _Cite_:
 
-  - Décret n°64-486 1964-05-28 art. 9 et art. 10
-  - Code de procédure pénale R92 et R93
+  - Décret n°64-486 1964-05-28 art. 9, art. 10
+  - CODE DE PROCEDURE PENALE - art. R92 (M)
+  - CODE DE PROCEDURE PENALE - art. R93 (M)
 
 _Anciens textes_:
 
@@ -17909,7 +17911,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+  - Décret n°88-600 du 6 mai 1988 - art. 19 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
 
 
 ###### Article R*814-5
