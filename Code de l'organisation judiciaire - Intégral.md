@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1995-05-09
+Version Consolidée au 1995-07-08
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -22202,6 +22202,20 @@ _Cite_:
 
 Le greffier assiste les membres du tribunal de commerce à l'audience et dans tous les cas prévus par la loi.
 
+Il assiste le président du tribunal de commerce dans l'ensemble des tâches administratives qui lui sont propres. Il assure
+son secrétariat.
+
+Il l'assiste dans l'établissement et l'application du règlement intérieur de la juridiction, dans l'organisation des rôles
+d'audiences et la répartition des juges, dans la préparation du budget et la gestion des crédits alloués à la juridiction. Il
+procède au classement des archives du président.
+
+Dans les tribunaux de commerce dont la liste est fixée par arrêté du garde des sceaux, ministre de la justice, le greffier,
+en accord avec le président, affecte en permanence aux tâches prévues aux deuxième et troisième alinéas du présent article,
+un ou plusieurs agents du greffe. Leur nombre, dans chaque juridiction, est fixé par le même arrêté.
+
+Le ou les agents du greffe ainsi désignés sont placés sous la seule autorité fonctionnelle du président ; ils sont soumis aux
+règles applicables au personnel des greffes.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -22210,7 +22224,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
+  - Décret n°95-832 du 5 juillet 1995 - art. 1 () JORF 8 juillet 1995
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Anciens textes_:
 
@@ -22223,11 +22241,22 @@ _Nouveaux textes_:
 
 ###### Article R821-2
 
-Le greffier dirige [*attributions*], sous l'autorité du président du tribunal et sous la surveillance du ministère public,
-l'ensemble des services du greffe. Il est dépositaire des minutes et archives dont il assure la conservation. Il délivre les
-expéditions et copies et a la garde des scellés et de toutes sommes déposées au greffe.
+Le greffier dirige, sous l'autorité du président du tribunal et sous la surveillance du ministère public, l'ensemble des
+services du greffe.
+
+Il assure la tenue des différents registres prévus par les textes en vigueur et tient à jour les dossiers du tribunal. Il met
+en forme les décisions prises et motivées par les juges.
+
+Il est dépositaire des minutes et archives dont il assure la conservation. Il délivre les expéditions et copies et a la garde
+des scellés et de toutes sommes déposées au greffe.
 
 Il dresse les actes de greffe et procède aux formalités pour lesquelles compétence lui est attribuée.
+
+Il prépare les réunions du tribunal, dont il rédige et archive les procès-verbaux.
+
+Il tient à jour la documentation générale du tribunal.
+
+Il assure l'accueil du public.
 
 **Liens relatifs à cet article**
 
@@ -22244,7 +22273,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
+  - Décret n°95-832 du 5 juillet 1995 - art. 2 () JORF 8 juillet 1995
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
@@ -22253,9 +22286,7 @@ _Nouveaux textes_:
 
 ###### Article R821-3
 
-Le greffier établit au début de chaque année un état de l'activité du tribunal au cours de l'année précédente.
-
-Cet état est adressé au garde des sceaux, ministre de la justice.
+Le greffier assure la tenue du répertoire général des affaires de la juridiction.
 
 **Liens relatifs à cet article**
 
@@ -22265,7 +22296,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988
+  - Décret n°95-832 du 5 juillet 1995 - art. 3 () JORF 8 juillet 1995
 
 
 ###### Article R821-4
