@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-09-01
+Version Consolidée au 1983-09-25
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -219,42 +219,43 @@ Version Consolidée au 1983-09-01
       - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#216)
       - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#217)
       - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#218)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*812-4 à R882-2)](#219)
-      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*812-4 à R*813-4)](#220)
-        - [Chapitre II : Fonctionnement (art. R*812-4 à R*812-5)](#221)
-        - [Chapitre III : Etats et statistiques (art. R*813-2 à R*813-4)](#222)
-      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R821-4)](#223)
-        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-4)](#224)
-      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#225)
-      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#226)
-      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#227)
-        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#228)
-    - [Livre IX : Dispositions particulières (art. R*911-1 à R*921-10)](#229)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#230)
-        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#231)
-          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#232)
-          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#233)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-2)](#234)
-        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#235)
-      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-3 à R*913-7)](#236)
-        - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#237)
-          - [Section I : Dispositions générales (art. R*911-3)](#238)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#239)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#240)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#241)
-          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#242)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#243)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#244)
-          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#245)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#246)
-        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#247)
-        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#248)
-        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#249)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#250)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#251)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#252)
-    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#253)
-  - [Annexes (art. Annexe Tableau II)](#254)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#219)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*813-4)](#220)
+        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-5)](#221)
+        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-18)](#222)
+        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#223)
+      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R821-4)](#224)
+        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-4)](#225)
+      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#226)
+      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#227)
+      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#228)
+        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#229)
+    - [Livre IX : Dispositions particulières (art. R*911-1 à R*921-10)](#230)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#231)
+        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#232)
+          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#233)
+          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#234)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-2)](#235)
+        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#236)
+      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-3 à R*913-7)](#237)
+        - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#238)
+          - [Section I : Dispositions générales (art. R*911-3)](#239)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#240)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#241)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#242)
+          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#243)
+          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#244)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#245)
+          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#246)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#247)
+        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#248)
+        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#249)
+        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#250)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#251)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#252)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#253)
+    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#254)
+  - [Annexes (art. Annexe Tableau II)](#255)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -10179,11 +10180,672 @@ _Nouveaux textes_:
 
 ### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=220></a>
 
-#### Chapitre II : Fonctionnement<a id=221></a>
+#### Chapitre Ier : Organisation<a id=221></a>
 
-###### Article R*812-4
+###### Article R*811-1
 
-[*article(s) abrogé(s)*].
+La Cour de cassation, chaque cour d'appel, chaque tribunal de grande instance, comportent un secrétariat-greffe.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 1 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 2 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article R*811-2
+
+Le secrétariat-greffe des juridictions mentionnées à l'article précédent comprend l'ensemble des services administratifs du
+siège et du parquet.
+
+Toutefois, certaines juridictions, dont le garde des sceaux fixe par arrêté la liste, sont dotées d'un secrétariat de parquet
+autonome.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 2 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R*811-3
+
+Les tribunaux d'instance et les tribunaux d'instance ayant compétence exclusive en matière pénale comportent chacun un
+secrétariat-greffe.
+
+A titre exceptionnel et pour des raisons d'ordre géographique, économique ou social, des annexes de secrétariat-greffe
+peuvent être créées dans le ressort du tribunal par arrêté du garde des sceaux, ministre de la justice, pris après avis des
+chefs de cour.
+
+L'organisation et les conditions de fonctionnement de ces annexes sont fixées par arrêté conjoint du garde des sceaux,
+ministre de la justice, et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 3 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D222-7 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-6 (VT)
+
+
+###### Article R*811-4
+
+Les secrétariats-greffes et leurs annexes font partie de la juridiction dont ils dépendent.
+
+Les dépenses relatives au logement et au fonctionnement des secrétariats-greffes ainsi qu'au mobilier, au matériel et à
+l'entretien sont supportées dans les conditions prévues pour les autres services de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 4 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-2 (V)
+
+
+###### Article R*811-5
+
+L'Etat verse aux communes et aux départements une subvention pour tenir compte des frais de fonctionnement des secrétariats-
+greffes incombant à ces collectivités.
+
+Les modalités d'application du présent article sont fixées par arrêté du garde des sceaux, ministre de la justice, du
+ministre de l'intérieur et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 5 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+#### Chapitre II : Fonctionnement<a id=222></a>
+
+###### Article R*812-1
+
+Les chefs de juridiction sont responsables du fonctionnement de celle-ci. A ce titre, ils exercent leur autorité et un
+contrôle hiérarchique sur le greffier en chef, dans les conditions définies au présent chapitre. Ils ne peuvent toutefois se
+substituer à lui dans l'exercice de ses fonctions.
+
+Le greffier en chef, sous réserve des attributions propres du secrétaire en chef du parquet prévues à l'article R. 812-13 du
+présent code, dirige l'ensemble des services aministratifs du secrétariat-greffe ; il est responsable de leur fonctionnement.
+Il définit et met en oeuvre les mesures d'application des directives générales qui lui sont données par les chefs de
+juridiction. Il tient ces derniers informés de ses diligences.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 6 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 3 JORF 25 septembre 1983
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R812-13
+
+
+###### Article R*812-2
+
+Le greffier en chef et, le cas échéant, le secrétaire en chef du parquet participent à la préparation du projet de budget.
+
+Sous le contrôle des chefs de juridiction, le greffier en chef :
+
+1° Gère les crédits de fonctionnement de la juridiction ;
+
+2° Est chargé de l'acquisition, de la conservation et du renouvellement du matériel et du mobilier, ainsi que de la
+documentation ;
+
+3° Fait assurer et surveille l'entretien courant des locaux.
+
+Les demandes d'attribution de mobilier, matériel technique et autres équipements spéciaux non financées sur les crédits
+propres de la juridiction sont préparées par le greffier en chef et transmises par les chefs de juridiction qui peuvent les
+assortir de leurs observations ou avis.
+
+Sous réserve des dispositions d'ordre statutaire propres à chacune des catégories de personnel intéressées, et en se
+conformant aux dispositions en vigueur, le greffier en chef assure la gestion du personnel du secrétariat-greffe et
+l'organisation générale du service de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 7 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et 4 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-4 (V)
+
+
+###### Article R*812-3
+
+Le greffier en chef est chargé de tenir les documents et les différents registres prévus par les textes en vigueur et celui
+des délibérations de la juridiction.
+
+Il est dépositaire, sous le contrôle des chefs de la juridiction, des minutes et archives dont il assure la conservation ; il
+délivre les expéditions et copies et a la garde des scellés et de toutes sommes et pièces déposées au greffe. Il tient la
+comptabilité administrative des opérations prévues au présent chapitre.
+
+L'établissement et la délivrance des reproductions de toute pièce conservée dans les services de la juridiction ne peuvent
+être assurés que par le greffier en chef.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 8 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 5 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-5 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-6 (V)
+
+
+###### Article R*812-6
+
+Selon les besoins du service, le greffier en chef peut désigner sous sa responsabilité un ou plusieurs agents du secrétariat-
+greffe pour exercer partie des fonctions qui lui sont attribuées aux articles précédents.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 9 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-7 (V)
+
+
+###### Article R*812-7
+
+Lorsque le greffier en chef est absent ou empêché, sa suppléance est assurée par le greffier en chef adjoint. S'il existe
+plusieurs greffiers en chef adjoints, le greffier en chef désigne, dans la première quinzaine du mois qui précède l'année
+judiciaire, le greffier en chef adjoint ayant vocation à le suppléer. A défaut de greffier en chef adjoint, ou en cas
+d'absence ou d'empêchement de celui-ci, le greffier en chef désigne un chef de service ou un autre agent du secrétariat-
+greffe.
+
+Lorsque l'emploi du greffier en chef est vacant, et s'il n'existe aucun ou plusieurs greffiers en chef adjoints, les chefs de
+juridiction désignent, selon les distinctions prévues à l'alinéa précédent, un fonctionnaire chargé de l'intérim.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 10 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 7 JORF 25 septembre 1983
+
+_Cité par_:
+
+  - Arrêté du 19 décembre 2005 - art. Annexe (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-8 (V)
+
+
+###### Article R*812-8
+
+Les greffiers en chef adjoints assistent le greffier en chef dans les tâches prévues aux articles R812-2 et R812-3.
+
+Ils peuvent diriger plusieurs services du secrétariat-greffe ou contrôler l'activité de tout ou partie du personnel.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 11 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-9 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R*812-9
+
+Les chefs de service de secrétariat-greffe sont placés à la tête d'un ou plusieurs services. Ils assistent le greffier en
+chef en l'absence de greffier en chef adjoint.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 12 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-10 (V)
+
+
+###### Article R*812-10
+
+Les secrétaires-greffiers sont chargés de coordonner l'exécution des diverses tâches confiées à tout ou partie du personnel
+du secrétariat-greffe.
+
+Ils peuvent être placés à la tête d'un service lorsque l'importance de celui-ci ne justifie pas que ces fonctions soient
+confiées à un fonctionnaire appartenant au corps des greffiers en chef.
+
+Dans certains tribunaux d'instance comportant un seul juge, ils peuvent également être chargés des fonctions de greffier en
+chef.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 13 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-5 (M)
+
+
+###### Article R*812-11
+
+A la Cour de cassation, à la cour d'appel, au tribunal de grande instance et au tribunal d'instance, le greffier en chef
+assiste aux audiences solennelles, aux audiences des chambres lorsque le service de la juridiction l'exige, ainsi qu'aux
+assemblées générales. 
+
+Le greffier en chef, les greffiers en chef adjoints, les greffiers de chambre de la Cour de cassation, les chefs de services
+de secrétariat-greffe et les fonctionnaires du corps des greffiers assistent les magistrats à l'audience et dans tous les cas
+prévus par la loi. 
+
+Ils dressent les actes de greffe, notes et procès-verbaux prévus par les codes ; ils procèdent aux formalités pour lesquelles
+compétence leur est attribuée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 14 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 8 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
+
+
+###### Article R*812-12
+
+Des personnels appartenant aux catégories C et D de la fonction publique, et, le cas échéant, des auxiliaires et des
+vacataires concourent au fonctionnement des différents services des secrétariats-greffes.
+
+Ces personnels peuvent, à titre exceptionnel et temporaire, et après avoir prêté le serment prévu à l'article 32 du décret n°
+67-472 du 20 juin 1967, être chargés des fonctions énumérées à l'article R812-11 et d'une partie des fonctions énumérées à
+l'article R812-3. Au-delà d'un délai de quatre mois, ils sont, sur leur demande, déchargés de ces fonctions.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°67-472 du 20 juin 1967
+  - Code de l'organisation judiciaire
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 15 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 9 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-14 (M)
+
+
+###### Article R*812-13
+
+Dans les juridictions dotées d'un secrétariat de parquet autonome, le secrétaire en chef assure, sous l'autorité et le
+contrôle hiérarchique du chef de parquet et dans les conditions par ailleurs prévues au présent chapitre pour l'exercice des
+attributions du greffier en chef, la direction d'ensemble des services administratifs du parquet ; il a la responsabilité de
+leur fonctionnement.
+
+Lorsque le secrétaire en chef est absent ou empêché, il est suppléé par le secrétaire en chef adjoint. S'il existe plusieurs
+secrétaires en chef adjoints, le secrétaire en chef désigne, dans la première quinzaine du mois qui précède l'année
+judiciaire, le secrétaire en chef adjoint ayant vocation à le suppléer. A défaut de secrétaire en chef adjoint ou en cas
+d'absence ou d'empêchement de celui-ci, le secrétaire en chef désigne le chef de service ou l'agent de secrétariat de parquet
+ayant vocation à le suppléer.
+
+Lorsque l'emploi de secrétaire en chef est vacant, et s'il n'existe pas de secrétaire en chef adjoint, le chef de parquet
+désigne, selon les distinctions de l'alinéa précédent, un fonctionnaire chargé de l'intérim.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 17 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 10 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
+
+
+###### Article R*812-14
+
+Les secrétaires-greffiers affectés à un secrétariat de parquet autonome en assurent le fonctionnement sous la direction du
+secrétaire en chef et, le cas échéant, des secrétaires en chef adjoints, chefs de service de secrétariat-greffe et
+secrétaires-greffiers divisionnaires et avec le concours de personnels appartenant aux catégories C et D de la fonction
+publique et, éventuellement, d'auxiliaires et de vacataires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 17 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
+
+
+###### Article R*812-16
+
+L'affectation à l'intérieur des divers services du siège ou du parquet est fixée par le greffier en chef, sous le contrôle
+des chefs de la juridiction. Toutefois, dans les juridictions dotées d'un secrétariat de parquet autonome, l'affectation à
+l'intérieur des divers services du parquet est fixée par le secrétaire en chef, sous le contrôle du chef du parquet.
+
+Lorsque le greffier en chef envisage de modifier l'affectation d'un agent exerçant ses fonctions auprès d'un magistrat
+spécialisé, il doit au préalable recueillir l'avis de ce magistrat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 1967-11-30 art. 18 al. 2
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 et art. 12 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-16 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
+
+
+###### Article R*812-17
+
+Selon les besoins du service, les agents des secrétariats-greffes peuvent être délégués dans les services administratifs
+d'une autre juridiction du ressort de la même cour d'appel.
+
+Cette délégation est prononcée par décision des chefs de cour.
+
+Elle ne peut excéder une durée de deux mois. Toutefois, le garde des sceaux, ministre de la justice, peut la renouveler dans
+la limite d'une durée totale de huit mois.
+
+Les agents délégués dans une autre juridiction perçoivent les indemnités dans les mêmes conditions que celles qui sont
+prévues pour les fonctionnaires de leur catégorie par le décret n° 66-619 du 10 août 1966.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°66-619 1966-08-10
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 19 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+
+###### Article R*812-18
+
+Le garde des sceaux, ministre de la justice, désigne, dans chaque cour d'appel, sur proposition du premier président et du
+procureur général, un ou plusieurs magistrats de la cour chargés de contrôler l'organisation et le fonctionnement des
+secrétariats-greffes du ressort.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-1044 du 30 novembre 1967 - art. 21 ()
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-847 1983-09-23 art. 1 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+#### Chapitre III : Etats et statistiques<a id=223></a>
+
+###### Article R*813-1
+
+Le greffier en chef de la cour d'appel, du tribunal de grande instance ou du tribunal d'instance établit et certifie, aux
+dates prévues par les règlements et instructions en vigueur, un état de l'activité de la juridiction au cours de la période
+écoulée, conformément aux modèles fixés par arrêté du garde des sceaux, ministre de la justice.
 
 **Liens relatifs à cet article**
 
@@ -10191,35 +10853,20 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°83-847 1983-09-23 art. 6 JORF 25 septembre 1983
-
-_Anciens textes_:
-
-  - Ordonnance 1826-01-15 art. 77 Décret 1808-03-30 art. 91 Décret 1810-07-06 art. 56
-
-
-###### Article R*812-5
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 6
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
+  - Décret n°83-848 1983-09-23 art. 1 JORF 25 septembre 1983
 
 _Abrogé par_:
 
-  - Décret n°83-847 1983-09-23 art. 6 JORF 25 septembre 1983
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
+_Nouveaux textes_:
 
-#### Chapitre III : Etats et statistiques<a id=222></a>
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-16 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-9 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-19 (V)
+
 
 ###### Article R*813-2
 
@@ -10239,6 +10886,36 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-16 (V)
+
+
+###### Article R*813-3
+
+Les états statistiques prévus aux articles précédents sont transmis aux dates prescrites par le ou les chefs de juridiction
+du premier degré puis par les chefs de la cour d'appel, avec leurs observations respectives, au ministère de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-848 1983-09-23 art. 2 JORF 25 septembre 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-16 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-9 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-19 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
 
 
 ###### Article R*813-4
@@ -10267,9 +10944,9 @@ _Anciens textes_:
   - Ordonnance 1826-04-15 art. 79
 
 
-### Titre II : Le greffe du tribunal de commerce<a id=223></a>
+### Titre II : Le greffe du tribunal de commerce<a id=224></a>
 
-#### Chapitre I : Dispositions générales.<a id=224></a>
+#### Chapitre I : Dispositions générales.<a id=225></a>
 
 ###### Article R821-1
 
@@ -10354,7 +11031,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R742-29 (M)
 
 
-### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=225></a>
+### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=226></a>
 
 ###### Article R841-1
 
@@ -10393,7 +11070,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-11 (M)
 
 
-### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=226></a>
+### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=227></a>
 
 ###### Article R861-1
 
@@ -10421,9 +11098,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=227></a>
+### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=228></a>
 
-#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=228></a>
+#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=229></a>
 
 ###### Article R882-2
 
@@ -10450,13 +11127,13 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre IX : Dispositions particulières<a id=229></a>
+## Livre IX : Dispositions particulières<a id=230></a>
 
-### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=230></a>
+### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=231></a>
 
-#### Chapitre Ier : Le tribunal d'instance<a id=231></a>
+#### Chapitre Ier : Le tribunal d'instance<a id=232></a>
 
-##### Section I : Dispositions générales<a id=232></a>
+##### Section I : Dispositions générales<a id=233></a>
 
 ###### Article R*911-1
 
@@ -10536,7 +11213,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 33
 
 
-##### Section II : Dispositions particulières au service du livre foncier<a id=233></a>
+##### Section II : Dispositions particulières au service du livre foncier<a id=234></a>
 
 ###### Article R*911-13
 
@@ -10761,7 +11438,7 @@ _Anciens textes_:
   - Décret n°1937-04-15 art. 1 et art. 2
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=234></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=235></a>
 
 ###### Article R*913-1
 
@@ -10816,7 +11493,7 @@ _Anciens textes_:
   - Ordonnance 1879-06-13 art. 9 Loi locale art. 112 et s.
 
 
-#### Chapitre V : Les secrétariats-greffes<a id=235></a>
+#### Chapitre V : Les secrétariats-greffes<a id=236></a>
 
 ###### Article R*915-1
 
@@ -10949,11 +11626,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. art. 35 al. 3
 
 
-### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=236></a>
+### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=237></a>
 
-#### Chapitre I : Le tribunal d'instance<a id=237></a>
+#### Chapitre I : Le tribunal d'instance<a id=238></a>
 
-##### Section I : Dispositions générales<a id=238></a>
+##### Section I : Dispositions générales<a id=239></a>
 
 ###### Article R*911-3
 
@@ -10988,7 +11665,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile Annexe art. 34
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=239></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=240></a>
 
 ###### Article R*913-4
 
@@ -11063,11 +11740,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 28 al. 3
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=240></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=241></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=241></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=242></a>
 
-##### Section I : La cour d'appel<a id=242></a>
+##### Section I : La cour d'appel<a id=243></a>
 
 ###### Article R*921-1
 
@@ -11131,7 +11808,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=243></a>
+##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=244></a>
 
 ###### Article R*921-4
 
@@ -11182,7 +11859,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal mixte de commerce<a id=244></a>
+##### Section III : Le tribunal mixte de commerce<a id=245></a>
 
 ###### Article R*921-7
 
@@ -11250,7 +11927,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-##### Section V : Les secrétariats-greffes et secrétariats<a id=245></a>
+##### Section V : Les secrétariats-greffes et secrétariats<a id=246></a>
 
 ###### Article R*921-12
 
@@ -11339,7 +12016,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-6 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=246></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=247></a>
 
 ###### Article R*922-1
 
@@ -11411,7 +12088,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=247></a>
+#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=248></a>
 
 ###### Article R*922-2
 
@@ -11429,7 +12106,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-#### Chapitre III : Dispositions particulières au département de la Réunion<a id=248></a>
+#### Chapitre III : Dispositions particulières au département de la Réunion<a id=249></a>
 
 ###### Article R*923-1
 
@@ -11479,7 +12156,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=249></a>
+#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=250></a>
 
 ###### Article R*924-1
 
@@ -11504,11 +12181,11 @@ _Cite_:
   - Code de l'organisation judiciaire R522-4
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=250></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=251></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=251></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=252></a>
 
-##### Section III : Le tribunal mixte de commerce<a id=252></a>
+##### Section III : Le tribunal mixte de commerce<a id=253></a>
 
 ###### Article R*921-6
 
@@ -11583,7 +12260,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-5 (V)
 
 
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=253></a>
+## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=254></a>
 
 ###### Article R*913-3
 
@@ -11607,7 +12284,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 26
 
 
-# Annexes<a id=254></a>
+# Annexes<a id=255></a>
 
 ###### Article Annexe Tableau II
 
