@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2003-05-10
+Version Consolidée au 2003-07-05
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -257,10 +257,10 @@ Version Consolidée au 2003-05-10
       - [Titre IV : Le tribunal paritaire des baux ruraux (art. R442-1)](#254)
         - [Chapitre II : Constitution des tribunaux paritaires. (art. R442-1)](#255)
       - [Titre V : Les juridictions de sécurité sociale (art. R*451-1 à R*452-2)](#256)
-        - [Chapitre Ier : La commission de première instance de sécurité sociale (art. R*451-1)](#257)
-        - [Chapitre II : Les commissions techniques de sécurité sociale (art. R*452-1 à R*452-2)](#258)
-          - [Section I : Les commissions régionales (art. R*452-1)](#259)
-          - [Section II : La commission nationale technique (art. R*452-2)](#260)
+        - [Chapitre Ier : Le tribunal des affaires de sécurité sociale (art. R*451-1 à R*451-2)](#257)
+        - [Chapitre II : Le contentieux technique (art. R*452-1 à R*452-2)](#258)
+          - [Section I : Les tribunaux du contentieux de l'incapacité (art. R*452-1 à R*452-1-1)](#259)
+          - [Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail (art. R*452-2)](#260)
       - [Titre VI : Les prud'hommes pêcheurs (art. R*461-1)](#261)
     - [Livre V : Les juridictions des mineurs (art. R*522-2 à R531-1)](#262)
       - [Titre II : Le tribunal pour enfants (art. R*522-2 à R522-1)](#263)
@@ -21776,18 +21776,14 @@ _Cite_:
 
 ### Titre V : Les juridictions de sécurité sociale<a id=256></a>
 
-#### Chapitre Ier : La commission de première instance de sécurité sociale<a id=257></a>
+#### Chapitre Ier : Le tribunal des affaires de sécurité sociale<a id=257></a>
 
 ###### Article R*451-1
 
-Les règles concernant la compétence, l'organisation et le fonctionnement de la commission de première instance de sécurité
-sociale [*contentieux*] sont fixées par les articles 7 à 13-1 du décret n° 58-1291 du 22 décembre 1958.
+Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal des affaires de sécurité sociale sont
+fixées par les articles R. 142-8 à R. 142-14 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°58-1291 1958-12-22 art. 7 à 13-1
 
 _Anciens textes_:
 
@@ -21797,21 +21793,49 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
+_Modifié par_:
 
-#### Chapitre II : Les commissions techniques de sécurité sociale<a id=258></a>
+  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
 
-##### Section I : Les commissions régionales<a id=259></a>
+_Abrogé par_:
+
+  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+_Cite_:
+
+  - Code de la sécurité sociale R142-8 à R142-14
+
+
+###### Article R*451-2
+
+Le siège et le ressort des tribunaux des affaires de sécurité sociale sont fixés conformément au tableau annexé au livre Ier
+du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+
+#### Chapitre II : Le contentieux technique<a id=258></a>
+
+##### Section I : Les tribunaux du contentieux de l'incapacité<a id=259></a>
 
 ###### Article R*452-1
 
-Les règles concernant la compétence, l'organisation et le fonctionnement des commissions régionales de sécurité sociale
-[*contentieux*] sont fixées par les  articles 29 à 32 et 50 du décret n° 58-1291 du 22 décembre 1958.
+Les règles concernant la compétence, l'organisation et le fonctionnement des tribunaux du contentieux de l'incapacité sont
+fixées par les articles R. 143-1 à R. 143-5-3 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°58-1291 1958-12-22 art. 29 à art. 32 et art. 50
 
 _Anciens textes_:
 
@@ -21821,20 +21845,48 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
+_Modifié par_:
 
-##### Section II : La commission nationale technique<a id=260></a>
+  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+_Cite_:
+
+  - Code de la sécurité sociale R143-1 à R143-5-3
+
+
+###### Article R*452-1-1
+
+Le siège et le ressort des tribunaux du contentieux de l'incapacité sont fixés conformément au tableau annexé au livre Ier du
+code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+
+##### Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail<a id=260></a>
 
 ###### Article R*452-2
 
-Les règles relatives à la compétence, à l'organisation et au fonctionnement de la commission nationale technique de sécurité
-sociale sont fixées par les articles 38 à 40 et 50 du décret n° 58-1291 du 22 décembre 1958.
+Les règles concernant la compétence, l'organisation et le fonctionnement de la Cour nationale de l'incapacité et de la
+tarification de l'assurance des accidents du travail sont fixées par les articles R. 143-15 à R. 143-20 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°58-1291 1958-12-22 art. 38 à 40, art. 50
-  - Décret n°58-1291 du 22 décembre 1958 - art. 50 (Ab)
 
 _Anciens textes_:
 
@@ -21844,6 +21896,18 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
+
+_Cite_:
+
+  - Code de la sécurité sociale R143-15 à R143-20
 
 
 ### Titre VI : Les prud'hommes pêcheurs<a id=261></a>
@@ -22793,10 +22857,18 @@ _Nouveaux textes_:
 
 Les costumes des magistrats de la Cour de cassation, de la cour d'appel, du tribunal de grande instance, du tribunal
 d'instance, des auditeurs de justice, des membres du tribunal de commerce, des greffiers en chef, greffiers et secrétaires-
-greffiers ainsi que les insignes portés par les membres des conseils de prud'hommes et des commissions de première instance
-de sécurité sociale sont définis dans l'annexe du présent code.
+greffiers ainsi que les insignes portés par les membres des conseils de prud'hommes et les assesseurs des juridictions de
+sécurité sociale sont définis dans l'annexe du présent code.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2003-614 du 3 juillet 2003 - art. 16 () JORF 5 juillet 2003
 
 **Liens**:
 
@@ -22810,10 +22882,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de l'organisation judiciaire Annexe tableau des costumes et insignes
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
 
 
 ### Titre V : Dispositions générales relatives au ministère public<a id=285></a>
@@ -28858,9 +28926,14 @@ _Cite_:
 
 ###### Article R*923-2
 
-Ainsi qu'il est dit à l'alinéa 2 de l'article R. 752-14 du code de la sécurité sociale, "les fonctions de secrétaire du
-tribunal des affaires de sécurité sociale sont assumées, dans le même département, par un fonctionnaire en activité ou
-honoraire de la direction départementale".
+Ainsi qu'il est dit à l'alinéa 2 de l'article R. 752-14 du code de la sécurité sociale, " Les attributions du directeur
+régional des affaires sanitaires et sociales sont, dans le département de la Réunion, exercées par le directeur
+départemental.
+
+Dans les départements mentionnés à l'article L. 751-1, les fonctions de secrétaire de tribunal des affaires de sécurité
+sociale et de tribunal du contentieux de l'incapacité sont assurées par un fonctionnaire des services déconcentrés exerçant,
+en matière de sécurité sociale, les missions qui, en métropole, sont dévolues aux directions régionales des affaires
+sanitaires et sociales ".
 
 **Liens relatifs à cet article**
 
@@ -28874,11 +28947,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1353 du 17 décembre 1985 - art. 3 (V) JORF 21 décembre 1985
+  - Décret n°2003-614 du 3 juillet 2003 - art. 15 () JORF 5 juillet 2003
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. R752-14 (M)
+  - Code de la sécurité sociale. - art. R752-14
 
 
 ### Titre II : Dispositions particulières aux départements d'outre-mer<a id=338></a>
@@ -32773,6 +32850,11 @@ Même costume que celui des conseillers de la cour d'appel
 
 **Magistrats de la cour d'appel et membres du parquet près ladite cour**
 
+**
+**
+
+**
+
 <pre>
 ┏━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┓
 ┃              │ ROBE                  │ SIMARRE │ ÉPITOGE    │ CEINTURE   │ TOQUE                               │ CRAVATE  ┃
@@ -32799,9 +32881,13 @@ Même costume que celui des conseillers de la cour d'appel
 </pre>
 
 
-**Magistrats du tribunal de grande instance et du tribunal d'instance
+**Magistrats du tribunal supérieur d'appel et membres du parquet près ledit tribunal**
 
-et membres du parquet près le tribunal de grande instance**
+Président du tribunal supérieur d'appel et procureur de la République près cette juridiction, même costume que celui,
+respectivement, des conseillers de la cour d'appel et des substituts généraux. Vice-présidents, juges au tribunal supérieur
+d'appel et substituts du procureur de la République près cette juridiction, même costume que celui des magistrats du tribunal
+de grande instance et du tribunal d'instance et des membres du parquet près le tribunal de grande instance. Magistrats du
+tribunal de grande instance et du tribunal d'instance et membres du parquet près le tribunal de grande instance
 
 <pre>
 ┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┓
@@ -32839,6 +32925,11 @@ et membres du parquet près le tribunal de grande instance**
 
 **Président et juges du tribunal de commerce**
 
+**
+**
+
+**
+
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓
 ┃ ROBE                                                                  │ SIMARRE   │ TOQUE                    │ CRAVATE    ┃
@@ -32850,27 +32941,32 @@ et membres du parquet près le tribunal de grande instance**
 </pre>
 
 
-**
+**Membre des tribunaux des juridictions de sécurité sociale
 
-**
+(Décret n° 2003-614 du 3 juillet 2003, art. 16)**
 
-**Membre des commissions de première instance de sécurité sociale**
+Les assesseurs des juridictions de sécurité sociale portent, soit à l'audience, soit dans les cérémonies publiques, suspendue
+à un ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en métal vert et noir. D'un module de 45 mm
+sur 65 mm, elle porte à l'avers la mention République française » et la mention du nom de la juridiction à laquelle ils
+appartiennent entourant le motif d'une balance. La médaille est suspendue à un ruban d'une largeur de 35 mm, divisé dans le
+sens vertical en deux parties égales, noire et verte.
 
-Insigne métallique, dont les caractéristiques sont fixées par le garde des sceaux, ministre de la justice, et le ministre
-chargé de la sécurité sociale.
+Les présidents de tribunal du contentieux de l'incapacité, lorsqu'ils ne sont pas magistrats, portent cette médaille
+suspendue à un ruban d'une largeur de 35 mm de couleur verte.
 
 **Membres des conseils de prud'hommes
 
-(Art. R. 514-3 du code du travail)**
+(Art. R. 512-12 du code du travail)**(Ancien art. R. 514-3 du code du travail)
 
-"Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un ruban,
-en sautoir, une médaille signe de leurs fonctions. Cette médaille est en vermeil pour le président du conseil de prud'hommes
-et, à l'audience, pour le président du bureau de jugement ; elle est en argente pour les autres conseillers. D'un module de
-65 millimètres, elle porte à l'avers une tête symbolisant la République, placée de profil, tournée à droite et entourée de la
-mention "République française".
+(Décret n° 79-1022 du 23 novembre 1979, art. 1
+  <sup>er</sup> et 11.) - Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies
+publiques, suspendue à un ruban, en sautoir, une médaille signe de leurs fonctions. Cette médaille est en bronze doré pour le
+président du conseil de prud'hommes et, à l'audience, pour le président du bureau de jugement ; elle est en bronze argenté
+pour les autres conseillers. D'un module de 65 mm, elle porte à l'avers la mention "République française" et une tête
+symbolisant la République, placée de profil, tournée à droite.
 
-Au moyen d'une attache d'une largeur de 75 millimètres portant des rameaux de laurier et d'olivier, la médaille est suspendue
-à un ruban d'une largeur de 75 millimètres, divisé dans le sens vertical en deux parties égales, rouge et bleue."
+Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la médaille est suspendue à un ruban d'une largeur
+de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue.
 
 **Greffiers en chef, greffiers et secrétaires-greffiers**
 
@@ -32902,21 +32998,17 @@ Au moyen d'une attache d'une largeur de 75 millimètres portant des rameaux de l
 ┃                                │ sermenté.           │                                                                    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
-
+****
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
 _Modifié par_:
 
-  - Décret n°93-956 1993-07-26 art. 3 JORF 28 juillet 1993
+  - Décret n°2003-614 du 3 juillet 2003 (V)
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_SOURCE: CODE DE L'ORGANISATION JUDICIAIRE. - art. R741-6 (M)
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article Annexe Tableau II
