@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1980-05-03
+Version Consolidée au 1980-07-09
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -1161,8 +1161,8 @@ _Abrogé par_:
 
 ###### Article L213-3
 
-Si les besoins du service l'exigent, il pourra être formé par règlement d'administration publique une chambre temporaire
-composée de conseillers pris dans d'autres chambres.
+Si les besoins du service l'exigent, il pourra être formé par décret en Conseil d'Etat une chambre temporaire composée de
+conseillers pris dans d'autres chambres.
 
 **Liens relatifs à cet article**
 
@@ -1174,6 +1174,10 @@ _Codifié par_:
 _Anciens textes_:
 
   - Loi n°1883-08-30 art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L213-4
