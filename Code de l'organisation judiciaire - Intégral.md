@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1994-01-07
+Version Consolidée au 1994-02-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -37,7 +37,7 @@ Version Consolidée au 1994-01-07
             - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution. (art. L311-10 à L311-13)](#34)
             - [Sous-section IV : Le ministère public. (art. L311-14 à L311-15)](#35)
         - [Chapitre II : Dispositions particulières à certaines matières (art. L312-1 à L312-6)](#36)
-          - [Section I : Dispositions particulières au divorce et à la séparation de corps. (art. L312-1)](#37)
+          - [Section I : Dispositions particulières en matière familiale. (art. L312-1)](#37)
           - [Section II : Dispositions particulières en matière de brevets d'invention et d'obtentions végétales. (art. L312-2)](#38)
           - [Section IV : Dispositions particulières aux professions juridiques et judiciaires. (art. L312-3 à L312-6)](#39)
         - [Chapitre III : Commission juridictionnelle fonctionnant auprès du tribunal de grande instance : la commission d'indemnisation de certains dommages corporels. (art. L313-1 à L313-2)](#40)
@@ -198,12 +198,12 @@ Version Consolidée au 1994-01-07
           - [Section II : Organisation (art. R*311-7 à R311-11)](#195)
           - [Section III : Fonctionnement (art. R*311-14 à R*311-38)](#196)
             - [Sous-section I : Dispositions relatives au service des chambres du tribunal (art. R*311-14 à R311-21)](#197)
-            - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution. (art. R311-29-1 à R311-29-3)](#198)
+            - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état, au juge de l'exécution et au juge aux affaires familiales. (art. R311-29-1 à R311-29-3)](#198)
             - [Sous-section III : Dispositions relatives aux assemblées générales (art. R311-30)](#199)
             - [Sous-section IV : Le ministère public (art. R*311-34 à R*311-37)](#200)
             - [Sous-section V : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des tribunaux d'instance de leur ressort (art. R*311-38)](#201)
         - [Chapitre II : Dispositions particulières à certaines matières (art. R312-1 à R*312-9)](#202)
-          - [Section I : Dispositions particulières au divorce et à la séparation de corps (art. R312-1)](#203)
+          - [Section I : Dispositions particulières en matière familiale. (art. R312-1)](#203)
           - [Section II : Dispositions particulières en matière de brevets d'inventions et d'obtentions végétales (art. R*312-2)](#204)
           - [Section III : Dispositions particulières en matière de baux commerciaux (art. R*312-3)](#205)
           - [Section IV : Dispositions particulières aux professions juridiques et judiciaires (art. R*312-4)](#206)
@@ -324,7 +324,7 @@ Version Consolidée au 1994-01-07
         - [Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#321)
           - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#322)
           - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#323)
-            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10)](#324)
+            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-1)](#324)
             - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#325)
           - [Section III : Les juridictions des mineurs. (art. R931-15)](#326)
           - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#327)
@@ -351,19 +351,18 @@ Version Consolidée au 1994-01-07
             - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#348)
             - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#349)
             - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#350)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-18)](#351)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#351)
           - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#352)
           - [Section II : Organisation. (art. R943-4 à R943-6)](#353)
-          - [Section III : Fonctionnement (art. R943-7 à R943-17)](#354)
+          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#354)
             - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#355)
             - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#356)
-          - [Section 3 : Fonctionnement (art. R943-18)](#357)
-            - [Sous-section 3 : Dispositions particulières à certaines matières. (art. R943-18)](#358)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#359)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#360)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#361)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau IV)](#362)
-    - [Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales (art. Annexe Tableau IV)](#363)
+            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#357)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#358)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#359)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#360)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau IV)](#361)
+    - [Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales (art. Annexe Tableau IV)](#362)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -2085,7 +2084,7 @@ Le renvoi à la formation collégiale peut également être décidé par le pré
 saisi, soit d'office.
 
 Toutefois, les dispositions du présent article ne sont pas applicables en matières disciplinaires ou relatives à l'état des
-personnes, sous réserve des dispositions particulières au divorce et à la séparation de corps.
+personnes, sous réserve des dispositions particulières aux matières de la compétence du juge aux affaires familiales.
 
 **Liens relatifs à cet article**
 
@@ -2100,7 +2099,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-650 du 9 juillet 1991 - art. 5 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+  - Loi n°93-22 du 8 janvier 1993 - art. 50 () JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 
 ###### Article L311-10-1
@@ -2305,14 +2304,23 @@ _Cité par_:
 
 #### Chapitre II : Dispositions particulières à certaines matières<a id=36></a>
 
-##### Section I : Dispositions particulières au divorce et à la séparation de corps.<a id=37></a>
+##### Section I : Dispositions particulières en matière familiale.<a id=37></a>
 
 ###### Article L312-1
 
-Un juge du tribunal de grande instance est délégué aux affaires matrimoniales.
+Un juge du tribunal de grande instance est délégué aux affaires familiales.
 
-Il connaît du divorce, de la séparation de corps, ainsi que de leurs conséquences dans les cas et conditions prévues par le
-Code civil, notamment par les articles 247 et suivants et l'article 298 de ce code.
+Il connaît :
+
+1° Du divorce, de la séparation de corps, ainsi que de leurs conséquences dans les cas et conditions prévus aux chapitres III
+et IV du titre VI du livre Ier du code civil.
+
+2° Des actions liées à la fixation de l'obligation alimentaire, de la contribution aux charges du mariage et de l'obligation
+d'entretien, à l'exercice de l'autorité parentale, à la modification du nom de l'enfant naturel et aux prénoms.
+
+Il peut renvoyer à la formation collégiale du tribunal de grande instance au sein de laquelle il siège et qui statue comme
+juge aux affaires familiales. Les décisions relatives à la composition de la formation de jugement sont des mesures
+d'administration judiciaire non susceptibles de recours.
 
 **Liens relatifs à cet article**
 
@@ -2321,12 +2329,11 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 50 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+
 _Anciens textes_:
-
-  - Code civil - art. 247 (M)
-  - Code civil - art. 298 (M)
-
-_Cite_:
 
   - Code civil - art. 247 (M)
   - Code civil - art. 298 (M)
@@ -2643,9 +2650,9 @@ _Anciens textes_:
 
 ###### Article L322-2
 
-Le juge des tutelles connaît [*compétence*] :
+Le juge des tutelles connaît :
 
-1° Des contestations relatives à l'autorité parentale, conformément à l'article 372-1 du Code civil ;
+1° (paragraphe abrogé) ;
 
 2° De l'émancipation conformément à l'article 477 du Code civil ;
 
@@ -2656,15 +2663,14 @@ articles 491-1, 509 et 493 du Code civil ;
 
 5° De la tutelle aux prestations sociales, dans les conditions prévues par la loi n° 66-774 du 18 octobre 1966 ;
 
-6° De la tutelle des pupilles de la nation, dans les cas et conditions prévues par les articles L473 et suivants du Code des
-pensions militaires d'invalidité et des victimes de guerre.
+6° De la tutelle des pupilles de la nation, dans les cas et conditions prévues par les articles L. 473 et suivants du Code
+des pensions militaires d'invalidité et des victimes de guerre.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°66-774 1966-10-18
-  - Code civil - art. 372-1 (T)
   - Code civil - art. 395 (AbD)
   - Code civil - art. 477 (M)
   - Code civil - art. 491-1 (AbD)
@@ -2676,6 +2682,10 @@ _Codifié par_:
 
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
+
+_Modifié par_:
+
+  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 _Cité par_:
 
@@ -12799,7 +12809,7 @@ _Anciens textes_:
   - Décret n°1808-03-30 art. 48
 
 
-##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution.<a id=198></a>
+##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état, au juge de l'exécution et au juge aux affaires familiales.<a id=198></a>
 
 ###### Article R311-29-1
 
@@ -12815,9 +12825,9 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+  - Décret n°94-42 du 14 janvier 1994 - art. 1 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 _Anciens textes_:
 
@@ -12848,13 +12858,13 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
-
-  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
-
 _Cité par_:
 
   - Décret n°92-755 du 31 juillet 1992 - art. 301 (Ab)
+
+_Modifié par_:
+
+  - Décret n°94-42 du 14 janvier 1994 - art. 1 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 _Cite_:
 
@@ -12863,8 +12873,9 @@ _Cite_:
 
 ###### Article R311-29-3
 
-En cas de renvoi devant la formation collégiale du tribunal de grande instance en application de l'article L. 311-12-2,
-l'affaire est inscrite à la première audience utile de cette formation. Celle-ci comprend le juge qui a ordonné le renvoi.
+En cas de renvoi devant la formation collégiale du tribunal de grande instance en application de l'article 247 du code civil
+et des articles L. 311-12-2 et L. 312-1, l'affaire est inscrite à la première audience utile de cette formation. Celle-ci
+comprend le juge qui a ordonné le renvoi.
 
 **Liens relatifs à cet article**
 
@@ -12872,9 +12883,15 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
+  - Décret n°94-42 du 14 janvier 1994 - art. 1 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+_Cite_:
+
+  - Code civil - art. 247 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-12-2 (M)
+  - Code de l'organisation judiciaire L311-12-2, L312-1
 
 _Cité par_:
 
@@ -13014,12 +13031,12 @@ _Codifié par_:
 
 #### Chapitre II : Dispositions particulières à certaines matières<a id=202></a>
 
-##### Section I : Dispositions particulières au divorce et à la séparation de corps<a id=203></a>
+##### Section I : Dispositions particulières en matière familiale.<a id=203></a>
 
 ###### Article R312-1
 
-Dans chaque tribunal de grande instance, le président désigne un ou plusieurs juges aux affaires matrimoniales qui
-connaissent des affaires de divorce et de séparation  de corps.
+Dans chaque tribunal de grande instance, le président désigne un ou plusieurs juges aux affaires familiales qui connaissent
+des affaires mentionnées à l'article L. 312-1.
 
 **Liens relatifs à cet article**
 
@@ -13030,6 +13047,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°94-42 du 14 janvier 1994 - art. 3 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L312-1
 
 
 ##### Section II : Dispositions particulières en matière de brevets d'inventions et d'obtentions végétales<a id=204></a>
@@ -13480,13 +13505,9 @@ _Codifié par_:
 
 ###### Article R*321-9
 
-Le tribunal d'instance connaît, à charge d'appel [*compétence*] :
+Le tribunal d'instance connaît, à charge d'appel :
 
-1° Des demandes en paiement, révision ou suppression des pensions alimentaires fondées sur les articles 203, 205, 206, 207,
-214, 334, 1448 et 1449 du Code civil, exception faite des demandes qui seraient formées pour l'entretien et l'éducation des
-enfants à la suite d'une action en divorce ou en séparation de corps, ainsi que des demandes qui seraient accessoires à une
-action en recherche de filiation. Lorsque le tribunal d'instance est appelé à statuer en vertu du présent numéro, les débats
-ont lieu en audience non publique.
+1° (Abrogé) ;
 
 2° Des actions possessoires ;
 
@@ -13530,6 +13551,12 @@ règlement des indemnités ;
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural 123, 124, 126, 127, 135, 136, 137
+  - Code civil - art. 674 (V)
+  - Loi n°1865-06-21
+
 _Anciens textes_:
 
   - Décret n°58-1284 1958-12-22 art. 7
@@ -13540,21 +13567,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 44 JORF 14 mai 1981
-
-_Cite_:
-
-  - Code civil - art. 1448 (V)
-  - Code civil - art. 1449 (M)
-  - Code civil - art. 203 (V)
-  - Code civil - art. 205 (V)
-  - Code civil - art. 206 (V)
-  - Code civil - art. 207 (V)
-  - Code civil - art. 214 (V)
-  - Code civil - art. 334 (M)
-  - Code civil - art. 674 (V)
-  - Code rural 123, 124, 126, 127, 135, 136, 137
-  - Loi n°1865-06-21
+  - Décret n°94-42 du 14 janvier 1994 - art. 5 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article R*321-10
@@ -13939,9 +13952,6 @@ _Cite_:
 
 ###### Article R*321-27
 
-Dans le cas prévu à l'article R321-9 (1°) la demande peut également être portée par l'ascendant demandeur devant le tribunal
-du lieu de son domicile.
-
 Dans le cas prévu à l'article R321-12, la demande est portée devant le tribunal du lieu du décès, ou si le décès est survenu
 à l'étranger, devant le tribunal du dernier domicile du défunt en France.
 
@@ -13955,9 +13965,13 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
+_Modifié par_:
+
+  - Décret n°94-42 du 14 janvier 1994 - art. 5 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
 _Cite_:
 
-  - Code de l'organisation judiciaire R321-9 1°, R321-12
+  - Code de l'organisation judiciaire R321-12
 
 
 ###### Article R*321-28
@@ -24514,6 +24528,27 @@ _Cite_:
   - Code de l'organisation judiciaire R311-4 à R311-6, R311-4
 
 
+###### Article R931-10-1
+
+Le président du tribunal de première instance désigne un ou plusieurs juges aux affaires familiales qui connaissent des
+affaires mentionnées à l'article L. 312-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°94-42 du 14 janvier 1994 - art. 6 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L312-1
+
+
 ##### Sous-section II : Organisation.<a id=325></a>
 
 ###### Article R931-11
@@ -26627,14 +26662,33 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-##### Section 3 : Fonctionnement<a id=357></a>
-
-##### Sous-section 3 : Dispositions particulières à certaines matières.<a id=358></a>
+##### Sous-section III : Dispositions particulières à certaines matières.<a id=357></a>
 
 ###### Article R943-18
 
-Le président du tribunal de première instance désigne un ou plusieurs juges aux affaires matrimoniales qui connaissent des
-affaires de divorce et de séparation de corps.
+Le président du tribunal de première instance désigne un ou plusieurs juges aux affaires familiales qui connaissent des
+affaires mentionnées à l'article L.312-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°94-42 du 14 janvier 1994 - art. 7 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L312-1
+
+
+###### Article R943-19
+
+L'article R. 311-29-3 est applicable dans la collectivité territoriale de Mayotte ; pour l'application de cette disposition,
+les mots "tribunal de première instance" sont substitués à ceux de "tribunal de grande instance".
 
 **Liens relatifs à cet article**
 
@@ -26645,10 +26699,14 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
+  - Décret n°94-42 du 14 janvier 1994 - art. 7 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (M)
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=359></a>
+#### Chapitre IV : Les juridictions des mineurs.<a id=358></a>
 
 ###### Article R944-1
 
@@ -26676,7 +26734,7 @@ _Cite_:
   - Code de l'organisation judiciaire R522-2, R522-10
 
 
-#### Chapitre V : La cour criminelle.<a id=360></a>
+#### Chapitre V : La cour criminelle.<a id=359></a>
 
 ###### Article R945-1
 
@@ -26694,7 +26752,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=361></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=360></a>
 
 ###### Article R946-1
 
@@ -26803,7 +26861,7 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
 
 
-# Annexes<a id=362></a>
+# Annexes<a id=361></a>
 
 ###### Article Annexe Tableau des costumes
 
@@ -27822,7 +27880,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de l'organisation judiciaire R312-9
 
 
-## Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales<a id=363></a>
+## Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales<a id=362></a>
 
 ###### Article Annexe Tableau IV
 
