@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-01-30
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -21976,9 +21976,9 @@ _Créé par_:
 
 ###### Article R*761-18
 
-L'assemblée des magistrats du siège et du parquet habilite les enquêteurs de personnalité et les contrôleurs judiciaires
-ainsi que les associations contribuant à la mise en oeuvre du travail d'intérêt général conformément aux dispositions du Code
-de procédure pénale.
+L'assemblée des magistrats du siège et du parquet habilite les enquêteurs de personnalité et les contrôleurs judiciaires, les
+associations contribuant à la mise en oeuvre du travail d'intérêt général ainsi que les médiateurs et les délégués du
+procureur de la République conformément aux dispositions du Code de procédure pénale.
 
 La commission restreinte dans les juridictions où sa constitution est obligatoire exerce les attributions mentionnées à
 l'alinéa précédent.
@@ -21989,13 +21989,22 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
-
-  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+_Modifié par_:
+
+  - Décret n°2001-71 du 29 janvier 2001 - art. 10 () JORF 30 janvier 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-43 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-50 (V)
 
 
 ###### Article R*761-19
