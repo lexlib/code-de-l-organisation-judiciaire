@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1996-08-23
+Version Consolidée au 1997-02-17
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L946-2)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -234,142 +234,143 @@ Version Consolidée au 1996-08-23
         - [Chapitre IV : Discipline des membres des tribunaux de commerce. (art. R414-1 à R414-21)](#231)
       - [Titre II : Le conseil de prud'hommes (art. R421-1 à R424-1)](#232)
         - [Chapitre Ier : Attributions et institution (art. R421-1)](#233)
-        - [Chapitre III : Election des conseillers prud'hommes (art. R423-1)](#234)
-        - [Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé (art. R424-1)](#235)
-      - [Titre III : Le juge de l'expropriation (art. R432-1)](#236)
-        - [Chapitre II : Organisation et fonctionnement (art. R432-1)](#237)
-      - [Titre IV : Le tribunal paritaire des baux ruraux (art. R442-1)](#238)
-        - [Chapitre II : Constitution des tribunaux paritaires. (art. R442-1)](#239)
-      - [Titre V : Les juridictions de sécurité sociale (art. R*451-1 à R*452-2)](#240)
-        - [Chapitre Ier : La commission de première instance de sécurité sociale (art. R*451-1)](#241)
-        - [Chapitre II : Les commissions techniques de sécurité sociale (art. R*452-1 à R*452-2)](#242)
-          - [Section I : Les commissions régionales (art. R*452-1)](#243)
-          - [Section II : La commission nationale technique (art. R*452-2)](#244)
-      - [Titre VI : Les prud'hommes pêcheurs (art. R*461-1)](#245)
-    - [Livre V : Les juridictions des mineurs (art. R*522-2 à R531-1)](#246)
-      - [Titre II : Le tribunal pour enfants (art. R*522-2 à R522-1)](#247)
-        - [Chapitre II : Organisation et fonctionnement (art. R*522-2 à R522-1)](#248)
-      - [Titre III : Le juge des enfants (art. R531-1)](#249)
-        - [Chapitre Ier : Institution et compétence (art. R531-1)](#250)
-    - [Livre VI : Les juridictions pénales (art. R611-1 à R633-1)](#251)
-      - [Titre Ier : Les juridictions d'instruction de droit commun (art. R611-1 à R612-1)](#252)
-        - [Chapitre Ier : Le juge d'instruction (art. R611-1)](#253)
-        - [Chapitre II : La chambre de l'instruction (art. R612-1)](#254)
-      - [Titre II : Les juridictions de jugement de droit commun (art. R621-1 à R*623-1)](#255)
-        - [Chapitre Ier : La cour d'assises (art. R621-1)](#256)
-        - [Chapitre III : Le tribunal de police (art. R*623-1)](#257)
-      - [Titre III : Les juridictions pénales spécialisées (art. R632-1 à R633-1)](#258)
-        - [Chapitre II : Les juridictions des forces armées (art. R632-1 à R632-3)](#259)
-          - [Section I : Des tribunaux territoriaux des forces armées (art. R632-1)](#260)
-          - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#261)
-          - [Section III : Des tribunaux prévôtaux (art. R632-3)](#262)
-        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#263)
-    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*7-10-1-1 à R*7-11-1-1)](#264)
-      - [Titre X : Audiences foraines (art. R*7-10-1-1)](#265)
-      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#266)
-      - [Titre II : Incompatibilités (art. R*721-1 à R*721-3)](#267)
-      - [Titre III : Récusation et renvoi (art. R731-1)](#268)
-      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#269)
-      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#270)
-      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#271)
-        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#272)
-          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#273)
-          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#274)
-            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#275)
-            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#276)
-            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#277)
-          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#278)
-          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#279)
-          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#280)
-            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#281)
-            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#282)
-        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance (art. R*762-1 à R*762-8)](#283)
-        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#284)
-      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#285)
-      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#286)
-      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#287)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#288)
-      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#289)
-        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-6)](#290)
-        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#291)
-        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#292)
-        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#293)
-      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R822-19)](#294)
-        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-26)](#295)
-        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce (art. R822-1 à R822-19)](#296)
-          - [Section I : Procédure devant le tribunal de grande instance statuant disciplinairement. (art. R822-1 à R822-6)](#297)
-          - [Section II : L'exécution des peines disciplinaires ; l'administration provisoire. (art. R822-7 à R822-12)](#298)
-          - [Section III : La suspension provisoire. (art. R822-13 à R822-15)](#299)
-          - [Section IV : Les voies de recours. (art. R822-16 à R822-18)](#300)
-          - [Section V : Dispositions communes. (art. R822-19)](#301)
-      - [Titre III : Le secrétariat-greffe du conseil de prud'hommes (art. R*831-1)](#302)
-      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#303)
-      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#304)
-      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#305)
-        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#306)
-    - [Livre IX : Dispositions particulières (art. R*911-1 à R946-5)](#307)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#308)
-        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#309)
-          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#310)
-          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#311)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-5)](#312)
-        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#313)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R924-4)](#314)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-2 à R*921-14)](#315)
-          - [Section I : La cour d'appel (art. R*921-2 à R*921-3)](#316)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#317)
-          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#318)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#319)
-        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#320)
-        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1 à R924-4)](#321)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-9)](#322)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-9)](#323)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-9)](#324)
-      - [Titre III : Dispositions particulières aux territoires d'outre-mer (art. R931-1 à R935-1)](#325)
-        - [Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#326)
-          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#327)
-          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#328)
-            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-1)](#329)
-            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#330)
-          - [Section III : Les juridictions des mineurs. (art. R931-15)](#331)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#332)
-          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#333)
-        - [Chapitre II : Dispositions particulières applicables dans les territoires de la Nouvelle-Calédonie et de la Polynésie française (art. R932-1 à R932-27)](#334)
-          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#335)
-          - [Section II : Le tribunal du travail. (art. R932-10)](#336)
-          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#337)
-            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12)](#338)
-            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#339)
-            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#340)
-              - [I : Electorat. (art. R932-14 à R932-16)](#341)
-              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#342)
-            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#343)
-          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#344)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#345)
-        - [Chapitre III : Dispositions particulières applicables dans le territoire de la Nouvelle-Calédonie. (art. R933-1 à R933-8)](#346)
-        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#347)
-          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#348)
-        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1)](#349)
-      - [Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte (art. R941-1 à R946-5)](#350)
-        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#351)
-        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#352)
-          - [Section I : Organisation. (art. R942-1 à R942-3)](#353)
-          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#354)
-            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#355)
-            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#356)
-            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#357)
-            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#358)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#359)
-          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#360)
-          - [Section II : Organisation. (art. R943-4 à R943-6)](#361)
-          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#362)
-            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#363)
-            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#364)
-            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#365)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#366)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#367)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#368)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XII)](#369)
+        - [Chapitre II : Organisation et fonctionnement (art. R422-1)](#234)
+        - [Chapitre III : Election des conseillers prud'hommes (art. R423-1)](#235)
+        - [Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé (art. R424-1)](#236)
+      - [Titre III : Le juge de l'expropriation (art. R432-1)](#237)
+        - [Chapitre II : Organisation et fonctionnement (art. R432-1)](#238)
+      - [Titre IV : Le tribunal paritaire des baux ruraux (art. R442-1)](#239)
+        - [Chapitre II : Constitution des tribunaux paritaires. (art. R442-1)](#240)
+      - [Titre V : Les juridictions de sécurité sociale (art. R*451-1 à R*452-2)](#241)
+        - [Chapitre Ier : La commission de première instance de sécurité sociale (art. R*451-1)](#242)
+        - [Chapitre II : Les commissions techniques de sécurité sociale (art. R*452-1 à R*452-2)](#243)
+          - [Section I : Les commissions régionales (art. R*452-1)](#244)
+          - [Section II : La commission nationale technique (art. R*452-2)](#245)
+      - [Titre VI : Les prud'hommes pêcheurs (art. R*461-1)](#246)
+    - [Livre V : Les juridictions des mineurs (art. R*522-2 à R531-1)](#247)
+      - [Titre II : Le tribunal pour enfants (art. R*522-2 à R522-1)](#248)
+        - [Chapitre II : Organisation et fonctionnement (art. R*522-2 à R522-1)](#249)
+      - [Titre III : Le juge des enfants (art. R531-1)](#250)
+        - [Chapitre Ier : Institution et compétence (art. R531-1)](#251)
+    - [Livre VI : Les juridictions pénales (art. R611-1 à R633-1)](#252)
+      - [Titre Ier : Les juridictions d'instruction de droit commun (art. R611-1 à R612-1)](#253)
+        - [Chapitre Ier : Le juge d'instruction (art. R611-1)](#254)
+        - [Chapitre II : La chambre de l'instruction (art. R612-1)](#255)
+      - [Titre II : Les juridictions de jugement de droit commun (art. R621-1 à R*623-1)](#256)
+        - [Chapitre Ier : La cour d'assises (art. R621-1)](#257)
+        - [Chapitre III : Le tribunal de police (art. R*623-1)](#258)
+      - [Titre III : Les juridictions pénales spécialisées (art. R632-1 à R633-1)](#259)
+        - [Chapitre II : Les juridictions des forces armées (art. R632-1 à R632-3)](#260)
+          - [Section I : Des tribunaux territoriaux des forces armées (art. R632-1)](#261)
+          - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#262)
+          - [Section III : Des tribunaux prévôtaux (art. R632-3)](#263)
+        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#264)
+    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*7-10-1-1 à R*7-11-1-1)](#265)
+      - [Titre X : Audiences foraines (art. R*7-10-1-1)](#266)
+      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#267)
+      - [Titre II : Incompatibilités (art. R*721-1 à R*721-3)](#268)
+      - [Titre III : Récusation et renvoi (art. R731-1)](#269)
+      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#270)
+      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#271)
+      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#272)
+        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#273)
+          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#274)
+          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#275)
+            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#276)
+            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#277)
+            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#278)
+          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#279)
+          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#280)
+          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#281)
+            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#282)
+            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#283)
+        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance (art. R*762-1 à R*762-8)](#284)
+        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#285)
+      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#286)
+      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#287)
+      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#288)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#289)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#290)
+        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-6)](#291)
+        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#292)
+        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#293)
+        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#294)
+      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R822-19)](#295)
+        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-26)](#296)
+        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce (art. R822-1 à R822-19)](#297)
+          - [Section I : Procédure devant le tribunal de grande instance statuant disciplinairement. (art. R822-1 à R822-6)](#298)
+          - [Section II : L'exécution des peines disciplinaires ; l'administration provisoire. (art. R822-7 à R822-12)](#299)
+          - [Section III : La suspension provisoire. (art. R822-13 à R822-15)](#300)
+          - [Section IV : Les voies de recours. (art. R822-16 à R822-18)](#301)
+          - [Section V : Dispositions communes. (art. R822-19)](#302)
+      - [Titre III : Le secrétariat-greffe du conseil de prud'hommes (art. R*831-1)](#303)
+      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#304)
+      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#305)
+      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#306)
+        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#307)
+    - [Livre IX : Dispositions particulières (art. R*911-1 à R946-5)](#308)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#309)
+        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#310)
+          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#311)
+          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#312)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-5)](#313)
+        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#314)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R924-4)](#315)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-2 à R*921-14)](#316)
+          - [Section I : La cour d'appel (art. R*921-2 à R*921-3)](#317)
+          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#318)
+          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#319)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#320)
+        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#321)
+        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1 à R924-4)](#322)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-9)](#323)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-9)](#324)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-9)](#325)
+      - [Titre III : Dispositions particulières aux territoires d'outre-mer (art. R931-1 à R935-1)](#326)
+        - [Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#327)
+          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#328)
+          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#329)
+            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-1)](#330)
+            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#331)
+          - [Section III : Les juridictions des mineurs. (art. R931-15)](#332)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#333)
+          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#334)
+        - [Chapitre II : Dispositions particulières applicables dans les territoires de la Nouvelle-Calédonie et de la Polynésie française (art. R932-1 à R932-27)](#335)
+          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#336)
+          - [Section II : Le tribunal du travail. (art. R932-10)](#337)
+          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#338)
+            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12)](#339)
+            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#340)
+            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#341)
+              - [I : Electorat. (art. R932-14 à R932-16)](#342)
+              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#343)
+            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#344)
+          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#345)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#346)
+        - [Chapitre III : Dispositions particulières applicables dans le territoire de la Nouvelle-Calédonie. (art. R933-1 à R933-8)](#347)
+        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#348)
+          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#349)
+        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1)](#350)
+      - [Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte (art. R941-1 à R946-5)](#351)
+        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#352)
+        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#353)
+          - [Section I : Organisation. (art. R942-1 à R942-3)](#354)
+          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#355)
+            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#356)
+            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#357)
+            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#358)
+            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#359)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#360)
+          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#361)
+          - [Section II : Organisation. (art. R943-4 à R943-6)](#362)
+          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#363)
+            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#364)
+            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#365)
+            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#366)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#367)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#368)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#369)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#370)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -16930,7 +16931,295 @@ _Anciens textes_:
   - Code du travail R511-1 à R511-3
 
 
-#### Chapitre III : Election des conseillers prud'hommes<a id=234></a>
+#### Chapitre II : Organisation et fonctionnement<a id=234></a>
+
+###### Article R422-1
+
+Les dispositions réglementaires relatives à l'organisation et au fonctionnement des conseils de prud'hommes sont fixées par
+les articles R. 512-1 à R. 512-17 du code du travail comme suit :
+
+"Art. R. 512-1
+
+Le siège et le ressort des conseils de prud'hommes sont fixés conformément au tableau annexé au présent code".
+
+"Art. R. 512-1-1
+
+La section agricole unique pour l'ensemble du ressort d'un tribunal de grande instance lorsque ce ressort comprend plusieurs
+conseils de prud'hommes est rattachée au conseil de prud'hommes dont le siège est celui dudit tribunal, à l'exception des
+trois cas suivants :
+
+DEPARTEMENT : Ardèche
+
+TRIBUNAL de grande instance : Privas
+
+CONSEIL DE PRUD'HOMMES de rattachement de la section agricole :
+
+Aubenas
+
+DEPARTEMENT : Nord
+
+TRIBUNAL de grande instance : Avesnes-sur-Helpe
+
+CONSEIL DE PRUD'HOMMES de rattachement de la section agricole :
+
+Fourmies
+
+DEPARTEMENT : Val-d'Oise
+
+TRIBUNAL de grande instance : Pontoise
+
+CONSEIL DE PRUD'HOMMES de rattachement de la section agricole :
+
+Cergy-Pontoise"
+
+"Art. R. 512-2
+
+La date de l'élection générale pour le renouvellement des conseils de prud'hommes prévu au premier alinéa de l'article L.
+513-4 est fixée par décret pris après avis des organisations professionnelles et syndicales les plus représentatives sur le
+plan national ; cette élection a lieu dans le courant du mois de décembre".
+
+"Art. R. 512-3
+
+La réunion des conseillers prud'hommes en assemblée générale, en assemblée de section et, le cas échéant, en assemblée de
+chambre, mentionnées à l'article L. 512-7, a lieu chaque année pendant le mois de janvier dans l'ordre fixé ci-après :
+
+1° L'assemblée générale du conseil de prud'hommes élit, dans les formes et conditions prescrites aux articles L. 512-7 à L.
+512-9, le président et le vice-président du conseil de prud'hommes.
+
+L'élection du président et du vice-président de la juridiction doit précéder l'audience solennelle tenue au conseil de
+prud'hommes en application de l'article R. 711-2 du code de l'organisation judiciaire ;
+
+2° L'assemblée de chaque section élit le président et le vice-président de section ;
+
+3° Lorsque plusieurs chambres ont été constituées au sein d'une même section en application de l'article L. 512-3,
+l'assemblée de chambre élit le président et le vice-président de la chambre.
+
+Le procès-verbal de ces assemblées est adressé dans les quarante-huit heures au premier président de la cour d'appel et au
+procureur général près la cour d'appel".
+
+"Art. R. 512-4
+
+En cas de création de chambre, l'assemblée de chambre procède à l'élection du président et du vice-président de chambre, sans
+attendre l'époque fixée à l'article R. 512-3".
+
+"Art. R. 512-5
+
+Dans les quinze jours [*délai*] qui suivent l'élection des présidents et des vice-présidents prévue aux articles R. 512-3 et
+R. 512-4, tout membre de la formation intéressée qui en conteste la régularité peut exercer un recours auprès de la Cour
+d'appel dans le ressort de laquelle l'élection a eu lieu. Ce recours est également ouvert au procureur général qui peut
+l'exercer dans un délai de quinze jours à compter de la réception du procès-verbal.
+
+Les réclamants notifient, à peine d'irrecevabilité, leurs recours, par lettre recommandée avec demande d'avis de réception,
+aux candidats dont l'élection est attaquée. Ceux-ci ont le droit de présenter leurs observations en défense dans les cinq
+jours de la notification. Les recours sont jugés sommairement et sans frais dans le délai d'un mois à compter du jour où ils
+sont formés. L'arrêt est notifié par le secrétaire-greffier aux intéressés. Avis de l'arrêt est donné au procureur de la
+République qui en informe le préfet . L'opposition n'est pas admise contre l'arrêt rend u par défaut."
+
+Les arrêts sont susceptibles de pourvoi devant la Cour de cassation dans les dix jours de leur notification. Ces pourvois
+sont dispensés du ministère d'avocat.
+
+Les dispositions du présent article sont applicables à la désignation par l'assemblée générale du conseil de prud'hommes, en
+application des dispositions de l'article R. 515-4, des conseillers prud'hommes appelés à tenir les audiences de référé".
+
+"Art. R. 512-6
+
+I. Le conseil de prud'hommes se réunit en assemblée générale dans les conditions prévues à l'article R. 512-8 pour élire un
+nouveau président ou un nouveau vice-président du conseil de prud'hommes lorsque la vacance d'une de ces fonctions survient
+pour l'une des causes suivantes :
+
+a) Refus du président ou du vice-président de se faire installer ;
+
+b) Démission ;
+
+c) Déclaration de démission en application des articles L. 514-11 et R. 512-16 ;
+
+d) Décès ;
+
+e) Déchéance prononcée par décret à titre disciplinaire en application de l'article L. 514-13 ;
+
+f) Déchéance de plein droit en application de l'article L. 514-14, après une condamnation pénale devenue définitive pour des
+faits prévus aux articles L. 5 et L. 6 du code électoral.
+
+II. - En cas de vacance des fonctions de président ou de vice-président de section ou de chambre pour l'une des causes
+énumérées au I ci-dessus, les conseillers prud'hommes composant la section ou la chambre se réunissent en assemblée de
+section ou de chambre pour élire un nouveau président ou un nouveau vice-président de section ou de chambre.
+
+III. - Dans le cas où l'une des circonstances mentionnées aux I et II ci-dessus se reproduit au cours de la même année, il
+n'est pourvu à la seconde vacance que lors du renouvellement annuel prévu à l'article R. 512-3.
+
+IV. - Les procès-verbaux des assemblées mentionnées aux I et II ci-dessus sont établis et transmis dans les conditions fixées
+à l'article R. 512-8".
+
+"Art. R. 512-7
+
+Outre les attributions prévues à l'article L. 515-4, le président du conseil de prud'hommes assure l'administration et la
+discipline intérieure de la juridiction".
+
+"Art. R. 512-8
+
+Le conseil de prud'hommes se réunit en assemblée générale, à la demande soit du premier président de la cour d'appel, soit de
+la majorité des membres en exercice, soit lorsque le président ou le vice-président le jugent utile. Le procès-verbal de
+l'assemblée générale, établi par le greffier en chef sous la responsabilité du président, est transmis dans la quinzaine, par
+le président, au premier président de la cour d'appel et au procureur général près la cour d'appel".
+
+"Art. R. 512-9
+
+Lors de la création d'un conseil de prud'hommes, l'assemblée générale de ce conseil propose, dans les trois mois qui suivent
+son installation, un règlement intérieur qui fixe notamment les jours et heures des audiences. Les calendriers et les
+horaires de ces audiences sont, en règle générale, déterminés par analogie avec ceux des juridictions de droit commun ayant
+leur siège dans le ressort de la cour d'appel dont relève ce conseil. Toutefois, le règlement intérieur peut, pour tenir
+compte des contingences locales, déroger à cette règle générale.
+
+Le règlement intérieur préparé conformément à l'alinéa précédent n'est exécutoire qu'après avoir été approuvé par le premier
+président de la cour d'appel et le procureur général près la cour d'appel. Au cas où ils ne se sont pas prononcés dans un
+délai de trois mois à compter de la réception du règlement intérieur, les dispositions de ce règlement qui leur ont été
+soumises pour approbation deviennent exécutoires.
+
+Si l'assemblée générale n'a pas établi le règlement intérieur du conseil de prud'hommes dans le délai de trois mois prévu au
+premier alinéa du présent article, le règlement intérieur est préparé par une formation composée du président, du vice-
+président du conseil de prud'hommes, ainsi que des présidents et vice-présidents de chaque section et, s'il y a lieu, de
+chaque chambre. Il incombe au président du conseil de prud'hommes de constituer cette formation restreinte. Le règlement que
+celle-ci établit est exécutoire après avoir été approuvé dans les conditions prévues au deuxième alinéa du présent article.
+
+Si, à l'expiration d'un délai d'un mois à compter du jour où elle a été constituée, la formation restreinte prévue à l'alinéa
+précédent n'a pu établir le règlement intérieur, le président du conseil de prud'hommes arrête, en accord avec le vice-
+président, les dispositions du règlement intérieur qui déterminent le calendrier et les horaires des audiences. Ces
+dispositions ne sont exécutoires qu'après avoir été approuvées par le premier président de la cour d'appel et le procureur
+général près la cour d'appel.
+
+Le règlement intérieur est affiché dans les locaux du conseil de prud'hommes.
+
+Le règlement intérieur peut être modifié par l'assemblée générale réunie en application de l'article R. 512-8. En pareil cas,
+les délais ouverts, selon le cas, à l'assemblée générale, d'une part, à la formation restreinte ou au président et au vice-
+président du conseil de prud'hommes, d'autre part, sont réduits respectivement à un mois et à quinze jours.
+
+En l'absence de dispositions régulièrement approuvées du règlement intérieur relatives au calendrier et aux horaires, la
+règle énoncée à la deuxième phrase du premier alinéa du présent article est applicable de plein droit".
+
+"Art. R. 512-10
+
+L'honorariat peut être conféré par arrêté du garde des sceaux, ministre de la justice, aux anciens présidents et aux anciens
+membres des conseils de prud'hommes ayant exercé leurs fonctions pendant douze ans.
+
+L'arrêté prévu à l'alinéa précédent est pris sur la proposition du président du tribunal de grande instance dans le ressort
+duquel est situé le siège du conseil, après avis de l'assemblée générale du conseil de prud'hommes.
+
+L'honorariat peut être retiré suivant la même procédure".
+
+"Art. R. 512-11
+
+Les membres honoraires d'un conseil de prud'hommes peuvent assister, aux côtés des membres de la juridiction, aux audiences
+d'installation et à l'audience solennelle prévue à l'article R. 711-2 du code de l'organisation judiciaire.
+
+Ils peuvent porter auxdites audiences et dans les cérémonies publiques l'insigne prévu à l'article R. 512-12.
+
+Les anciens conseillers prud'hommes admis à l'honorariat ne peuvent en faire mention ni dans la publicité ou la
+correspondance commerciale, ni dans les actes de procédure ou les actes extra-judiciaires ; en toute autre circonstance ils
+ne peuvent faire état de cette distinction sans préciser le conseil de prud'hommes au titre duquel elle leur a été conférée".
+
+"Art. R. 512-12
+
+Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un ruban,
+en sautoir, une médaille signe de leurs fonctions. Cette médaille est en bronze doré pour le président du conseil de
+prud'hommes et, à l'audience, pour le président du bureau de jugement ; elle est en bronze argenté pour les autres
+conseillers. D'un module de 65 mm, elle porte à l'avers la mention République française et une tête symbolisant la
+République, placée de profil, tournée à droite.
+
+Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la médaille est suspendue à un ruban d'une largeur
+de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue".
+
+"Art. R. 512-13
+
+Le premier président de la cour d'appel et le procureur général procèdent à l'inspection des conseils de prud'hommes de leur
+ressort.
+
+Ils s'assurent, chacun en ce qui le concerne, de la bonne administration des services judiciaires et de l'expédition normale
+des affaires ; ils peuvent respectivement déléguer ces pouvoirs pour des actes déterminés à des magistrats du siège ou du
+parquet placés sous leur autorité.
+
+Ils rendent compte chaque année au garde des sceaux, ministre de la justice, des constatations qu'ils ont faites".
+
+"Art. R. 512-14
+
+Lorsqu'une des sections d'un conseil de prud'hommes ne peut se constituer ou ne peut fonctionner pour quelque cause que ce
+soit, le premier président de la cour d'appel, saisi sur requête du procureur général, désigne la section correspondante d'un
+autre conseil de prud'hommes ou, à défaut, un tribunal d'instance, pour connaître des affaires inscrites au rôle de la
+section ou dont cette dernière aurait dû être ultérieurement saisie.
+
+Lorsque la section du conseil de prud'hommes est de nouveau en mesure de fonctionner, le premier président de la cour
+d'appel, saisi dans les mêmes conditions, constate cet état de fait et fixe la date à compter de laquelle les affaires
+doivent être à nouveau portées devant cette section. La section du conseil de prud'hommes ou le tribunal d'instance désigné
+par le premier président demeure cependant saisi des affaires qui lui ont été soumises en application de l'alinéa précédent".
+
+"Art. R. 512-15
+
+Tout conseiller prud'homme qui renonce à son mandat adresse sa démission au président du conseil de prud'hommes et en informe
+le procureur de la République par lettre recommandée avec demande d'avis de réception.
+
+La démission devient définitive un mois à compter de l'expédition de cette lettre".
+
+"Art. R. 512-16
+
+Le conseiller prud'homme qui, en cours de mandat, perd la qualité en laquelle il a été élu et en acquiert une autre doit le
+déclarer au procureur de la République et au président du conseil de prud'hommes. Cette déclaration entraîne sa démission de
+plein droit.
+
+A défaut de déclaration, l'assemblée de section ou, le cas échéant, l'assemblée de chambre, est saisie de la question par le
+président du Conseil de prud'hommes, à son initiative ou à celle du procureur de la République. Le membre du conseil en cause
+est appelé à cette réunion pour y fournir ses explications.
+
+Le procès-verbal est transmis dans la huitaine par le président du conseil de prud'hommes au procureur de la République et
+par celui-ci, dans le même délai, au président du tribunal de grande instance.
+
+Sur le vu du procès-verbal, la démission est prononcée, s'il y a lieu, par le tribunal de grande instance en chambre du
+conseil, sauf appel devant la cour du ressort. Avis de la décision est donné au préfet par le procureur de la République et,
+en cas d'appel, par le procureur général".
+
+"Art. R. 512-17
+
+Lorsqu'un siège de conseiller prud'homme devient vacant pour quelque cause que ce soit, le président de ce conseil constate
+la vacance et en informe, dans les huit jours, le préfet et le procureur de la République".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°79-1022 1979-11-23 art. 10 JORF 2 décembre 1979
+  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 mars 1980
+  - Décret n°82-490 1982-06-09 art. 1 JORF 11 juin 1982
+  - Décret n°82-766 1982-09-08 art. 2 JORF 9 septembre 1982
+  - Décret n°82-1073 1982-12-15 art. 2 et 4 JORF 21 décembre 1982
+  - Décret n°92-136 1992-02-07 art. 1, 2, 3 et 4 JORF 13 février 1992
+  - Décret n°97-98 du 5 février 1997 - art. 3 () JORF 6 février 1997 en vigueur le 17 février 1997
+
+_Cité par_:
+
+  - Décret n°82-766 du 8 septembre 1982 - art. 4 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE L'ORGANISATION JUDICIAIRE. - art. Annexe Tableau VI (V)
+
+_Cite_:
+
+  - Code du travail
+
+_Anciens textes_:
+
+  - Code du travail - art. R512-11 (M)
+  - Code du travail - art. R512-12 (M)
+  - Code du travail R512-1 à R512-7, R512-11, R512-12
+
+
+#### Chapitre III : Election des conseillers prud'hommes<a id=235></a>
 
 ###### Article R423-1
 
@@ -18170,7 +18459,7 @@ _Anciens textes_:
   - Code du travail R513-1 à R513-119
 
 
-#### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé<a id=235></a>
+#### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé<a id=236></a>
 
 ###### Article R424-1
 
@@ -18247,9 +18536,9 @@ _Anciens textes_:
   - Code du travail R515-1 à R515-4
 
 
-### Titre III : Le juge de l'expropriation<a id=236></a>
+### Titre III : Le juge de l'expropriation<a id=237></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=237></a>
+#### Chapitre II : Organisation et fonctionnement<a id=238></a>
 
 ###### Article R432-1
 
@@ -18304,9 +18593,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique R13-1 à R13-4
 
 
-### Titre IV : Le tribunal paritaire des baux ruraux<a id=238></a>
+### Titre IV : Le tribunal paritaire des baux ruraux<a id=239></a>
 
-#### Chapitre II : Constitution des tribunaux paritaires.<a id=239></a>
+#### Chapitre II : Constitution des tribunaux paritaires.<a id=240></a>
 
 ###### Article R442-1
 
@@ -18332,9 +18621,9 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
 
 
-### Titre V : Les juridictions de sécurité sociale<a id=240></a>
+### Titre V : Les juridictions de sécurité sociale<a id=241></a>
 
-#### Chapitre Ier : La commission de première instance de sécurité sociale<a id=241></a>
+#### Chapitre Ier : La commission de première instance de sécurité sociale<a id=242></a>
 
 ###### Article R*451-1
 
@@ -18356,9 +18645,9 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-#### Chapitre II : Les commissions techniques de sécurité sociale<a id=242></a>
+#### Chapitre II : Les commissions techniques de sécurité sociale<a id=243></a>
 
-##### Section I : Les commissions régionales<a id=243></a>
+##### Section I : Les commissions régionales<a id=244></a>
 
 ###### Article R*452-1
 
@@ -18380,7 +18669,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-##### Section II : La commission nationale technique<a id=244></a>
+##### Section II : La commission nationale technique<a id=245></a>
 
 ###### Article R*452-2
 
@@ -18404,7 +18693,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-### Titre VI : Les prud'hommes pêcheurs<a id=245></a>
+### Titre VI : Les prud'hommes pêcheurs<a id=246></a>
 
 ###### Article R*461-1
 
@@ -18430,11 +18719,11 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre V : Les juridictions des mineurs<a id=246></a>
+## Livre V : Les juridictions des mineurs<a id=247></a>
 
-### Titre II : Le tribunal pour enfants<a id=247></a>
+### Titre II : Le tribunal pour enfants<a id=248></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=248></a>
+#### Chapitre II : Organisation et fonctionnement<a id=249></a>
 
 ###### Article R*522-2
 
@@ -18749,9 +19038,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D251-1 (V)
 
 
-### Titre III : Le juge des enfants<a id=249></a>
+### Titre III : Le juge des enfants<a id=250></a>
 
-#### Chapitre Ier : Institution et compétence<a id=250></a>
+#### Chapitre Ier : Institution et compétence<a id=251></a>
 
 ###### Article R531-1
 
@@ -18777,11 +19066,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R252-2 (V)
 
 
-## Livre VI : Les juridictions pénales<a id=251></a>
+## Livre VI : Les juridictions pénales<a id=252></a>
 
-### Titre Ier : Les juridictions d'instruction de droit commun<a id=252></a>
+### Titre Ier : Les juridictions d'instruction de droit commun<a id=253></a>
 
-#### Chapitre Ier : Le juge d'instruction<a id=253></a>
+#### Chapitre Ier : Le juge d'instruction<a id=254></a>
 
 ###### Article R611-1
 
@@ -18806,7 +19095,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-#### Chapitre II : La chambre de l'instruction<a id=254></a>
+#### Chapitre II : La chambre de l'instruction<a id=255></a>
 
 ###### Article R612-1
 
@@ -18828,9 +19117,9 @@ _Anciens textes_:
   - CODE DE PROCEDURE PENALE - art. D43 (M)
 
 
-### Titre II : Les juridictions de jugement de droit commun<a id=255></a>
+### Titre II : Les juridictions de jugement de droit commun<a id=256></a>
 
-#### Chapitre Ier : La cour d'assises<a id=256></a>
+#### Chapitre Ier : La cour d'assises<a id=257></a>
 
 ###### Article R621-1
 
@@ -18862,7 +19151,7 @@ _Anciens textes_:
   - Code de procédure pénale 232 et 234
 
 
-#### Chapitre III : Le tribunal de police<a id=257></a>
+#### Chapitre III : Le tribunal de police<a id=258></a>
 
 ###### Article R*623-1
 
@@ -18892,11 +19181,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D221-1 (V)
 
 
-### Titre III : Les juridictions pénales spécialisées<a id=258></a>
+### Titre III : Les juridictions pénales spécialisées<a id=259></a>
 
-#### Chapitre II : Les juridictions des forces armées<a id=259></a>
+#### Chapitre II : Les juridictions des forces armées<a id=260></a>
 
-##### Section I : Des tribunaux territoriaux des forces armées<a id=260></a>
+##### Section I : Des tribunaux territoriaux des forces armées<a id=261></a>
 
 ###### Article R632-1
 
@@ -18927,7 +19216,7 @@ _Cite_:
   - Code de justice militaire - art. 26
 
 
-##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées<a id=261></a>
+##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées<a id=262></a>
 
 ###### Article R632-2
 
@@ -18961,7 +19250,7 @@ _Cite_:
   - Code de justice militaire - art. 50
 
 
-##### Section III : Des tribunaux prévôtaux<a id=262></a>
+##### Section III : Des tribunaux prévôtaux<a id=263></a>
 
 ###### Article R632-3
 
@@ -18986,7 +19275,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Le tribunal maritime commercial<a id=263></a>
+#### Chapitre III : Le tribunal maritime commercial<a id=264></a>
 
 ###### Article R633-1
 
@@ -19013,9 +19302,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre VII : Dispositions communes à plusieurs juridictions<a id=264></a>
+## Livre VII : Dispositions communes à plusieurs juridictions<a id=265></a>
 
-### Titre X : Audiences foraines<a id=265></a>
+### Titre X : Audiences foraines<a id=266></a>
 
 ###### Article R*7-10-1-1
 
@@ -19039,7 +19328,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L7-10-1-1 (V)
 
 
-### Titre Ier : L'année judiciaire<a id=266></a>
+### Titre Ier : L'année judiciaire<a id=267></a>
 
 ###### Article R*711-1
 
@@ -19102,7 +19391,7 @@ _Cité par_:
   - Code du travail - art. R1423-13 (VD)
 
 
-### Titre II : Incompatibilités<a id=267></a>
+### Titre II : Incompatibilités<a id=268></a>
 
 ###### Article R*721-1
 
@@ -19192,7 +19481,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
 
 
-### Titre III : Récusation et renvoi<a id=268></a>
+### Titre III : Récusation et renvoi<a id=269></a>
 
 ###### Article R731-1
 
@@ -19215,7 +19504,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 342 à 366
 
 
-### Titre IV : Rangs, costumes et insignes<a id=269></a>
+### Titre IV : Rangs, costumes et insignes<a id=270></a>
 
 ###### Article R*741-1
 
@@ -19372,7 +19661,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-### Titre V : Dispositions générales relatives au ministère public<a id=270></a>
+### Titre V : Dispositions générales relatives au ministère public<a id=271></a>
 
 ###### Article R*751-1
 
@@ -19398,9 +19687,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-1 (V)
 
 
-### Titre VI : Assemblées générales<a id=271></a>
+### Titre VI : Assemblées générales<a id=272></a>
 
-#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=272></a>
+#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=273></a>
 
 ###### Article R*761-1
 
@@ -19438,7 +19727,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=273></a>
+##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=274></a>
 
 ###### Article R*761-2
 
@@ -19877,7 +20166,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-38 (V)
 
 
-##### Section II : L'assemblée des magistrats<a id=274></a>
+##### Section II : L'assemblée des magistrats<a id=275></a>
 
 ###### Article R*761-15
 
@@ -19913,7 +20202,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
 
 
-##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=275></a>
+##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=276></a>
 
 ###### Article R*761-16
 
@@ -20061,7 +20350,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
 
 
-##### Sous-section II : L'assemblée des magistrats du siège<a id=276></a>
+##### Sous-section II : L'assemblée des magistrats du siège<a id=277></a>
 
 ###### Article R*761-21
 
@@ -20238,7 +20527,7 @@ _Modifié par_:
   - Décret n°96-157 du 27 février 1996 - art. 17 () JORF 1er mars 1996
 
 
-##### Sous-section III : L'assemblée des magistrats du parquet<a id=277></a>
+##### Sous-section III : L'assemblée des magistrats du parquet<a id=278></a>
 
 ###### Article R*761-25
 
@@ -20309,7 +20598,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-47 (V)
 
 
-##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=278></a>
+##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=279></a>
 
 ###### Article R*761-27
 
@@ -20529,7 +20818,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-55 (V)
 
 
-##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=279></a>
+##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=280></a>
 
 ###### Article R*761-34
 
@@ -20633,9 +20922,9 @@ _Cite_:
   - Code de l'organisation judiciaire R761-17 à R761-31
 
 
-##### Section V : Les commissions<a id=280></a>
+##### Section V : Les commissions<a id=281></a>
 
-##### Sous-section I : La commission permanente<a id=281></a>
+##### Sous-section I : La commission permanente<a id=282></a>
 
 ###### Article R*761-38
 
@@ -20872,7 +21161,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-61 (V)
 
 
-##### Sous-section II : Les commissions restreintes<a id=282></a>
+##### Sous-section II : Les commissions restreintes<a id=283></a>
 
 ###### Article R*761-46
 
@@ -21027,7 +21316,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance<a id=283></a>
+#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance<a id=284></a>
 
 ###### Article R*762-1
 
@@ -21222,7 +21511,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
 
 
-#### Chapitre III : Consultation des juridictions<a id=284></a>
+#### Chapitre III : Consultation des juridictions<a id=285></a>
 
 ###### Article R*763-1
 
@@ -21255,7 +21544,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R435-2 (V)
 
 
-### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=285></a>
+### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=286></a>
 
 ###### Article R*771-1
 
@@ -21299,7 +21588,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre IX : Participation aux commissions non juridictionnelles<a id=286></a>
+### Titre IX : Participation aux commissions non juridictionnelles<a id=287></a>
 
 ###### Article R*791-1
 
@@ -21322,7 +21611,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
 
 
-### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=287></a>
+### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=288></a>
 
 ###### Article R*7-11-1-1
 
@@ -21348,11 +21637,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=288></a>
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=289></a>
 
-### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=289></a>
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=290></a>
 
-#### Chapitre Ier : Organisation<a id=290></a>
+#### Chapitre Ier : Organisation<a id=291></a>
 
 ###### Article R*811-1
 
@@ -21529,7 +21818,7 @@ _Créé par_:
   - Décret n°92-755 du 31 juillet 1992 - art. 6 () JORF 5 août 1992
 
 
-#### Chapitre II : Fonctionnement<a id=291></a>
+#### Chapitre II : Fonctionnement<a id=292></a>
 
 ###### Article R*812-1
 
@@ -22118,7 +22407,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Etats et statistiques<a id=292></a>
+#### Chapitre III : Etats et statistiques<a id=293></a>
 
 ###### Article R*813-1
 
@@ -22223,7 +22512,7 @@ _Anciens textes_:
   - Ordonnance 1826-04-15 art. 79
 
 
-#### Chapitre IV : Régime financier<a id=293></a>
+#### Chapitre IV : Régime financier<a id=294></a>
 
 ###### Article R*814-1
 
@@ -22435,9 +22724,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre II : Le greffe du tribunal de commerce<a id=294></a>
+### Titre II : Le greffe du tribunal de commerce<a id=295></a>
 
-#### Chapitre I : Dispositions générales.<a id=295></a>
+#### Chapitre I : Dispositions générales.<a id=296></a>
 
 ###### Article R821-1
 
@@ -23189,9 +23478,9 @@ _Nouveaux textes_:
   - Code de commerce. - art. R741-23 (M)
 
 
-#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce<a id=296></a>
+#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce<a id=297></a>
 
-##### Section I : Procédure devant le tribunal de grande instance statuant disciplinairement.<a id=297></a>
+##### Section I : Procédure devant le tribunal de grande instance statuant disciplinairement.<a id=298></a>
 
 ###### Article R822-1
 
@@ -23331,7 +23620,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-12 (V)
 
 
-##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.<a id=298></a>
+##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.<a id=299></a>
 
 ###### Article R822-7
 
@@ -23510,7 +23799,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-21 (V)
 
 
-##### Section III : La suspension provisoire.<a id=299></a>
+##### Section III : La suspension provisoire.<a id=300></a>
 
 ###### Article R822-13
 
@@ -23608,7 +23897,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-4 (Ab)
 
 
-##### Section IV : Les voies de recours.<a id=300></a>
+##### Section IV : Les voies de recours.<a id=301></a>
 
 ###### Article R822-16
 
@@ -23682,7 +23971,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-28 (V)
 
 
-##### Section V : Dispositions communes.<a id=301></a>
+##### Section V : Dispositions communes.<a id=302></a>
 
 ###### Article R822-19
 
@@ -23708,7 +23997,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-5 (V)
 
 
-### Titre III : Le secrétariat-greffe du conseil de prud'hommes<a id=302></a>
+### Titre III : Le secrétariat-greffe du conseil de prud'hommes<a id=303></a>
 
 ###### Article R*831-1
 
@@ -23863,7 +24152,7 @@ _Anciens textes_:
   - Code du travail - art. R512-9 (M)
 
 
-### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=303></a>
+### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=304></a>
 
 ###### Article R841-1
 
@@ -23902,7 +24191,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-11 (M)
 
 
-### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=304></a>
+### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=305></a>
 
 ###### Article R861-1
 
@@ -23930,9 +24219,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=305></a>
+### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=306></a>
 
-#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=306></a>
+#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=307></a>
 
 ###### Article R882-2
 
@@ -23959,13 +24248,13 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre IX : Dispositions particulières<a id=307></a>
+## Livre IX : Dispositions particulières<a id=308></a>
 
-### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=308></a>
+### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=309></a>
 
-#### Chapitre Ier : Le tribunal d'instance<a id=309></a>
+#### Chapitre Ier : Le tribunal d'instance<a id=310></a>
 
-##### Section I : Dispositions générales<a id=310></a>
+##### Section I : Dispositions générales<a id=311></a>
 
 ###### Article R*911-1
 
@@ -24079,7 +24368,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 33
 
 
-##### Section II : Dispositions particulières au service du livre foncier<a id=311></a>
+##### Section II : Dispositions particulières au service du livre foncier<a id=312></a>
 
 ###### Article R*911-13
 
@@ -24304,7 +24593,7 @@ _Anciens textes_:
   - Décret n°1937-04-15 art. 1 et art. 2
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=312></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=313></a>
 
 ###### Article R*913-1
 
@@ -24442,7 +24731,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 28 al. 2
 
 
-#### Chapitre V : Les secrétariats-greffes<a id=313></a>
+#### Chapitre V : Les secrétariats-greffes<a id=314></a>
 
 ###### Article R*915-1
 
@@ -24575,11 +24864,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. art. 35 al. 3
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=314></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=315></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=315></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=316></a>
 
-##### Section I : La cour d'appel<a id=316></a>
+##### Section I : La cour d'appel<a id=317></a>
 
 ###### Article R*921-2
 
@@ -24637,7 +24926,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
 
 
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=317></a>
+##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=318></a>
 
 ###### Article R*921-4
 
@@ -24721,7 +25010,7 @@ _Créé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 7 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 
-##### Section V : Les secrétariats-greffes et secrétariats<a id=318></a>
+##### Section V : Les secrétariats-greffes et secrétariats<a id=319></a>
 
 ###### Article R*921-12
 
@@ -24810,7 +25099,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-6 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=319></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=320></a>
 
 ###### Article R*922-3
 
@@ -24852,7 +25141,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Dispositions particulières au département de la Réunion<a id=320></a>
+#### Chapitre III : Dispositions particulières au département de la Réunion<a id=321></a>
 
 ###### Article R*923-1
 
@@ -24906,7 +25195,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R752-14 (M)
 
 
-#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=321></a>
+#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=322></a>
 
 ###### Article R*924-1
 
@@ -25005,11 +25294,11 @@ _Abrogé par_:
   - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=322></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=323></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=323></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=324></a>
 
-##### Section III : Le tribunal mixte de commerce<a id=324></a>
+##### Section III : Le tribunal mixte de commerce<a id=325></a>
 
 ###### Article R*921-6
 
@@ -25122,9 +25411,9 @@ _Cite_:
   - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19, R414-1 à R414-21
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer<a id=325></a>
+### Titre III : Dispositions particulières aux territoires d'outre-mer<a id=326></a>
 
-#### Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna<a id=326></a>
+#### Chapitre Ier : Dispositions communes aux territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna<a id=327></a>
 
 ###### Article R931-1
 
@@ -25152,7 +25441,7 @@ _Modifié par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
 
 
-##### Section I : La cour d'appel.<a id=327></a>
+##### Section I : La cour d'appel.<a id=328></a>
 
 ###### Article R931-2
 
@@ -25288,9 +25577,9 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
 
 
-##### Section II : Le tribunal de première instance<a id=328></a>
+##### Section II : Le tribunal de première instance<a id=329></a>
 
-##### Sous-section I : Institution et compétence.<a id=329></a>
+##### Sous-section I : Institution et compétence.<a id=330></a>
 
 ###### Article R931-8
 
@@ -25373,7 +25662,7 @@ _Cite_:
   - Code de l'organisation judiciaire L312-1
 
 
-##### Sous-section II : Organisation.<a id=330></a>
+##### Sous-section II : Organisation.<a id=331></a>
 
 ###### Article R931-11
 
@@ -25450,7 +25739,7 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
 
 
-##### Section III : Les juridictions des mineurs.<a id=331></a>
+##### Section III : Les juridictions des mineurs.<a id=332></a>
 
 ###### Article R931-15
 
@@ -25477,7 +25766,7 @@ _Cite_:
   - Code de l'organisation judiciaire R522-10
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=332></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=333></a>
 
 ###### Article R931-16
 
@@ -25509,7 +25798,7 @@ _Cite_:
   - Nouveau code de procédure civile 342 à 366
 
 
-##### Section VI : Les secrétariats-greffes des juridictions.<a id=333></a>
+##### Section VI : Les secrétariats-greffes des juridictions.<a id=334></a>
 
 ###### Article R931-17
 
@@ -25615,9 +25904,9 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1
 
 
-#### Chapitre II : Dispositions particulières applicables dans les territoires de la Nouvelle-Calédonie et de la Polynésie française<a id=334></a>
+#### Chapitre II : Dispositions particulières applicables dans les territoires de la Nouvelle-Calédonie et de la Polynésie française<a id=335></a>
 
-##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=335></a>
+##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=336></a>
 
 ###### Article R932-1
 
@@ -25833,7 +26122,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-6 (M)
 
 
-##### Section II : Le tribunal du travail.<a id=336></a>
+##### Section II : Le tribunal du travail.<a id=337></a>
 
 ###### Article R932-10
 
@@ -25855,9 +26144,9 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
 
 
-##### Section III : Le tribunal mixte de commerce<a id=337></a>
+##### Section III : Le tribunal mixte de commerce<a id=338></a>
 
-##### Sous-section I : Institution et compétence.<a id=338></a>
+##### Sous-section I : Institution et compétence.<a id=339></a>
 
 ###### Article R932-11
 
@@ -25901,7 +26190,7 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=339></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=340></a>
 
 ###### Article R932-13
 
@@ -25926,9 +26215,9 @@ _Cite_:
   - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19
 
 
-##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=340></a>
+##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=341></a>
 
-##### I : Electorat.<a id=341></a>
+##### I : Electorat.<a id=342></a>
 
 ###### Article R932-14
 
@@ -26030,7 +26319,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R937-6 (V)
 
 
-##### III : Scrutin et opérations électorales.<a id=342></a>
+##### III : Scrutin et opérations électorales.<a id=343></a>
 
 ###### Article R932-17
 
@@ -26289,7 +26578,7 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
 
 
-##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=343></a>
+##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=344></a>
 
 ###### Article R932-25
 
@@ -26308,7 +26597,7 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993 en vigueur le 1er mars 1994
 
 
-##### Section IV : Les juridictions des mineurs.<a id=344></a>
+##### Section IV : Les juridictions des mineurs.<a id=345></a>
 
 ###### Article R932-26
 
@@ -26332,7 +26621,7 @@ _Cite_:
   - Code de l'organisation judiciaire R522-3
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=345></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=346></a>
 
 ###### Article R932-27
 
@@ -26352,7 +26641,7 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
 
 
-#### Chapitre III : Dispositions particulières applicables dans le territoire de la Nouvelle-Calédonie.<a id=346></a>
+#### Chapitre III : Dispositions particulières applicables dans le territoire de la Nouvelle-Calédonie.<a id=347></a>
 
 ###### Article R933-1
 
@@ -26526,9 +26815,9 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=347></a>
+#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=348></a>
 
-##### Section II : Le tribunal de première instance.<a id=348></a>
+##### Section II : Le tribunal de première instance.<a id=349></a>
 
 ###### Article R934-1
 
@@ -26672,7 +26961,7 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=349></a>
+#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=350></a>
 
 ###### Article R935-1
 
@@ -26691,9 +26980,9 @@ _Créé par_:
   - Décret n°93-955 du 26 juillet 1993 - art. 1 () JORF 28 juillet 1993
 
 
-### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte<a id=350></a>
+### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte<a id=351></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=351></a>
+#### Chapitre Ier : Dispositions générales.<a id=352></a>
 
 ###### Article R941-1
 
@@ -26751,9 +27040,9 @@ _Cite_:
   - Nouveau code de procédure civile 342 à 366
 
 
-#### Chapitre II : Le tribunal supérieur d'appel<a id=352></a>
+#### Chapitre II : Le tribunal supérieur d'appel<a id=353></a>
 
-##### Section I : Organisation.<a id=353></a>
+##### Section I : Organisation.<a id=354></a>
 
 ###### Article R942-1
 
@@ -26808,9 +27097,9 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Section II : Fonctionnement<a id=354></a>
+##### Section II : Fonctionnement<a id=355></a>
 
-##### Sous-section I : Dispositions générales.<a id=355></a>
+##### Sous-section I : Dispositions générales.<a id=356></a>
 
 ###### Article R942-4
 
@@ -26891,7 +27180,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Sous-section II : Le ministère public.<a id=356></a>
+##### Sous-section II : Le ministère public.<a id=357></a>
 
 ###### Article R942-8
 
@@ -26967,7 +27256,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=357></a>
+##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=358></a>
 
 ###### Article R942-12
 
@@ -27163,7 +27452,7 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=358></a>
+##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=359></a>
 
 ###### Article R942-20
 
@@ -27185,9 +27474,9 @@ _Cite_:
   - Code de l'organisation judiciaire R213-29
 
 
-#### Chapitre III : Le tribunal de première instance<a id=359></a>
+#### Chapitre III : Le tribunal de première instance<a id=360></a>
 
-##### Section I : Institution et compétence.<a id=360></a>
+##### Section I : Institution et compétence.<a id=361></a>
 
 ###### Article R943-1
 
@@ -27252,7 +27541,7 @@ _Cite_:
   - Code de l'organisation judiciaire R311-5, R311-6, R311-4
 
 
-##### Section II : Organisation.<a id=361></a>
+##### Section II : Organisation.<a id=362></a>
 
 ###### Article R943-4
 
@@ -27316,9 +27605,9 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Section III : Fonctionnement<a id=362></a>
+##### Section III : Fonctionnement<a id=363></a>
 
-##### Sous-section I : Dispositions générales.<a id=363></a>
+##### Sous-section I : Dispositions générales.<a id=364></a>
 
 ###### Article R943-7
 
@@ -27514,7 +27803,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=364></a>
+##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=365></a>
 
 ###### Article R943-16
 
@@ -27574,7 +27863,7 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-##### Sous-section III : Dispositions particulières à certaines matières.<a id=365></a>
+##### Sous-section III : Dispositions particulières à certaines matières.<a id=366></a>
 
 ###### Article R943-18
 
@@ -27618,7 +27907,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (M)
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=366></a>
+#### Chapitre IV : Les juridictions des mineurs.<a id=367></a>
 
 ###### Article R944-1
 
@@ -27646,7 +27935,7 @@ _Cite_:
   - Code de l'organisation judiciaire R522-2, R522-10
 
 
-#### Chapitre V : La cour criminelle.<a id=367></a>
+#### Chapitre V : La cour criminelle.<a id=368></a>
 
 ###### Article R945-1
 
@@ -27664,7 +27953,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=368></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=369></a>
 
 ###### Article R946-1
 
@@ -27773,7 +28062,7 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
 
 
-# Annexes<a id=369></a>
+# Annexes<a id=370></a>
 
 ###### Article Annexe Tableau des costumes
 
@@ -28119,6 +28408,870 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article Annexe Tableau V
+
+**Siège et ressort des tribunaux d'instance**
+
+**Nota:**
+
+Décret 2008-145 du 15 février 2008 art. 4 : A compter du 1er janvier 2010, les tableaux I et V annexés au code de
+l'organisation judiciaire sont remplacés par le tableau A Siège et ressort des cours d'appel et des tribunaux supérieurs
+d'appel, des tribunaux de grande instance et de première instance, des sections détachées des tribunaux de première instance,
+des tribunaux d'instance et des juridictions de proximité » annexé au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°79-391 1979-04-04 art. 7 JORF 18 mai 1979 rectificatif JORF 17 novembre 1979
+
+_Modifié par_:
+
+  - Décret n°82-980 1982-11-18 art. 1 JORF 21 novembre 1982
+  - Décret n°82-1033 1982-12-03 art. 2 JORF 5 décembre 1982
+  - Décret n°84-713 1984-07-17 art. 2 JORF 25 juillet 1984
+  - Décret n°89-219 du 12 avril 1989 - art. 2 (V) JORF 14 avril 1989 en vigueur le 1er août 1989
+  - Décret n°89-309 du 11 mai 1989 - art. 1 () JORF 17 mai 1989 en vigueur le 1er septembre 1989
+  - Décret n°92-86 du 22 janvier 1992 - art. 2 () JORF 26 janvier 1992
+  - Décret n°97-96 du 5 février 1997 - art. 2 (V) JORF 6 février 1997 en vigueur le 17 février 1997
+  - Décret n°2008-145 du 15 février 2008 - art. 4 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de l'organisation judiciaire R321-31
+
+
+###### Article Annexe Tableau VI
+
+**Siège et ressort des conseils de prud'hommes**
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉPARTEMENT         │ TRIBUNAL de grande     │ SIÈGE ET RESSORT des conseils de prud'hommes                               ┃
+┃                     │ instance               ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Siège du conseil de     │ Ressort du conseil de prud'hommes                ┃
+┃                     │                        │ prud'hommes             │                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel d'Agen                                                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gers                │ Auch                   │ Auch                    │ Ressort du tribunal de grande instance d'Auch.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lot                 │ Cahors                 │ Cahors                  │ Ressort du tribunal de grande instance de Cahors ┃
+┃                     │                        │                         │ et Gourdon.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Figeac                  │ Ressort du tribunal d'instance de Figeac.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lot-et-Garonne      │ Agen                   │ Agen                    │ Ressort du tribunal de grande instance d'Agen.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Marmande               │ Marmande                │ Ressort du tribunal de grande instance de Mar-   ┃
+┃                     │                        │                         │ mande.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel d'Aix-en-Provence                                                                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Alpes-de-Haute-Pro- │ Dignes-les-Bains       │ Dignes-les-Bains        │ Ressort des tribunaux d'instance de Dignes-les-  ┃
+┃ vence               │                        │                         │ Bains et Barcelonnette.                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Manosque                │ Ressort du tribunal d'instance de Forcalquier.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Alpes-Maritimes     │ Grasse                 │ Cannes                  │ Ressort du tribunal d'instance de Cannes.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Grasse                  │ Ressort des tribunaux d'instance d'Antibes,      ┃
+┃                     │                        │                         │ Cannes-sur-Mer et Grasse.                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Nice                   │ Menton                  │ Ressort du tribunal d'instance de Menton.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Nice                    │ Ressort du tribunal d'instance de Nice.          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bouches-du-Rhône    │ Aix-en-Provence        │ Aix-en-Provence         │ Ressort du tribunal d'instance d'Aix-en-Pro-     ┃
+┃                     │                        │                         │ vence.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Martigues               │ Ressort du tribunal d'instance de Martigues.     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Salon-de-Provence       │ Ressort du tribunal d'instance de Salon-de-Pro-  ┃
+┃                     │                        │                         │ vence.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Marseille              │ Marseille               │ Ressort du tribunal de grande instance de Mar-   ┃
+┃                     │                        │                         │ seille.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Tarascon               │ Arles                   │ Ressort du tribunal de grande instance de Taras- ┃
+┃                     │                        │                         │ con.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Var                 │ Draguignan             │ Draguignan              │ Ressort des tribunaux d'instance de Brignoles et ┃
+┃                     │                        │                         │ Draguignan.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Fréjus                  │ Ressort du tribunal d'instance de Fréjus.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Toulon                 │ Toulon                  │ Ressort du tribunal de grande instance de Tou-   ┃
+┃                     │                        │                         │ lon.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel d'Amiens                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aisne               │ Laon                   │ Chauny                  │ Cantons de Chauny, Coucy-le-Château-Auffrique,   ┃
+┃                     │                        │                         │ La Fère et Tergnier.                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Hirson                  │ Ressort du tribunal d'instance de Vervins.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Laon                    │ Ressort du tribunal d'instance de Laon, à l'ex-  ┃
+┃                     │                        │                         │ ception des cantons de Chauny, Coucy-le-Château- ┃
+┃                     │                        │                         │ Auffrique, La Fère et Tergnier.                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Quentin          │ Saint-Quentin           │ Ressort du tribunal de grande instance de Saint- ┃
+┃                     │                        │                         │ Quentin.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Soissons               │ Château-Thierry         │ Ressort du tribunal d'instance de Château-       ┃
+┃                     │                        │                         │ Thierry.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Soissons                │ Ressort du tribunal d'instance de Soissons.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Oise                │ Beauvais               │ Beauvais                │ Ressort du tribunal de grande instance de Beau-  ┃
+┃                     │                        │                         │ vais.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Compiègne              │ Compiègne               │ Ressort du tribunal de grande instance de Com-   ┃
+┃                     │                        │                         │ piègne.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Senlis                 │ Creil                   │ Ressort du tribunal de grande instance de Sen-   ┃
+┃                     │                        │                         │ lis.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Somme               │ Abbeville              │ Abbeville               │ Ressort du tribunal de grande instance d'Abbe-   ┃
+┃                     │                        │                         │ ville, à l'exception des cantons d'Ault, Fri-    ┃
+┃                     │                        │                         │ ville-Escarbotin, Gamaches et Saint-Valéry-sur-  ┃
+┃                     │                        │                         │ Somme.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Friville-Escarbotin     │ Cantons d'Ault, Friville-Escarbotin, Gamaches et ┃
+┃                     │                        │                         │ Saint-Valéry-sur-Somme.                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Amiens                 │ Amiens                  │ Ressort du tribunal de grande instance d'Amiens. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Péronne                │ Péronne                 │ Ressort du tribunal de grande instance de Pé-    ┃
+┃                     │                        │                         │ ronne.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel d'Angers                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Maine-et-Loire      │ Angers                 │ Angers                  │ Ressort des tribunaux d'instance d'Angers et Se- ┃
+┃                     │                        │                         │ gré.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Cholet                  │ Ressort du tribunal d'instance de Cholet.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saumur                 │ Saumur                  │ Ressort du tribunal de grande instance de Sau-   ┃
+┃                     │                        │                         │ mur.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Mayenne             │ Laval                  │ Laval                   │ Ressort du tribunal de grande instance de Laval. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Sarthe              │ Le Mans                │ Le Mans                 │ Ressort du tribunal de grande instance du Mans.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'Appel de Bastia                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Corse-du-Sud        │ Ajaccio                │ Ajaccio                 │ Ressort du tribunal de grande instance d'Ajac-   ┃
+┃                     │                        │                         │ cio.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Corse         │ Bastia                 │ Bastia                  │ Ressort du tribunal de grande instance de Bas-   ┃
+┃                     │                        │                         │ tia.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Besançon                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Territoire de Bel-  │ Belfort                │ Belfort                 │ Ressort du tribunal de grande instance de Bel-   ┃
+┃ fort                │                        │                         │ fort.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Doubs               │ Besançon               │ Besançon                │ Ressort du tribunal de grande instance de Besan- ┃
+┃                     │                        │                         │ çon.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Montbéliard            │ Montbéliard             │ Ressort du tribunal de grande instance de Mont-  ┃
+┃                     │                        │                         │ béliard.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Jura                │ Dole                   │ Dole                    │ Ressort du tribunal de grande instance de Dole.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Lons-Le-Saunier        │ Lons-Le-Saunier         │ Ressort du tribunal d'instance de Lons-Le-Sau-   ┃
+┃                     │                        │                         │ nier.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Saint-Claude            │ Ressort du tribunal d'instance de Saint-Claude.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Saône         │ Lure                   │ Lure                    │ Ressort du tribunal de grande instance de Lure.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Vesoul                 │ Vesoul                  │ Ressort du tribunal de grande instance de Ve-    ┃
+┃                     │                        │                         │ soul.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Bordeaux                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Charente            │ Angoulême              │ Angoulême               │ Ressort des tribunaux d'instance d'Angoulême,    ┃
+┃                     │                        │                         │ Confolens et Ruffec.                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Cognac                  │ Ressort des tribunaux d'instance de Cognac et    ┃
+┃                     │                        │                         │ Barbezieux.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Dordogne            │ Bergerac               │ Bergerac                │ Ressort du tribunal de grande instance de Berge- ┃
+┃                     │                        │                         │ rac.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Périgueux              │ Périgueux               │ Ressort du tribunal de grande instance de Péri-  ┃
+┃                     │                        │                         │ gueux.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gironde             │ Bordeaux               │ Bordeaux                │ Ressort du tribunal de grande instance de Bor-   ┃
+┃                     │                        │                         │ deaux.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Libourne               │ Libourne                │ Ressort du tribunal de grande instance de Li-    ┃
+┃                     │                        │                         │ bourne.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Bourges                                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cher                │ Bourges                │ Bourges                 │ Ressort des tribunaux d'instance de Bourges,     ┃
+┃                     │                        │                         │ Saint-Amand-Monrond et Sancerre, à l'exception   ┃
+┃                     │                        │                         │ des cantons d'Argent-sur-Sauldre, Aubigny-sur-   ┃
+┃                     │                        │                         │ Nère et la Chapelle-d'Angillon.                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Vierzon                 │ Ressort du tribunal d'instance de Vierzon et     ┃
+┃                     │                        │                         │ cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère   ┃
+┃                     │                        │                         │ et la Chapelle-d'Angillon.                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Indre               │ Châteauroux            │ Châteauroux             │ Ressort des tribunaux d'instance de Châteauroux  ┃
+┃                     │                        │                         │ et le Blanc.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Issoudun                │ Ressort des tribunaux d'instance d'Issoudun et   ┃
+┃                     │                        │                         │ La Châtre.                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nièvre              │ Nevers                 │ Nevers                  │ Ressort du tribunal de grande instance de Ne-    ┃
+┃                     │                        │                         │ vers.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Caen                                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Calvados            │ Caen                   │ Caen                    │ Ressort des tribunaux d'instance de Bayeux, Caen ┃
+┃                     │                        │                         │ et Falaise.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Vire                    │ Ressort du tribunal d'instance de Vire.          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Lisieux                │ Lisieux                 │ Ressort du tribunal d'instance de Lisieux.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Trouville               │ Ressort du tribunal d'instance de Pont-l'Evêque. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Manche              │ Avranches              │ Avranches               │ Ressort du tribunal de grande instance           ┃
+┃                     │                        │                         │ d'Avranches.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Cherbourg              │ Cherbourg               │ Ressort du tribunal de grande instance de Cher-  ┃
+┃                     │                        │                         │ bourg.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Coutances              │ Coutances               │ Ressort du tribunal de grande instance de Cou-   ┃
+┃                     │                        │                         │ tances.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Orne                │ Alençon                │ Alençon                 │ Ressort du tribunal de grande instance d'Alen-   ┃
+┃                     │                        │                         │ çon.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Argentan               │ Argentan                │ Ressort du tribunal d'instance d'Argentan.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Flers                   │ Ressort du tribunal d'instance de Domfront.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Chambéry                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Savoie              │ Albertville            │ Albertville             │ Ressort du tribunal de grande instance d'Albert- ┃
+┃                     │                        │                         │ ville.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Chambéry               │ Aix-les-Bains           │ Ressort du tribunal d'instance d'Aix-les-Bains.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Chambéry                │ Ressort du tribunal d'instance de Chambéry.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Savoie        │ Annecy                 │ Annecy                  │ Ressort du tribunal de grande instance d'Annecy. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Bonneville             │ Bonneville              │ Ressort du tribunal de grande instance de Bonne- ┃
+┃                     │                        │                         │ ville.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Thonon-les-Bains       │ Annemasse               │ Ressort du tribunal d'instance de Saint-Julien-  ┃
+┃                     │                        │                         │ en-Genevois.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Thonon-les-Bains        │ Ressort du tribunal d'instance de Thonon-les-    ┃
+┃                     │                        │                         │ Bains.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Colmar                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bas-Rhin            │ Saverne                │ Molsheim                │ Ressort du tribunal d'instance de Molsheim.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Saverne                 │ Ressort du tribunal d'instance de Saverne.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Strasbourg             │ Haguenau                │ Ressort des tribunaux d'instance d'Haguenau et   ┃
+┃                     │                        │                         │ Wissembourg.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Schiltigheim            │ Ressort des tribunaux d'instance de Brumath et   ┃
+┃                     │                        │                         │ Schiltigheim.                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Strasbourg              │ Ressort des tribunaux d'instance d'lllkirch-     ┃
+┃                     │                        │                         │ Graffenstaden et Strasbourg.                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haut-Rhin           │ Colmar                 │ Colmar                  │ Ressort des tribunaux d'instance de Colmar et    ┃
+┃                     │                        │                         │ Ribeauvillé.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Guebwiller              │ Ressort du tribunal d'instance de Guebwiller.    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Sélestat (Bas-Rhin)     │ Ressort du tribunal d'instance de Sélestat.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Mulhouse               │ Altkirch                │ Ressort des tribunaux d'instance d'Altkirch et   ┃
+┃                     │                        │                         │ Huningue.                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Mulhouse                │ Ressort des tribunaux d'instance de Mulhouse et  ┃
+┃                     │                        │                         │ Thann.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Dijon                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Côte-d'Or           │ Dijon                  │ Beaune                  │ Ressort du tribunal d'instance de Beaune.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Dijon                   │ Ressort des tribunaux d'instance de Châtillon-   ┃
+┃                     │                        │                         │ sur-Seine, Dijon et Semur-en-Auxois.             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Marne         │ Chaumont               │ Chaumont                │ Ressort des tribunaux d'instance de Chaumont et  ┃
+┃                     │                        │                         │ Langres.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Saint-Dizier            │ Ressort du tribunal d'instance de Saint-Dizier.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Saône-et-Loire      │ Chalon-sur-Saône       │ Autun                   │ Ressort du tribunal d'instance d'Autun.          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Chalon-sur-Saône        │ Ressort des tribunaux d'instance de Chalon-sur-  ┃
+┃                     │                        │                         │ Saône et Louhans.                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Le Creusot              │ Ressort du tribunal d'instance du Creusot.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Montceau-les-Mines      │ Ressort du tribunal d'instance de Montceau-les-  ┃
+┃                     │                        │                         │ Mines.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Mâcon                  │ Mâcon                   │ Ressort du tribunal de grande instance de Mâcon. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Douai                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nord                │ Avesnes-sur-Helpe      │ Fourmies                │ Ressort du tribunal d'instance d'Avesnes-sur-    ┃
+┃                     │                        │                         │ Helpe.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Maubeuge                │ Ressort du tribunal d'instance de Maubeuge.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Cambrai                │ Cambrai                 │ Ressort du tribunal de grande instance de Cam-   ┃
+┃                     │                        │                         │ brai.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Douai                  │ Douai                   │ Ressort du tribunal de grande instance de Douai. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Dunkerque              │ Dunkerque               │ Ressort du tribunal de grande instance de Dun-   ┃
+┃                     │                        │                         │ kerque.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Hazebrouck             │ Hazebrouck              │ Ressort du tribunal de grande instance d' Haze-  ┃
+┃                     │                        │                         │ brouck.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Lille                  │ Armentières             │ Canton d'Armentières.                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Halluin                 │ Communes de Bousbecques, Comines, Halluin, Roncq ┃
+┃                     │                        │                         │ et Wervicq-Sud.                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Haubourdin              │ Cantons d'Haubourdin et Lomme.                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Lannoy                  │ Cantons de Lannoy, Villeneuve-d'Ascq-Nord et     ┃
+┃                     │                        │                         │ Villeneuve-d'Ascq-Sud.                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Lille                   │ Ressort du tribunal d'instance de Lille, à l'ex- ┃
+┃                     │                        │                         │ ception des cantons d'Armentières, Haubourdin,   ┃
+┃                     │                        │                         │ Lomme, Lannoy, Villeneuve-d'Ascq-Nord, Ville-    ┃
+┃                     │                        │                         │ neuve-d'Ascq-Sud et des communes de Comines et   ┃
+┃                     │                        │                         │ Wervicq-Sud.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Roubaix                 │ Ressort du tribunal d'instance de Roubaix.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Tourcoing               │ Ressort du tribunal d'instance de Tourcoing, à   ┃
+┃                     │                        │                         │ l'exception des communes de Bousbecques, Halluin ┃
+┃                     │                        │                         │ et Roncq.                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Valenciennes           │ Valenciennes            │ Ressort du tribunal de grande instance de Valen- ┃
+┃                     │                        │                         │ ciennes.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pas-de-Calais       │ Arras                  │ Arras                   │ Ressort du tribunal de grande instance d'Arras.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Béthune                │ Béthune                 │ Ressort des tribunaux d'instance de Béthune et   ┃
+┃                     │                        │                         │ Houdain.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Lens                    │ Ressort des tribunaux d'instance de Carvin, Lens ┃
+┃                     │                        │                         │ et Liévin.                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Boulogne-sur-Mer       │ Montreuil               │ Ressort du tribunal d'instance de Montreuil.     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Boulogne-sur-Mer        │ Ressort du tribunal d'instance de Boulogne-sur-  ┃
+┃                     │                        │                         │ Mer.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Calais                  │ Ressort du tribunal d'instance de Calais.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Omer             │ Saint-Omer              │ Ressort du tribunal de grande instance de Saint- ┃
+┃                     │                        │                         │ Omer.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Grenoble                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hautes-Alpes        │ Gap                    │ Briançon                │ Ressort du tribunal d'instance de Briançon.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Gap                     │ Ressort du tribunal d'instance de Gap.           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Drôme               │ Valence                │ Montélimar              │ Ressort des tribunaux d'instance de Montélimar   ┃
+┃                     │                        │                         │ et Nyons                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Romans                  │ Ressort du tribunal d'instance de Romans.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Valence                 │ Ressort des tribunaux d'instance de Die et Va-   ┃
+┃                     │                        │                         │ lence.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Isère               │ Bourgoin-Jallieu       │ Bourgoin-Jallieu        │ Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jal-  ┃
+┃                     │                        │                         │ lieu-Sud, Crémieu et le Grand-Lemps.             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ La Tour-du-Pin          │ Cantons de Morestel, Pont-de-Beauvoisin, Saint-  ┃
+┃                     │                        │                         │ Geoire-en-Valdaine, La Tour-du Pin et Virieu.    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Grenoble               │ Grenoble                │ Ressort des tribunaux d'instance de La Mure et   ┃
+┃                     │                        │                         │ Grenoble, à l'exception des cantons de Saint-    ┃
+┃                     │                        │                         │ Laurent-du-Pont et Voiron.                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Voiron                  │ Ressort du tribunal d'instance de Marcellin et   ┃
+┃                     │                        │                         │ cantons de Saint-Laurent-du-Pont et Voiron.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Vienne                 │ Vienne                  │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Vienne.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Limoges                                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Corrèze             │ Brive                  │ Brive                   │ Ressort du tribunal de grande instance de Brive. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Tulle                  │ Tulle                   │ Ressort du tribunal de grande instance de Tulle. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Creuse              │ Guéret                 │ Guéret                  │ Ressort du tribunal de grande instance de Gué-   ┃
+┃                     │                        │                         │ ret.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Vienne        │ Limoges                │ Limoges                 │ Ressort du tribunal de grande instance de Li-    ┃
+┃                     │                        │                         │ moges.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Lyon                                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ain                 │ Belley                 │ Belley                  │ Ressort du tribunal de grande instance de Bel-   ┃
+┃                     │                        │                         │ ley.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Bourg-en-Bresse        │ Bourg-en-Bresse         │ Ressort des tribunaux d'instance de Bourg-en-    ┃
+┃                     │                        │                         │ Bresse et Trévoux.                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Oyonnax                 │ Ressort du tribunal d'instance de Nantua.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loire               │ Montbrison             │ Montbrison              │ Ressort du tribunal de grande instance de Mont-  ┃
+┃                     │                        │                         │ brison.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Roanne                 │ Roanne                  │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Roanne.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Etienne          │ Firminy                 │ Ressort du tribunal d'instance du Chambon-Feuge- ┃
+┃                     │                        │                         │ rolles.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Saint-Chamond           │ Cantons de Pélussin, Rive-de-Gier, Saint-Cha-    ┃
+┃                     │                        │                         │ mond-Nord et Saint-Chamond-Sud.                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Saint-Etienne           │ Ressort du tribunal d'instance de Saint-Etienne, ┃
+┃                     │                        │                         │ à l'exception des cantons de Pélussin, Rive-de-  ┃
+┃                     │                        │                         │ Gier, Saint-Chamond-Nord et Saint-Chamond-Sud.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rhône               │ Lyon                   │ Givors                  │ Cantons de Condrieu, Givors, Mornant et Saint-   ┃
+┃                     │                        │                         │ Symphorien-sur-Coise.                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Lyon                    │ Ressort du tribunal de grande instance de Lyon,  ┃
+┃                     │                        │                         │ à l'exception des cantons de Condrieu, Givors,   ┃
+┃                     │                        │                         │ Mornant et Saint-Symphorien-sur-Coise.           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Villefranche-sur-Saône │ Villefranche-sur-Saône  │ Ressort du tribunal de grande instance de Ville- ┃
+┃                     │                        │                         │ franche-sur-Saône.                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Metz                                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Moselle             │ Metz                   │ Metz                    │ Ressort des tribunaux d'instance de Boulay-Mo-   ┃
+┃                     │                        │                         │ selle et Metz.                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Sarrebourg              │ Ressort des tribunaux d'instance de Château-Sa-  ┃
+┃                     │                        │                         │ lins et Sarrebourg.                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Sarreguemines          │ Forbach                 │ Ressort des tribunaux d'instance de Forbach et   ┃
+┃                     │                        │                         │ Saint-Avold.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Sarreguemines           │ Ressort du tribunal d'instance de Sarreguemines. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Thionville             │ Thionville              │ Ressort du tribunal de grande instance de Thion- ┃
+┃                     │                        │                         │ ville.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Montpellier                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aude                │ Carcassonne            │ Carcassonne             │ Ressort du tribunal de grande instance de Car-   ┃
+┃                     │                        │                         │ cassonne.                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Narbonne               │ Narbonne                │ Ressort du tribunal de grande instance de Nar-   ┃
+┃                     │                        │                         │ bonne.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aveyron             │ Millau                 │ Millau                  │ Ressort du tribunal de grande instance de Mil-   ┃
+┃                     │                        │                         │ lau.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Rodez                  │ Decazeville             │ Ressort du tribunal d'instance de Villefranche-  ┃
+┃                     │                        │                         │ de-Rouergue.                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Rodez                   │ Ressort des tribunaux d'instance d'Espalion et   ┃
+┃                     │                        │                         │ Rodez.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hérault             │ Béziers                │ Bédarieux               │ Cantons de Bédarieux et Saint-Gervais-sur-Mare.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Béziers                 │ Ressort du tribunal de grande instance de Bé-    ┃
+┃                     │                        │                         │ ziers, à l'exception des cantons de Bédarieux et ┃
+┃                     │                        │                         │ Saint-Gervais-sur-Mare.                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Montpellier            │ Clermont-l'Hérault      │ Ressort du tribunal d'instance de Lodève.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Montpellier             │ Ressort du tribunal d'instance de Montpellier.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Sète                    │ Ressort du tribunal d'instance de Sète.          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pyrénées-Orientales │ Perpignan              │ Perpignan               │ Ressort du tribunal de grande instance de Perpi- ┃
+┃                     │                        │                         │ gnan.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Nancy                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Meurthe-et-Moselle  │ Briey                  │ Briey                   │ Ressort du tribunal d'instance de Briey.         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Longwy                  │ Ressort du tribunal d'instance de Longwy.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Nancy                  │ Lunéville               │ Ressort du tribunal d'instance de Lunéville.     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Nancy                   │ Ressort des tribunaux d'instance de Nancy et     ┃
+┃                     │                        │                         │ Toul.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Meuse               │ Bar-le-Duc             │ Bar-le-Duc              │ Ressort du tribunal de grande instance de Bar-   ┃
+┃                     │                        │                         │ le-Duc.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Verdun                 │ Verdun                  │ Ressort du tribunal de grande instance de Ver-   ┃
+┃                     │                        │                         │ dun.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vosges              │ Epinal                 │ Epinal                  │ Ressort des tribunaux d'instance d'Epinal, Mire- ┃
+┃                     │                        │                         │ court et Neufchâteau.                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Remiremont              │ Ressort du tribunal d'instance de Remiremont.    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Dié-des-Vosges   │ Saint-Dié-des-Vosges    │ Ressort du tribunal de grande instance de Saint- ┃
+┃                     │                        │                         │ Dié-des-Vosges.                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Nîmes                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ardèche             │ Privas                 │ Annonay                 │ Ressort du tribunal d'instance de Tournon-sur-   ┃
+┃                     │                        │                         │ Rhône.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Aubenas                 │ Ressort des tribunaux d'instance de Largentière  ┃
+┃                     │                        │                         │ et Privas.                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gard                │ Alès                   │ Alès                    │ Ressort du tribunal de grande instance d'Alès.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Nîmes                  │ Nîmes                   │ Ressort du tribunal de grande instance de Nîmes. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lozère              │ Mende                  │ Mende                   │ Ressort du tribunal de grande instance de Mende. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vaucluse            │ Avignon                │ Avignon                 │ Ressort du tribunal de grande instance d'Avi-    ┃
+┃                     │                        │                         │ gnon.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Carpentras             │ Carpentras              │ Ressort du tribunal d'instance de Carpentras.    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Orange                  │ Ressort du tribunal d'instance d'Orange.         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel d'Orléans                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Indre-et-Loire      │ Tours                  │ Tours                   │ Ressort du tribunal de grande instance de Tours. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loir-et-Cher        │ Blois                  │ Blois                   │ Ressort des tribunaux d'instance de Blois et     ┃
+┃                     │                        │                         │ Vendôme.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Romorantin-Lanthenay    │ Ressort du tribunal d'instance de Romorantin-    ┃
+┃                     │                        │                         │ Lanthenay.                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loiret              │ Montargis              │ Montargis               │ Ressort du tribunal de grande instance de Mon-   ┃
+┃                     │                        │                         │ targis.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Orléans                │ Orléans                 │ Ressort du tribunal de grande instance d'Or-     ┃
+┃                     │                        │                         │ léans.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Paris                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Essonne             │ Evry                   │ Evry                    │ Ressort des tribunaux d'instance d'Evry et Ju-   ┃
+┃                     │                        │                         │ visy-sur-Orge.                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Etampes                 │ Ressort du tribunal d'instance d'Etampes.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Longjumeau              │ Ressort des tribunaux d'instance de Longjumeau   ┃
+┃                     │                        │                         │ et Palaiseau.                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Seine-et-Marne      │ Fontainebleau          │ Fontainebleau           │ Ressort du tribunal de grande instance de Fon-   ┃
+┃                     │                        │                         │ tainebleau.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Meaux                  │ Meaux                   │ Ressort du tribunal de grande instance de Meaux. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Melun                  │ Melun                   │ Ressort du tribunal de grande instance de Melun. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Seine-Saint-Denis   │ Bobigny                │ Bobigny                 │ Ressort du tribunal de grande instance de Bobi-  ┃
+┃                     │                        │                         │ gny.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Val-de-Marne        │ Créteil                │ Créteil                 │ Ressort des tribunaux d'instance de Charenton-   ┃
+┃                     │                        │                         │ le-Pont, Ivry-sur-Seine, Nogent-sur-Marne,       ┃
+┃                     │                        │                         │ Saint-Maur-des-Fossés, Villejuif et Vincennes, à ┃
+┃                     │                        │                         │ l'exception des communes de Choisy-le-Roi et     ┃
+┃                     │                        │                         │ Orly, et de l'emprise de l'aérodrome de Paris-   ┃
+┃                     │                        │                         │ Orly.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Villeneuve-Saint-       │ Ressort du tribunal d'instance de Boissy-Saint-  ┃
+┃                     │                        │ Georges                 │ Léger, cantons de Choisy-le-Roi et Orly, et      ┃
+┃                     │                        │                         │ l'emprise de l'aérodrome de Paris-Orly.          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Yonne               │ Auxerre                │ Auxerre                 │ Ressort du tribunal de grande instance           ┃
+┃                     │                        │                         │ d'Auxerre.                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Sens                   │ Sens                    │ Ressort du tribunal de grande instance de Sens.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Paris               │ Paris                  │ Paris                   │ Ressort du tribunal de grande instance de Paris. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Pau                                                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Landes              │ Dax                    │ Dax                     │ Ressort du tribunal de grande instance de Dax.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Mont-de-Marsan         │ Mont-de-Marsan          │ Ressort du tribunal de grande instance de Mont-  ┃
+┃                     │                        │                         │ de-Marsan.                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pyrénées-Atlan-     │ Bayonne                │ Bayonne                 │ Ressort du tribunal de grande instance de        ┃
+┃ tiques              │                        │                         │ Bayonne.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Pau                    │ Oloron-Sainte-Marie     │ Ressort du tribunal d'instance d'Oloron-Sainte-  ┃
+┃                     │                        │                         │ Marie.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Pau                     │ Ressort des tribunaux d'instance d'Orthez et     ┃
+┃                     │                        │                         │ Pau.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hautes-Pyrénées     │ Tarbes                 │ Tarbes                  │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Tarbes.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Poitiers                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Charente-Maritime   │ La Rochelle            │ La Rochelle             │ Ressort du tribunal de grande instance de La Ro- ┃
+┃                     │                        │                         │ chelle.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Rochefort              │ Rochefort               │ Ressort du tribunal de grande instance de Roche- ┃
+┃                     │                        │                         │ fort.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saintes                │ Saintes                 │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Saintes.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Deux-Sèvres         │ Bressuire              │ Thouars                 │ Ressort du tribunal de grande instance de Bres-  ┃
+┃                     │                        │                         │ suire.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Niort                  │ Niort                   │ Ressort du tribunal de grande instance de Niort. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vendée              │ La Roche-sur-Yon       │ La Roche-sur-Yon        │ Ressort du tribunal de grande instance de la     ┃
+┃                     │                        │                         │ Roche-sur-Yon.                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Les Sables-d'Olonne    │ Les Sables-d'Olonne     │ Ressort du tribunal de grande instance des       ┃
+┃                     │                        │                         │ Sables-d'Olonne.                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vienne              │ Poitiers               │ Châtellerault           │ Ressort des tribunaux d'instance de Châtelle-    ┃
+┃                     │                        │                         │ rault et Loudun.                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Poitiers                │ Ressort des tribunaux d'instance de Civray,      ┃
+┃                     │                        │                         │ Montmorillon et Poitiers.                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Reims                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ardennes            │ Charleville-Mézières   │ Charleville-Mézières    │ Ressort des tribunaux d'instance de Charleville- ┃
+┃                     │                        │                         │ Mézières et Rocroi.                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Sedan                   │ Ressort des tribunaux d'instance de Rethel, Se-  ┃
+┃                     │                        │                         │ dan et Vouziers.                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aube                │ Troyes                 │ Romilly-sur-Seine       │ Ressort du tribunal d'instance de Nogent-sur-    ┃
+┃                     │                        │                         │ Seine.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Troyes                  │ Ressort des tribunaux d'instance de Bar-sur-     ┃
+┃                     │                        │                         │ Aube, Bar-sur-Seine et Troyes.                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Marne               │ Châlons-en-Champagne   │ Châlons-en-Champagne    │ Ressort des tribunaux d'instance de Châlons-en-  ┃
+┃                     │                        │                         │ Champagne et Vitry-le-François.                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Epernay                 │ Ressort du tribunal d'instance d'Epernay.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Reims                  │ Reims                   │ Ressort du tribunal de grande instance de Reims. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Rennes                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Côtes-d'Armor       │ Dinan                  │ Dinan                   │ Ressort du tribunal de grande instance de Dinan. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Guingamp               │ Guingamp                │ Ressort du tribunal de grande instance de Guin-  ┃
+┃                     │                        │                         │ gamp.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Brieuc           │ Saint-Brieuc            │ Ressort du tribunal de grande instance de Saint- ┃
+┃                     │                        │                         │ Brieuc.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Finistère           │ Brest                  │ Brest                   │ Ressort du tribunal de grande instance de Brest. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Morlaix                │ Morlaix                 │ Ressort du tribunal de grande instance de Mor-   ┃
+┃                     │                        │                         │ laix.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Quimper                │ Qimper                  │ Ressort du tribunal de grande instance de Quim-  ┃
+┃                     │                        │                         │ per.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ille-et-Vilaine     │ Rennes                 │ Fougères                │ Ressort du tribunal d'instance de Fougères et    ┃
+┃                     │                        │                         │ cantons de Vitré-Est et Vitré-Ouest.             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Redon                   │ Ressort du tribunal d'instance de Redon.         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Rennes                  │ Ressort des tribunaux d'instance de Montfort-    ┃
+┃                     │                        │                         │ sur-Meu, Rennes et Vitré, à l'exception des can- ┃
+┃                     │                        │                         │ tons de Vitré-Est et Vitré-Ouest.                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Malo             │ Saint-Malo              │ Ressort du tribunal de grande instance de Saint- ┃
+┃                     │                        │                         │ Malo.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loire-Atlantique    │ Nantes                 │ Nantes                  │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Nantes.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Nazaire          │ Saint-Nazaire           │ Ressort du tribunal de grande instance de Saint- ┃
+┃                     │                        │                         │ Nazaire.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Morbihan            │ Lorient                │ Lorient                 │ Ressort du tribunal de grande instance de Lo-    ┃
+┃                     │                        │                         │ rient.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Vannes                 │ Vannes                  │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Vannes.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Riom                                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Allier              │ Cusset                 │ Vichy                   │ Ressort du tribunal de grande instance de Cus-   ┃
+┃                     │                        │                         │ set.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Montluçon              │ Montluçon               │ Ressort du tribunal de grande instance de Mont-  ┃
+┃                     │                        │                         │ luçon.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Moulins                │ Moulins                 │ Ressort du tribunal de grande instance de Mou-   ┃
+┃                     │                        │                         │ lins.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cantal              │ Aurillac               │ Aurillac                │ Ressort du tribunal de grande instance d'Au-     ┃
+┃                     │                        │                         │ rillac.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Loire         │ Le Puy-en-Velay        │ Le Puy-en-Velay         │ Ressort du tribunal de grande instance du Puy-   ┃
+┃                     │                        │                         │ en-Velay.                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Puy-de-Dôme         │ Clermont-Ferrand       │ Clermont-Ferrand        │ Ressort des tribunaux d'instance de Clermont-    ┃
+┃                     │                        │                         │ Ferrand et Issoire.                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Thiers                  │ Ressort des tribunaux d'instance d'Ambert et     ┃
+┃                     │                        │                         │ Thiers.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Riom                   │ Riom                    │ Ressort du tribunal de grande instance de Riom.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Rouen                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Eure                │ Bernay                 │ Bernay                  │ Ressort du tribunal de grande instance de Ber-   ┃
+┃                     │                        │                         │ nay.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Evreux                 │ Evreux                  │ Ressort du tribunal d'instance d'Evreux.         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Louviers                │ Ressort des tribunaux d'instance des Andelys et  ┃
+┃                     │                        │                         │ Louviers.                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Seine-Maritime      │ Dieppe                 │ Dieppe                  │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Dieppe.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Le Havre               │ Bolbec                  │ Cantons de Bolbec et Lillebonne.                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Fécamp                  │ Canton de Fécamp.                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Le Havre                │ Ressort du tribunal de grande instance du Havre, ┃
+┃                     │                        │                         │ à l'exception des cantons de Bolbec, Fécamp et   ┃
+┃                     │                        │                         │ Lillebonne.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Rouen                  │ Elbeuf                  │ Ressort du tribunal d'instance d'Elbeuf.         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Rouen                   │ Ressort des tribunaux d'instance de Rouen et     ┃
+┃                     │                        │                         │ Yvetot.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Toulouse                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ariège              │ Foix                   │ Foix                    │ Ressort du tribunal de grande instance de Foix.  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Garonne       │ Toulouse               │ Toulouse                │ Ressort du tribunal de grande instance de Tou-   ┃
+┃                     │                        │                         │ louse.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Saint-Gaudens          │ Saint-Gaudens           │ Ressort du tribunal de grande instance de Saint- ┃
+┃                     │                        │                         │ Gaudens.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Tarn                │ Albi                   │ Albi                    │ Ressort du tribunal de grande instance d'Albi.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Castres                │ Castres                 │ Ressort du tribunal de grande instance de        ┃
+┃                     │                        │                         │ Castres, à l'exception des cantons de Mazamet-   ┃
+┃                     │                        │                         │ Nord-Est, Mazamet-Sud-Ouest et Saint-Amans-      ┃
+┃                     │                        │                         │ Soult.                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Mazamet                 │ Cantons de Mazamet-Nord-Est, Mazamet-Sud-Ouest   ┃
+┃                     │                        │                         │ et Saint-Amans-Soult.                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │ Montauban              │ Montauban               │ Ressort du tribunal de grande instance de Mon-   ┃
+┃                     │                        │                         │ tauban.                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Versailles                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Eure-et-Loir        │ Chartres               │ Chartres                │ Ressort du tribunal d'instance de Chartres.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Châteaudun              │ Ressort du tribunal d'instance de Châteaudun.    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Dreux                   │ Ressort du tribunal d'instance de Dreux.         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Nogent-le-Rotrou        │ Ressort du tribunal d'instance de Nogent-le-Ro-  ┃
+┃                     │                        │                         │ trou.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hauts-de-Seine      │ Nanterre               │ Boulogne-Billancourt    │ Ressort des tribunaux d'instance d'Antony, Bou-  ┃
+┃                     │                        │                         │ logne-Billancourt et Vanves.                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Nanterre                │ Ressort des tribunaux d'instance d'Asnières,     ┃
+┃                     │                        │                         │ Clichy, Colombes, Courbevoie, Levallois-Perret,  ┃
+┃                     │                        │                         │ Neuilly-sur-Seine et Puteaux.                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Val-d'Oise          │ Pontoise               │ Argenteuil              │ Ressort du tribunal d'instance de Sannois.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Montmorency             │ Ressort des tribunaux d'instance d'Ecouen, Go-   ┃
+┃                     │                        │                         │ nesse et Montmorency.                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Cergy-Pontoise          │ Ressort du tribunal d'instance de Pontoise.      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Yvelines            │ Versailles             │ Mantes-la-Jolie         │ Ressort du tribunal d'instance de Mantes-la-Jo-  ┃
+┃                     │                        │                         │ lie.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Poissy                  │ Ressort du tribunal d'instance de Poissy.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Rambouillet             │ Ressort du tribunal d'instance de Rambouillet.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Saint-Germain-en-Laye   │ Ressort du tribunal d'instance de Saint-Germain- ┃
+┃                     │                        │                         │ en-Laye.                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │                        │ Versailles              │ Ressort du tribunal d'instance de Versailles.    ┃
+┗━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°80-196 du 10 mars 1980 - art. 6 (V) JORF 14 mars 1980
+
+_Modifié par_:
+
+  - Décret n°93-955 du 26 juillet 1993 - art. 3 () JORF 28 juillet 1993
+  - Décret n°97-98 du 5 février 1997 - art. 2 (V) JORF 6 février 1997 en vigueur le 17 février 1997
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE L'ORGANISATION JUDICIAIRE. - art. R422-1 (V)
 
 
 ###### Article Annexe Tableau VII
@@ -28864,5 +30017,1220 @@ _Codifié par_:
 **Liens**:
 
   - TXT_SOURCE: Code de l'organisation judiciaire R312-9
+
+
+###### Article Annexe Tableau XIII
+
+Tableau XIII : Siège et ressort des tribunaux d'instance compétents pour recevoir et enregistrer les déclarations de
+nationalité et délivrer les certificats
+
+Département
+
+Tribunal d'instance compétent dans le département
+
+Ressort dans lequel la juridiction exerce ses attributions
+
+Gers
+
+Cour d'appel d'Agen
+
+Tribunal d'instance d'Auch.
+
+Le département.
+
+Lot
+
+Tribunal d'instance de Cahors.
+
+Le département.
+
+Lot-et-Garonne
+
+Tribunal d'instance d'Agen.
+
+Le département
+
+Cour d'appel d'Aix-en-Provence
+
+Alpes-de-Haute-Provence
+
+Tribunal d'instance de Digne.
+
+Le département.
+
+Alpes-Maritimes
+
+Tribunal d'instance de Cannes.
+
+Ressort des tribunaux d'instance d'Antibes, Cagnes, Cannes et Grasse.
+
+Tribunal d'instance de Nice.
+
+Ressort des tribunaux d'instance de Menton et Nice.
+
+Bouches-du-Rhône
+
+Tribunal d'instance d'Aix-en-Provence.
+
+Ressort des tribunaux d'instance d'Aix-en-Provence, Martigues et Salon-de-Provence.
+
+Tribunal d'instance de Marseille.
+
+Ressort des tribunaux d'instance d'Aubagne et Marseille.
+
+Tribunal d'instance d'Arles.
+
+Ressort des tribunaux d'instance d'Arles et Tarascon.
+
+Var
+
+Tribunal d'instance de Fréjus.
+
+Ressort des tribunaux d'instance de Brignoles, Draguignan et Frejus.
+
+Tribunal d'instance de Toulon.
+
+Ressort des tribunaux d'instance d'Hyères et Toulon
+
+Cour d'appel d'Amiens
+
+Aisne
+
+Tribunal d'instance de Laon.
+
+Ressort des tribunaux d'instance de Laon, Saint-Quentin et Vervins.
+
+Tribunal d'instance de Soissons.
+
+Ressort des tribunaux d'instance de Château-Thierry et Soissons.
+
+Oise
+
+Tribunal d'instance de Beauvais.
+
+Ressort des tribunaux d'instance de Beauvais et Clermont-de-l'Oise.
+
+Tribunal d'instance de Senlis.
+
+Ressort des tribunaux d'instance de Compiègne et Senlis.
+
+Somme
+
+Tribunal d'instance d'Amiens.
+
+Le département
+
+Cour d'appel d'Angers
+
+Maine-et-Loire
+
+Tribunal d'instance d'Angers.
+
+Le département.
+
+Mayenne
+
+Tribunal d'instance de Laval
+
+Le département.
+
+Sarthe
+
+Tribunal d'instance du Mans.
+
+Le département
+
+Cour d'appel de Bastia
+
+Corse-du-Sud
+
+Tribunal d'instance d'Ajaccio.
+
+Le département.
+
+Haute-Corse
+
+Tribunal d'instance de Bastia.
+
+Le département
+
+Cour d'appel de Besançon
+
+Territoire de Belfort
+
+Tribunal d'instance de Belfort.
+
+Le département.
+
+Doubs
+
+Tribunal d'instance de Besançon.
+
+Ressort des tribunaux d'instance de Baume-les-Dames, Besançon et Pontarlier.
+
+Tribunal d'instance de Montbéliard.
+
+Ressort du tribunal d'instance de Montbéliard.
+
+Jura
+
+Tribunal d'instance de Lons-le-Saunier.
+
+Le département.
+
+Haute-Saône
+
+Tribunal d'instance de Vesoul.
+
+Le département
+
+Cour d'appel de Bordeaux
+
+Charente
+
+Tribunal d'instance d'Angoulême.
+
+Le département.
+
+Dordogne
+
+Tribunal d'instance de Périgueux.
+
+Le département.
+
+Gironde
+
+Tribunal d'instance de Bordeaux.
+
+Le département
+
+Cour d'appel de Bourges
+
+Cher
+
+Tribunal d'instance de Bourges.
+
+Le département.
+
+Indre
+
+Tribunal d'instance de Châteauroux.
+
+Le département.
+
+Nièvre
+
+Tribunal d'instance de Nevers
+
+Le département.
+
+Cour d'appel de Caen
+
+Calvados
+
+Tribunal d'instance de Caen.
+
+Le département.
+
+Manche
+
+Tribunal d'instance de Cherbourg.
+
+Ressort des tribunaux d'instance de Cherbourg et Valognes.
+
+Tribunal d'instance de Coutances.
+
+Ressort des tribunaux d'instance d'Avranches, Coutances, Mortain et Saint-Lô.
+
+Orne
+
+Tribunal d'instance d'Alençon.
+
+Le département
+
+Cour d'appel de Chambéry
+
+Savoie
+
+Tribunal d'instance de Chambéry.
+
+Le département.
+
+Haute-Savoie
+
+Tribunal d'instance d'Annecy.
+
+Ressort du tribunal d'instance d'Annecy.
+
+Tribunal d'instance de Saint-Julien-en-Genevois.
+
+Ressort des tribunaux d'instance de Bonneville, Thonon-les-Bains et Saint-Julien-en-Genevois
+
+Cour d'appel de Colmar
+
+Bas-Rhin
+
+Tribunal d'instance d'Haguenau.
+
+Ressort des tribunaux d'instance de Brumath, Haguenau et Wissembourg.
+
+Tribunal d'instance d'Illkirch.
+
+Ressort du tribunal d'instance d'Illkirch.
+
+Tribunal d'instance de Saverne.
+
+Ressort des tribunaux d'instance de Saverne et Molsheim.
+
+Tribunal d'instance de Strasbourg.
+
+Ressort des tribunaux d'instance de Schiltigheim et Strasbourg.
+
+Haut-Rhin
+
+Tribunal d'instance de Colmar.
+
+Ressort des tribunaux d'instance de Colmar, Guebwiller, Ribeauvillé et Sélestat.
+
+Tribunal d'instance de Mulhouse.
+
+Ressort des tribunaux d'instance d'Altkirch, Huningue et Mulhouse.
+
+Tribunal d'instance de Thann.
+
+Ressort du tribunal d'instance de Thann
+
+Cour d'appel de Dijon
+
+Côte-d'Or
+
+Tribunal d'instance de Dijon.
+
+Le département.
+
+Haute-Marne
+
+Tribunal d'instance de Chaumont.
+
+Le département.
+
+Saône-et-Loire
+
+Tribunal d'instance de Chalon-sur-Saône.
+
+Ressort des tribunaux d'instance d'Autun, Chalon-sur-Saône et Louhans.
+
+Tribunal d'instance du Creusot.
+
+Ressort des tribunaux d'instance du Creusot et de Montceau-les-Mines.
+
+Tribunal d'instance de Mâcon.
+
+Ressort des tribunaux d'instance de Charolles et Mâcon
+
+Cour d'appel de Douai
+
+Nord
+
+Tribunal d'instance d'Avesnes-sur-Helpe.
+
+Ressort des tribunaux d'instance d'Avesnes-sur-Helpe et Maubeuge.
+
+Tribunal d'instance de Douai.
+
+Ressort des tribunaux d'instance de Douai et Cambrai.
+
+Tribunal d'instance de Dunkerque.
+
+Ressort des tribunaux d'instance de Dunkerque et Hazebrouck.
+
+Tribunal d'instance de Lille.
+
+Ressort du tribunal d'instance de Lille.
+
+Tribunal d'instance de Roubaix.
+
+Ressort des tribunaux d'instance de Roubaix et Tourcoing.
+
+Tribunal d'instance de Valenciennes.
+
+Ressort du tribunal d'instance de Valenciennes.
+
+Pas-de-Calais
+
+Tribunal d'instance d'Arras.
+
+Ressort des tribunaux d'instance d'Arras et Saint-Pol.
+
+Tribunal d'instance de Béthune.
+
+Ressort des tribunaux d'instance de Béthune, Carvin, Houdain, Lens et Liévin.
+
+Tribunal d'instance de Boulogne-sur-Mer.
+
+Ressort des tribunaux d'instance de Boulogne-sur-Mer, Calais, Montreuil-sur-Mer et Saint-Omer.
+
+Cour d'appel de Grenoble
+
+Hautes-Alpes
+
+Tribunal d'instance de Gap.
+
+Le département.
+
+Drôme
+
+Tribunal d'instance de Montélimar.
+
+Ressort des tribunaux d'instance de Montélimar et Nyons.
+
+Tribunal d'instance de Romans.
+
+Ressort du tribunal d'instance de Romans.
+
+Tribunal d'instance de Valence.
+
+Ressort des tribunaux d'instance de Die et Valence.
+
+Isère
+
+Tribunal d'instance de Bourgoin-Jallieu.
+
+Ressort du tribunal d'instance de Bourgoin-Jallieu.
+
+Tribunal d'instance de Grenoble.
+
+Ressort des tribunaux d'instance de Grenoble, La Mûre et Saint-Marcellin.
+
+Tribunal d'instance de Vienne.
+
+Ressort du tribunal d'instance de Vienne
+
+Cour d'appel de Limoges
+
+Corrèze
+
+Tribunal d'instance de Tulle.
+
+Le département.
+
+Creuse
+
+Tribunal d'instance de Guéret.
+
+Le département.
+
+Haute-Vienne
+
+Tribunal d'instance de Limoges.
+
+Le département
+
+Cour d'appel de Lyon
+
+Ain
+
+Tribunal d'instance de Bourg-en-Bresse.
+
+Le département.
+
+Loire
+
+Tribunal d'instance de Roanne.
+
+Ressort du tribunal d'instance de Roanne.
+
+Tribunal d'instance de Saint-Etienne.
+
+Ressort des tribunaux d'instance du Chambon-Feugerolles, Montbrison et Saint-Etienne.
+
+Rhône
+
+Tribunal d'instance de Lyon.
+
+Ressort du tribunal d'instance de Lyon.
+
+Tribunal d'instance de Villefranche-sur-Saône.
+
+Ressort du tribunal d'instance de Villefranche-sur-Saône.
+
+Tribunal d'instance de Villeurbanne.
+
+Ressort du tribunal d'instance de Villeurbanne
+
+Cour d'appel de Metz
+
+Moselle
+
+Tribunal d'instance de Forbach.
+
+Ressort des tribunaux d'instance de Forbach, Saint-Avold et Sarreguemines.
+
+Tribunal d'instance de Metz.
+
+Ressort des tribunaux d'instance de Boulay, Château-Salins, Metz et Sarrebourg.
+
+Tribunal d'instance de Thionville.
+
+Ressort des tribunaux d'instance d'Hayange et Thionville
+
+Cour d'appel de Montpellier
+
+Aude
+
+Tribunal d'instance de Carcassonne.
+
+Le département.
+
+Aveyron
+
+Tribunal d'instance de Millau.
+
+Ressort des tribunaux d'instance de Millau et Saint-Affrique.
+
+Tribunal d'instance de Rodez.
+
+Ressort des tribunaux d'instance d'Espalion, Rodez et Villefranche-de-Rouergue.
+
+Hérault
+
+Tribunal d'instance de Béziers.
+
+Ressort des tribunaux d'instance de Béziers et Saint-Pons.
+
+Tribunal d'instance de Montpellier.
+
+Ressort des tribunaux d'instance de Lodève, Montpellier et Sète.
+
+Pyrénées-Orientales
+
+Tribunal d'instance de Perpignan.
+
+Le département
+
+Cour d'appel de Nancy
+
+Meurthe-et-Moselle
+
+Tribunal d'instance de Briey.
+
+Ressort des tribunaux d'instance de Briey et Longwy.
+
+Tribunal d'instance de Nancy.
+
+Ressort des tribunaux d'instance de Lunéville, Nancy et Toul.
+
+Meuse
+
+Tribunal d'instance de Verdun.
+
+Le département.
+
+Vosges
+
+Tribunal d'instance d'Epinal.
+
+Le département.
+
+Cour d'appel de Nîmes
+
+Ardèche
+
+Tribunal d'instance de Largentière.
+
+Ressort du tribunal d'instance de Largentière.
+
+Tribunal d'instance de Privas.
+
+Ressort du tribunal d'instance de Privas.
+
+Tribunal d'instance de Tournon.
+
+Ressort du tribunal d'instance de Tournon.
+
+Gard
+
+Tribunal d'instance d'Alès.
+
+Ressort du tribunal d'instance d'Alès.
+
+Tribunal d'instance de Nîmes.
+
+Ressort du tribunal d'instance de Nîmes.
+
+Tribunal d'instance d'Uzès.
+
+Ressort du tribunal d'instance d'Uzès.
+
+Tribunal d'instance du Vigan.
+
+Ressort du tribunal d'instance du Vigan.
+
+Lozère
+
+Tribunal d'instance de Mende.
+
+Le département.
+
+Vaucluse
+
+Tribunal d'instance d'Avignon.
+
+Ressort des tribunaux d'instance d'Apt et Avignon.
+
+Tribunal d'instance d'Orange.
+
+Ressort des tribunaux d'instance de Carpentras et Orange
+
+Cour d'appel d'Orléans
+
+Indre-et-Loire
+
+Tribunal d'instance de Tours.
+
+Le département.
+
+Loir-et-Cher
+
+Tribunal d'instance de Blois.
+
+Le département.
+
+Loiret
+
+Tribunal d'instance de Montargis.
+
+Ressort des tribunaux d'instance de Gien et Montargis.
+
+Tribunal d'instance d'Orléans.
+
+Ressort des tribunaux d'instance d'Orléans et Pithiviers
+
+Cour d'appel de Paris
+
+Essonne
+
+Tribunal d'instance d'Etampes.
+
+Ressort du tribunal d'instance d'Etampes.
+
+Tribunal d'instance d'Evry.
+
+Ressort du tribunal d'instance d'Evry.
+
+Tribunal d'instance de Juvisy-sur-Orge.
+
+Ressort du tribunal d'instance de Juvisy-sur-Orge.
+
+Tribunal d'instance de Longjumeau.
+
+Ressort du tribunal d'instance de Longjumeau.
+
+Tribunal d'instance de Palaiseau.
+
+Ressort du tribunal d'instance de Palaiseau.
+
+Seine-et-Marne
+
+Tribunal d'instance de Fontainebleau.
+
+Ressort du tribunal d'instance de Fontainebleau.
+
+Tribunal d'instance de Montereau.
+
+Ressort du tribunal d'instance de Montereau.
+
+Tribunal d'instance de Lagny.
+
+Ressort du tribunal d'instance de Lagny.
+
+Tribunal d'instance de Meaux.
+
+Ressort des tribunaux d'instance de Coulommiers et Meaux.
+
+Tribunal d'instance de Melun.
+
+Ressort des tribunaux d'instance de Melun et Provins.
+
+Seine-Saint-Denis.
+
+Tribunal d'instance d'Aubervilliers.
+
+Ressort du tribunal d'instance d'Aubervilliers.
+
+Tribunal d'instance d'Aulnay-sous-Bois.
+
+Ressort du tribunal d'instance d'Aulnay-sous-Bois.
+
+Tribunal d'instance de Bobigny.
+
+Ressort du tribunal d'instance de Bobigny.
+
+Tribunal d'instance de Montreuil.
+
+Ressort du tribunal d'instance de Montreuil.
+
+Tribunal d'instance de Pantin.
+
+Ressort du tribunal d'instance de Pantin.
+
+Tribunal d'instance du Raincy.
+
+Ressort du tribunal d'instance du Raincy.
+
+Tribunal d'instance de Saint-Denis.
+
+Ressort du tribunal d'instance de Saint-Denis.
+
+Tribunal d'instance de Saint-Ouen.
+
+Ressort du tribunal d'instance de Saint-Ouen.
+
+Val-de-Marne
+
+Tribunal d'instance de Boissy-Saint-Léger.
+
+Ressort du tribunal d'instance de Boissy-Saint-Léger.
+
+Tribunal d'instance de Charenton-le-Pont.
+
+Ressort du tribunal d'instance de Charenton-le-Pont.
+
+Tribunal d'instance d'Ivry-sur-Seine.
+
+Ressort du tribunal d'instance d'Ivry-sur-Seine.
+
+Tribunal d'instance de Nogent-sur-Marne.
+
+Ressort du tribunal d'instance de Nogent-sur-Marne.
+
+Tribunal d'instance de Saint-Maur-des-Fossés.
+
+Ressort du tribunal d'instance de Saint-Maur-des-Fossés.
+
+Tribunal d'instance de Villejuif.
+
+Ressort du tribunal d'instance de Villejuif.
+
+Tribunal d'instance de Vincennes.
+
+Ressort du tribunal d'instance de Vincennes.
+
+Yonne
+
+Tribunal d'instance d'Auxerre.
+
+Ressort des tribunaux d'instance d'Auxerre, Avallon et Tonnerre.
+
+Tribunal d'instance de Sens.
+
+Ressort des tribunaux d'instance de Joigny et Sens.
+
+Paris
+
+Tribunal d'instance du 1er arrondissement.
+
+Ressort du tribunal d'instance du 1er arrondissement.
+
+Tribunal d'instance du 4e arrondissement.
+
+Ressort des tribunaux d'instance des 2e, 3e et 4e arrondissements.
+
+Tribunal d'instance du 6e arrondissement.
+
+Ressort des tribunaux d'instance des 5e, 6e et 7e arrondissements.
+
+Tribunal d'instance du 8e arrondissement.
+
+Ressort du tribunal d'instance du 8e arrondissement.
+
+Tribunal d'instance du 9e arrondissement.
+
+Ressort du tribunal d'instance du 9e arrondissement.
+
+Tribunal d'instance du 10e arrondissement.
+
+Ressort du tribunal d'instance du 10e arrondissement.
+
+Tribunal d'instance du 11e arrondissement.
+
+Ressort du tribunal d'instance du 11e arrondissement.
+
+Tribunal d'instance du 12e arrondissement.
+
+Ressort du tribunal d'instance du 12e arrondissement.
+
+Tribunal d'instance du 13e arrondissement.
+
+Ressort des tribunaux d'instance des 13e et 14e arrondissements.
+
+Tribunal d'instance du 15e arrondissement.
+
+Ressort du tribunal d'instance du 15e arrondissement.
+
+Tribunal d'instance du 16e arrondissement.
+
+Ressort du tribunal d'instance du 16e arrondissement.
+
+Tribunal d'instance du 17e arrondissement.
+
+Ressort du tribunal d'instance du 17e arrondissement.
+
+Tribunal d'instance du 18e arrondissement.
+
+Ressort du tribunal d'instance du 18e arrondissement.
+
+Tribunal d'instance du 19e arrondissement.
+
+Ressort du tribunal d'instance du 19e arrondissement.
+
+Tribunal d'instance du 20e arrondissement.
+
+Ressort du tribunal d'instance du 20e arrondissement
+
+Cour d'appel de Pau
+
+Landes
+
+Tribunal d'instance de Dax.
+
+Ressort du tribunal d'instance de Dax.
+
+Tribunal d'instance de Mont-de-Marsan.
+
+Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever.
+
+Pyrénées-Atlantiques
+
+Tribunal d'instance de Bayonne.
+
+Ressort des tribunaux d'instance de Bayonne, Biarritz et Saint-Palais.
+
+Tribunal d'instance de Pau.
+
+Ressort des tribunaux d'instance d'Oloron-Sainte-Marie, Orthez et Pau.
+
+Hautes-Pyrénées
+
+Tribunal d'instance de Tarbes.
+
+Le département
+
+Cour d'appel de Poitiers
+
+Charente-Maritime
+
+Tribunal d'instance de La Rochelle.
+
+Ressort des tribunaux d'instance de Marennes, Rochefort et La Rochelle.
+
+Tribunal d'instance de Saintes.
+
+Ressort des tribunaux d'instance de Jonzac, Saintes et Saint-Jean-d'Angély.
+
+Deux-Sèvres
+
+Tribunal d'instance de Bressuire.
+
+Ressort des tribunaux d'instance de Bressuire et Parthenay.
+
+Tribunal d'instance de Niort.
+
+Ressort des tribunaux d'instance de Melle et Niort.
+
+Vendée
+
+Tribunal d'instance de La Roche-sur-Yon.
+
+Le département.
+
+Vienne
+
+Tribunal d'instance de Poitiers.
+
+Le département
+
+Cour d'appel de Reims
+
+Ardennes
+
+Tribunal d'instance de Charleville-Mézières.
+
+Le département.
+
+Aube
+
+Tribunal d'instance de Troyes.
+
+Le département.
+
+Marne
+
+Tribunal d'instance de Châlons-sur-Marne.
+
+Ressort du tribunal d'instance de Châlons-sur-Marne, Epernay et Vitry-le-François.
+
+Tribunal d'instance de Reims.
+
+Ressort du tribunal d'instance de Reims
+
+Cour d'appel de Rennes
+
+Côtes-d'Armor
+
+Tribunal d'instance de Saint-Brieuc.
+
+Le département.
+
+Finistère
+
+Tribunal d'instance de Brest.
+
+Ressort des tribunaux d'instance de Brest et Morlaix.
+
+Tribunal d'instance de Quimper.
+
+Ressort des tribunaux d'instance de Châteaulin, Quimper et Quimperlé.
+
+Ille-et-Vilaine
+
+Tribunal d'instance de Rennes.
+
+Le département.
+
+Loire-Atlantique
+
+Tribunal d'instance de Nantes.
+
+Ressort des tribunaux d'instance de Châteaubriant et Nantes.
+
+Tribunal d'instance de Saint-Nazaire.
+
+Ressort des tribunaux d'instance de Paimboeuf et Saint-Nazaire.
+
+Morbihan
+
+Tribunal d'instance de Vannes.
+
+Le département.
+
+Cour d'appel de Riom
+
+Allier
+
+Tribunal d'instance de Montluçon.
+
+Ressort du tribunal d'instance de Montluçon.
+
+Tribunal d'instance de Moulins.
+
+Ressort du tribunal d'instance de Moulins.
+
+Tribunal d'instance de Vichy.
+
+Ressort des tribunaux d'instance de Gannat et Vichy.
+
+Cantal
+
+Tribunal d'instance d'Aurillac.
+
+Ressort des tribunaux d'instance d'Aurillac et Mauriac.
+
+Tribunal d'instance de Saint-Flour.
+
+Ressort des tribunaux d'instance de Murat et Saint-Flour.
+
+Haute-Loire
+
+Tribunal d'instance du Puy-en-Velay.
+
+Le département.
+
+Puy-de-Dôme
+
+Tribunal d'instance de Clermont-Ferrand.
+
+Ressort du tribunal d'instance de Clermont-Ferrand.
+
+Tribunal d'instance d'Issoire.
+
+Ressort des tribunaux d'instance d'Ambert et Issoire.
+
+Tribunal d'instance de Riom.
+
+Ressort du tribunal d'instance de Riom.
+
+Tribunal d'instance de Thiers.
+
+Ressort du tribunal d'instance de Thiers
+
+Cour d'appel de Rouen
+
+Eure
+
+Tribunal d'instance d'Evreux.
+
+Le département.
+
+Seine-Maritime
+
+Tribunal d'instance de Dieppe.
+
+Ressort des tribunaux d'instance de Dieppe et Neufchâtel.
+
+Tribunal d'instance du Havre.
+
+Ressort du tribunal d'instance du Havre.
+
+Tribunal d'instance de Rouen.
+
+Ressort des tribunaux d'instance d'Elbeuf, Rouen et Yvetot
+
+Cour d'appel de Toulouse
+
+Ariège
+
+Tribunal d'instance de Foix.
+
+Le département.
+
+Haute-Garonne
+
+Tribunal d'instance de Muret.
+
+Ressort des tribunaux d'instance de Muret et Villefranche-de-Lauragais.
+
+Tribunal d'instance de Toulouse.
+
+Ressort des tribunaux d'instance de Saint-Gaudens et Toulouse.
+
+Tarn
+
+Tribunal d'instance d'Albi.
+
+Le département.
+
+Tarn-et-Garonne
+
+Tribunal d'instance de Montauban.
+
+Le département
+
+Cour d'appel de Versailles
+
+Eure-et-Loir
+
+Tribunal d'instance de Chartres.
+
+Ressort des tribunaux d'instance de Chartres, Châteaudun et Nogent-le-Rotrou.
+
+Tribunal d'instance de Dreux.
+
+Ressort du tribunal d'instance de Dreux.
+
+Hauts-de-Seine
+
+Tribunal d'instance d'Antony.
+
+Ressort du tribunal d'instance d'Antony.
+
+Tribunal d'instance d'Asnières.
+
+Ressort du tribunal d'instance d'Asnières.
+
+Tribunal d'instance de Boulogne-Billancourt.
+
+Ressort du tribunal d'instance de Boulogne-Billancourt.
+
+Tribunal d'instance de Clichy.
+
+Ressort du tribunal d'instance de Clichy.
+
+Tribunal d'instance de Colombes.
+
+Ressort du tribunal d'instance de Colombes.
+
+Tribunal d'instance de Courbevoie.
+
+Ressort des tribunaux d'instance de Courbevoie, Levallois-Perret et Neuilly-sur-Seine.
+
+Tribunal d'instance de Puteaux.
+
+Ressort du tribunal d'instance de Puteaux.
+
+Tribunal d'instance de Vanves.
+
+Ressort du tribunal d'instance de Vanves.
+
+Val-d'Oise
+
+Tribunal d'instance d'Ecouen.
+
+Ressort du tribunal d'instance d'Ecouen.
+
+Tribunal d'instance de Gonesse.
+
+Ressort du tribunal d'instance de Gonesse.
+
+Tribunal d'instance de Montmorency.
+
+Ressort du tribunal d'instance de Montmorency.
+
+Tribunal d'instance de Pontoise.
+
+Ressort du tribunal d'instance de Pontoise.
+
+Tribunal d'instance de Sannois.
+
+Ressort du tribunal d'instance de Sannois.
+
+Yvelines
+
+Tribunal d'instance de Mantes-la-Jolie.
+
+Ressort du tribunal d'instance de Mantes-la-Jolie.
+
+Tribunal d'instance de Poissy.
+
+Ressort du tribunal d'instance de Poissy.
+
+Tribunal d'instance de Rambouillet.
+
+Ressort du tribunal d'instance de Rambouillet.
+
+Tribunal d'instance de Saint-Germain-en-Laye.
+
+Ressort du tribunal d'instance de Saint-Germain-en-Laye.
+
+Tribunal d'instance de Versailles.
+
+Ressort du tribunal d'instance de Versailles.
+
+Cour d'appel de Basse-Terre
+
+Guadeloupe
+
+Tribunal d'instance de Basse-Terre.
+
+Ressort du tribunal d'instance de Basse-Terre.
+
+Tribunal d'instance de Saint-Martin.
+
+Ressort du tribunal d'instance de Saint-Martin.
+
+Tribunal d'instance de Marie-Galante.
+
+Ressort du tribunal d'instance de Marie-Galante.
+
+Tribunal d'instance de Pointe-à-Pitre.
+
+Ressort du tribunal d'instance de Pointe-à-Pitre
+
+Cour d'appel de Fort-de-France
+
+Guyane
+
+Tribunal d'instance de Cayenne.
+
+Le département.
+
+Martinique
+
+Tribunal d'instance de Fort-de-France.
+
+Le département
+
+Cour d'appel de Saint-Denis (Réunion)
+
+Réunion
+
+Tribunal d'instance de Saint-Benoît.
+
+Ressort du tribunal d'instance de Saint-Benoît.
+
+Tribunal d'instance de Saint-Denis.
+
+Ressort du tribunal d'instance de Saint-Denis.
+
+Tribunal d'instance de Saint-Paul.
+
+Ressort du tribunal d'instance de Saint-Paul.
+
+Tribunal d'instance de Saint-Pierre.
+
+Ressort du tribunal d'instance de Saint-Pierre
+
+Cour d'appel de Nouméa
+
+Territoire de la Nouvelle-Calédonie
+
+Tribunal de première instance de Nouméa.
+
+Ressort du tribunal de première instance de Nouméa, sauf la province Nord et les îles Loyauté.
+
+Section détachée de Koné.
+
+Ressort de la province Nord.
+
+Section détachée de Lifou.
+
+Ressort des îles Loyauté.
+
+Territoire des îles Wallis-et-Futuna
+
+Tribunal de première instance de Mata-Utu.
+
+Ressort du tribunal de première instance de Mata-Utu
+
+Cour d'appel de Papeete
+
+Territoire de Polynésie française
+
+Tribunal de première instance de Papeete.
+
+Ressort du tribunal de première instance de Papeete, sauf les îles Sous-le-Vent et les îles Marquises.
+
+Section détachée de Raiatea.
+
+Ressort des îles Sous-le-Vent.
+
+Section détachée de Nuku-Hiva.
+
+Ressort des îles Marquises
+
+Tribunal supérieur d'appel de Saint-Pierre-et-Miquelon
+
+Collectivité territoriale de Saint-Pierre-et-Miquelon
+
+Tribunal de première instance de Saint-Pierre.
+
+Ressort du tribunal de première instance de Saint-Pierre
+
+Tribunal supérieur d'appel de Mamoudzou
+
+Collectivité territoriale de Mayotte
+
+Tribunal de première instance de Mamoudzou.
+
+Ressort du tribunal de première instance de Mamoudzou.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°97-96 du 5 février 1997 - art. 2 (V) JORF 6 février 1997 en vigueur le 17 février 1997
+
+_Cité par_:
+
+  - Décret n°2008-237 du 6 mars 2008 - art. 1 (Ab)
+  - Décret n°2008-238 du 6 mars 2008 - art. 1 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de l'organisation judiciaire R321-31
 
 
