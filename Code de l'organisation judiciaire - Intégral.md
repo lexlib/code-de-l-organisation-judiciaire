@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1990-07-25
+Version Consolidée au 1991-01-05
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -108,7 +108,7 @@ Version Consolidée au 1990-07-25
     - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats Titre I : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun et à la Cour de sûreté de l'Etat. (art. L811-1)](#105)
     - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. L821-1 à L882-3)](#106)
       - [Titre II : Le greffe du tribunal de commerce (art. L821-1 à L822-7)](#107)
-        - [Chapitre Ier : Dispositions générales. (art. L821-1 à L821-3)](#108)
+        - [Chapitre Ier : Dispositions générales. (art. L821-1 à L821-4)](#108)
         - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce. (art. L822-1 à L822-7)](#109)
       - [Titre III : Le secrétariat-greffe du conseil de prud'hommes. (art. L831-1)](#110)
       - [Titre VII : Dispositions particulières au greffe des juridictions des mineurs. (art. L871-1 à L871-2)](#111)
@@ -5649,6 +5649,26 @@ _Abrogé par_:
 _Anciens textes_:
 
   - Code de commerce - art. 624 (Ab)
+
+
+###### Article L821-4
+
+La profession de greffier des tribunaux de commerce est représentée auprès des pouvoirs publics par un Conseil national des
+greffiers des tribunaux de commerce, doté de la personnalité morale et chargé d'assurer la défense de ses intérêts
+collectifs.
+
+Les modes d'élection et de fonctionnement du Conseil national sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°90-1259 du 31 décembre 1990 - art. 62 () JORF 5 janvier 1991
 
 
 #### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce.<a id=109></a>
