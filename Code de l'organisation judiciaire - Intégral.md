@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -10037,8 +10037,8 @@ _Cite_:
 
 ###### Article R*321-3
 
-Le tribunal d'instance connaît, dans les conditions fixées par le nouveau code de procédure civile, de la procédure
-d'injonction de payer.
+Le tribunal d'instance connaît, dans les conditions fixées par le nouveau code de procédure civile, des procédures
+d'injonction de payer et de faire.
 
 **Liens relatifs à cet article**
 
@@ -10052,7 +10052,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 3 JORF 14 mai 1981
+  - Décret n°88-209 du 4 mars 1988 - art. 4 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
 
 
 ###### Article R*321-4
