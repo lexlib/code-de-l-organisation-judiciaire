@@ -1,12 +1,12 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1978-03-18
+Version Consolidée au 1978-07-13
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
       - [Titre Ier : Institution et compétence. (art. L111-1 à L111-4)](#3)
       - [Titre II : Organisation. (art. L121-1 à L121-6)](#4)
       - [Titre III : Fonctionnement (art. L131-1 à L132-5)](#5)
-        - [Chapitre Ier : Le service des chambres de la Cour. (art. L131-1)](#6)
+        - [Chapitre Ier : Le service des chambres de la Cour. (art. L131-1 à L131-7)](#6)
         - [Chapitre II : Le ministère public. (art. L132-1 à L132-5)](#7)
       - [Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation (art. L141-1 à L142-2)](#8)
         - [Chapitre Ier : La commission nationale d'indemnisation en matière de détention provisoire. (art. L141-1 à L141-2)](#9)
@@ -532,6 +532,31 @@ _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-2 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-1 (M)
+
+
+###### Article L131-7
+
+Les conseillers référendaires siègent, avec voix consultative, dans la chambre à laquelle ils sont affectés. Ils ont voix
+délibérative dans le jugement des affaires qu'ils sont chargés de rapporter.
+
+En outre, un ou deux conseillers référendaires pris par ordre d'ancienneté dans leurs fonctions, dans le premier et à défaut
+dans le second grade, peuvent avec voix délibérative, être appelés à compléter la chambre à laquelle ils appartiennent,
+lorsque le nombre minimum de membres, prévu à l'article L131-6 (alinéa 1er) du présent code, n'est pas atteint.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-523 1967-07-03 art. 5
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L131-6 al. 1
 
 
 #### Chapitre II : Le ministère public.<a id=7></a>
