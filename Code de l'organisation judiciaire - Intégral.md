@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1983-12-28
+Version Consolidée au 1984-01-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -216,47 +216,61 @@ Version Consolidée au 1983-12-28
       - [Titre III : Récusation et renvoi (art. R731-1)](#213)
       - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#214)
       - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#215)
-      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#216)
-      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#217)
-      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#218)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#219)
-      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#220)
-        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-5)](#221)
-        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#222)
-        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#223)
-        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#224)
-      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R821-4)](#225)
-        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-4)](#226)
-      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#227)
-      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#228)
-      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#229)
-        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#230)
-    - [Livre IX : Dispositions particulières (art. R*911-1 à R*921-10)](#231)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#232)
-        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#233)
-          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#234)
-          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#235)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-2)](#236)
-        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#237)
-      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-3 à R*913-7)](#238)
-        - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#239)
-          - [Section I : Dispositions générales (art. R*911-3)](#240)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#241)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R924-3)](#242)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#243)
-          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#244)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#245)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#246)
-          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#247)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#248)
-        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#249)
-        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#250)
-        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1 à R924-3)](#251)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#252)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#253)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#254)
-    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#255)
-  - [Annexes (art. Annexe Tableau II)](#256)
+      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#216)
+        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#217)
+          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#218)
+          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#219)
+            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#220)
+            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-22)](#221)
+            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#222)
+          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#223)
+          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#224)
+          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#225)
+            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#226)
+            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#227)
+        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance (art. R*762-1 à R*762-8)](#228)
+        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#229)
+      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#230)
+      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#231)
+      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#232)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#233)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#234)
+        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-5)](#235)
+        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#236)
+        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#237)
+        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#238)
+      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R821-4)](#239)
+        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-4)](#240)
+      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#241)
+      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#242)
+      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#243)
+        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#244)
+    - [Livre IX : Dispositions particulières (art. R*911-1 à R*921-10)](#245)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#246)
+        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#247)
+          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#248)
+          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#249)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-2)](#250)
+        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#251)
+      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-3 à R*913-7)](#252)
+        - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#253)
+          - [Section I : Dispositions générales (art. R*911-3)](#254)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#255)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R924-3)](#256)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#257)
+          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#258)
+          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#259)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#260)
+          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#261)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#262)
+        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#263)
+        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#264)
+        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1 à R924-3)](#265)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#266)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#267)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#268)
+    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#269)
+  - [Annexes (art. Annexe Tableau II)](#270)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -10010,7 +10024,1707 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-1 (V)
 
 
-### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=216></a>
+### Titre VI : Assemblées générales<a id=216></a>
+
+#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=217></a>
+
+###### Article R*761-1
+
+Il est institué dans chaque cour d'appel ou tribunal de grande instance une assemblée générale. L'assemblée se réunit dans
+les conditions prévues au présent chapitre selon l'une des formations mentionnées aux articles R761-15 à R761-37.
+
+Il est institué une commission permanente de l'assemblée plénière des magistrats et des fonctionnaires et dans les conditions
+prévues aux articles R761-46 à R761-50 des commissions restreintes des assemblées de magistrats ou de fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-523 1967-07-03 art. 3
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-22 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=218></a>
+
+###### Article R*761-2
+
+L'assemblée des magistrats du siège et du parquet, l'assemblée des magistrats du siège et l'assemblée plénière des magistrats
+et des fonctionnaires sont présidées par le président de la juridiction.
+
+L'assemblée des magistrats du parquet est présidée par le chef du parquet.
+
+L'assemblée des fonctionnaires est présidée par le greffier en chef, sous réserve des dispositions de l'article R761-29.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-34 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-38 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-41 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-45 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-49 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-30 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-39 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-45 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-48 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-52 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-56 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+_Anciens textes_:
+
+  - Décret n°1852-05-18 art. 1
+
+
+###### Article R*761-3
+
+Les différentes formations de l'assemblée générale sont réunies au moins une fois par an au cours du mois de novembre. Elles
+sont, en outre, convoquées par leur président, soit à son initiative, soit à la demande de la majorité de leurs membres. La
+même demande peut également être formulée par les deux tiers des membres de la commission permanente pour la réunion de
+l'assemblée plénière et par les deux tiers des membres d'une commission restreinte pour la réunion d'une assemblée de
+magistrats ou de fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-23 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-28 (V)
+
+_Anciens textes_:
+
+  - Décret n°1852-05-18 art. 2
+
+
+###### Article R*761-4
+
+Les réunions de l'assemblée générale se tiennent pendant les heures ouvrables dans les conditions prévues par le règlement
+intérieur de l'assemblée plénière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-23 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-29 (V)
+
+
+###### Article R*761-5
+
+L'ordre du jour de l'assemblée générale est établi par son président. Toutefois, le président de la juridiction et le chef du
+parquet, lorsqu'ils n'assurent pas cette présidence, peuvent ajouter d'autres questions à l'ordre du jour.
+
+Les questions relatives à l'organisation et au fonctionnement de la juridiction, proposées par le tiers des membres de
+l'assemblée ou par la majorité des membres de la commission qu'elle a constituée, sont inscrites d'office à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-25 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-13 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-30 (V)
+
+
+###### Article R*761-6
+
+Un bureau est constitué pour chaque réunion de l'assemblée. Il est composé du président et de deux membres désignés selon des
+modalités fixées par le règlement intérieur de l'assemblée plénière.
+
+Le bureau veille au bon fonctionnement de l'assemblée, tient les feuilles de présence et de vote, statue sur les quorums,
+fait procéder au vote et surveille le déroulement du scrutin. Les résultats sont proclamés par le président de l'assemblée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-26 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-14 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-31 (V)
+
+
+###### Article R*761-7
+
+Chaque formation de l'assemblée générale ne peut valablement se réunir que si la moitié au moins de ses membres est présente
+ou représentée.
+
+Si le quorum prévu à l'alinéa précédent n'est pas atteint, l'assemblée est à nouveau convoquée dans le délai d'un mois, sur
+le même ordre du jour. Elle peut alors valablement délibérer si un tiers au moins de ses membres est présent ou représenté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-27 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-15 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-32 (V)
+
+
+###### Article R*761-8
+
+Seuls les membres bénéficiant d'un congé régulier, d'un congé de maladie ou de maternité régulier, ou assurant un service de
+permanence, ou se trouvant en mission officielle, ou étant en dehors de leurs heures de service, s'ils exercent un travail à
+temps partiel, peuvent se faire représenter par un mandataire.
+
+Le mandataire doit être membre de l'assemblée à laquelle appartient son mandant.
+
+Chaque mandataire ne peut disposer de plus de deux procurations.
+
+La procuration doit être donnée par écrit ; elle est annexée au procès-verbal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-28 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-16 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-33 (V)
+
+
+###### Article R*761-9
+
+Les membres de l'assemblée générale qui remplissent les conditions pour voter par procuration et qui souhaitent utiliser
+cette procédure, doivent en informer le président de l'assemblée générale avant la tenue de la réunion. Les difficultés qui
+naîtraient de l'application de cet article sont réglées par le bureau de l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-26 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-28 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-16 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-31 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-33 (V)
+
+
+###### Article R*761-10
+
+Il ne peut être délibéré que sur les questions inscrites à l'ordre du jour, dans les conditions prévues par le règlement
+intérieur de chaque formation de l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-29 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-17 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-34 (V)
+
+
+###### Article R*761-11
+
+Après la délibération sur chaque question inscrite à l'ordre du jour, il est procédé au vote.
+
+Le vote à bulletin secret peut être demandé pour tout membre de l'assemblée.
+
+Sous réserve des dispositions des articles R761-44 et R761-49, le vote a lieu à la majorité des membres présents ou
+représentés.
+
+Ces dispositions ne sont pas applicables à l'assemblée plénière des magistrats et des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-30 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-35 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R*761-12
+
+En cas d'urgence le président de la juridiction peut, dans les matières entrant dans la compétence de l'assemblée générale,
+prendre, après avis du chef du parquet, du greffier en chef ou du secrétaire en chef de parquet, et de la commission
+compétente, les mesures propres à assurer la continuité du service jusqu'à la réunion de l'assemblée compétente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-31 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-19 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-36 (V)
+
+
+###### Article R*761-13
+
+Les modalités de convocation, de dépouillement des votes, de désignation du secrétaire, d'établissement et de dépôt des
+procès-verbaux des délibérations des différentes formations de l'assemblée générale sont déterminées par le règlement
+intérieur de chacune de ces formations.
+
+Les règlements intérieurs et les modifications qui leur sont apportées sont transmis aux chefs de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-32 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-20 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-37 (V)
+
+
+###### Article R*761-14
+
+Le greffier en chef assiste aux assemblées générales et consigne sur le registre des délibérations de la juridiction les
+décisions prises et les avis émis.
+
+Le président du tribunal de grande instance transmet au premier président de la cour d'appel les procès-verbaux des
+délibérations des assemblées générales à l'exception de celles de l'assemblée des magistrats du parquet qui sont transmises
+par le procureur de la République au procureur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-33 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-21 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-38 (V)
+
+
+##### Section II : L'assemblée des magistrats<a id=219></a>
+
+###### Article R*761-15
+
+L'assemblée des magistrats se réunit dans l'une des trois formations suivantes :
+
+- en assemblée des magistrats du siège et du parquet ;
+
+- en assemblée des magistrats du siège ;
+
+- en assemblée des magistrats du parquet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-22 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
+
+
+##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=220></a>
+
+###### Article R*761-16
+
+Les magistrats du siège de la cour d'appel et les magistrats du parquet général sont membres de l'assemblée des magistrats de
+la cour d'appel. Les magistrats du siège du tribunal de grande instance et les magistrats du parquet de ce tribunal sont
+membres de l'assemblée des magistrats du tribunal de grande instance.
+
+L'assemblée des magistrats du tribunal de grande instance comprend en outre les juges chargés du service d'un tribunal
+d'instance.
+
+Les auditeurs de justice, en stage dans une juridiction, assistent aux réunions de l'assemblée des magistrats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
+
+
+###### Article R*761-17
+
+L'assemblée des magistrats du siège et du parquet émet un avis sur :
+
+1° Le nombre, le jour et la nature des audiences ;
+
+2° Le projet de répartition des emplois de fonctionnaires entre les services du siège et du parquet, préparé par les chefs de
+juridiction, en liaison avec le greffier en chef et, le cas échéant, le secrétaire en chef de parquet ;
+
+3° Le projet de répartition de l'effectif des fonctionnaires à l'intérieur des services du siège et du parquet ;
+
+4° Les heures d'ouverture et de fermeture au public du secrétariat-greffe ;
+
+5° Les demandes de prévisions budgétaires élaborées par les chefs de juridiction avec le greffier en chef ;
+
+6° L'affectation des sommes relatives aux dépenses de la juridiction ;
+
+7° Les mesures relatives à l'entretien des locaux, à la bibliothèque et au mobilier ;
+
+8° Les conditions de travail du personnel, et les problèmes de sécurité ;
+
+9° Les questions intéressant le fonctionnement interne de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+
+###### Article R*761-18
+
+L'assemblée des magistrats du siège et du parquet habilite les enquêteurs de personnalité et les contrôleurs judiciaires
+ainsi que les associations contribuant à la mise en oeuvre du travail d'intérêt général conformément aux dispositions du Code
+de procédure pénale.
+
+La commission restreinte dans les juridictions où sa constitution est obligatoire exerce les attributions mentionnées à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+
+###### Article R*761-19
+
+Les délibérations sont prises à la majorité des membres présents ou représentés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-18 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-51 (V)
+
+
+###### Article R*761-20
+
+L'assemblée des magistrats du siège et du parquet procède à des échanges de vues sur l'activité de la juridiction.
+
+Elle étudie l'évolution de la jurisprudence.
+
+Elle examine toutes les questions intéressant le fonctionnement de la juridiction et concernant l'ensemble des magistrats.
+
+Elle prépare les réunions de l'assemblée plénière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+
+##### Sous-section II : L'assemblée des magistrats du siège<a id=221></a>
+
+###### Article R*761-21
+
+Les juges du tribunal de grande instance chargés du service d'un tribunal d'instance sont membres de l'assemblée des
+magistrats du siège du tribunal de grande instance.
+
+Les auditeurs de justice, en stage dans une juridiction, assistent aux réunions de l'assemblée des magistrats du siège.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
+
+
+###### Article R*761-22
+
+L'assemblée des magistrats du siège peut entendre le chef du parquet soit à l'initiative de son président, soit à la demande
+de la majorité de ses membres ou du chef du parquet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-35 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-40 (V)
+
+
+##### Sous-section III : L'assemblée des magistrats du parquet<a id=222></a>
+
+###### Article R*761-25
+
+L'assemblée des magistrats du parquet peut entendre le président de la juridiction, soit à l'initiative du chef du parquet,
+soit à la demande de la majorité de ses membres ou du président de la juridiction.
+
+Les auditeurs de justice en stage au parquet assistent à l'assemblée des magistrats du parquet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-38 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-39 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-45 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-46 (V)
+
+
+###### Article R*761-26
+
+L'assemblée des magistrats du parquet est consultée sur :
+
+1° L'organisation des services du parquet ;
+
+2° Les relations avec les services de police judiciaire ;
+
+3° Les conditions dans lesquelles le ministère public exerce ses attributions ;
+
+4° Le nombre des audiences correctionnelles, déterminé par l'assemblée des magistrats du siège conformément à l'article 399
+du Code de procédure pénale ;
+
+5° Les critères généraux de répartition des dossiers entre les chambres et de distribution des affaires entre les magistrats
+spécialisés du tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 399
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-40 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-47 (V)
+
+
+##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=223></a>
+
+###### Article R*761-27
+
+Les fonctionnaires et les agents de l'Etat relevant de la direction des services judiciaires sont membres de l'assemblée des
+fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-45 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-28 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-52 (V)
+
+
+###### Article R*761-28
+
+Les fonctionnaires en stage rémunérés à titre permanent, les autres stagiaires ainsi que les fonctionnaires et les agents
+qui, placés sous l'autorité des magistrats, concourent au fonctionnement de la juridiction mais ne relèvent pas de la
+direction des services judiciaires, assistent aux réunions de l'assemblée des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-45 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-28 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-52 (V)
+
+
+###### Article R*761-29
+
+Lorsque la juridiction est dotée d'un secrétariat de parquet autonome, l'assemblée des fonctionnaires comprend deux
+formations :
+
+l'assemblée des fonctionnaires du greffe, présidée par le greffier en chef ; l'assemblée des fonctionnaires du secrétariat du
+parquet, présidée par le secrétaire en chef de parquet.
+
+Les chefs de la juridiction peuvent assister à l'assemblée des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-45 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-28 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-52 (V)
+
+
+###### Article R*761-30
+
+Les délibérations sont prises à la majorité des membres présents ou représentés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-18 (VT)
+
+
+###### Article R*761-31
+
+L'assemblée des fonctionnaires émet un avis sur :
+
+1° Le nombre, le jour et la nature des audiences ;
+
+2° Le projet de répartition des emplois de fonctionnaires entre les services du siège et du parquet, préparé par les chefs de
+juridiction, en liaison avec le greffier en chef et, le cas échéant, le secrétaire en chef de parquet ;
+
+3° Le projet de répartition de l'effectif des fonctionnaires à l'intérieur des services du siège et du parquet ;
+
+4° Les heures d'ouverture et de fermeture au public du secrétariat-greffe ;
+
+5° Les demandes de prévisions budgétaires élaborées par les chefs de juridiction avec le greffier en chef ;
+
+6° L'affectation des sommes relatives aux dépenses de la juridiction ;
+
+7° Les mesures relatives à l'entretien des locaux, à la bibliothèque et au mobilier ;
+
+8° Les conditions de travail du personnel et les problèmes de sécurité ;
+
+9° Les questions intéressant le fonctionnement interne de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+
+###### Article R*761-32
+
+L'assemblée des fonctionnaires est consultée en outre sur :
+
+1° Le projet d'affectation du personnel dans les services du secrétariat-greffe, préparé par le greffier en chef, ou, le cas
+échéant, par le secrétaire en chef de parquet ;
+
+2° La formation permanente du personnel.
+
+Elle prépare les réunions de l'assemblée plénière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-47 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-48 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-29 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-54 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-55 (V)
+
+
+###### Article R*761-33
+
+L'assemblée des fonctionnaires est consultée par le greffier en chef, ou, le cas échéant, par le secrétaire en chef de
+parquet, sur les problèmes de gestion et d'organisation du secrétariat-greffe.
+
+Le greffier en chef, et, le cas échéant, le secrétaire en chef de parquet, transmet au président de la juridiction les
+procès-verbaux des délibérations de l'assemblée des fonctionnaires du secrétariat-greffe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-47 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-48 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-29 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-54 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-55 (V)
+
+
+##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=224></a>
+
+###### Article R*761-34
+
+Les magistrats, les fonctionnaires et les agents de l'Etat relevant de la direction des services judiciaires sont membres de
+l'assemblée plénière.
+
+L'assemblée plénière du tribunal de grande instance comprend en outre les magistrats chargés du service d'un tribunal
+d'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
+
+
+###### Article R*761-35
+
+Les auditeurs de justice, les fonctionnaires en stage rémunérés à titre permanent, les autres stagiaires ainsi que les
+fonctionnaires et les agents qui, placés sous l'autorité des magistrats, concourent au fonctionnement de la juridiction mais
+ne relèvent pas de la direction des services judiciaires, assistent aux réunions de l'assemblée plénière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-49 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-30 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-56 (V)
+
+
+###### Article R*761-36
+
+Dans chaque juridiction, il est constitué une commission permanente de l'assemblée plénière conformément aux dispositions des
+articles R761-38 à R761-45.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R*761-37
+
+L'assemblée plénière procède à un échange de vues sur les questions mentionnées aux articles R761-17 et R761-31, ayant fait
+préalablement l'objet d'un vote de l'assemblée des magistrats et de l'assemblée des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R761-17 à R761-31
+
+
+##### Section V : Les commissions<a id=225></a>
+
+##### Sous-section I : La commission permanente<a id=226></a>
+
+###### Article R*761-38
+
+La commission permanente de l'assemblée plénière des magistrats et des fonctionnaires est composée d'un nombre égal de
+magistrats et de fonctionnaires, y compris les membres de droit.
+
+Le président de la juridiction, le chef du parquet, le greffier en chef et, le cas échéant, le secrétaire en chef de parquet,
+sont membres de droit.
+
+Les autres membres titulaires sont élus, respectivement, par l'assemblée des magistrats du siège et du parquet et par
+l'assemblée des fonctionnaires.
+
+Le nombre, pour chaque catégorie, des membres titulaires élus, ainsi que les modalité de dépôt des candidatures et de
+l'élection, sont déterminés par le président de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-51 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-32 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-58 (V)
+
+
+###### Article R*761-39
+
+Le président de la juridiction préside la commission permanente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-51 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-32 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-58 (V)
+
+
+###### Article R*761-40
+
+Seuls peuvent être élus les membres de l'assemblée plénière qui ont fait acte de candidature.
+
+Chaque candidat se présente avec son suppléant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-51 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-32 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-58 (V)
+
+
+###### Article R*761-41
+
+Les membres titulaires mentionnés au troisième alinéa de l'article R761-38, et des membres suppléants en nombre égal, sont
+élus au scrutin de liste proportionnel avec panachage et vote préférentiel, dans des conditions qui sont déterminées par le
+règlement intérieur de l'assemblée plénière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-51 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-32 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-58 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R*761-42
+
+Les membres titulaires et les membres suppléants de la commission permanente sont élus pour deux ans. Le mandat des membres
+titulaires est renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-51 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-32 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-58 (V)
+
+
+###### Article R*761-43
+
+La commission permanente ne peut valablement siéger que si plus de la moitié de ses membres sont présents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-52 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-33 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-59 (V)
+
+
+###### Article R*761-44
+
+Les délibérations sont prises à la majorité des membres présents.
+
+En cas de partage des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-53 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-34 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-60 (V)
+
+
+###### Article R*761-45
+
+La commission permanente exerce les attributions suivantes :
+
+1° Elle prépare les réunions de l'assemblée plénière. Le président de la juridiction lui communique, quinze jours au moins
+avant la date de la réunion, après délibération des assemblées concernées, les projets de décisions qui feront l'objet
+d'échanges de vues à l'assemblée plénière ; la commission permanente fait connaître au président ses avis et propositions ;
+
+2° Elle élabore et arrête le règlement intérieur de l'assemblée plénière ;
+
+3° Elle donne son avis sur les demandes d'attribution de mobilier, matériel technique et autres équipements spéciaux non
+financés sur les crédits propres de la juridiction ;
+
+4° Elle propose les mesures tendant à faciliter l'accueil et les démarches au public ;
+
+5° Elle assure les liaisons avec les organismes sociaux ou professionnels dont l'activité est liée au fonctionnement de la
+justice, ainsi qu'avec les autorités locales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-54 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-35 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-61 (V)
+
+
+##### Sous-section II : Les commissions restreintes<a id=227></a>
+
+###### Article R*761-46
+
+La constitution d'une commission restreinte par chacune des assemblées mentionnées aux articles R761-16, R761-21 et R761-27
+est obligatoire dans les cours d'appel et dans les tribunaux de grande instance qui comportent au moins trois chambres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Cité par_:
+
+  - Décret n°2004-1463 du 23 décembre 2004 - art. 8 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-22 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R*761-47
+
+La commission restreinte de chacune des assemblées de magistrats ou de fonctionnaires est composée de membres élus. Elle est
+présidée par le président de l'assemblée dont elle émane.
+
+Le chef du parquet est membre de droit de la commission restreinte de l'assemblée des magistrats du siège et du parquet.
+
+Les autres membres de la commission restreinte sont élus au scrutin proportionnel avec panachage et vote préférentiel.
+
+Le nombre et les modalités de l'élection des membres de la commission restreinte ainsi que les règles de fonctionnement de
+celle-ci sont déterminés par le règlement intérieur de chaque assemblée de magistrats ou de fonctionnaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-55 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-36 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-62 (V)
+
+
+###### Article R*761-48
+
+Le mandat des membres de la commission restreinte est de deux ans, renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-55 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-36 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-62 (V)
+
+
+###### Article R*761-49
+
+Les délibérations sont prises à la majorité des membres présents.
+
+En cas de partage des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-56 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-37 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-63 (V)
+
+
+###### Article R*761-50
+
+La commission restreinte prépare les réunions de l'assemblée générale ; à cet effet, le président de cette assemblée
+communique aux membres de la commission restreinte, quinze jours au moins avant la date de la réunion, les propositions et
+les projets qu'il envisage de soumettre à l'assemblée générale sur les questions inscrites à l'ordre du jour ; la commission
+restreinte fait connaître au président ses avis et propositions.
+
+La commission restreinte de l'assemblée des fonctionnaires peut exercer, par délégation de cette assemblée, les attributions
+prévues à l'article R761-33.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-57 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-38 (VT)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-64 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance<a id=228></a>
+
+###### Article R*762-1
+
+Il est tenu dans chaque tribunal d'instance une assemblée plénière des magistrats et des fonctionnaires.
+
+Les dispositions des articles R761-2 à R761-10, R761-12 à R761-14 et R761-34 à R761-37 sont applicables à l'assemblée
+plénière du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R761-2 à R761-10, R761-12 à R761-14, et R761-34 à R761-37
+
+
+###### Article R*762-2
+
+L'assemblée plénière est présidée par le magistrat chargé des fonctions de direction et d'administration du tribunal
+d'instance En cas d'absence ou d'empêchement, il est fait application des dispositions des articles R321-35 à R321-37.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R321-35 à R321-37
+
+
+###### Article R*762-3
+
+Il est tenu une assemblée des magistrats du siège et du parquet dans les tribunaux d'instance comportant un effectif d'au
+moins trois magistrats du siège. Cette assemblée est composée des juges chargés du service du tribunal d'instance et du
+magistrat qui exerce les fonctions du ministère public devant la juridiction conformément aux dispositions de l'article
+L311-15.
+
+Les dispositions des articles R761-17, R761-19 et R761-20 sont applicables à l'assemblée mentionnée à l'alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-15 (M)
+  - Code de l'organisation judiciaire L311-15, R761-17, R761-19 et R761-20
+
+
+###### Article R*762-4
+
+Il est tenu une assemblée des magistrats du siège dans les tribunaux d'instance comportant un effectif d'au moins trois
+magistrats. Cette assemblée émet un avis sur la répartition des dossiers et la distribution des affaires entre les
+magistrats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+
+###### Article R*762-5
+
+Les auditeurs de justice, en stage au tribunal d'instance, assistent aux assemblées plénières et aux assemblées des
+magistrats du tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+
+###### Article R*762-6
+
+Il est tenu une assemblée de fonctionnaires dans les tribunaux d'instance comportant un effectif d'au moins dix
+fonctionnaires.
+
+Dans les tribunaux d'instance comportant un effectif inférieur à ce nombre, il n'est tenu une assemblée de fonctionnaires que
+si la moitié au moins des personnels le demande.
+
+Les dispositions des articles R761-27 à R761-33 sont applicables à cette assemblée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R761-27 à R761-33
+
+
+###### Article R*762-7
+
+L'assemblée générale du tribunal d'instance constitue une commission permanente et, le cas échéant, une commission
+restreinte, conformément aux dispositions des articles R761-38 à R761-50.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R761-38 à R761-50
+
+
+###### Article R*762-8
+
+Le magistrat chargé des fonctions de direction et d'administration du tribunal d'instance transmet au premier président de la
+cour d'appel les procès-verbaux des délibérations des assemblées de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
+
+
+#### Chapitre III : Consultation des juridictions<a id=229></a>
+
+###### Article R*763-1
+
+Lorsque le garde des sceaux, ministre de la justice, consulte la Cour de cassation, les cours d'appel, les tribunaux de
+grande instance ou les tribunaux d'instance sur les projets de loi ou sur d'autres questions d'intérêt public, le président
+de la juridiction convoque celle-ci en assemblée générale. 
+
+Le président détermine, selon l'objet de la consultation, après avis du chef du parquet et de la commission permanente s'il
+en existe une, la formation de l'assemblée générale qui doit être réunie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°83-1162 1983-12-23 art. 1 et art. 2 JORF 28 décembre 1983 en vigueur le 1er janvier 1984
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-24 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-12 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-29 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R435-2 (V)
+
+
+### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=230></a>
 
 ###### Article R*771-1
 
@@ -10054,7 +11768,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre IX : Participation aux commissions non juridictionnelles<a id=217></a>
+### Titre IX : Participation aux commissions non juridictionnelles<a id=231></a>
 
 ###### Article R*791-1
 
@@ -10077,7 +11791,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
 
 
-### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=218></a>
+### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=232></a>
 
 ###### Article R*7-11-1-1
 
@@ -10103,11 +11817,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=219></a>
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=233></a>
 
-### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=220></a>
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=234></a>
 
-#### Chapitre Ier : Organisation<a id=221></a>
+#### Chapitre Ier : Organisation<a id=235></a>
 
 ###### Article R*811-1
 
@@ -10260,7 +11974,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre II : Fonctionnement<a id=222></a>
+#### Chapitre II : Fonctionnement<a id=236></a>
 
 ###### Article R*812-1
 
@@ -10837,7 +12551,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Etats et statistiques<a id=223></a>
+#### Chapitre III : Etats et statistiques<a id=237></a>
 
 ###### Article R*813-1
 
@@ -10942,7 +12656,7 @@ _Anciens textes_:
   - Ordonnance 1826-04-15 art. 79
 
 
-#### Chapitre IV : Régime financier<a id=224></a>
+#### Chapitre IV : Régime financier<a id=238></a>
 
 ###### Article R*814-1
 
@@ -11104,9 +12818,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre II : Le greffe du tribunal de commerce<a id=225></a>
+### Titre II : Le greffe du tribunal de commerce<a id=239></a>
 
-#### Chapitre I : Dispositions générales.<a id=226></a>
+#### Chapitre I : Dispositions générales.<a id=240></a>
 
 ###### Article R821-1
 
@@ -11191,7 +12905,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R742-29 (M)
 
 
-### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=227></a>
+### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=241></a>
 
 ###### Article R841-1
 
@@ -11230,7 +12944,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-11 (M)
 
 
-### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=228></a>
+### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=242></a>
 
 ###### Article R861-1
 
@@ -11258,9 +12972,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=229></a>
+### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=243></a>
 
-#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=230></a>
+#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=244></a>
 
 ###### Article R882-2
 
@@ -11287,13 +13001,13 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre IX : Dispositions particulières<a id=231></a>
+## Livre IX : Dispositions particulières<a id=245></a>
 
-### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=232></a>
+### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=246></a>
 
-#### Chapitre Ier : Le tribunal d'instance<a id=233></a>
+#### Chapitre Ier : Le tribunal d'instance<a id=247></a>
 
-##### Section I : Dispositions générales<a id=234></a>
+##### Section I : Dispositions générales<a id=248></a>
 
 ###### Article R*911-1
 
@@ -11373,7 +13087,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 33
 
 
-##### Section II : Dispositions particulières au service du livre foncier<a id=235></a>
+##### Section II : Dispositions particulières au service du livre foncier<a id=249></a>
 
 ###### Article R*911-13
 
@@ -11598,7 +13312,7 @@ _Anciens textes_:
   - Décret n°1937-04-15 art. 1 et art. 2
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=236></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=250></a>
 
 ###### Article R*913-1
 
@@ -11653,7 +13367,7 @@ _Anciens textes_:
   - Ordonnance 1879-06-13 art. 9 Loi locale art. 112 et s.
 
 
-#### Chapitre V : Les secrétariats-greffes<a id=237></a>
+#### Chapitre V : Les secrétariats-greffes<a id=251></a>
 
 ###### Article R*915-1
 
@@ -11786,11 +13500,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. art. 35 al. 3
 
 
-### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=238></a>
+### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=252></a>
 
-#### Chapitre I : Le tribunal d'instance<a id=239></a>
+#### Chapitre I : Le tribunal d'instance<a id=253></a>
 
-##### Section I : Dispositions générales<a id=240></a>
+##### Section I : Dispositions générales<a id=254></a>
 
 ###### Article R*911-3
 
@@ -11825,7 +13539,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile Annexe art. 34
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=241></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=255></a>
 
 ###### Article R*913-4
 
@@ -11900,11 +13614,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 28 al. 3
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=242></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=256></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=243></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=257></a>
 
-##### Section I : La cour d'appel<a id=244></a>
+##### Section I : La cour d'appel<a id=258></a>
 
 ###### Article R*921-1
 
@@ -11968,7 +13682,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=245></a>
+##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=259></a>
 
 ###### Article R*921-4
 
@@ -12019,7 +13733,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal mixte de commerce<a id=246></a>
+##### Section III : Le tribunal mixte de commerce<a id=260></a>
 
 ###### Article R*921-7
 
@@ -12087,7 +13801,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-##### Section V : Les secrétariats-greffes et secrétariats<a id=247></a>
+##### Section V : Les secrétariats-greffes et secrétariats<a id=261></a>
 
 ###### Article R*921-12
 
@@ -12176,7 +13890,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-6 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=248></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=262></a>
 
 ###### Article R*922-1
 
@@ -12248,7 +13962,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=249></a>
+#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=263></a>
 
 ###### Article R*922-2
 
@@ -12266,7 +13980,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-#### Chapitre III : Dispositions particulières au département de la Réunion<a id=250></a>
+#### Chapitre III : Dispositions particulières au département de la Réunion<a id=264></a>
 
 ###### Article R*923-1
 
@@ -12316,7 +14030,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=251></a>
+#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=265></a>
 
 ###### Article R*924-1
 
@@ -12390,11 +14104,11 @@ _Cite_:
   - Code de l'organisation judiciaire R321-2
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=252></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=266></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=253></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=267></a>
 
-##### Section III : Le tribunal mixte de commerce<a id=254></a>
+##### Section III : Le tribunal mixte de commerce<a id=268></a>
 
 ###### Article R*921-6
 
@@ -12469,7 +14183,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-5 (V)
 
 
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=255></a>
+## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=269></a>
 
 ###### Article R*913-3
 
@@ -12493,7 +14207,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 26
 
 
-# Annexes<a id=256></a>
+# Annexes<a id=270></a>
 
 ###### Article Annexe Tableau II
 
