@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1996-08-23
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L946-2)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -14188,41 +14188,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-330 1978-03-16
-
-
-###### Article R*321-13
-
-Le tribunal d'instance est seul compétent pour procéder, à défaut d'entente amiable entre les créanciers opposants et le
-saisi, à la distribution par contribution des sommes saisies lorsque les sommes à distribuer n'excèdent pas 13.000 F.
-
-Cette distribution est faite après le dépôt de la somme à distribuer à la Caisse des dépôts et consignations dans les formes
-prévues aux articles R145-30 et suivants du code du travail.
-
-Si les titres des créanciers produisants sont contestés et si les causes de la contestation excèdent les limites de sa
-compétence, le tribunal d'instance sursoit au règlement de la procédure de distribution jusqu'à ce que le tribunal compétent
-se soit définitivement prononcé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1284 1958-12-22 art. 8
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Modifié par_:
-
-  - Décret n°96-157 du 27 février 1996 - art. 9 () JORF 1er mars 1996
-
-_Abrogé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 3 (Ab) JORF 23 août 1996
-
-_Cite_:
-
-  - Code du travail - art. R145-30 (V)
 
 
 ###### Article R*321-14
