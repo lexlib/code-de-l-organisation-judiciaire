@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-05-16
+Version Consolidée au 1979-05-18
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -113,7 +113,7 @@ Version Consolidée au 1979-05-16
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section II : Le tribunal supérieur d'appel et le tribunal de première instance Sous-section II : Le tribunal de première instance. (art. L924-12 à L924-14)](#110)
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer (art. L924-15)](#111)
       - [Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section III : Dispositions relatives aux juridictions pénales. (art. L924-15)](#112)
-    - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section III : Dispositions relatives aux juridictions pénales. (art. L924-16 à L924-17)](#113)
+    - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section III : Dispositions relatives aux juridictions pénales. (art. L924-16)](#113)
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section IV : Le ministère public. (art. L924-18 à L924-19)](#114)
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section V : Les greffes des juridictions. (art. L924-20 à L924-21)](#115)
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section VI : Dispositions générales applicables à Saint-Pierre et Miquelon (art. L924-22)](#116)
@@ -165,7 +165,7 @@ Version Consolidée au 1979-05-16
           - [Section I : Institution et compétence (art. R*321-4 à R*321-30)](#162)
             - [Sous-section I : Compétence d'attribution (art. R*321-4 à R*321-23)](#163)
             - [Sous-section II : Compétence territoriale (art. R*321-24 à R*321-30)](#164)
-          - [Section II : Organisation (art. R*321-32)](#165)
+          - [Section II : Organisation (art. R*321-31 à R*321-32)](#165)
           - [Section III : Fonctionnement (art. R*321-33 à R*321-43)](#166)
         - [Chapitre II : Dispositions particulières à la tutelle (art. R*322-1)](#167)
         - [Chapitre III : Attributions non juridictionnelles (art. R*323-3 à R323-2)](#168)
@@ -4838,21 +4838,6 @@ _Codifié par_:
   - Loi n°91-1258 1991-12-17
 
 
-###### Article L924-17
-
-[*article abrogé*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Abrogé par_:
-
-  - Décret n°79-391 1979-05-14 art. 13 JORF 18 mai 1979
-
-
 ## Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section IV : Le ministère public.<a id=114></a>
 
 ###### Article L924-18
@@ -7958,6 +7943,25 @@ _Cite_:
 
 
 ##### Section II : Organisation<a id=165></a>
+
+###### Article R*321-31
+
+Le siège et le ressort des tribunaux d'instance sont fixés par le tableau [*V annexé au présent code*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'organisation judiciaire Annexe tableau V
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°79-391 1979-05-14 art. 5 JORF 18 mai 1979
+
 
 ###### Article R*321-32
 
