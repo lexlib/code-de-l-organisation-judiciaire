@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2004-10-01
+Version Consolidée au 2004-11-04
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -18515,7 +18515,7 @@ politiques ;
 chambres d'agriculture ;
 
 3° Les décisions de la commission administrative relatives à la formation et à la révision des listes pour l'élection des
-membres des chambres de métiers.
+membres des chambres de métiers et de l'artisanat.
 
 **Liens relatifs à cet article**
 
@@ -18529,7 +18529,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-33 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-34 (M)
 
 
 ###### Article R*321-21
