@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2003-12-11
+Version Consolidée au 2004-02-12
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -106,9 +106,9 @@ Version Consolidée au 2003-12-11
       - [Titre VIII : Responsabilité du fait du fonctionnement défectueux du service de la justice. (art. L781-1)](#103)
     - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. L811-1 à L882-2)](#104)
       - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun. (art. L811-1 à L811-2)](#105)
-      - [Titre II : Le greffe du tribunal de commerce (art. L821-1 à L822-7)](#106)
+      - [Titre II : Le greffe du tribunal de commerce (art. L821-1 à L822-8)](#106)
         - [Chapitre Ier : Dispositions générales. (art. L821-1 à L821-4)](#107)
-        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce. (art. L822-1 à L822-7)](#108)
+        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce. (art. L822-1 à L822-8)](#108)
       - [Titre III : Le secrétariat-greffe du conseil de prud'hommes. (art. L831-1)](#109)
       - [Titre VII : Dispositions particulières au greffe des juridictions des mineurs. (art. L871-1 à L871-2)](#110)
       - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. L881-1 à L882-2)](#111)
@@ -494,23 +494,32 @@ _Nouveaux textes_:
 
 ###### Article L111-4
 
-Ainsi qu'il est dit à l'article 2 de la loi n° 71-498 du 29 juin 1971, "le bureau de la Cour de cassation dresse la liste
-nationale des experts".
+Ainsi qu'il est dit au I de l'article 2 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires, "il est établi
+pour l'information des juges une liste nationale des experts judiciaires, dressée par le bureau de la Cour de cassation".
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-498 du 29 juin 1971 - art. 2 (M)
 
 _Cite_:
 
   - Loi n°71-498 du 29 juin 1971 - art. 2 (M)
 
+_Anciens textes_:
+
+  - Loi n°71-498 du 29 juin 1971 - art. 2 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*711-1 al 2 (Ab)
+
 _Codifié par_:
 
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
+
+_Modifié par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 47 () JORF 12 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ### Titre II : Organisation.<a id=4></a>
@@ -7560,16 +7569,27 @@ _Abrogé par_:
 
 ###### Article L822-2
 
-Les peines disciplinaires sont [*liste*] :
+Les peines disciplinaires sont :
 
-1° L'avertissement ;
+1° Le rappel à l'ordre ;
 
-2° Le blâme ;
+2° L'avertissement ;
 
-3° La destitution.
+3° Le blâme ;
 
-La destitution entraîne la radiation pendant un délai de cinq ans de la liste électorale prévue par l'article L. 11 du code
-électoral.
+4° L'interdiction temporaire ;
+
+5° La destitution ou le retrait de l'honorariat.
+
+Les peines mentionnées aux 1° à 4° peuvent être assorties de la peine complémentaire de l'inéligibilité temporaire au Conseil
+national des greffiers des tribunaux de commerce. La durée maximale de cette peine complémentaire est de cinq ans pour les
+peines mentionnées aux 1° à 3°, et de dix ans à compter de la cessation de la mesure d'interdiction pour la peine mentionnée
+au 4°.
+
+**Nota:**
+
+NOTA : Loi 2004-130 2004-02-11 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures engagées
+postérieurement à son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -7578,17 +7598,13 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+  - Loi n°2004-130 du 11 février 2004 - art. 36 () JORF 12 février 2004
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Cite_:
-
-  - Code électoral - art. L11 (V)
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cité par_:
 
@@ -7597,12 +7613,17 @@ _Cité par_:
 
 ###### Article L822-3
 
-L'action disciplinaire à l'encontre du greffier d'un tribunal de commerce est, à l'initiative du procureur de la République,
-exercée devant le tribunal de grande instance dans le ressort duquel le tribunal de commerce a son siège ou, lorsque le
-greffier est titulaire de plusieurs greffes, devant le tribunal de grande instance désigné par le premier président de la
-cour d'appel.
+L'action disciplinaire à l'encontre du greffier d'un tribunal de commerce est exercée soit devant la formation disciplinaire
+du Conseil national des greffiers des tribunaux de commerce, soit devant le tribunal de grande instance dans le ressort
+duquel le tribunal de commerce a son siège ou, si le greffier est titulaire de plusieurs greffes, devant le tribunal de
+grande instance désigné par le premier président de la cour d'appel, dans les conditions prévues par le présent chapitre.
 
-Elle se prescrit par dix ans [*action disciplinaire, délai de presricption*].
+L'action disciplinaire se prescrit par dix ans.
+
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
+engagées postérieurement à son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -7611,17 +7632,83 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+  - Loi n°2004-130 du 11 février 2004 - art. 37 () JORF 12 février 2004
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-6 (M)
+
+
+###### Article L822-3-1
+
+La formation disciplinaire du Conseil national des greffiers des tribunaux de commerce comprend cinq membres désignés par le
+conseil national en son sein ; cinq suppléants sont désignés dans les mêmes conditions. Elle élit son président.
+
+Le président du conseil national ne peut pas être membre de la formation disciplinaire.
+
+La formation disciplinaire du conseil national ne peut prononcer que l'une des peines mentionnées aux 1° à 3° de l'article L.
+822-2.
+
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 ar. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
+engagées postérieurement à son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 37 () JORF 12 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-2 (M)
+
+
+###### Article L822-3-2
+
+L'action disciplinaire est exercée par le procureur de la République. Elle peut également être exercée par le président du
+Conseil national des greffiers des tribunaux de commerce. Dans ce cas, notification en est faite au procureur de la
+République, qui peut citer le greffier devant le tribunal de grande instance statuant disciplinairement. Notification de la
+citation est faite au président de la formation disciplinaire du conseil national.
+
+La formation disciplinaire du conseil national est dessaisie à compter de la notification effectuée par le procureur de la
+République.
+
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
+engagées postérieurement à son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 37 () JORF 12 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L822-4
@@ -7662,8 +7749,18 @@ _Cité par_:
 
 ###### Article L822-5
 
-Les décisions du tribunal de grande instance statuant en matière disciplinaire peuvent être déférées à la cour d'appel par le
-procureur de la République ou par le greffier.
+Les décisions de la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce peuvent être déférées
+à la cour d'appel de Paris par le procureur de la République compétent pour exercer l'action disciplinaire, par le président
+du conseil national lorsque les poursuites ont été engagées à son initiative, ou par le greffier.
+
+Les décisions du tribunal de grande instance statuant en matière disciplinaire peuvent être déférées à la cour d'appel
+territorialement compétente par le procureur de la République, par le président du Conseil national des greffiers des
+tribunaux de commerce lorsque les poursuites ont été engagées à son initiative, ou par le greffier.
+
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
+engagées postérieurement à son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -7672,23 +7769,28 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+  - Loi n°2004-130 du 11 février 2004 - art. 38 () JORF 12 février 2004
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L822-6
 
-Le greffier suspendu ou destitué doit s'abstenir de tout acte professionnel. Les actes accomplis au mépris de cette
+Le greffier suspendu, interdit ou destitué doit s'abstenir de tout acte professionnel. Les actes accomplis au mépris de cette
 prohibition peuvent être déclarés nuls, à la requête de tout intéressé ou du procureur de la République, par le tribunal de
 grande instance. La décision est exécutoire à l'égard de toute personne.
 
 Toute infraction aux dispositions du premier alinéa sera punie des peines prévues à l'article 433-17 du code pénal.
 
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
+engagées postérieurement à son entrée en vigueur.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -7696,13 +7798,13 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur Ordonnance 96-267 1996-03-28 art. 13
-
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2004-130 du 11 février 2004 - art. 39 () JORF 12 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cite_:
 
@@ -7711,8 +7813,13 @@ _Cite_:
 
 ###### Article L822-7
 
-Le tribunal de grande instance qui prononce la suspension ou la destitution nomme un ou plusieurs administrateurs
-provisoires.
+Le tribunal de grande instance qui prononce la suspension, l'interdiction ou la destitution nomme un ou plusieurs
+administrateurs provisoires.
+
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
+engagées postérieurement à son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -7721,17 +7828,42 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
+  - Loi n°2004-130 du 11 février 2004 - art. 41 () JORF 12 février 2004
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-8 (Ab)
+
+
+###### Article L822-8
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Nota:**
+
+NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
+engagées postérieurement à son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 41 () JORF 12 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ### Titre III : Le secrétariat-greffe du conseil de prud'hommes.<a id=109></a>
