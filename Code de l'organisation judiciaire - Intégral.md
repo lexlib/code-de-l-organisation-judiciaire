@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1992-03-14
+Version Consolidée au 1992-03-19
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -285,7 +285,8 @@ Version Consolidée au 1992-03-14
         - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-9)](#282)
           - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-9)](#283)
       - [TITRE III :  Dispositions particulières aux territoires d'outre-mer et aux collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte. (art. R931-1)](#284)
-  - [Annexes (art. Annexe Tableau II à Annexe Tableau VII)](#285)
+  - [Annexes (art. Annexe Tableau II à Annexe Tableau IV)](#285)
+    - [Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales (art. Annexe Tableau IV)](#286)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -8216,6 +8217,11 @@ _Cite_:
 
 Le siège et le ressort des cours d'appel sont fixés conformément au tableau n° I annexé au présent code.
 
+Pour l'application de l'article L. 411-4 du code de la propriété intellectuelle créant un institut national de la propriété
+industrielle, le siège et le ressort des cours d'appel compétentes pour connaître directement des recours formés contre les
+décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des
+titres de propriété industrielle sont fixés conformément au tableau IV bis annexé au présent code.
+
 Lorsqu'une cour d'appel est créée ou lorsque le ressort d'une cour d'appel est modifié par suite d'une nouvelle délimitation
 des circonscriptions administratives ou judiciaires, la cour compétente primitivement saisie demeure compétente pour statuer
 sur les procédures introduites antérieurement à la date de création de la cour ou de modification du ressort.
@@ -8224,7 +8230,7 @@ Lorsqu'une cour d'appel est supprimée, toutes les procédures en cours devant c
 du décret de suppression sont transférées en l'état à la cour d'appel dans le ressort de laquelle est situé le siège de la
 cour supprimée sans qu'il y ait lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement
 à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins à fin de
-comparution personnelle. Les archives et les minutes du secrétariat-greffe de la cour d'appel supprimée sont transférés au
+comparution personnelle. Les archives et les minutes du secrétariat-greffe de la cour d'appel supprimée sont transférées au
 secrétariat-greffe de la cour d'appel dans le ressort de laquelle est situé le siège de la cour d'appel supprimée. Les frais
 de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
 
@@ -8232,7 +8238,8 @@ de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet e
 
 _Cite_:
 
-  - Code de l'organisation judiciaire annexe
+  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+  - Code de la propriété intellectuelle - art. L411-4 (V)
 
 _Anciens textes_:
 
@@ -8244,7 +8251,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-86 du 22 janvier 1992 - art. 2 () JORF 26 janvier 1992
+  - Décret n°92-251 du 17 mars 1992 - art. 1 () JORF 19 mars 1992
 
 
 ###### Article R*212-2
@@ -9964,15 +9971,13 @@ Le siège et le ressort des tribunaux de grande instance appelés à connaître 
 application de la loi n° 68-1 du 2 janvier 1968 et des actions civiles en matière d'obtentions végétales par application de
 la loi n° 70-489 du 11 juin 1970 sont fixés conformément au tableau IV annexé au présent code.
 
-En outre, le Tribunal de grande instance de Paris est compétent, pour les territoires d'outre-mer et la collectivité
-territoriale de Mayotte, pour connaître de ces mêmes actions.
-
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de l'organisation judiciaire Annexe tableau V
-  - Loi n°68-1 1968-01-02 Loi 70-489 1970-06-11
+  - Loi n°68-1 1968-01-02
+  - Loi n°70-489 1970-06-11
 
 _Anciens textes_:
 
@@ -9984,7 +9989,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-391 1979-05-14 art. 4 JORF 18 mai 1979 en vigueur le 1er juin 1979
+  - Décret n°92-251 du 17 mars 1992 - art. 12 (Ab) JORF 19 mars 1992
 
 
 ##### Section III : Dispositions particulières en matière de baux commerciaux<a id=170></a>
@@ -21186,6 +21191,57 @@ _Abrogé par_:
   - TXT_SOURCE: Code de l'organisation judiciaire R623-1
 
 
+###### Article Annexe Tableau IV bis
+
+**Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions
+civiles en matière d'obtentions végétales
+
+**
+
+<pre>
+┏━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ SIÈGE         │ RESSORT s'étendant aux limites territoriales des cours d'appel et des tribunaux supérieurs d'appel de     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aix-en-Pro-   │ Aix-en-Provence, Bastia, Nîmes.                                                                           ┃
+┃ vence         │                                                                                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bordeaux      │ Agen, Bordeaux, Poitiers.                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Colmar        │ Colmar, Metz.                                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Douai         │ Amiens, Douai.                                                                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Limoges       │ Bourges, Limoges, Riom.                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lyon          │ Chambéry, Lyon, Grenoble.                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nancy         │ Besançon, Dijon, Nancy.                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Paris         │ Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, ┃
+┃               │ Papeete, Madmouzou et Saint-Pierre-et-Miquelon.                                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rennes        │ Angers, Caen, Rennes.                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Toulouse      │ Pau, Montpellier, Toulouse.                                                                               ┃
+┗━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°92-251 du 17 mars 1992 - art. 1 () JORF 19 mars 1992
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
 ###### Article Annexe Tableau VII
 
 **Liens relatifs à cet article**
@@ -21197,5 +21253,27 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+## Tableau IV : Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention et des actions civiles en matière d'obtentions végétales<a id=286></a>
+
+###### Article Annexe Tableau IV
+
+tableau non reproduit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°79-391 1979-05-14 art. 6 JORF 18 mai 1979 rectificatif JORF 17 novembre 1979
+  - Décret n°92-251 du 17 mars 1992 - art. 2 () JORF 19 mars 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Code de l'organisation judiciaire R312-2
 
 
