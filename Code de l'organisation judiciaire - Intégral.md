@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1984-07-18
+Version Consolidée au 1985-04-13
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -170,10 +170,10 @@ Version Consolidée au 1984-07-18
           - [Section IV : Dispositions particulières aux professions juridiques et judiciaires (art. R*312-4)](#167)
           - [Section V : Dispositions particulières en matière commerciale (art. R*312-5)](#168)
           - [Section VI : Dispositions particulières à la saisie immobilière (art. R312-6)](#169)
-      - [Titre II : Le tribunal d'instance (art. R*321-3 à R323-2)](#170)
-        - [Chapitre I : Dispositions générales (art. R*321-3 à R*321-45)](#171)
-          - [Section I : Institution et compétence (art. R*321-3 à R*321-30)](#172)
-            - [Sous-section I : Compétence d'attribution (art. R*321-3 à R*321-23)](#173)
+      - [Titre II : Le tribunal d'instance (art. R*321-1 à R323-2)](#170)
+        - [Chapitre I : Dispositions générales (art. R*321-1 à R*321-45)](#171)
+          - [Section I : Institution et compétence (art. R*321-1 à R*321-30)](#172)
+            - [Sous-section I : Compétence d'attribution (art. R*321-1 à R*321-23)](#173)
             - [Sous-section II : Compétence territoriale (art. R*321-24 à R*321-30)](#174)
           - [Section II : Organisation (art. R*321-31 à R*321-32)](#175)
           - [Section III : Fonctionnement (art. R*321-33 à R*321-45)](#176)
@@ -7123,6 +7123,32 @@ _Cité par_:
   - Code du travail - art. R3326-1 (VD)
 
 
+###### Article R*311-2
+
+Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de grande
+instance statue en dernier ressort lorsque le montant de la demande, déterminé dans les conditions prévues par le nouveau
+Code de procédure civile, est inférieur ou égal à 13000 F [*francs*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1284 1958-12-22 art. 32
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Cité par_:
+
+  - Décret  n°85-422  du 10 avril 1985  - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°81-318 1981-09-01 art. 1 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+  - Décret n°85-422 1985-04-10 art. 2 JORF 13 avril 1985
+
+
 ###### Article R*311-3
 
 Conformément aux articles 1215 et 1221 du nouveau Code de procédure civile, un recours peut, en toutes matières, être formé
@@ -7958,6 +7984,70 @@ _Cité par_:
 
 ##### Sous-section I : Compétence d'attribution<a id=173></a>
 
+###### Article R*321-1
+
+Sous réserve des dispositions des articles suivants, le tribunal d'instance connaît, en matière civile, de toutes actions
+personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 13000 F et à charge d'appel jusqu'à la valeur de 30000 F
+[*francs*].    Lorsque dans des matières non prévues par le code, un texte limite le taux de compétence du tribunal
+d'instance statuant en premier ou en dernier ressort à des sommes inférieures, le tribunal connaît néanmoins de ces matières,
+dans la limite des taux prévus à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1284 1958-12-22 art. 1
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°81-818 1981-09-01  art. 2 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+  - Décret n°85-422 1985-04-10  art. 3 JORF 13 avril 1985
+
+_Cité par_:
+
+  - Décret  n°85-422  du 10 avril 1985  - art. 3 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R321-2 à R321-30
+
+
+###### Article R*321-2
+
+Sous réserve des dispositions législatives ou réglementaires particulieres, le tribunal d'instance connaît, en dernier
+ressort, jusqu'à la valeur de 13000 F [*francs*] et à charge d'appel lorsque la demande excède cette somme ou est
+indéterminée, des actions dont le contrat de louage d'immeuble est l'objet, la cause ou l'occasion, y compris les demandes en
+autorisation, validité, nullité ou mainlevée de saisie-gagerie, et de saisie-revendication, alors même qu'il y aurait
+contestation de la part d'un tiers, ainsi que de celles relatives à l'application de la loi n° 48-1160 du 1er septembre 1948.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1284 1958-12-22 art. 2
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°81-818 1981-09-01 art. 3 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+  - Décret n°85-422 1985-04-10 art. 4 JORF 13 avril 1985
+
+_Cité par_:
+
+  - Décret  n°85-422  du 10 avril 1985  - art. 4 (V)
+
+_Cite_:
+
+  - Loi n°48-1160 1948-09-01
+
+
 ###### Article R*321-3
 
 Le tribunal d'instance connaît, dans les conditions fixées par le nouveau code de procédure civile, de la procédure
@@ -8036,6 +8126,43 @@ _Cite_:
 _Anciens textes_:
 
   - Décret n°56-27 du 11 janvier 1956 - art. 29 (Ab)
+
+
+###### Article R*321-6
+
+Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 13000 F [*francs*] et à charge d'appel à quelque
+valeur que la demande puisse s'élever [*compétence*] :
+
+1° [*Abrogé*] ;
+
+2° Des contestations relatives au contrat de salaire différé ;
+
+3° Des contestations entre les nourrices ou les personnes et établissements prenant des enfants en garde ou en pension et
+ceux qui les leur confient ;
+
+4° Des contestations relatives aux frais de scolarité ou d'internat, lorsque la demande est formée par tout établissement
+d'enseignement public ou privé ;
+
+5° Des contestations relatives au contrat d'engagement entre armateurs et marins.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1284 1958-12-22 art. 4
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°81-818 1981-09-01 art. 4 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+  - Décret n°85-422 1985-04-10 art. 5 JORF 13 avril 1985
+
+_Cité par_:
+
+  - Décret  n°85-422  du 10 avril 1985  - art. 5 (V)
 
 
 ###### Article R*321-7
@@ -8238,6 +8365,38 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
+###### Article R*321-13
+
+Le tribunal d'instance est seul compétent pour procéder, à défaut d'entente amiable entre les créanciers opposants et le
+saisi, à la distribution par contribution des sommes saisies lorsque les sommes à distribuer n'excèdent pas 13000 F.
+
+Cette distribution est faite après le dépôt de la somme à distribuer à la Caisse des dépôts et consignations dans les formes
+prévues aux articles R145-14 et suivants du Code du travail.
+
+Si les titres des créanciers produisants sont contestés et si les causes de la contestation excèdent les limites de sa
+compétence, le tribunal d'instance sursoit au règlement de la procédure de distribution jusqu'à ce que le tribunal compétent
+se soit définitivement prononcé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1284 1958-12-22 art. 8
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°81-818 1981-09-01 art. 3 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+  - Décret n°85-422 1985-04-10 art. 6 JORF 13 avril 1985
+
+_Cite_:
+
+  - Code du travail - art. R145-14 (M)
+
+
 ###### Article R*321-14
 
 Le tribunal d'instance connaît des contestations relatives à la procédure de recouvrement direct de toute pension
@@ -8259,6 +8418,34 @@ _Cite_:
 
   - Code civil - art. 214 (V)
   - Code civil 214, 276 et 342
+
+
+###### Article R*321-15
+
+Le tribunal d'instance connaît, à charge d'appel, [*compétence*] des contestations relatives à la révision des rentes
+viagères mentionnées par la loi n° 49-420 du 25 mars 1949, par les titres Ier et II de la loi n° 49-1098 du 2 août 1949 et
+par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 5000 F, et,
+quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice est
+inférieure ou égale à 13000 F [*francs*].
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°49-420 1949-03-25 Loi 49-1098 1949-08-02 Loi 51-695 1951-05-24 art. 1 et art. 2
+
+_Anciens textes_:
+
+  - Loi n°49-420 du 25 mars 1949 - art. 5, v. init.
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°81-818 1981-09-01 art. 3 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+  - Décret n°85-422 1985-04-10 art. 7 JORF 13 avril 1985
 
 
 ###### Article R*321-16
