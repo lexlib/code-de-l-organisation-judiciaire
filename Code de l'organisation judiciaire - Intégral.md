@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-10-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -8846,6 +8846,30 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-330 1978-03-16
+
+
+###### Article R*321-21
+
+Le tribunal d'instance connaît dans les conditions prévues par le nouveau code de procédure civile des demandes relatives aux
+mesures conservatoires prises après l'ouverture d'une succession.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de procédure civile 907 et 912
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°86-951 1986-07-30 art. 5 et art. 7 JORF 13 août 1986 en vigueur le 1 er octobre 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°86-951 1986-07-30 art. 7
 
 
 ###### Article R*321-22
