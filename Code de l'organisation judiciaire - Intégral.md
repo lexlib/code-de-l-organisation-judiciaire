@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-12-02
+Version Consolidée au 1979-12-29
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -228,7 +228,7 @@ Version Consolidée au 1979-12-02
         - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#225)
       - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*913-4 à R*913-7)](#226)
         - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#227)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*923-2)](#228)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#228)
         - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#229)
           - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#230)
           - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#231)
@@ -237,11 +237,12 @@ Version Consolidée au 1979-12-02
         - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#234)
         - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#235)
         - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#236)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#237)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#238)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#239)
-    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#240)
-  - [Annexes (art. Annexe Tableau II)](#241)
+        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#237)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#238)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#239)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#240)
+    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#241)
+  - [Annexes (art. Annexe Tableau II)](#242)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -10916,11 +10917,36 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=237></a>
+#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=237></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=238></a>
+###### Article R*924-1
 
-##### Section III : Le tribunal mixte de commerce<a id=239></a>
+Le livre V concernant les juridictions des mineurs est applicable au département de Saint-Pierre-et-Miquelon sous la réserve
+suivante :
+
+Pour l'application de l'article R. 522-4, le président du tribunal supérieur d'appel est substitué au premier président de la
+cour d'appel et le président du tribunal de première instance est substitué au président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Abrogé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R522-4
+
+
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=238></a>
+
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=239></a>
+
+##### Section III : Le tribunal mixte de commerce<a id=240></a>
 
 ###### Article R*921-6
 
@@ -10995,7 +11021,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-5 (V)
 
 
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=240></a>
+## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=241></a>
 
 ###### Article R*913-3
 
@@ -11019,7 +11045,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 26
 
 
-# Annexes<a id=241></a>
+# Annexes<a id=242></a>
 
 ###### Article Annexe Tableau II
 
