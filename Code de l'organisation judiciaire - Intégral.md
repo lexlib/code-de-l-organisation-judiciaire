@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-09
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -14898,10 +14898,11 @@ _Nouveaux textes_:
 
 ###### Article R*131-14
 
-Les auditeurs à la Cour de cassation exercent des attributions administratives auprès de la Cour de cassation. 
+Les auditeurs à la Cour de cassation exercent des attributions administratives auprès de la Cour de cassation, notamment au
+sein du service de documentation et d'études.
 
-Ils participent aux travaux d'aide à la décision tels que définis par le premier président ainsi qu'à ceux du service de
-documentation et d'études, notamment en ce qui concerne l'informatique. 
+Ils participent aux travaux d'aide à la décision tels que définis par le premier président, notamment en ce qui concerne le
+traitement automatisé de données jurisprudentielles.
 
 Ils peuvent assister aux audiences des chambres. 
 
@@ -14921,7 +14922,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-134 1984-02-20 art. 2 JORF 25 février 1984
+  - Décret n°2005-13 du 7 janvier 2005 - art. 2 () JORF 9 janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-7 (V)
 
 
 ###### Article R*131-15
@@ -14960,18 +14969,12 @@ _Nouveaux textes_:
 ###### Article R*131-16
 
 Le service de documentation et d'études de la Cour de cassation rassemble les éléments d'information utiles aux travaux de la
-Cour et procède aux recherches nécessaires [*attributions*]. Il assure le classement méthodique de tous les pourvois dès le
-dépôt du mémoire ampliatif. Il analyse et met en mémoire informatique les moyens de cassation aux fins, notamment, de
-faciliter les rapprochements entre les affaires en cours. 
+Cour et procède aux recherches nécessaires. Il assure le classement méthodique de tous les pourvois dès le dépôt du mémoire
+ampliatif. Il analyse et met en mémoire informatique les moyens de cassation aux fins, notamment, de faciliter les
+rapprochements entre les affaires en cours. 
 
-Le service participe à la conception des applications informatiques à la Cour de cassation et administre les moyens mis en
-oeuvre à cet effet. 
-
-Le service tient un fichier central, contenant sous une série unique de rubriques, d'une part, les sommaires de toutes les
-décisions rendues par la Cour de cassation, d'autre part, les sommaires des décisions les plus importantes rendues par les
-autres juridictions. A cet effet, les décisions judiciaires présentant un intérêt particulier sont communiquées au service,
-dans les conditions fixées par un arrêté du garde des sceaux, ministre de la justice, par les premiers présidents des cours
-d'appel, ou directement, par les présidents ou juges assurant la direction des diverses juridictions du premier degré. 
+Le service participe à la conception des moyens de traitement automatisé de données jurisprudentielles mis en oeuvre par la
+Cour de cassation.
 
 Un arrêté du garde des sceaux, ministre de la justice, fixe les conditions dans lesquelles la documentation du service est
 mise à la disposition des juridictions de l'ordre judiciaire et de l'ordre administratif, ainsi que des services relevant du
@@ -14989,17 +14992,58 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-134 1984-02-20 art. 1 et art. 4 JORF 25 février 1984
+  - Décret n°2005-13 du 7 janvier 2005 - art. 3 () JORF 9 janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R433-2 (V)
+
+
+###### Article R*131-16-1
+
+Le service de documentation et d'études tient une base de données rassemblant, sous une même nomenclature, d'une part, les
+décisions et avis de la Cour de cassation et des juridictions ou commissions juridictionnelles placées auprès d'elle, publiés
+ou non publiés aux bulletins mensuels mentionnés à l'article R. 131-17, d'autre part, les décisions présentant un intérêt
+particulier rendues par les autres juridictions de l'ordre judiciaire. A cet effet, les décisions judiciaires présentant un
+intérêt particulier sont communiquées au service, dans les conditions fixées par un arrêté du garde des sceaux, ministre de
+la justice, par les premiers présidents des cours d'appel ou directement par les présidents ou juges assurant la direction
+des juridictions du premier degré.
+
+La base de données est accessible au public dans les conditions applicables au service public de la diffusion du droit par
+l'internet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-13 du 7 janvier 2005 - art. 4 () JORF 9 janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R433-3 (M)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
 
 
 ###### Article R*131-17
 
 Le service de documentation et d'études établit deux bulletins mensuels, l'un pour les chambres civiles, l'autre pour la
-chambre criminelle dans lesquels sont insérés les arrêts de la Cour de cassation dont la publication est proposée par le
-président de chaque chambre. Sont également insérés dans le bulletin mensuel établi pour les chambres civiles les avis de la
-Cour de cassation dont la publication est décidée par le premier président. Le service établit des tables périodiques.
-
-Un arrêté du garde des sceaux, ministre de la justice, règle les modalités de diffusion des bulletins.
+chambre criminelle, dans lesquels sont mentionnés les décisions et avis dont la publication a été décidée par le président de
+la formation qui les a rendus. Le service établit des tables périodiques.
 
 **Liens relatifs à cet article**
 
@@ -15013,7 +15057,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-228 du 12 mars 1992 - art. 3 () JORF 14 mars 1992
+  - Décret n°2005-13 du 7 janvier 2005 - art. 5 () JORF 9 janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R433-4 (V)
 
 
 ###### Article R*131-18
