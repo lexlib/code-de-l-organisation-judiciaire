@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-03-10
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L946-2)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -10555,7 +10555,7 @@ _Modifié par_:
 
 ###### Article L943-5
 
-En matière civile et commerciale, le tribunal de première instance statue à juge unique.
+En matière civile, commerciale et de sécurité sociale, le tribunal de première instance statue à juge unique.
 
 Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale.
 
@@ -10568,9 +10568,9 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er mars 1993
+  - Loi n°98-144 1998-03-06 art. 7 JORF 10 mars 1998
 
 
 ###### Article L943-6
