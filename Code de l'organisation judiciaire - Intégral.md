@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1981-05-14
+Version Consolidée au 1981-05-15
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -8555,44 +8555,6 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'organisation judiciaire R321-34 et R321-37
-
-
-###### Article R*321-39
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1281 du 22 décembre 1958 - art. 19, v. init.
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Abrogé par_:
-
-  - Décret n°81-529 1981-05-12 art. 1 JORF 15 mai 1981
-
-
-###### Article R*321-40
-
-[*article(s) abrogé(s)*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1281 1958-12-22 art. 19-1
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Abrogé par_:
-
-  - Décret n°81-529 1981-05-12 art. 1 JORF 15 mai 1981
 
 
 ###### Article R*321-41
