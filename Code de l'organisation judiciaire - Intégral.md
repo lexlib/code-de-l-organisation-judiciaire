@@ -1,7 +1,7 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1985-04-20
+Version Consolidée au 1985-06-14
 ## Contenu: 
-  - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
+  - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
       - [Titre Ier : Institution et compétence. (art. L111-1 à L111-4)](#3)
       - [Titre II : Organisation. (art. L121-1 à L121-6)](#4)
@@ -124,7 +124,7 @@ Version Consolidée au 1985-04-20
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section III : Dispositions relatives aux juridictions pénales. (art. L924-16)](#121)
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section IV : Le ministère public. (art. L924-18 à L924-19)](#122)
     - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section V : Les greffes des juridictions. (art. L924-20 à L924-21)](#123)
-    - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section VI : Dispositions générales applicables à Saint-Pierre et Miquelon (art. L924-22)](#124)
+    - [Livre IX : Dispositions particulières Titre II : Dispositions particulières aux départements d'outre-mer *DOM* Chapitre IV : Dispositions applicables dans le département de Saint-Pierre et Miquelon Section VI : Dispositions générales applicables à Saint-Pierre et Miquelon (art. L924-22 à L924-23)](#124)
   - [Partie réglementaire ancienne - Décrets en Conseil d'Etat (art. R*121-1 à R*913-3)](#125)
     - [Livre Ier : La Cour de cassation (art. R*121-1 à R142-1)](#126)
       - [Titre II : Organisation (art. R*121-1 à R*121-7)](#127)
@@ -4985,6 +4985,28 @@ _Codifié par_:
   - Loi n°91-1258 1991-12-17
 
 
+###### Article L924-7
+
+Pour l'application du premier alinéa de l'article L223-2 du présent code, le président du tribunal supérieur d'appel exerce
+les fonctions de délégué à la protection de l'enfance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Modifié par_:
+
+  - Loi n°85-595 1985-06-11 art. 50-I JORF 14 juin 1985
+  - Décret n°79-931 1979-05-14 art. 13 JORF 18 mai 1979
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L223-2
+
+
 ###### Article L924-8
 
 Le tribunal supérieur d'appel comprend un président et deux assesseurs titulaires.
@@ -5067,6 +5089,71 @@ _Codifié par_:
 
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
+
+
+###### Article L924-12-1
+
+Pour l'application des deuxième et troisième alinéas de l'article 706-4 du Code de procédure pénale et de l'article L313-1 du
+présent code, le président du tribunal de première instance exerce les attributions dévolues à la commission d'indemnisation
+de certains dommages corporels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°85-595 1985-06-11 art. 50-II JORF 14 juin 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+  - Code de l'organisation judiciaire L313-1
+
+
+###### Article L924-12-2
+
+Par dérogation aux dispositions de l'article L532-1, le président du tribunal de première instance exerce les fonctions de
+juge des enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°85-595 du 11 juin 1985 - art. 50 () JORF 14 juin 1985
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L532-1
+
+
+###### Article L924-12-3
+
+Par dérogation aux deuxième et troisième alinéas de l'article 709-1 du Code de procédure pénale, le président du tribunal de
+première instance exerce les fonctions de juge des enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°85-595 du 11 juin 1985 - art. 50 () JORF 14 juin 1985
+
+_Cite_:
+
+  - Code de procédure pénale 709-1 al. 2 et al. 3
 
 
 ###### Article L924-13
@@ -5255,6 +5342,32 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-2 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1 (Ab)
   - Code de l'organisation judiciaire L632-1 à L632-3, L731-1, L731-2, L781-1, et L921-11
+
+
+###### Article L924-23
+
+Sont en outre applicables à Saint-Pierre-et-Miquelon à compter du 1er octobre 1978 [*date d'effet*] :
+
+Le titre II du livre IV sur les conseils de prud'hommes ;
+
+Les articles L871-1, L871-2 et le livre V sur les juridictions des mineurs, sous réserve des dispositions de l'article 26 de
+l'ordonnance n° 77-1100 du 26 septembre 1977 ;
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Modifié par_:
+
+  - Loi n°85-595 du 11 juin 1985 - art. 50 () JORF 14 juin 1985
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L871-1 et L871-2
+  - Ordonnance 77-110 1977-09-26
 
 
 # Partie réglementaire ancienne - Décrets en Conseil d'Etat<a id=125></a>
