@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1996-07-09
+Version Consolidée au 1996-07-23
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L946-2)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -22728,8 +22728,8 @@ _Nouveaux textes_:
 Lorsqu'un centre de formalités des entreprises a été créé par une chambre de commerce et d'industrie ou une chambre des
 métiers, le greffier peut, à la demande de la chambre de commerce et d'industrie ou de la chambre des métiers, être autorisé
 par arrêté du garde des sceaux, ministre de la justice, à exercer tout ou partie des activités dévolues aux centres de
-formalités des entreprises par le décret n° 81-257 du 18 mars 1981 modifié lorsque, dans l'intérêt des usagers, l'ouverture
-d'une annexe de ces centres apparaît nécessaire dans la ville où la juridiction commerciale a son siège.
+formalités des entreprises par le décret n° 96-650 du 19 juillet 1996 modifié lorsque, dans l'intérêt des usagers,
+l'ouverture d'une annexe de ces centres apparaît nécessaire dans la ville où la juridiction commerciale a son siège.
 
 En vue de cette autorisation, le greffier soumet au garde des sceaux, ministre de la justice, une convention conclue avec la
 chambre de commerce ou des métiers déterminant les droits et obligations de chacune des parties. Cette convention doit être
@@ -22746,11 +22746,15 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°81-257 1981-03-18
+  - Décret n°96-650 1996-07-19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988
+  - Décret n°96-650 du 19 juillet 1996 - art. 12 (Ab) JORF 23 juillet 1996
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
