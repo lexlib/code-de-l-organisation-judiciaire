@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1995-05-03
+Version Consolidée au 1995-05-09
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -96,8 +96,8 @@ Version Consolidée au 1995-05-03
         - [Chapitre II : Dispositions particulières au conseil de prud'hommes. (art. L732-1)](#93)
       - [Titre V : Dispositions générales relatives au ministère public. (art. L751-1 à L751-2)](#94)
       - [Titre VIII : Responsabilité du fait du fonctionnement défectueux du service de la justice. (art. L781-1)](#95)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats Titre I : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun et à la Cour de sûreté de l'Etat. (art. L811-1)](#96)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. L821-1 à L882-2)](#97)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. L811-1 à L882-2)](#96)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun. (art. L811-1 à L811-2)](#97)
       - [Titre II : Le greffe du tribunal de commerce (art. L821-1 à L822-7)](#98)
         - [Chapitre Ier : Dispositions générales. (art. L821-1 à L821-4)](#99)
         - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce. (art. L822-1 à L822-7)](#100)
@@ -5916,13 +5916,15 @@ _Cité par_:
   - Code de procédure pénale - art. 626 (V)
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats Titre I : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun et à la Cour de sûreté de l'Etat.<a id=96></a>
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=96></a>
+
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun.<a id=97></a>
 
 ###### Article L811-1
 
-Le service des secrétariats-greffes de la Cour de cassation, de la Cour de sûreté de l'Etat, des cours d'appel, des tribunaux
-de grande instance, des tribunaux d'instance, ayant seuls compétence en matière pénale, est assuré par des fonctionnaires de
-l'Etat.
+Le service des secrétariats-greffes de la Cour de cassation, des cours d'appel, des tribunaux de grande instance, des
+tribunaux d'instance et des tribunaux d'instance ayant seuls compétence en matière pénale est assuré par des fonctionnaires
+de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -5935,8 +5937,47 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
+_Modifié par_:
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=97></a>
+  - Loi n°95-125 du 8 février 1995 - art. 7 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+
+###### Article L811-2
+
+Pour l'exercice des attributions qui lui sont dévolues par la loi, le greffier en chef de la juridiction peut donner
+délégation à un autre greffier en chef de la même juridiction.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Créé par_:
+
+  - Loi n°95-125 du 8 février 1995 - art. 7 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L946-2 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-7 (V)
+
 
 ### Titre II : Le greffe du tribunal de commerce<a id=98></a>
 
