@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-11-06
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -357,40 +357,36 @@ Version Consolidée au 2001-11-06
         - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#354)
           - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#355)
         - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1)](#356)
-      - [Titre III : Dispositions particulières aux territoires d'outre-mer (art. R931-9)](#357)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-9)](#358)
-          - [Section II : Le tribunal de première instance (art. R931-9)](#359)
-            - [Sous-section I : Institution et compétence. (art. R931-9)](#360)
-      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-5)](#361)
-        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#362)
-        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#363)
-          - [Section I : Organisation. (art. R942-1 à R942-3)](#364)
-          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#365)
-            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#366)
-            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#367)
-            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#368)
-            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#369)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#370)
-          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#371)
-          - [Section II : Organisation. (art. R943-4 à R943-6)](#372)
-          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#373)
-            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#374)
-            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#375)
-            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#376)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#377)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#378)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#379)
-      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#380)
-        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#381)
-        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#382)
-          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#383)
-            - [Sous-section I : Dispositions générales. (art. R952-1)](#384)
-            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#385)
-          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#386)
-            - [Sous-section I : Compétence. (art. R952-5 à R952-6)](#387)
-            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#388)
-          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#389)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#390)
+      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-5)](#357)
+        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#358)
+        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#359)
+          - [Section I : Organisation. (art. R942-1 à R942-3)](#360)
+          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#361)
+            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#362)
+            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#363)
+            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#364)
+            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#365)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#366)
+          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#367)
+          - [Section II : Organisation. (art. R943-4 à R943-6)](#368)
+          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#369)
+            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#370)
+            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#371)
+            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#372)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#373)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#374)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#375)
+      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#376)
+        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#377)
+        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#378)
+          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#379)
+            - [Sous-section I : Dispositions générales. (art. R952-1)](#380)
+            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#381)
+          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#382)
+            - [Sous-section I : Compétence. (art. R952-5 à R952-6)](#383)
+            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#384)
+          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#385)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#386)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -929,8 +925,8 @@ _Nouveaux textes_:
 Après le dépôt des mémoires, les affaires soumises à une chambre civile sont examinées par une formation de trois magistrats
 appartenant à la chambre à laquelle elles ont été distribuées.
 
-Cette formation statue lorsque la solution du pourvoi s'impose. Dans le cas contraire, elle renvoie l'examen du pourvoi à
-l'audience de la chambre.
+Cette formation déclare non admis les pourvois irrecevables ou non fondés sur un moyen sérieux de cassation. Elle statue
+lorsque la solution du pourvoi s'impose. Dans le cas contraire, elle renvoie l'examen du pourvoi à l'audience de la chambre.
 
 Toutefois, le premier président ou le président de la chambre concernée, ou leurs délégués, d'office ou à la demande du
 procureur général ou de l'une des parties, peuvent renvoyer directement une affaire à l'audience de la chambre par décision
@@ -939,7 +935,16 @@ non motivée.
 Lorsque la solution d'une affaire soumise à la chambre criminelle lui paraît s'imposer, le premier président ou le président
 de la chambre criminelle peut décider de faire juger l'affaire par une formation de trois magistrats. Cette formation peut
 renvoyer l'examen de l'affaire à l'audience de la chambre à la demande de l'une des parties ; le renvoi est de droit si l'un
-des magistrats composant la formation restreinte le demande.
+des magistrats composant la formation restreinte le demande. La formation déclare non admis les pourvois irrecevables ou non
+fondés sur un moyen sérieux de cassation.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'abrogation de cet article ne prend effet qu'à compter de la date d'entrée en
+vigueur du décret portant refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -954,11 +959,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°97-395 du 23 avril 1997 - art. 2 () JORF 25 avril 1997 rectificatif JORF 3 juillet 1997
+  - Loi n°2001-539 du 25 juin 2001 - art. 27 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-7 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-2 (V)
 
 
 ###### Article L131-6-1
@@ -1389,9 +1403,9 @@ _Cite_:
 
 ###### Article L151-1
 
-Avant de statuer sur une demande soulevant une question de droit nouvelle, présentant une difficulté sérieuse et se posant
-dans de nombreux litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours,
-solliciter l'avis de la Cour de cassation qui se prononce dans le délai de trois mois de sa saisine.
+Avant de statuer sur une question de droit nouvelle, présentant une difficulté sérieuse et se posant dans de nombreux
+litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours, solliciter l'avis de la
+Cour de cassation qui se prononce dans le délai de trois mois de sa saisine.
 
 Il est sursis à toute décision sur le fond de l'affaire jusqu'à l'avis de la Cour de cassation ou, à défaut, jusqu'à
 l'expiration du délai ci-dessus mentionné. Toutefois, les mesures d'urgence ou conservatoires nécessaires peuvent être
@@ -1399,7 +1413,14 @@ prises.
 
 L'avis rendu ne lie pas la juridiction qui a formulé la demande. Il est communiqué aux parties.
 
-Les dispositions du présent article ne sont pas applicables en matière pénale.
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 151-1 du code de l'organisation judiciaire est abrogé à l'exception
+de la seconde phrase du deuxième alinéa qui est abrogée à compter de la date d'entrée en vigueur du décret portant refonte de
+la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -1408,9 +1429,18 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+  - Loi n°2001-539 du 25 juin 2001 - art. 26 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-1 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-3 (V)
 
 _Cité par_:
 
@@ -1425,15 +1455,30 @@ _Cité par_:
 
 ###### Article L151-2
 
-La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président.
+La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président ou, en cas
+d'empêchement, par le président de chambre le plus ancien.
 
-Elle comprend, en outre, les présidents de chambre et deux conseillers désignés par chaque chambre spécialement concernée.
+La formation appelée à se prononcer sur une demande d'avis dans une matière autre que pénale comprend, outre le premier
+président, les présidents de chambre et deux conseillers désignés par chaque chambre spécialement concernée. En cas
+d'empêchement de l'un d'eux, il est remplacé par un conseiller désigné par le premier président ou, à défaut de celui-ci, par
+le président de chambre qui le remplace.
 
-En cas d'empêchement du premier président, la formation est présidée par le président de chambre le plus ancien. En cas
-d'empêchement de l'un des autres membres de la formation, il est remplacé par un conseiller désigné par le premier président
-ou, à défaut de celui-ci, par le président de chambre qui le remplace.
+La formation appelée à se prononcer sur une demande d'avis en matière pénale comprend, outre le premier président, le
+président de la chambre criminelle, un président de chambre désigné par le premier président, quatre conseillers de la
+chambre criminelle et deux conseillers, désignés par le premier président, appartenant à une autre chambre. En cas
+d'empêchement du président de la chambre criminelle, il est remplacé par un conseiller de cette chambre désigné par le
+premier président ou, à défaut de celui-ci, par le président de chambre qui le remplace.
 
-Elle ne peut siéger que si tous les membres qui doivent la composer sont présents.
+La formation ne peut siéger que si tous les membres qui doivent la composer sont présents.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 151-2 du code de l'organisation judiciaire est abrogé à l'exception
+des deuxième, troisième et quatrième alinéas qui sont abrogés à compter de la date d'entrée en vigueur du décret portant
+refonte de la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -1442,18 +1487,28 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+  - Loi n°2001-539 du 25 juin 2001 - art. 26 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-1 (Ab)
 
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-2 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R441-1 (M)
+
 
 ###### Article L151-3
 
-Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
+Les modalités d'application du présent titre sont fixées, en ce qui concerne les juridictions autres que pénales, par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1462,9 +1517,17 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-491 du 15 mai 1991 - art. 1 () JORF 18 mai 1991
+  - Loi n°2001-539 du 25 juin 2001 - art. 26 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-4 (V)
 
 
 ## Livre II : La cour d'appel<a id=13></a>
@@ -14787,7 +14850,7 @@ _Cité par_:
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de grande
 instance statue en dernier ressort lorsque le montant de la demande, déterminé dans les conditions prévues par le nouveau
-Code de procédure civile, est inférieur ou égal à 25000 F [*francs*].
+Code de procédure civile, est inférieur ou égal à 3800 euros.
 
 **Liens relatifs à cet article**
 
@@ -14803,13 +14866,13 @@ _Cité par_:
 
   - Décret  n°85-422  du 10 avril 1985  - art. 2 (V)
 
-_Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*311-3
@@ -15830,8 +15893,8 @@ _Créé par_:
 ###### Article R*321-1
 
 Sous réserve des dispositions des articles suivants, le tribunal d'instance connaît, en matière civile, de toutes actions
-personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 25000 F et à charge d'appel jusqu'à la valeur de 50000 F
-[*francs*].
+personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 3800 euros et à charge d'appel jusqu'à la valeur de 7600
+euros.
 
 Lorsque dans des matières non prévues par le code, un texte limite le taux de compétence du tribunal d'instance statuant en
 premier ou en dernier ressort à des sommes inférieures, le tribunal connaît néanmoins de ces matières, dans la limite des
@@ -15851,13 +15914,13 @@ _Cité par_:
 
   - Décret  n°85-422  du 10 avril 1985  - art. 3 (V)
 
-_Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -15867,10 +15930,10 @@ _Cite_:
 ###### Article R*321-2
 
 Sous réserve des dispositions législatives ou réglementaires particulières, le tribunal d'instance connaît, en dernier
-ressort, jusqu'à la valeur de 25000 F [*francs*] et à charge d'appel lorsque la demande excède cette somme ou est
-indéterminée, des actions dont le contrat de louage d'immeuble est l'objet, la cause ou l'occasion, y compris les demandes en
-autorisation, validité, nullité ou mainlevée de saisie-gagerie, et de saisie-revendication, alors même qu'il y aurait
-contestation de la part d'un tiers, ainsi que de celles relatives à l'application de la loi n° 48-1160 du 1er septembre 1948.
+ressort, jusqu'à la valeur de 3800 euros et à charge d'appel lorsque la demande excède cette somme ou est indéterminée, des
+actions dont le contrat de louage d'immeuble est l'objet, la cause ou l'occasion, y compris les demandes en autorisation,
+validité, nullité ou mainlevée de saisie-gagerie, et de saisie-revendication, alors même qu'il y aurait contestation de la
+part d'un tiers, ainsi que de celles relatives à l'application de la loi n° 48-1160 du 1er septembre 1948.
 
 Sont exclues de la compétence du tribunal d'instance toutes les contestations en matière de baux à loyer d'immeubles ou de
 locaux à usage commercial, industriel ou artisanal régis par le décret n° 53-960 du 30 septembre 1953.
@@ -15894,13 +15957,13 @@ _Cité par_:
 
   - Décret  n°85-422  du 10 avril 1985  - art. 4 (V)
 
-_Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*321-3
@@ -15985,8 +16048,8 @@ _Anciens textes_:
 
 ###### Article R*321-6
 
-Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 25000 F [*francs*] et à charge d'appel à quelque
-valeur que la demande puisse s'élever [*compétence*] :
+Le tribunal d'instance connaît en dernier ressort jusqu'à la valeur de 3800 euros et à charge d'appel à quelque valeur que la
+demande puisse s'élever [*compétence*] :
 
 1° (Abrogé) ;
 
@@ -16014,13 +16077,13 @@ _Cité par_:
 
   - Décret  n°85-422  du 10 avril 1985  - art. 5 (V)
 
-_Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*321-7
@@ -16238,9 +16301,9 @@ _Cite_:
 
 Le tribunal d'instance connaît, à charge d'appel, [*compétence*] des contestations relatives à la révision des rentes
 viagères mentionnées par la loi n° 49-420 du 25 mars 1949, par les titres Ier et II de la loi n° 49-1098 du 2 août 1949 et
-par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 5000 F, et,
-quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice est
-inférieure ou égale à 25000 F [*francs*].
+par les articles 1er et 2 de la loi n° 51-695 du 24 mai 1951, lorsque la rente viagère est inférieure ou égale à 800 euros,
+et, quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice
+est inférieure ou égale à 3800 euros.
 
 **Liens relatifs à cet article**
 
@@ -16259,13 +16322,13 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°98-1231 du 28 décembre 1998 - art. 33 (V)
+
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R*321-16
@@ -28046,6 +28109,28 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
+###### Article R931-9
+
+Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
+instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
+monnaie locale de 1680 euros.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
+
+_Modifié par_:
+
+  - Décret n°2001-373 du 27 avril 2001 - art. 5 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+
+
 ###### Article R931-10
 
 Les articles R. 311-4 à R. 311-6 sont applicables en Nouvelle-Calédonie et dans les territoires visés au présent chapitre,
@@ -29601,35 +29686,9 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer<a id=357></a>
+### Titre IV : Dispositions particulières à Mayotte<a id=357></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=358></a>
-
-##### Section II : Le tribunal de première instance<a id=359></a>
-
-##### Sous-section I : Institution et compétence.<a id=360></a>
-
-###### Article R931-9
-
-Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
-instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
-monnaie locale de 11000 francs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Décret n°78-330 1978-03-16
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-
-### Titre IV : Dispositions particulières à Mayotte<a id=361></a>
-
-#### Chapitre Ier : Dispositions générales.<a id=362></a>
+#### Chapitre Ier : Dispositions générales.<a id=358></a>
 
 ###### Article R941-1
 
@@ -29685,9 +29744,9 @@ _Cite_:
   - Nouveau code de procédure civile 342 à 366
 
 
-#### Chapitre II : Le tribunal supérieur d'appel<a id=363></a>
+#### Chapitre II : Le tribunal supérieur d'appel<a id=359></a>
 
-##### Section I : Organisation.<a id=364></a>
+##### Section I : Organisation.<a id=360></a>
 
 ###### Article R942-1
 
@@ -29758,9 +29817,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section II : Fonctionnement<a id=365></a>
+##### Section II : Fonctionnement<a id=361></a>
 
-##### Sous-section I : Dispositions générales.<a id=366></a>
+##### Sous-section I : Dispositions générales.<a id=362></a>
 
 ###### Article R942-4
 
@@ -29857,7 +29916,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Le ministère public.<a id=367></a>
+##### Sous-section II : Le ministère public.<a id=363></a>
 
 ###### Article R942-8
 
@@ -29945,7 +30004,7 @@ _Abrogé par_:
   - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
 
 
-##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=368></a>
+##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=364></a>
 
 ###### Article R942-12
 
@@ -30201,7 +30260,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=369></a>
+##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=365></a>
 
 ###### Article R942-20
 
@@ -30223,9 +30282,9 @@ _Cite_:
   - Code de l'organisation judiciaire R213-29
 
 
-#### Chapitre III : Le tribunal de première instance<a id=370></a>
+#### Chapitre III : Le tribunal de première instance<a id=366></a>
 
-##### Section I : Institution et compétence.<a id=371></a>
+##### Section I : Institution et compétence.<a id=367></a>
 
 ###### Article R943-1
 
@@ -30256,7 +30315,7 @@ _Nouveaux textes_:
 ###### Article R943-2
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
-instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à 3 000 F.
+instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à 460 euros.
 
 **Liens relatifs à cet article**
 
@@ -30267,11 +30326,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2001-373 du 27 avril 2001 - art. 5 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
   - Décret n°2004-593 du 17 juin 2004 - art. 14 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-2 (Ab)
 
 
 ###### Article R943-3
@@ -30303,7 +30370,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section II : Organisation.<a id=372></a>
+##### Section II : Organisation.<a id=368></a>
 
 ###### Article R943-4
 
@@ -30375,9 +30442,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section III : Fonctionnement<a id=373></a>
+##### Section III : Fonctionnement<a id=369></a>
 
-##### Sous-section I : Dispositions générales.<a id=374></a>
+##### Sous-section I : Dispositions générales.<a id=370></a>
 
 ###### Article R943-7
 
@@ -30625,7 +30692,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=375></a>
+##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=371></a>
 
 ###### Article R943-16
 
@@ -30697,7 +30764,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Sous-section III : Dispositions particulières à certaines matières.<a id=376></a>
+##### Sous-section III : Dispositions particulières à certaines matières.<a id=372></a>
 
 ###### Article R943-18
 
@@ -30749,7 +30816,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R311-29-3
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=377></a>
+#### Chapitre IV : Les juridictions des mineurs.<a id=373></a>
 
 ###### Article R944-1
 
@@ -30780,7 +30847,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre V : La cour criminelle.<a id=378></a>
+#### Chapitre V : La cour criminelle.<a id=374></a>
 
 ###### Article R945-1
 
@@ -30802,7 +30869,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=379></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=375></a>
 
 ###### Article R946-1
 
@@ -30915,9 +30982,9 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
 
 
-### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=380></a>
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=376></a>
 
-#### Chapitre Ier : Des fonctions judiciaires.<a id=381></a>
+#### Chapitre Ier : Des fonctions judiciaires.<a id=377></a>
 
 ###### Article R951-1
 
@@ -31100,11 +31167,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-7 (V)
 
 
-#### Chapitre II : Des juridictions<a id=382></a>
+#### Chapitre II : Des juridictions<a id=378></a>
 
-##### Section I : Dispositions communes<a id=383></a>
+##### Section I : Dispositions communes<a id=379></a>
 
-##### Sous-section I : Dispositions générales.<a id=384></a>
+##### Sous-section I : Dispositions générales.<a id=380></a>
 
 ###### Article R952-1
 
@@ -31140,7 +31207,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R511-1 (V)
 
 
-##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=385></a>
+##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=381></a>
 
 ###### Article R952-2
 
@@ -31238,9 +31305,9 @@ _Cite_:
   - Loi n°1881-07-29 art. 38 ter
 
 
-##### Section II : Le tribunal de première instance<a id=386></a>
+##### Section II : Le tribunal de première instance<a id=382></a>
 
-##### Sous-section I : Compétence.<a id=387></a>
+##### Sous-section I : Compétence.<a id=383></a>
 
 ###### Article R952-5
 
@@ -31295,7 +31362,7 @@ _Cité par_:
   - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=388></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=384></a>
 
 ###### Article R952-7
 
@@ -31357,7 +31424,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal supérieur d'appel.<a id=389></a>
+##### Section III : Le tribunal supérieur d'appel.<a id=385></a>
 
 ###### Article R952-9
 
@@ -31416,7 +31483,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L951-3
 
 
-# Annexes<a id=390></a>
+# Annexes<a id=386></a>
 
 ###### Article Annexe Tableau des costumes
 
