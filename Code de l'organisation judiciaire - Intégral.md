@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1985-04-13
+Version Consolidée au 1985-04-20
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -13141,6 +13141,50 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 _Modifié par_:
+
+  - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+
+
+###### Article R*814-5
+
+Les régisseurs encaissent les recettes suivantes :
+
+1° Les redevances de copies de pièces pénales ;
+
+2° Les cautionnements prévus à l'article 138 du décret n° 70-1223 du 23 décembre 1970 relatif au contrôle judiciaire (art. R.
+19 à R. 25 du Code de procédure pénale) ;
+
+3° Les sommes saisies-arrêtées prévues aux articles R145-1 à R145-21 du Code du travail ;
+
+4° Les consignations de partie civile prévues aux articles R236 à R240 du Code de procédure pénale ;
+
+5° Les provisions pour expertise ;
+
+6° Les provisions sur redevances et droits ;
+
+7° Le produit des ventes d'ouvrages et publications vendus dans les greffes.
+
+En outre, les régisseurs des secrétariats-greffes des tribunaux d'instance enregistrent dans leur comptabilité les sommes
+trouvées lors de l'apposition des scellés et celles qui leur sont remises en dépôt par le chef du secrétariat-greffe, sauf en
+matière pénale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°67-901 1967-10-12 art. 3
+
+_Cite_:
+
+  - Code de procédure pénale R19 à R25, R236 à R240
+  - Code du travail R145-1 à R145-21
+  - Décret n°70-1223 1970-12-23 art. 138
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
 
   - Décret n°83-454 1983-06-02 art. 1 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 
