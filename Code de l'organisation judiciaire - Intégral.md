@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1987-12-31
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -1365,14 +1365,23 @@ _Nouveaux textes_:
 
 ###### Article L223-2
 
-Un magistrat qui prend le nom de délégué à la protection de l'enfance est désigné au sein de chaque cour d'appel pour une
-durée de trois années renouvelable. Ce magistrat préside la chambre spéciale de la cour d'appel mentionnée à l'article
-précédent ou y exerce les fonctions de rapporteur.
+Un magistrat qui prend le nom de délégué à la protection de l'enfance est désigné au sein de chaque cour d'appel. Ce
+magistrat préside la chambre spéciale de la cour d'appel mentionnée à l'article précédent ou y exerce les fonctions de
+rapporteur.
 
 En cas d'empêchement momentané du titulaire, le premier président désigne un remplaçant.
 
 Un magistrat désigné par le procureur général est spécialement chargé, au parquet de la cour d'appel, des affaires de
 mineurs.
+
+**Nota:**
+
+Ordonnance 2006-673 du 8 juin 2006 art. 3 : L'article L. 223-2 du code de l'organisation judiciaire est abrogé à l'exception
+de ses deuxième et troisième alinéas qui sont abrogés à compter de la date d'entrée en vigueur du décret portant refonte de
+la partie réglementaire du code de l'organisation judiciaire.
+
+Le décret portant publication de la partie réglementaire du code de l'organisation judiciaire est le décret n° 2008-522 du 2
+juin 2008 publié au Journal officiel du 4 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -1383,6 +1392,25 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Modifié par_:
+
+  - Loi n°87-1062 du 30 décembre 1987 - art. 24 () JORF 31 décembre 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-6 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-13 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-15 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L223-1
 
 
 ###### Article L223-3
@@ -2245,9 +2273,8 @@ _Codifié par_:
 ###### Article L321-5
 
 Sauf dérogation prévue par décret en Conseil d'Etat, le service des tribunaux d'instance est assuré, en ce qui concerne les
-attributions dévolues aux magistrats du siège, par les magistrats des tribunaux de grande instance désignés à cet effet pour
-une durée de trois années renouvelable dans les formes prévues pour la nomination des magistrats du siège. Il peut être mis
-fin à leurs fonctions par un décret pris en la même forme.
+attributions dévolues aux magistrats du siège, par les magistrats des tribunaux de grande instance désignés à cet effet dans
+les formes prévues pour la nomination des magistrats du siège.
 
 **Liens relatifs à cet article**
 
@@ -2258,6 +2285,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Modifié par_:
+
+  - Loi n°87-1062 du 30 décembre 1987 - art. 24 () JORF 31 décembre 1987
 
 _Cité par_:
 
@@ -3147,8 +3179,8 @@ _Nouveaux textes_:
 ###### Article L532-1
 
 Le juge des enfants est choisi compte tenu de l'intérêt qu'il porte aux questions de l'enfance et de ses aptitudes, parmi les
-juges du tribunal de grande instance dans le ressort duquel le tribunal pour enfants a son siège ; il est nommé pour une
-durée de trois ans renouvelable, dans la forme exigée pour la nomination des magistrats du siège.
+juges du tribunal de grande instance dans le ressort duquel le tribunal pour enfants a son siège ; il est nommé dans la forme
+exigée pour la nomination des magistrats du siège.
 
 En cas d'empêchement momentané du titulaire, le tribunal de grande instance désigne l'un de ses juges pour le remplacer.
 
@@ -3161,6 +3193,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Modifié par_:
+
+  - Loi n°87-1062 du 30 décembre 1987 - art. 24 () JORF 31 décembre 1987
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ## Livre IV : Les juridictions spécialisées non pénales Titre II : Le conseil de prud'hommes<a id=63></a>
