@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1981-08-07
+Version Consolidée au 1981-10-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -229,23 +229,25 @@ Version Consolidée au 1981-08-07
           - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#226)
         - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-2)](#227)
         - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#228)
-      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*913-4 à R*913-7)](#229)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#230)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#231)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#232)
-          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#233)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#234)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#235)
-          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#236)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#237)
-        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#238)
-        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#239)
-        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#240)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#241)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#242)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#243)
-    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#244)
-  - [Annexes (art. Annexe Tableau II)](#245)
+      - [Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-3 à R*913-7)](#229)
+        - [Chapitre I : Le tribunal d'instance (art. R*911-3)](#230)
+          - [Section I : Dispositions générales (art. R*911-3)](#231)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-4 à R*913-7)](#232)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-1 à R*924-1)](#233)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-1 à R*921-14)](#234)
+          - [Section I : La cour d'appel (art. R*921-1 à R*921-3)](#235)
+          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R*921-5)](#236)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-7 à R*921-11)](#237)
+          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#238)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-1 à R*922-4)](#239)
+        - [Chapitre II : Dispositions particulières au département de la de la Guyane (art. R*922-2)](#240)
+        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#241)
+        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1)](#242)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#243)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#244)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#245)
+    - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-3)](#246)
+  - [Annexes (art. Annexe Tableau II)](#247)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -10699,7 +10701,44 @@ _Anciens textes_:
 
 ### Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=229></a>
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=230></a>
+#### Chapitre I : Le tribunal d'instance<a id=230></a>
+
+##### Section I : Dispositions générales<a id=231></a>
+
+###### Article R*911-3
+
+Dans le cas où le tribunal d'instance est compétent en matière patrimoniale ou en matière commerciale, il statue en premier
+ou dernier ressort suivant la valeur du litige d'après les taux de compétence fixés en matière civile pour l'ensemble des
+tribunaux d'instance.
+
+Lorsqu'il n'existe pas de conseil de prud'hommes compétent pour la profession intéressée, le tribunal d'instance statue, en
+matière prud'homale, en premier ou en dernier ressort suivant les règles fixées par les articles R517-3 à R517-5 du Code du
+travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°81-818 1981-09-01 art. 12
+
+_Modifié par_:
+
+  - Décret n°81-818 1981-09-01 art. 8 et art. 12 JORF 5 septembre 1981 en vigueur le 1er octobre 1981
+
+_Cite_:
+
+  - Code du travail R517-3 à R517-5
+
+_Anciens textes_:
+
+  - Nouveau code de procédure civile Annexe art. 34
+
+
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=232></a>
 
 ###### Article R*913-4
 
@@ -10774,11 +10813,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 28 al. 3
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=231></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=233></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=232></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=234></a>
 
-##### Section I : La cour d'appel<a id=233></a>
+##### Section I : La cour d'appel<a id=235></a>
 
 ###### Article R*921-1
 
@@ -10842,7 +10881,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=234></a>
+##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=236></a>
 
 ###### Article R*921-4
 
@@ -10893,7 +10932,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal mixte de commerce<a id=235></a>
+##### Section III : Le tribunal mixte de commerce<a id=237></a>
 
 ###### Article R*921-7
 
@@ -10961,7 +11000,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-##### Section V : Les secrétariats-greffes et secrétariats<a id=236></a>
+##### Section V : Les secrétariats-greffes et secrétariats<a id=238></a>
 
 ###### Article R*921-12
 
@@ -11050,7 +11089,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-6 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=237></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=239></a>
 
 ###### Article R*922-1
 
@@ -11122,7 +11161,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=238></a>
+#### Chapitre II : Dispositions particulières au département de la de la Guyane<a id=240></a>
 
 ###### Article R*922-2
 
@@ -11140,7 +11179,7 @@ _Abrogé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 13 (V) JORF 15 janvier 1988, en vigueur 1er janvier 1988
 
 
-#### Chapitre III : Dispositions particulières au département de la Réunion<a id=239></a>
+#### Chapitre III : Dispositions particulières au département de la Réunion<a id=241></a>
 
 ###### Article R*923-1
 
@@ -11190,7 +11229,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=240></a>
+#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=242></a>
 
 ###### Article R*924-1
 
@@ -11215,11 +11254,11 @@ _Cite_:
   - Code de l'organisation judiciaire R522-4
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=241></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=243></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=242></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=244></a>
 
-##### Section III : Le tribunal mixte de commerce<a id=243></a>
+##### Section III : Le tribunal mixte de commerce<a id=245></a>
 
 ###### Article R*921-6
 
@@ -11294,7 +11333,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-5 (V)
 
 
-## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=244></a>
+## Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=246></a>
 
 ###### Article R*913-3
 
@@ -11318,7 +11357,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 26
 
 
-# Annexes<a id=245></a>
+# Annexes<a id=247></a>
 
 ###### Article Annexe Tableau II
 
