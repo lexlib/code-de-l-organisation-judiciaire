@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-05-20
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -173,7 +173,7 @@ Version Consolidée au 2001-05-16
             - [Sous-section II : Organisation et fonctionnement (art. L952-5 à L952-8)](#170)
           - [Section III : Le tribunal supérieur d'appel (art. L952-9 à L952-14)](#171)
             - [Sous-section II : Organisation et fonctionnement. (art. L952-9 à L952-14)](#172)
-  - [Partie réglementaire ancienne - Décrets en Conseil d'Etat (art. R*121-1 à R946-5)](#173)
+  - [Partie réglementaire ancienne - Décrets en Conseil d'Etat (art. R*121-1 à R952-10)](#173)
     - [Livre Ier : La Cour de cassation (art. R*121-1 à R151-1)](#174)
       - [Titre II : Organisation (art. R*121-1 à R*121-7)](#175)
       - [Titre III : Fonctionnement (art. R*131-1 à R*132-4)](#176)
@@ -314,74 +314,83 @@ Version Consolidée au 2001-05-16
       - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#311)
       - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#312)
         - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#313)
-    - [Livre IX : Dispositions particulières (art. R*911-1 à R946-5)](#314)
+    - [Livre IX : Dispositions particulières (art. R*911-1 à R952-10)](#314)
       - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#315)
         - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#316)
           - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#317)
           - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#318)
         - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-5)](#319)
         - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#320)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R924-4)](#321)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R*923-2)](#321)
         - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-2 à R*921-14)](#322)
           - [Section I : La cour d'appel (art. R*921-2 à R*921-3)](#323)
           - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#324)
           - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#325)
         - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#326)
         - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#327)
-        - [Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon (art. R*924-1 à R924-4)](#328)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-9)](#329)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-9)](#330)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-9)](#331)
-      - [Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie (art. R931-1 à R935-1)](#332)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#333)
-          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#334)
-          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#335)
-            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-1)](#336)
-            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#337)
-          - [Section III : Les juridictions des mineurs. (art. R931-15)](#338)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#339)
-          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#340)
-        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. R932-1 à R932-27)](#341)
-          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#342)
-          - [Section II : Le tribunal du travail. (art. R932-10)](#343)
-          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#344)
-            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12)](#345)
-            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#346)
-            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#347)
-              - [I : Electorat. (art. R932-14 à R932-16)](#348)
-              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#349)
-            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#350)
-          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#351)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#352)
-        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. R933-1 à R933-8)](#353)
-        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#354)
-          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#355)
-        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1)](#356)
-      - [Titre III : Dispositions particulières aux territoires d'outre-mer (art. R931-3 à R931-9)](#357)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-3 à R931-9)](#358)
-          - [Section I : La cour d'appel. (art. R931-3)](#359)
-          - [Section II : Le tribunal de première instance (art. R931-9)](#360)
-            - [Sous-section I : Institution et compétence. (art. R931-9)](#361)
-      - [Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte (art. R941-1 à R946-5)](#362)
-        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#363)
-        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#364)
-          - [Section I : Organisation. (art. R942-1 à R942-3)](#365)
-          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#366)
-            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#367)
-            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#368)
-            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#369)
-            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#370)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#371)
-          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#372)
-          - [Section II : Organisation. (art. R943-4 à R943-6)](#373)
-          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#374)
-            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#375)
-            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#376)
-            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#377)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#378)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#379)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#380)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#381)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-9)](#328)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-9)](#329)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-9)](#330)
+      - [Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie (art. R931-1 à R935-1)](#331)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#332)
+          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#333)
+          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#334)
+            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-1)](#335)
+            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#336)
+          - [Section III : Les juridictions des mineurs. (art. R931-15)](#337)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#338)
+          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#339)
+        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. R932-1 à R932-27)](#340)
+          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#341)
+          - [Section II : Le tribunal du travail. (art. R932-10)](#342)
+          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#343)
+            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12)](#344)
+            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#345)
+            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#346)
+              - [I : Electorat. (art. R932-14 à R932-16)](#347)
+              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#348)
+            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#349)
+          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#350)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#351)
+        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. R933-1 à R933-8)](#352)
+        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#353)
+          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#354)
+        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1)](#355)
+      - [Titre III : Dispositions particulières aux territoires d'outre-mer (art. R931-3 à R931-9)](#356)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-3 à R931-9)](#357)
+          - [Section I : La cour d'appel. (art. R931-3)](#358)
+          - [Section II : Le tribunal de première instance (art. R931-9)](#359)
+            - [Sous-section I : Institution et compétence. (art. R931-9)](#360)
+      - [Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte (art. R941-1 à R946-5)](#361)
+        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#362)
+        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#363)
+          - [Section I : Organisation. (art. R942-1 à R942-3)](#364)
+          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#365)
+            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#366)
+            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#367)
+            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#368)
+            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#369)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#370)
+          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#371)
+          - [Section II : Organisation. (art. R943-4 à R943-6)](#372)
+          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#373)
+            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#374)
+            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#375)
+            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#376)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#377)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#378)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#379)
+      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#380)
+        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#381)
+        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#382)
+          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#383)
+            - [Sous-section I : Dispositions générales. (art. R952-1)](#384)
+            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#385)
+          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#386)
+            - [Sous-section I : Compétence. (art. R952-5 à R952-6)](#387)
+            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#388)
+          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#389)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#390)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -26989,110 +26998,11 @@ _Cite_:
   - Code de la sécurité sociale. - art. R752-14 (M)
 
 
-#### Chapitre IV : Dispositions particulières au département de Saint-Pierre-et-Miquelon<a id=328></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=328></a>
 
-###### Article R*924-1
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=329></a>
 
-Le livre V concernant les juridictions des mineurs est applicable au département de Saint-Pierre-et-Miquelon sous la réserve
-suivante :
-
-Pour l'application de l'article R. 522-4, le président du tribunal supérieur d'appel est substitué au premier président de la
-cour d'appel et le président du tribunal de première instance est substitué au président du tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Abrogé par_:
-
-  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-_Cite_:
-
-  - Code de l'organisation judiciaire R522-4
-
-
-###### Article R924-2
-
-Le tribunal de première instance connaît de toutes les affaires autres que pénales dont la compétence n'est pas attribuée
-expressément à une autre juridiction, et notamment de toutes les affaires dont la connaissance est attribuée aux tribunaux de
-grande instance, aux tribunaux d'instance et aux tribunaux de commerce par les règles relatives à l'organisation judiciaire
-et par des dispositions particulières.
-
-Il connaît également de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une autre
-juridiction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Créé par_:
-
-  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
-
-_Abrogé par_:
-
-  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-
-###### Article R924-3
-
-Le tribunal de première instance statue à charge d'appel lorsque le montant de la demande excède le taux de la compétence en
-dernier ressort des tribunaux d'instance prévu à l'article R321-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Créé par_:
-
-  - Décret n°83-1089 1983-12-16 art. 1 JORF 18 décembre 1983
-
-_Abrogé par_:
-
-  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-_Cite_:
-
-  - Code de l'organisation judiciaire R321-2
-
-
-###### Article R924-4
-
-Pour l'application de l'article 7 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation
-judiciaires des entreprises, le siège et le ressort des juridictions compétentes dans la collectivité territoriale de Saint-
-Pierre-et-Miquelon sont fixés conformément aux tableaux X et XI annexés au présent code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Cite_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
-
-_Créé par_:
-
-  - Décret n°93-955 du 26 juillet 1993 - art. 2 () JORF 28 juillet 1993
-
-_Abrogé par_:
-
-  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
-
-
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=329></a>
-
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=330></a>
-
-##### Section III : Le tribunal mixte de commerce<a id=331></a>
+##### Section III : Le tribunal mixte de commerce<a id=330></a>
 
 ###### Article R*921-6
 
@@ -27205,9 +27115,9 @@ _Cite_:
   - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19, R414-1 à R414-21
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie<a id=332></a>
+### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie<a id=331></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=333></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=332></a>
 
 ###### Article R931-1
 
@@ -27239,7 +27149,7 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Section I : La cour d'appel.<a id=334></a>
+##### Section I : La cour d'appel.<a id=333></a>
 
 ###### Article R931-2
 
@@ -27365,9 +27275,9 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Section II : Le tribunal de première instance<a id=335></a>
+##### Section II : Le tribunal de première instance<a id=334></a>
 
-##### Sous-section I : Institution et compétence.<a id=336></a>
+##### Sous-section I : Institution et compétence.<a id=335></a>
 
 ###### Article R931-8
 
@@ -27444,7 +27354,7 @@ _Cite_:
   - Code de l'organisation judiciaire L312-1
 
 
-##### Sous-section II : Organisation.<a id=337></a>
+##### Sous-section II : Organisation.<a id=336></a>
 
 ###### Article R931-11
 
@@ -27537,7 +27447,7 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Section III : Les juridictions des mineurs.<a id=338></a>
+##### Section III : Les juridictions des mineurs.<a id=337></a>
 
 ###### Article R931-15
 
@@ -27568,7 +27478,7 @@ _Cite_:
   - Code de l'organisation judiciaire R522-10
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=339></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=338></a>
 
 ###### Article R931-16
 
@@ -27604,7 +27514,7 @@ _Cite_:
   - Nouveau code de procédure civile 342 à 366
 
 
-##### Section VI : Les secrétariats-greffes des juridictions.<a id=340></a>
+##### Section VI : Les secrétariats-greffes des juridictions.<a id=339></a>
 
 ###### Article R931-17
 
@@ -27730,9 +27640,9 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1
 
 
-#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=341></a>
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=340></a>
 
-##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=342></a>
+##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=341></a>
 
 ###### Article R932-1
 
@@ -27984,7 +27894,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-6 (M)
 
 
-##### Section II : Le tribunal du travail.<a id=343></a>
+##### Section II : Le tribunal du travail.<a id=342></a>
 
 ###### Article R932-10
 
@@ -28010,9 +27920,9 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Section III : Le tribunal mixte de commerce<a id=344></a>
+##### Section III : Le tribunal mixte de commerce<a id=343></a>
 
-##### Sous-section I : Institution et compétence.<a id=345></a>
+##### Sous-section I : Institution et compétence.<a id=344></a>
 
 ###### Article R932-11
 
@@ -28063,7 +27973,7 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=346></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=345></a>
 
 ###### Article R932-13
 
@@ -28092,9 +28002,9 @@ _Cite_:
   - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19
 
 
-##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=347></a>
+##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=346></a>
 
-##### I : Electorat.<a id=348></a>
+##### I : Electorat.<a id=347></a>
 
 ###### Article R932-14
 
@@ -28208,7 +28118,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R937-6 (V)
 
 
-##### III : Scrutin et opérations électorales.<a id=349></a>
+##### III : Scrutin et opérations électorales.<a id=348></a>
 
 ###### Article R932-17
 
@@ -28499,7 +28409,7 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=350></a>
+##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=349></a>
 
 ###### Article R932-25
 
@@ -28522,7 +28432,7 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-##### Section IV : Les juridictions des mineurs.<a id=351></a>
+##### Section IV : Les juridictions des mineurs.<a id=350></a>
 
 ###### Article R932-26
 
@@ -28550,7 +28460,7 @@ _Cite_:
   - Code de l'organisation judiciaire R522-3
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=352></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=351></a>
 
 ###### Article R932-27
 
@@ -28574,7 +28484,7 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=353></a>
+#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=352></a>
 
 ###### Article R933-1
 
@@ -28780,9 +28690,9 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=354></a>
+#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=353></a>
 
-##### Section II : Le tribunal de première instance.<a id=355></a>
+##### Section II : Le tribunal de première instance.<a id=354></a>
 
 ###### Article R934-1
 
@@ -28926,7 +28836,7 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=356></a>
+#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=355></a>
 
 ###### Article R935-1
 
@@ -28945,11 +28855,11 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer<a id=357></a>
+### Titre III : Dispositions particulières aux territoires d'outre-mer<a id=356></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=358></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=357></a>
 
-##### Section I : La cour d'appel.<a id=359></a>
+##### Section I : La cour d'appel.<a id=358></a>
 
 ###### Article R931-3
 
@@ -28983,9 +28893,9 @@ _Cite_:
   - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
 
 
-##### Section II : Le tribunal de première instance<a id=360></a>
+##### Section II : Le tribunal de première instance<a id=359></a>
 
-##### Sous-section I : Institution et compétence.<a id=361></a>
+##### Sous-section I : Institution et compétence.<a id=360></a>
 
 ###### Article R931-9
 
@@ -29005,9 +28915,9 @@ _Modifié par_:
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
 
 
-### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte<a id=362></a>
+### Titre IV : Dispositions particulières à la collectivité territoriale de Mayotte<a id=361></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=363></a>
+#### Chapitre Ier : Dispositions générales.<a id=362></a>
 
 ###### Article R941-1
 
@@ -29065,9 +28975,9 @@ _Cite_:
   - Nouveau code de procédure civile 342 à 366
 
 
-#### Chapitre II : Le tribunal supérieur d'appel<a id=364></a>
+#### Chapitre II : Le tribunal supérieur d'appel<a id=363></a>
 
-##### Section I : Organisation.<a id=365></a>
+##### Section I : Organisation.<a id=364></a>
 
 ###### Article R942-1
 
@@ -29122,9 +29032,9 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Section II : Fonctionnement<a id=366></a>
+##### Section II : Fonctionnement<a id=365></a>
 
-##### Sous-section I : Dispositions générales.<a id=367></a>
+##### Sous-section I : Dispositions générales.<a id=366></a>
 
 ###### Article R942-4
 
@@ -29205,7 +29115,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Sous-section II : Le ministère public.<a id=368></a>
+##### Sous-section II : Le ministère public.<a id=367></a>
 
 ###### Article R942-8
 
@@ -29281,7 +29191,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=369></a>
+##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=368></a>
 
 ###### Article R942-12
 
@@ -29477,7 +29387,7 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=370></a>
+##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=369></a>
 
 ###### Article R942-20
 
@@ -29499,9 +29409,9 @@ _Cite_:
   - Code de l'organisation judiciaire R213-29
 
 
-#### Chapitre III : Le tribunal de première instance<a id=371></a>
+#### Chapitre III : Le tribunal de première instance<a id=370></a>
 
-##### Section I : Institution et compétence.<a id=372></a>
+##### Section I : Institution et compétence.<a id=371></a>
 
 ###### Article R943-1
 
@@ -29566,7 +29476,7 @@ _Cite_:
   - Code de l'organisation judiciaire R311-5, R311-6, R311-4
 
 
-##### Section II : Organisation.<a id=373></a>
+##### Section II : Organisation.<a id=372></a>
 
 ###### Article R943-4
 
@@ -29630,9 +29540,9 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Section III : Fonctionnement<a id=374></a>
+##### Section III : Fonctionnement<a id=373></a>
 
-##### Sous-section I : Dispositions générales.<a id=375></a>
+##### Sous-section I : Dispositions générales.<a id=374></a>
 
 ###### Article R943-7
 
@@ -29828,7 +29738,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=376></a>
+##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=375></a>
 
 ###### Article R943-16
 
@@ -29888,7 +29798,7 @@ _Cite_:
   - Code de l'organisation judiciaire R721-1, R721-3
 
 
-##### Sous-section III : Dispositions particulières à certaines matières.<a id=377></a>
+##### Sous-section III : Dispositions particulières à certaines matières.<a id=376></a>
 
 ###### Article R943-18
 
@@ -29932,7 +29842,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (M)
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=378></a>
+#### Chapitre IV : Les juridictions des mineurs.<a id=377></a>
 
 ###### Article R944-1
 
@@ -29960,7 +29870,7 @@ _Cite_:
   - Code de l'organisation judiciaire R522-2, R522-10
 
 
-#### Chapitre V : La cour criminelle.<a id=379></a>
+#### Chapitre V : La cour criminelle.<a id=378></a>
 
 ###### Article R945-1
 
@@ -29978,7 +29888,7 @@ _Créé par_:
   - Décret n°93-956 1993-07-26 art. 1 JORF 28 juillet 1993
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=380></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=379></a>
 
 ###### Article R946-1
 
@@ -30087,7 +29997,513 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
 
 
-# Annexes<a id=381></a>
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=380></a>
+
+#### Chapitre Ier : Des fonctions judiciaires.<a id=381></a>
+
+###### Article R951-1
+
+Les candidatures aux fonctions d'assesseur au tribunal supérieur d'appel et aux fonctions de suppléant du procureur de la
+République près ledit tribunal sont déclarées, selon le cas, au président du tribunal supérieur d'appel ou au procureur de la
+République près ledit tribunal.
+
+Les déclarations de candidature sont déposées au plus tard deux mois avant l'expiration des fonctions des assesseurs ou
+suppléants en exercice. Ces déclarations doivent être individuelles, formulées par écrit et signées des candidats.
+
+Chaque candidat fournit les renseignements et les pièces, déterminés par arrêté du garde des sceaux, destinés à établir qu'il
+remplit les conditions prévues à l'article L. 951-2.
+
+Il est délivré récépissé par le président du tribunal supérieur d'appel ou par le procureur de la République près ledit
+tribunal des déclarations de candidature qu'ils ont reçues et qui sont immédiatement affichées au secrétariat-greffe du
+tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L951-2
+
+
+###### Article R951-2
+
+Au plus tard un mois avant l'expiration des fonctions des assesseurs ou suppléants en exercice, le président du tribunal
+supérieur d'appel et le procureur de la République transmettent au garde des sceaux, ministre de la justice, leurs
+propositions et avis conformément à l'article L. 951-3. Les listes prévues au même article et établies dans l'ordre de
+réception des candidatures sont jointes à cette transmission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-3 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L951-3
+
+
+###### Article R951-3
+
+Dès sa publication au Journal officiel de la République française, l'arrêté du garde des sceaux, ministre de la justice,
+portant désignation des assesseurs et suppléants est affiché au secrétariat-greffe du tribunal supérieur d'appel et publié au
+Recueil des actes administratifs de la collectivité territoriale. Il est, en outre, notifié à chacun des assesseurs et
+suppléants désignés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-5 (V)
+
+
+###### Article R951-4
+
+Le procureur de la République près le tribunal supérieur d'appel invite les assesseurs et suppléants nouvellement désignés à
+se présenter devant cette juridiction pour prêter serment et être installés dans leurs fonctions judiciaires.
+
+Le président du tribunal supérieur d'appel, siégeant en audience publique et en présence du procureur de la République,
+reçoit la prestation de serment de ces assesseurs et suppléants, puis procède à leur installation.
+
+Il est dressé procès-verbal de la réception du serment et de l'installation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-6 (V)
+
+
+###### Article R951-5
+
+Les articles R. 721-1 et R. 721-3 sont applicables aux assesseurs au tribunal supérieur d'appel et aux suppléants du
+procureur de la République près ledit tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R951-6
+
+Il est attribué, pour l'exercice de leurs fonctions judiciaires, une indemnité de vacation aux assesseurs au tribunal
+supérieur d'appel et aux suppléants du procureur de la République près ledit tribunal. Cette indemnité, calculée par demi-
+journée, est fixée par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
+
+La réalité du service fait par les assesseurs et par les suppléants est attestée, selon le cas, par le président du tribunal
+supérieur d'appel ou par le procureur de la République près ledit tribunal.
+
+Les frais de déplacement que les assesseurs et les suppléants engagent pour se rendre à l'audience de prestation de serment
+et d'installation ainsi qu'aux audiences où ils siègent sont remboursés. Il en est de même des frais que pourraient supporter
+les suppléants pour les déplacements qui leur seraient imposés par les besoins du service autres que la représentation du
+ministère public à l'audience.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-7 (V)
+
+
+#### Chapitre II : Des juridictions<a id=382></a>
+
+##### Section I : Dispositions communes<a id=383></a>
+
+##### Sous-section I : Dispositions générales.<a id=384></a>
+
+###### Article R952-1
+
+Pour l'application dans la collectivité territoriale de Saint-Pierre-et-Miquelon des dispositions du présent code (partie
+Réglementaire), il y a lieu de lire :
+
+- "tribunal supérieur d'appel" à la place de : "cour d'appel" ;
+
+- "tribunal de première instance" à la place de : "tribunal de grande instance" et de "tribunal d'instance" ;
+
+- "président du tribunal supérieur d'appel" à la place de :
+
+"premier président de la cour d'appel" ;
+
+- "procureur de la République près le tribunal supérieur d'appel" à la place de : "procureur général près la cour d'appel".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R511-1 (V)
+
+
+##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=385></a>
+
+###### Article R952-2
+
+Dans les cas où, en application des dispositions du II de l'article L. 952-7 et du II de l'article L. 952-11, sont mis en
+oeuvre des moyens de communication audiovisuelle pour la tenue d'une audience, le service du secrétariat-greffe de la
+juridiction est assuré par le greffe de la cour d'appel de Paris.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L952-11
+  - Code de l'organisation judiciaire - art. L952-7
+
+
+###### Article R952-3
+
+La disposition, à l'intérieur de la salle d'audience et à l'intérieur de l'enceinte accueillant la formation de jugement, du
+matériel nécessaire à la retransmission audiovisuelle est fixée par décision conjointe du premier président de la cour
+d'appel de Paris et du président du tribunal supérieur d'appel.
+
+Les prises de vue et de son sont assurées par des agents des services du ministère de la justice ou, à défaut, par tous
+autres agents publics.
+
+Lorsque l'audience se tient à huis clos ou en chambre du conseil, ces agents sont nécessairement des fonctionnaires des
+secrétariats-greffes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+
+###### Article R952-4
+
+Les caractéristiques techniques des moyens de communication audiovisuelle utilisés doivent assurer une retransmission fidèle,
+loyale et confidentielle à l'égard des tiers. Ces caractéristiques sont définies par arrêté conjoint du garde des sceaux,
+ministre de la justice, du ministre de l'intérieur et du ministre de la défense.
+
+Les prises de vue et les prises de son ne peuvent faire l'objet, conformément aux dispositions de l'article 38 ter de la loi
+du 29 juillet 1881 modifiée sur la liberté de la presse, d'aucun enregistrement ni d'aucune fixation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+_Cite_:
+
+  - Loi n°1881-07-29 art. 38 ter
+
+
+##### Section II : Le tribunal de première instance<a id=386></a>
+
+##### Sous-section I : Compétence.<a id=387></a>
+
+###### Article R952-5
+
+Le tribunal de première instance statue à charge d'appel lorsque le montant de la demande excède le taux de la compétence en
+dernier ressort des tribunaux d'instance prévu à l'article R. 321-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+###### Article R952-6
+
+Pour l'application de l'article L. 621-5 du code de commerce, le siège et le ressort de la juridiction compétente dans la
+collectivité territoriale de Saint-Pierre-et-Miquelon sont fixés conformément aux tableaux X et XI annexés au présent code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'organisation judiciaire annexe
+  - Code de commerce. - art. L621-5 (M)
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Cité par_:
+
+  - Décret  n°2007-431 du 25 mars 2007 - art. 3 (VD)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R914-1 (V)
+  - Code de commerce. - art. R916-1 (V)
+
+
+##### Sous-section II : Organisation et fonctionnement.<a id=388></a>
+
+###### Article R952-7
+
+La liste arrêtée par le premier président de la cour d'appel de Paris conformément aux dispositions du I de l'article L.
+952-7 ne peut comprendre que des magistrats du siège ayant donné leur accord pour y figurer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-2 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L952-7
+
+
+###### Article R952-8
+
+Le service du secrétariat-greffe du tribunal de première instance est assuré par le secrétariat-greffe du tribunal supérieur
+d'appel.
+
+Les fonctions de greffier en chef sont assurées par un greffier.
+
+Le second alinéa de l'article R. 814-1 et les articles R. 814-2 à R. 814-7 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-4 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+##### Section III : Le tribunal supérieur d'appel.<a id=389></a>
+
+###### Article R952-9
+
+La liste arrêtée par le premier président de la cour d'appel de Paris conformément aux dispositions du I de l'article L.
+952-11 ne peut comprendre que des magistrats du siège ayant donné leur accord pour y figurer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-9 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L952-11
+
+
+###### Article R952-10
+
+En cas d'absence, d'empêchement ou d'incompatibilité légale, les fonctions d'assesseur sont exercées par un assesseur
+suppléant désigné par ordonnance du président du tribunal supérieur d'appel parmi les assesseurs suppléants mentionnés au 1°
+de l'article L. 951-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-8 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L951-3
+
+
+# Annexes<a id=390></a>
 
 ###### Article Annexe Tableau des costumes
 
