@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-12-21
+Version Consolidée au 2003-05-10
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -280,29 +280,29 @@ Version Consolidée au 2002-12-21
           - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#277)
           - [Section III : Des tribunaux prévôtaux (art. R632-3)](#278)
         - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#279)
-    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*7-10-1-1 à R*7-12-1-10)](#280)
-      - [Titre X : Audiences foraines (art. R*7-10-1-1)](#281)
-      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#282)
-      - [Titre II : Incompatibilités (art. R*721-1 à R*721-3)](#283)
-      - [Titre III : Récusation et renvoi (art. R731-1)](#284)
-      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#285)
-      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#286)
-      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#287)
-        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#288)
-          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#289)
-          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#290)
-            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#291)
-            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#292)
-            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#293)
-          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#294)
-          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#295)
-          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#296)
-            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#297)
-            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#298)
-        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance (art. R*762-1 à R*762-8)](#299)
-        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#300)
-      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#301)
-      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#302)
+    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*711-1 à R*7-12-1-10)](#280)
+      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#281)
+      - [Titre II : Incompatibilités (art. R*721-1 à R*721-3)](#282)
+      - [Titre III : Récusation et renvoi (art. R731-1)](#283)
+      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#284)
+      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#285)
+      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#286)
+        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#287)
+          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#288)
+          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#289)
+            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#290)
+            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#291)
+            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#292)
+          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#293)
+          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#294)
+          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#295)
+            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#296)
+            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#297)
+        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance (art. R*762-1 à R*762-8)](#298)
+        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#299)
+      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#300)
+      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#301)
+      - [Titre X : Audiences foraines et transfert provisoire du siège (art. R*7-10-1-1 à R*7-10-1-2)](#302)
       - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#303)
       - [Titre XII : Maisons de justice et du droit (art. R*7-12-1-1 à R*7-12-1-10)](#304)
     - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#305)
@@ -22470,31 +22470,7 @@ _Abrogé par_:
 
 ## Livre VII : Dispositions communes à plusieurs juridictions<a id=280></a>
 
-### Titre X : Audiences foraines<a id=281></a>
-
-###### Article R*7-10-1-1
-
-En application des dispositions de l'article L. 7-10-1-1, le premier président de la cour d'appel, après avis du procureur
-général près ladite cour, fixe par ordonnance, en fonction des nécessités locales, le lieu, le jour et la nature des
-audiences que peuvent tenir les juridictions du ressort en des communes de leur propre ressort autres que celle où est fixé
-leur siège.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
-_Créé par_:
-
-  - Décret n°96-157 du 27 février 1996 - art. 19 () JORF 1er mars 1996
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L7-10-1-1 (V)
-
-
-### Titre Ier : L'année judiciaire<a id=282></a>
+### Titre Ier : L'année judiciaire<a id=281></a>
 
 ###### Article R*711-1
 
@@ -22557,7 +22533,7 @@ _Cité par_:
   - Code du travail - art. R1423-13 (VD)
 
 
-### Titre II : Incompatibilités<a id=283></a>
+### Titre II : Incompatibilités<a id=282></a>
 
 ###### Article R*721-1
 
@@ -22661,7 +22637,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R941-2 (Ab)
 
 
-### Titre III : Récusation et renvoi<a id=284></a>
+### Titre III : Récusation et renvoi<a id=283></a>
 
 ###### Article R731-1
 
@@ -22684,7 +22660,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 342 à 366
 
 
-### Titre IV : Rangs, costumes et insignes<a id=285></a>
+### Titre IV : Rangs, costumes et insignes<a id=284></a>
 
 ###### Article R*741-1
 
@@ -22841,7 +22817,7 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
-### Titre V : Dispositions générales relatives au ministère public<a id=286></a>
+### Titre V : Dispositions générales relatives au ministère public<a id=285></a>
 
 ###### Article R*751-1
 
@@ -22867,9 +22843,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-1 (V)
 
 
-### Titre VI : Assemblées générales<a id=287></a>
+### Titre VI : Assemblées générales<a id=286></a>
 
-#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=288></a>
+#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=287></a>
 
 ###### Article R*761-1
 
@@ -22907,7 +22883,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=289></a>
+##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=288></a>
 
 ###### Article R*761-2
 
@@ -23346,7 +23322,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-38 (V)
 
 
-##### Section II : L'assemblée des magistrats<a id=290></a>
+##### Section II : L'assemblée des magistrats<a id=289></a>
 
 ###### Article R*761-15
 
@@ -23382,7 +23358,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
 
 
-##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=291></a>
+##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=290></a>
 
 ###### Article R*761-16
 
@@ -23564,7 +23540,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-26 (V)
 
 
-##### Sous-section II : L'assemblée des magistrats du siège<a id=292></a>
+##### Sous-section II : L'assemblée des magistrats du siège<a id=291></a>
 
 ###### Article R*761-21
 
@@ -23742,7 +23718,7 @@ _Modifié par_:
   - Décret n°96-157 du 27 février 1996 - art. 17 () JORF 1er mars 1996
 
 
-##### Sous-section III : L'assemblée des magistrats du parquet<a id=293></a>
+##### Sous-section III : L'assemblée des magistrats du parquet<a id=292></a>
 
 ###### Article R*761-25
 
@@ -23813,7 +23789,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-47 (V)
 
 
-##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=294></a>
+##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=293></a>
 
 ###### Article R*761-27
 
@@ -24045,7 +24021,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-55 (V)
 
 
-##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=295></a>
+##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=294></a>
 
 ###### Article R*761-34
 
@@ -24160,9 +24136,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section V : Les commissions<a id=296></a>
+##### Section V : Les commissions<a id=295></a>
 
-##### Sous-section I : La commission permanente<a id=297></a>
+##### Sous-section I : La commission permanente<a id=296></a>
 
 ###### Article R*761-38
 
@@ -24399,7 +24375,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-61 (V)
 
 
-##### Sous-section II : Les commissions restreintes<a id=298></a>
+##### Sous-section II : Les commissions restreintes<a id=297></a>
 
 ###### Article R*761-46
 
@@ -24554,7 +24530,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance<a id=299></a>
+#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance<a id=298></a>
 
 ###### Article R*762-1
 
@@ -24749,7 +24725,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°83-1162 1983-12-23 art. 14 date d'entrée en vigueur
 
 
-#### Chapitre III : Consultation des juridictions<a id=300></a>
+#### Chapitre III : Consultation des juridictions<a id=299></a>
 
 ###### Article R*763-1
 
@@ -24782,7 +24758,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R435-2 (V)
 
 
-### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=301></a>
+### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=300></a>
 
 ###### Article R*771-1
 
@@ -24826,7 +24802,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre IX : Participation aux commissions non juridictionnelles<a id=302></a>
+### Titre IX : Participation aux commissions non juridictionnelles<a id=301></a>
 
 ###### Article R*791-1
 
@@ -24847,6 +24823,87 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
+
+
+### Titre X : Audiences foraines et transfert provisoire du siège<a id=302></a>
+
+###### Article R*7-10-1-1
+
+En application des dispositions de l'article L. 7-10-1-1, le premier président de la cour d'appel, après avis du procureur
+général près ladite cour, fixe par ordonnance, en fonction des nécessités locales, le lieu, le jour et la nature des
+audiences que peuvent tenir les juridictions du ressort en des communes de leur propre ressort autres que celle où est fixé
+leur siège.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2003-420 du 9 mai 2003 - art. 1 () JORF 10 mai 2003
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-2 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L7-10-1-1
+
+
+###### Article R*7-10-1-2
+
+Lorsque la solidité du bâtiment où siège la juridiction se trouve affectée et que la continuité du service de la justice ne
+peut plus être assurée dans les conditions offrant les garanties nécessaires au maintien de la sécurité des personnes et des
+biens, les services de la juridiction peuvent, à titre provisoire, être transférés, partiellement ou en totalité, dans une
+autre commune du ressort.
+
+Lorsque l'ensemble des services de la juridiction est transféré, le siège de la juridiction est le lieu dans lequel elle est
+transférée.
+
+Lorsque certains services sont transférés, le siège de la juridiction est, pour chaque service, le lieu dans lequel son
+activité se déroule.
+
+Dans tous les cas, la dénomination de la juridiction par son siège demeure celle du siège initial fixé par décret en Conseil
+d'Etat.
+
+La commission permanente de la juridiction, ou, pour les juridictions ne comportant pas de commission permanente, l'assemblée
+plénière ou l'assemblée générale, convoquée sans délai, émet un avis sur le projet de transfert.
+
+Le premier président de la cour d'appel, après avis du procureur général près ladite cour, prend par ordonnance la décision
+portant transfert total ou partiel des services de la juridiction. L'ordonnance indique le motif du transfert, la date à
+laquelle il sera effectif, la durée prévisible, l'adresse du ou des services transférés.
+
+Elle fait l'objet d'une publication dans deux journaux diffusés dans le ressort et de toute autre mesure de publicité dans
+tout lieu jugé utile.
+
+La durée du transfert ne peut excéder un an. Toutefois, si la situation l'exige, elle peut faire l'objet d'une première
+prorogation pour une durée égale dans les conditions définies ci-dessus. Toute autre prorogation ne peut être décidée que par
+arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2003-420 du 9 mai 2003 - art. 1 () JORF 10 mai 2003
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-1 (V)
 
 
 ### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=303></a>
