@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2002-11-09
+Version Consolidée au 2002-12-12
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -241,7 +241,7 @@ Version Consolidée au 2002-11-09
         - [Chapitre III : Attributions non juridictionnelles (art. R*323-3 à R323-2)](#238)
     - [Livre IV : Les juridictions spécialisées non pénales (art. R*411-1 à R*461-1)](#239)
       - [Titre I : Le tribunal de commerce (art. R*411-1 à R414-21)](#240)
-        - [Chapitre I : Institution et compétence (art. R*411-1 à R*411-3)](#241)
+        - [Chapitre I : Institution et compétence (art. R*411-1 à R*411-4)](#241)
         - [Chapitre II : Organisation et fonctionnement. (art. R412-1 à R412-20)](#242)
         - [Chapitre III : Election des juges des tribunaux de commerce (art. R413-1 à R413-20)](#243)
           - [Section I : Electorat. (art. R413-1 à R413-4)](#244)
@@ -338,9 +338,9 @@ Version Consolidée au 2002-11-09
           - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#335)
         - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#336)
         - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#337)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-9)](#338)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-9)](#339)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-9)](#340)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#338)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#339)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#340)
       - [Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie (art. R931-1 à R935-2)](#341)
         - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#342)
           - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#343)
@@ -354,7 +354,7 @@ Version Consolidée au 2002-11-09
           - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#351)
           - [Section II : Le tribunal du travail. (art. R932-10)](#352)
           - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#353)
-            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12)](#354)
+            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12-1)](#354)
             - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#355)
             - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#356)
               - [I : Electorat. (art. R932-14 à R932-16)](#357)
@@ -18096,6 +18096,21 @@ _Modifié par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 
+###### Article R*411-4
+
+Le tribunal de commerce connaît en dernier ressort des demandes jusqu'à la valeur de 3800 euros.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2002-1436 du 3 décembre 2002 - art. 1 () JORF 12 décembre 2002
+
+
 #### Chapitre II : Organisation et fonctionnement.<a id=242></a>
 
 ###### Article R412-1
@@ -28868,6 +28883,33 @@ _Cite_:
   - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19, R414-1 à R414-21
 
 
+###### Article R*921-10
+
+Les dispositions de l'article R. 411-4 sont applicables au tribunal mixte de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2002-1436 du 3 décembre 2002 - art. 2 () JORF 12 décembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R732-5 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire R411-4
+
+
 ### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie<a id=341></a>
 
 #### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=342></a>
@@ -29094,7 +29136,7 @@ _Modifié par_:
 
 Dans les matières pour lesquelles il a compétence exclusive en raison de la nature de l'affaire, le tribunal de première
 instance statue en dernier ressort lorsque le montant de la demande en principal est inférieur ou égal à la contrepartie en
-monnaie locale de 1680 euros.
+monnaie locale de 3771 euros.
 
 **Liens relatifs à cet article**
 
@@ -29109,7 +29151,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-373 du 27 avril 2001 - art. 5 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
+  - Décret n°2002-1436 du 3 décembre 2002 - art. 3 () JORF 12 décembre 2002
 
 
 ###### Article R931-10
@@ -29804,6 +29846,23 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+
+
+###### Article R932-12-1
+
+Le tribunal mixte de commerce connaît en dernier ressort des demandes jusqu'à la contrepartie en monnaie locale de 3771
+euros.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2002-1436 du 3 décembre 2002 - art. 4 () JORF 12 décembre 2002
 
 
 ##### Sous-section II : Organisation et fonctionnement.<a id=355></a>
@@ -31361,6 +31420,31 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-2 (Ab)
+
+
+###### Article R943-2-1
+
+Le tribunal de première instance, lorsqu'il statue en matière commerciale, connaît en dernier ressort des demandes jusqu'à la
+valeur de 460 euros.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2002-1436 du 3 décembre 2002 - art. 5 () JORF 12 décembre 2002
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R927-6 (T)
 
 
 ###### Article R943-3
