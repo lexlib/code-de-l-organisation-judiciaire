@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-17
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-23)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -130,7 +130,7 @@ Version Consolidée au 1986-01-01
     - [Livre Ier : La Cour de cassation (art. R*121-1 à R142-1)](#127)
       - [Titre II : Organisation (art. R*121-1 à R*121-7)](#128)
       - [Titre III : Fonctionnement (art. R*131-1 à R*132-4)](#129)
-        - [Chapitre Ier : Le service des chambres de la Cour (art. R*131-1 à R*131-19)](#130)
+        - [Chapitre Ier : Le service des chambres de la Cour (art. R*131-1 à R*131-20)](#130)
         - [Chapitre II : Le ministère public (art. R*132-1 à R*132-4)](#131)
       - [Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation (art. R*141-1 à R142-1)](#132)
         - [Chapitre Ier : La commission nationale d'indemnisation en matière de détention provisoire (art. R*141-1)](#133)
@@ -6115,6 +6115,38 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-9 (V)
+
+
+###### Article R*131-20
+
+Le premier président peut, s'il y a lieu, désigner par ordonnance l'un des présidents de chambre pour le suppléer dans les
+fonctions qui lui sont attribuées par l'article L. 221-2 du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du patrimoine art. L221-2
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°86-74 1986-01-15 art. 5 JORF 17 janvier 1986
+
+_Modifié par_:
+
+  - Décret n°86-74 du 15 janvier 1986 - art. 5 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-8 (V)
 
 
 #### Chapitre II : Le ministère public<a id=131></a>
