@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1981-10-01
+Version Consolidée au 1981-12-30
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -170,12 +170,12 @@ Version Consolidée au 1981-10-01
           - [Section IV : Dispositions particulières aux professions juridiques et judiciaires (art. R*312-4)](#167)
           - [Section V : Dispositions particulières en matière commerciale (art. R*312-5)](#168)
       - [Titre II : Le tribunal d'instance (art. R*321-3 à R323-2)](#169)
-        - [Chapitre I : Dispositions générales (art. R*321-3 à R*321-43)](#170)
+        - [Chapitre I : Dispositions générales (art. R*321-3 à R*321-44)](#170)
           - [Section I : Institution et compétence (art. R*321-3 à R*321-30)](#171)
             - [Sous-section I : Compétence d'attribution (art. R*321-3 à R*321-23)](#172)
             - [Sous-section II : Compétence territoriale (art. R*321-24 à R*321-30)](#173)
           - [Section II : Organisation (art. R*321-31 à R*321-32)](#174)
-          - [Section III : Fonctionnement (art. R*321-33 à R*321-43)](#175)
+          - [Section III : Fonctionnement (art. R*321-33 à R*321-44)](#175)
         - [Chapitre II : Dispositions particulières à la tutelle (art. R*322-1)](#176)
         - [Chapitre III : Attributions non juridictionnelles (art. R*323-3 à R323-2)](#177)
     - [Livre IV : Les juridictions spécialisées non pénales (art. R*411-1 à R*461-1)](#178)
@@ -8655,6 +8655,23 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-330 1978-03-16
+
+
+###### Article R*321-44
+
+Pendant la première quinzaine du mois qui précède l'année judiciaire, le magistrat chargé de la direction et de
+l'administration du tribunal d'instance fixe, après avis des chefs du tribunal de grande instance, le nombre, le jour et la
+nature des audiences du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°81-500 1981-05-12 art. 45 JORF 14 mai 1981
 
 
 #### Chapitre II : Dispositions particulières à la tutelle<a id=176></a>
