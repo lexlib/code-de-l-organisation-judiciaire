@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1979-12-29
+Version Consolidée au 1980-01-06
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L924-22)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L142-2)](#2)
@@ -103,10 +103,10 @@ Version Consolidée au 1979-12-29
         - [Chapitre II : Les greffes des juridictions pénales spécialisées. (art. L882-1 à L882-3)](#100)
     - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats Titre II : Le greffe du tribunal de commerce (art. L821-1 à L821-3)](#101)
     - [Livre IX : Dispositions particulières (art. L911-1 à L921-1)](#102)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L911-1 à L914-1)](#103)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L911-1 à L914-2)](#103)
         - [Chapitre Ier : Le tribunal d'instance. (art. L911-1 à L911-4)](#104)
         - [Chapitre II : Le tribunal de grande instance (art. L912-1)](#105)
-        - [Chapitre IV : Les conseils de prud'hommes. (art. L914-1)](#106)
+        - [Chapitre IV : Les conseils de prud'hommes. (art. L914-1 à L914-2)](#106)
       - [Titre II : Dispositions particulières aux départements d'outre-mer (art. L921-1)](#107)
         - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. L921-1)](#108)
     - [Livre IX : Dispositions particulières Titre I : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle Chapitre I : Le tribunal d'instance. (art. L911-3)](#109)
@@ -4455,6 +4455,43 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°1901-06-30 Loi 1904-07-06
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - Code du travail - art. L51-11-1 (M)
+
+
+###### Article L914-2
+
+Ainsi qu'il est dit à l'article L. 51-11-1 du code du travail, "sans préjudice des dispositions particulières aux
+départements du Bas-rhin, du Haut-rhin et de la Moselle concernant les conseils de prud'hommes industriels et les conseils de
+prud'hommes commerciaux, les articles L. 512-5 et L. 512-6, L. 513-2 à L. 513-9, L. 514-1 à L. 514-10 et L. 51-10-2 sont
+applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle".
+
+Les assesseurs des conseils de prud'hommes existant dans ces départements ont la qualité des conseillers prud'hommes au sens
+du présent titre.
+
+**Nota:**
+
+NOTA : Loi n° 82-372 du 6 mai 1982 art. 42 : L'article L. 51-11-1 du code du travail est abrogé à compter du 15 janvier 1983.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Loi n°91-1258 1991-12-17
+
+_Cite_:
+
+  - Loi n°82-372 1982-05-06 art. 42, art. 40 à 47
+  - Loi n°82-372 du 6 mai 1982 - art. 42 (V)
+  - Code de l'organisation judiciaire L512-5, L512-6, L513-2 à L513-9, L514-1 à L514-10, L51-10-2
+  - Code du travail - art. L51-11-1 (M)
 
 _Abrogé par_:
 
