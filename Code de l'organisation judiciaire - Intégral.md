@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 1998-03-10
+Version Consolidée au 1998-07-03
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L946-2)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -5310,6 +5310,10 @@ _Abrogé par_:
 
 Il y a dans chaque tribunal de grande instance un ou plusieurs juges d'instruction.
 
+Les juges d'instruction exercent leur activité au siège du tribunal de grande instance auquel ils appartiennent. Toutefois,
+un décret en Conseil d'Etat peut les autoriser à exercer leur activité dans une commune du ressort de leur tribunal autre que
+celle du siège de la juridiction.
+
 Les règles concernant les conditions de nomination et les attributions du juge d'instruction sont fixées par les articles 49
 à 51 et 79 et suivants du Code de procédure pénale.
 
@@ -5320,13 +5324,19 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-_Cite_:
+_Modifié par_:
 
-  - Code de procédure pénale 49 à 51, 79 et s.
+  - Loi n°98-546 du 2 juillet 1998 - art. 91 (V) JORF 3 juillet 1998
 
 _Anciens textes_:
 
-  - Code de procédure pénale 49 à 51, 79 et s.
+  - CODE DE PROCEDURE PENALE - art. 79 (V)
+  - Code de procédure pénale 49 à 51, 79
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 79 (V)
+  - Code de procédure pénale 49 à 51, 79
 
 
 #### Chapitre II : La chambre de l'instruction.<a id=80></a>
