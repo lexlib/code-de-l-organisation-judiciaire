@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-05-14
+Version Consolidée au 2005-07-20
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -248,164 +248,170 @@ Version Consolidée au 2005-05-14
       - [Titre I : Le tribunal de commerce (art. R*411-1 à R414-21)](#245)
         - [Chapitre I : Institution et compétence (art. R*411-1 à R*411-4)](#246)
         - [Chapitre II : Organisation et fonctionnement. (art. R412-1 à R412-20)](#247)
-        - [Chapitre III : Election des juges des tribunaux de commerce (art. R413-1 à R413-20)](#248)
+        - [Chapitre III : Election des juges des tribunaux de commerce (art. R413-1 à R413-24)](#248)
           - [Section I : Electorat. (art. R413-1 à R413-4)](#249)
-          - [Section III : Scrutin et opérations électorales. (art. R413-5 à R413-20)](#250)
-        - [Chapitre IV : Discipline des membres des tribunaux de commerce. (art. R414-1 à R414-21)](#251)
-      - [Titre II : Le conseil de prud'hommes (art. R421-1 à R424-1)](#252)
-        - [Chapitre Ier : Attributions et institution (art. R421-1)](#253)
-        - [Chapitre II : Organisation et fonctionnement (art. R422-1)](#254)
-        - [Chapitre III : Election des conseillers prud'hommes (art. R423-1)](#255)
-        - [Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé (art. R424-1)](#256)
-      - [Titre III : Le juge de l'expropriation (art. R432-1)](#257)
-        - [Chapitre II : Organisation et fonctionnement (art. R432-1)](#258)
-      - [Titre IV : Le tribunal paritaire des baux ruraux (art. R442-1)](#259)
-        - [Chapitre II : Constitution des tribunaux paritaires. (art. R442-1)](#260)
-      - [Titre V : Les juridictions de sécurité sociale (art. R*451-1 à R*452-2)](#261)
-        - [Chapitre Ier : Le tribunal des affaires de sécurité sociale (art. R*451-1 à R*451-2)](#262)
-        - [Chapitre II : Le contentieux technique (art. R*452-1 à R*452-2)](#263)
-          - [Section I : Les tribunaux du contentieux de l'incapacité (art. R*452-1 à R*452-1-1)](#264)
-          - [Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail (art. R*452-2)](#265)
-      - [Titre VI : Les prud'hommes pêcheurs (art. R*461-1)](#266)
-    - [Livre V : Les juridictions des mineurs (art. R*522-2 à R531-1)](#267)
-      - [Titre II : Le tribunal pour enfants (art. R*522-2 à R522-1)](#268)
-        - [Chapitre II : Organisation et fonctionnement (art. R*522-2 à R522-1)](#269)
-      - [Titre III : Le juge des enfants (art. R531-1)](#270)
-        - [Chapitre Ier : Institution et compétence (art. R531-1)](#271)
-    - [Livre VI : Les juridictions pénales (art. R611-1 à R633-1)](#272)
-      - [Titre Ier : Les juridictions d'instruction de droit commun (art. R611-1 à R612-1)](#273)
-        - [Chapitre Ier : Le juge d'instruction (art. R611-1)](#274)
-        - [Chapitre II : La chambre de l'instruction (art. R612-1)](#275)
-      - [Titre II : Les juridictions de jugement de droit commun (art. R621-1 à R*623-1)](#276)
-        - [Chapitre Ier : La cour d'assises (art. R621-1)](#277)
-        - [Chapitre III : Le tribunal de police (art. R*623-1)](#278)
-      - [Titre III : Les juridictions pénales spécialisées (art. R632-1 à R633-1)](#279)
-        - [Chapitre II : Les juridictions des forces armées (art. R632-1 à R632-3)](#280)
-          - [Section I : Des tribunaux territoriaux des forces armées (art. R632-1)](#281)
-          - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#282)
-          - [Section III : Des tribunaux prévôtaux (art. R632-3)](#283)
-        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#284)
-    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*711-1 à R*7-12-1-10)](#285)
-      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#286)
-      - [Titre II : Incompatibilités (art. R*721-1 à R*721-4)](#287)
-      - [Titre III : Récusation et renvoi (art. R731-1)](#288)
-      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#289)
-      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#290)
-      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#291)
-        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#292)
-          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#293)
-          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#294)
-            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#295)
-            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#296)
-            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#297)
-          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#298)
-          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#299)
-          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#300)
-            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#301)
-            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#302)
-        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité (art. R*762-1 à R*762-11)](#303)
-          - [Section I : Le tribunal d'instance (art. R*762-1 à R*762-8)](#304)
-          - [Section II : La juridiction de proximité (art. R*762-9 à R*762-11)](#305)
-        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#306)
-      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#307)
-      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#308)
-      - [Titre X : Audiences foraines et transfert provisoire du siège (art. R*7-10-1-1 à R*7-10-1-2)](#309)
-      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#310)
-      - [Titre XII : Maisons de justice et du droit (art. R*7-12-1-1 à R*7-12-1-10)](#311)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#312)
-      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#313)
-        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-7)](#314)
-        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#315)
-        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#316)
-        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#317)
-      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R822-19)](#318)
-        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-26)](#319)
-        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce (art. R822-1 à R822-19)](#320)
-          - [Section I : La procédure disciplinaire (art. R822-1 à R822-6-3)](#321)
-            - [Sous-section I : L'enquête disciplinaire. (art. R822-1 à R822-1-1)](#322)
-            - [Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce. (art. R822-2 à R822-5)](#323)
-            - [Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement. (art. R822-6 à R822-6-3)](#324)
-          - [Section II : L'exécution des peines disciplinaires ; l'administration provisoire. (art. R822-7 à R822-12)](#325)
-          - [Section III : La suspension provisoire. (art. R822-13 à R822-15)](#326)
-          - [Section IV : Les voies de recours. (art. R822-16 à R822-18)](#327)
-          - [Section V : Dispositions communes. (art. R822-19)](#328)
-      - [Titre III : Le secrétariat-greffe du conseil de prud'hommes (art. R*831-1)](#329)
-      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#330)
-      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#331)
-      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#332)
-        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#333)
-    - [Livre IX : Dispositions particulières (art. R*911-1 à R952-10)](#334)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#335)
-        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#336)
-          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#337)
-          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#338)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-5)](#339)
-        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#340)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R*923-2)](#341)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-2 à R*921-14)](#342)
-          - [Section I : La cour d'appel (art. R*921-2 à R*921-3)](#343)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#344)
-          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#345)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#346)
-        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#347)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#348)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#349)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#350)
-      - [Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer (art. R931-1 à R935-2)](#351)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#352)
-          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#353)
-          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#354)
-            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-3)](#355)
-            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#356)
-          - [Section III : Les juridictions des mineurs. (art. R931-15)](#357)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#358)
-          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#359)
-        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. R932-1 à R932-27)](#360)
-          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#361)
-          - [Section II : Le tribunal du travail. (art. R932-10)](#362)
-          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#363)
-            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12-1)](#364)
-            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#365)
-            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#366)
-              - [I : Electorat. (art. R932-14 à R932-16)](#367)
-              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#368)
-            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#369)
-          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#370)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#371)
-        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. R933-1 à R933-8)](#372)
-        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#373)
-          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#374)
-        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1 à R935-2)](#375)
-      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-5)](#376)
-        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#377)
-        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#378)
-          - [Section I : Organisation. (art. R942-1 à R942-3)](#379)
-          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#380)
-            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#381)
-            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#382)
-            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#383)
-            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#384)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#385)
-          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#386)
-          - [Section II : Organisation. (art. R943-4 à R943-6)](#387)
-          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#388)
-            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#389)
-            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#390)
-            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#391)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#392)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#393)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#394)
-      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#395)
-        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#396)
-        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#397)
-          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#398)
-            - [Sous-section I : Dispositions générales. (art. R952-1)](#399)
-            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#400)
-          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#401)
-            - [Sous-section I : Compétence. (art. R952-5 à R952-6-1)](#402)
-            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#403)
-          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#404)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#405)
+          - [Section III : Scrutin et opérations électorales. (art. R413-5 à R413-24)](#250)
+            - [Sous-section I : Candidatures (art. R413-5)](#251)
+            - [Sous-section II : Opérations préalables au scrutin (art. R413-6 à R413-7)](#252)
+            - [Sous-section III : Vote par correspondance (art. R413-8 à R413-10)](#253)
+            - [Sous-section IV : Vote électronique (art. R413-11 à R413-13)](#254)
+            - [Sous-section V : Fichiers (art. R413-14 à R413-15)](#255)
+            - [Sous-section VI : Proclamation des résultats et contentieux de l'élection des juges consulaires (art. R413-16 à R413-24)](#256)
+        - [Chapitre IV : Discipline des membres des tribunaux de commerce. (art. R414-1 à R414-21)](#257)
+      - [Titre II : Le conseil de prud'hommes (art. R421-1 à R424-1)](#258)
+        - [Chapitre Ier : Attributions et institution (art. R421-1)](#259)
+        - [Chapitre II : Organisation et fonctionnement (art. R422-1)](#260)
+        - [Chapitre III : Election des conseillers prud'hommes (art. R423-1)](#261)
+        - [Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé (art. R424-1)](#262)
+      - [Titre III : Le juge de l'expropriation (art. R432-1)](#263)
+        - [Chapitre II : Organisation et fonctionnement (art. R432-1)](#264)
+      - [Titre IV : Le tribunal paritaire des baux ruraux (art. R442-1)](#265)
+        - [Chapitre II : Constitution des tribunaux paritaires. (art. R442-1)](#266)
+      - [Titre V : Les juridictions de sécurité sociale (art. R*451-1 à R*452-2)](#267)
+        - [Chapitre Ier : Le tribunal des affaires de sécurité sociale (art. R*451-1 à R*451-2)](#268)
+        - [Chapitre II : Le contentieux technique (art. R*452-1 à R*452-2)](#269)
+          - [Section I : Les tribunaux du contentieux de l'incapacité (art. R*452-1 à R*452-1-1)](#270)
+          - [Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail (art. R*452-2)](#271)
+      - [Titre VI : Les prud'hommes pêcheurs (art. R*461-1)](#272)
+    - [Livre V : Les juridictions des mineurs (art. R*522-2 à R531-1)](#273)
+      - [Titre II : Le tribunal pour enfants (art. R*522-2 à R522-1)](#274)
+        - [Chapitre II : Organisation et fonctionnement (art. R*522-2 à R522-1)](#275)
+      - [Titre III : Le juge des enfants (art. R531-1)](#276)
+        - [Chapitre Ier : Institution et compétence (art. R531-1)](#277)
+    - [Livre VI : Les juridictions pénales (art. R611-1 à R633-1)](#278)
+      - [Titre Ier : Les juridictions d'instruction de droit commun (art. R611-1 à R612-1)](#279)
+        - [Chapitre Ier : Le juge d'instruction (art. R611-1)](#280)
+        - [Chapitre II : La chambre de l'instruction (art. R612-1)](#281)
+      - [Titre II : Les juridictions de jugement de droit commun (art. R621-1 à R*623-1)](#282)
+        - [Chapitre Ier : La cour d'assises (art. R621-1)](#283)
+        - [Chapitre III : Le tribunal de police (art. R*623-1)](#284)
+      - [Titre III : Les juridictions pénales spécialisées (art. R632-1 à R633-1)](#285)
+        - [Chapitre II : Les juridictions des forces armées (art. R632-1 à R632-3)](#286)
+          - [Section I : Des tribunaux territoriaux des forces armées (art. R632-1)](#287)
+          - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#288)
+          - [Section III : Des tribunaux prévôtaux (art. R632-3)](#289)
+        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#290)
+    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*711-1 à R*7-12-1-10)](#291)
+      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#292)
+      - [Titre II : Incompatibilités (art. R*721-1 à R*721-4)](#293)
+      - [Titre III : Récusation et renvoi (art. R731-1)](#294)
+      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#295)
+      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#296)
+      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#297)
+        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#298)
+          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#299)
+          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#300)
+            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#301)
+            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#302)
+            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#303)
+          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#304)
+          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#305)
+          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#306)
+            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#307)
+            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#308)
+        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité (art. R*762-1 à R*762-11)](#309)
+          - [Section I : Le tribunal d'instance (art. R*762-1 à R*762-8)](#310)
+          - [Section II : La juridiction de proximité (art. R*762-9 à R*762-11)](#311)
+        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#312)
+      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#313)
+      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#314)
+      - [Titre X : Audiences foraines et transfert provisoire du siège (art. R*7-10-1-1 à R*7-10-1-2)](#315)
+      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#316)
+      - [Titre XII : Maisons de justice et du droit (art. R*7-12-1-1 à R*7-12-1-10)](#317)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#318)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#319)
+        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-7)](#320)
+        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#321)
+        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#322)
+        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#323)
+      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R822-19)](#324)
+        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-26)](#325)
+        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce (art. R822-1 à R822-19)](#326)
+          - [Section I : La procédure disciplinaire (art. R822-1 à R822-6-3)](#327)
+            - [Sous-section I : L'enquête disciplinaire. (art. R822-1 à R822-1-1)](#328)
+            - [Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce. (art. R822-2 à R822-5)](#329)
+            - [Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement. (art. R822-6 à R822-6-3)](#330)
+          - [Section II : L'exécution des peines disciplinaires ; l'administration provisoire. (art. R822-7 à R822-12)](#331)
+          - [Section III : La suspension provisoire. (art. R822-13 à R822-15)](#332)
+          - [Section IV : Les voies de recours. (art. R822-16 à R822-18)](#333)
+          - [Section V : Dispositions communes. (art. R822-19)](#334)
+      - [Titre III : Le secrétariat-greffe du conseil de prud'hommes (art. R*831-1)](#335)
+      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#336)
+      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#337)
+      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#338)
+        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#339)
+    - [Livre IX : Dispositions particulières (art. R*911-1 à R952-10)](#340)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#341)
+        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#342)
+          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#343)
+          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#344)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-5)](#345)
+        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#346)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R*923-2)](#347)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-2 à R*921-14)](#348)
+          - [Section I : La cour d'appel (art. R*921-2 à R*921-3)](#349)
+          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#350)
+          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#351)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#352)
+        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#353)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#354)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#355)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#356)
+      - [Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer (art. R931-1 à R935-2)](#357)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#358)
+          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#359)
+          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#360)
+            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-3)](#361)
+            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#362)
+          - [Section III : Les juridictions des mineurs. (art. R931-15)](#363)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#364)
+          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#365)
+        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. R932-1 à R932-27)](#366)
+          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#367)
+          - [Section II : Le tribunal du travail. (art. R932-10)](#368)
+          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#369)
+            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12-1)](#370)
+            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#371)
+            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#372)
+              - [I : Electorat. (art. R932-14 à R932-16)](#373)
+              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#374)
+            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#375)
+          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#376)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#377)
+        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. R933-1 à R933-8)](#378)
+        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#379)
+          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#380)
+        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1 à R935-2)](#381)
+      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-5)](#382)
+        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#383)
+        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#384)
+          - [Section I : Organisation. (art. R942-1 à R942-3)](#385)
+          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#386)
+            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#387)
+            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#388)
+            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#389)
+            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#390)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#391)
+          - [Section I : Institution et compétence. (art. R943-1 à R943-3)](#392)
+          - [Section II : Organisation. (art. R943-4 à R943-6)](#393)
+          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#394)
+            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#395)
+            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#396)
+            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#397)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#398)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#399)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#400)
+      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#401)
+        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#402)
+        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#403)
+          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#404)
+            - [Sous-section I : Dispositions générales. (art. R952-1)](#405)
+            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#406)
+          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#407)
+            - [Sous-section I : Compétence. (art. R952-5 à R952-6-1)](#408)
+            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#409)
+          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#410)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#411)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -20077,7 +20083,10 @@ _Nouveaux textes_:
 
 ###### Article R412-4
 
-L'installation publique du président et des juges nouvellement élus a lieu dans la première quinzaine du mois de janvier.
+L'installation publique du président et des juges nouvellement élus a lieu dans la première quinzaine du mois de janvier. En
+cas d'élections complémentaires organisées conformément au deuxième alinéa de l'article L. 413-8, l'installation des juges
+élus a lieu dans un délai de quinze jours à compter de la réception par le procureur général du procès-verbal des opérations
+électorales.
 
 En cas de création d'un tribunal de commerce, le premier président de la cour d'appel dans le ressort duquel la juridiction
 consulaire a son siège procède à l'installation publique des magistrats élus.
@@ -20088,9 +20097,13 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 1 () JORF 20 juillet 2005
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-8 (V)
 
 _Cité par_:
 
@@ -20519,7 +20532,7 @@ _Nouveaux textes_:
 
 Sous réserve des dispositions de l'article R. 414-20, les présidents, vice-présidents, présidents de chambre et juges des
 tribunaux de commerce ayant exercé des fonctions dans une juridiction commerciale pendant douze ans au moins sont autorisés à
-se prévaloir de l'honorariat des fonctions qu'ils ont exercées en dernier lieu.
+se prévaloir de l'honorariat des fonctions qu'ils ont exercées.
 
 **Liens relatifs à cet article**
 
@@ -20527,21 +20540,26 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
-
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
-
 _Cité par_:
 
   - Décret n°88-38 du 13 janvier 1988 - art. 11 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-20 (Ab)
+  - Décret n°2005-808 du 18 juillet 2005 - art. 4 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
+  - Code de commerce. - art. R722-19 (V)
   - Code de commerce. - art. R722-19 (M)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-20 (Ab)
 
 
 ###### Article R412-19
@@ -20619,31 +20637,32 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-2 (Ab)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R723-1 (V)
 
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-2 (Ab)
+
 
 ###### Article R413-2
 
 Pour établir la liste des membres du collège électoral, la commission se fait remettre une copie, certifiée par le préfet, du
-procès-verbal de l'élection des délégués consulaires, une expédition de l'ordonnance fixant le tableau des juges composant la
-juridiction et l'état nominatif des membres des chambres de commerce et d'industrie ayant la qualité d'électeurs consulaires
-dans le ressort du tribunal de commerce. Cet état est certifié par chacun des présidents des chambres de commerce et
-d'industrie intéressées.
+procès-verbal de l'élection des délégués consulaires et, par le président du tribunal de commerce, une expédition de
+l'ordonnance fixant le tableau des juges composant la juridiction.
 
 La commission procède à la radiation des membres du collège électoral qui sont décédés, qui ont démissionné, qui ont été
-déclarés déchus de leurs fonctions ou qui ont été condamnés à l'une des peines, déchéances ou sanctions prévues au deuxième
-alinéa de l'article L. 413-1. La commission procède en outre à l'inscription des juges et des membres de chambres de commerce
-et d'industrie dont l'élection est intervenue postérieurement à celle des délégués consulaires ainsi qu'à celle des anciens
-membres des tribunaux de commerce et des chambres de commerce et d'industrie qui demandent à être inscrits en application de
-l'article L. 413-1.
+déclarés déchus de leurs fonctions ou qui ont été condamnés à l'une des peines, déchéances ou sanctions prévues aux alinéas 4
+à 7 de l'article L. 413-1. La commission procède en outre à l'inscription des juges dont l'élection est intervenue
+postérieurement à celle des délégués consulaires ainsi qu'à celle des anciens membres des tribunaux de commerce qui demandent
+à être inscrits en application de l'article L. 413-1.
 
 **Liens relatifs à cet article**
 
@@ -20653,30 +20672,34 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
 _Cité par_:
 
   - Décret n°2005-808 du 18 juillet 2005 - art. 5 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-4 (Ab)
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R723-2 (V)
 
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
+
 
 ###### Article R413-3
 
 Au plus tard le 15 juillet de chaque année, la commission arrête la liste électorale qui sera utilisée lors de l'élection
-prévue à l'article L. 431-8. Cette liste est aussitôt affichée au greffe du tribunal de commerce et le demeure jusqu'au jour
-du scrutin. Une copie en est transmise au préfet. La liste est rectifiée à la diligence du greffier du tribunal du commerce
-en cas de notification par tout intéressé d'un jugement intervenu en application des articles L. 25 et L. 34 du code
-électoral. Ces rectifications sont aussitôt portées à la connaissance du préfet et, après l'ouverture du scrutin, du
-président de la commission électorale mentionnée à l'article R. 413-7.
+prévue à l'article L. 413-8. Cette liste est aussitôt affichée au greffe du tribunal de commerce et le demeure jusqu'au
+dépouillement du scrutin. Une copie est transmise au préfet. La liste est rectifiée à la diligence du greffier du tribunal de
+commerce en cas de notification par tout intéressé d'un jugement intervenu dans les conditions fixées par les articles L. 25
+et L. 34 du code électoral. Ces rectifications sont aussitôt portées à la connaissance du préfet et, avant le commencement
+des opérations de dépouillement et de recensement des votes, du président de la commission mentionnée à l'article L. 413-10.
 
 **Liens relatifs à cet article**
 
@@ -20686,18 +20709,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-3 (V)
 
 _Cite_:
 
   - Code électoral - art. L25 (V)
   - Code électoral - art. L34 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-8 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-7 (M)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. R723-3 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-8 (V)
 
 
 ###### Article R413-4
@@ -20713,44 +20740,52 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
-
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
-
 _Cité par_:
 
   - Décret n°99-659 du 30 juillet 1999 - art. 3 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-2 (M)
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R723-4 (V)
 
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-2 (M)
+
 
 ##### Section III : Scrutin et opérations électorales.<a id=250></a>
+
+##### Sous-section I : Candidatures<a id=251></a>
 
 ###### Article R413-5
 
 Les candidatures aux fonctions de juge d'un tribunal de commerce sont déclarées au préfet. Nul ne peut se porter
 simultanément candidat dans plusieurs tribunaux de commerce.
 
-Les déclarations de candidature pour le premier tour de scrutin sont recevables jusqu'au vingtième jour précédant celui du
-scrutin. Les déclarations doivent être faites par écrit et signées par les candidats. Elles peuvent être individuelles ou
-collectives.
+Les déclarations de candidature sont recevables jusqu'à 18 heures le vingtième jour précédant celui du dépouillement du
+premier tour de scrutin. Les déclarations doivent être faites par écrit et signées par les candidats. Elles peuvent être
+individuelles ou collectives.
 
-Chaque candidat doit, à l'appui de sa candidature, déposer une déclaration écrite sur l'honneur qu'il remplit les conditions
-d'éligibilité fixées à l'article L. 413-4, qu'il n'est frappé d'aucune des incapacités, déchéances ou inéligibilités prévues
-aux articles L. 413-1 et L. 413-3, qu'il ne fait pas l'objet d'une mesure de suspension prise en application de l'article L.
-414-4 et qu'il n'est pas candidat dans un autre tribunal de commerce.
+Chaque candidat accompagne sa déclaration de candidature de la copie d'un titre d'identité et d'une déclaration écrite sur
+l'honneur qu'il remplit les conditions d'éligibilité fixées à l'article L. 413-3, qu'il n'est pas frappé de l'une des
+incapacités, incompatibilités, déchéances ou inéligibilités prévues aux alinéas 4 à 7 de l'article L. 413-1 et aux articles
+L. 413-3-1, L. 413-3-2, L. 413-4 et L. 413-5 et qu'il n'est pas candidat dans un autre tribunal de commerce.
 
 Le préfet enregistre les candidatures et en donne récépissé. Il refuse celles qui ne sont pas assorties de la déclaration
-exigée à l'alinéa précédent et en avise les intéressés.
+exigée à l'alinéa précédent et en avise les intéressés par écrit.
 
-Les candidatures enregistrées sont immédiatement affichées à la préfecture et portées à la connaissance du procureur général
-près la cour d'appel.
+Aucun retrait ou remplacement d'une candidature n'est accepté après son enregistrement.
+
+Les candidatures enregistrées sont affichées à la préfecture le lendemain de la date limite de dépôt des candidatures et
+portées à la connaissance du procureur général près la cour d'appel.
 
 **Liens relatifs à cet article**
 
@@ -20760,33 +20795,40 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-6 (V)
+  - Code de commerce. - art. R723-6 (M)
 
 _Cite_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3-1 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3-2 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-4 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-5 (Ab)
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
 
-_Nouveaux textes_:
 
-  - Code de commerce. - art. R723-6 (M)
-
+##### Sous-section II : Opérations préalables au scrutin<a id=252></a>
 
 ###### Article R413-6
 
-L'élection des membres d'un tribunal de commerce a lieu dans la commune où le tribunal a son siège.
+Le collège électoral est informé, par un arrêté du préfet pris un mois avant la date du dépouillement du premier tour de
+scrutin, de la date, de l'heure et du lieu fixés pour les opérations de dépouillement et de recensement des votes des premier
+et deuxième tours de scrutin. Une copie de cet arrêté est adressée à chaque électeur.
 
-Le collège électoral est convoqué par un arrêté du préfet pris un mois avant la date du scrutin. Cet arrêté fixe la date, les
-heures et le lieu de chacun des deux tours de scrutin. Un délai de quatre jours ouvrables doit séparer la date des deux tours
-de scrutin.
-
-Chaque électeur est en outre convoqué individuellement.
+Un délai de dix jours ouvrables sépare les dates de dépouillement des deux tours de scrutin.
 
 **Liens relatifs à cet article**
 
@@ -20794,13 +20836,17 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Modifié par_:
-
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
 _Cité par_:
 
   - Décret n°91-739 du 18 juillet 1991 - art. 24 (M)
+
+_Modifié par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
@@ -20812,7 +20858,7 @@ _Nouveaux textes_:
 La commission prévue à l'article L. 413-10 comprend, outre son président, deux juges d'instance. Ces trois magistrats sont
 désignés par le premier président après avis de l'assemblée générale de la cour d'appel.
 
-Le secrétariat de la commission électorale est assuré par le greffier du tribunal de commerce.
+Le secrétariat de la commission est assuré par le greffier du tribunal de commerce.
 
 **Liens relatifs à cet article**
 
@@ -20820,9 +20866,17 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-8 (V)
 
 _Cite_:
 
@@ -20832,22 +20886,13 @@ _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (M)
 
-_Nouveaux textes_:
 
-  - Code de commerce. - art. R723-8 (V)
-
+##### Sous-section III : Vote par correspondance<a id=253></a>
 
 ###### Article R413-8
 
-Chaque électeur, après que la commission électorale ait vérifié son identité, vote à l'aide d'un bulletin qu'il rédige lui-
-même. Il peut aussi utiliser l'un des bulletins imprimés mis par certains candidats, avec l'approbation de la commission
-électorale, à la disposition des électeurs dans la salle du scrutin. Ce bulletin imprimé peut être modifié de façon
-manuscrite. Chaque électeur ne met sous enveloppe et ne dépose dans l'urne qu'un seul bulletin.
-
-Le nombre des candidats désignés par chaque électeur sur son bulletin doit être égal ou inférieur à celui des juges à élire.
-
-Les suffrages exprimés en faveur des personnes dont la candidature n'a pas été enregistrée et affichée conformément aux
-dispositions de l'article R. 413-5 ne sont pas comptés lors du recensement des votes.
+Les plis contenant les votes par correspondance sont admis en franchise au sens du b du 2° de l'article 38 du cahier des
+charges de La Poste annexé au décret n° 90-1214 du 29 décembre 1990.
 
 **Liens relatifs à cet article**
 
@@ -20855,13 +20900,17 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
-
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
-
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-5 (Ab)
+  - Décret n°90-1214 1990-12-29 annexe
+
+_Modifié par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
@@ -20870,31 +20919,46 @@ _Nouveaux textes_:
 
 ###### Article R413-9
 
-Tout électeur désirant voter par procuration fait établir celle-ci par acte dressé sans frais par le juge d'instance de sa
-résidence.
+Le préfet adresse aux électeurs, douze jours au moins avant la date du dépouillement du premier tour de scrutin, deux
+enveloppes électorales destinées, pour chaque tour de scrutin, à recevoir le bulletin de vote et deux enveloppes d'envoi
+portant les mentions "Election des juges du tribunal de commerce. - Vote par correspondance", "Juridiction :" et "Nom,
+prénoms et signature de l'électeur :". L'une des deux enveloppes d'envoi porte en outre la mention "Premier tour de scrutin",
+la seconde enveloppe porte la mention "Second tour de scrutin".
 
-L'électeur ne peut désigner en qualité de mandataire qu'un autre électeur inscrit sur la même liste électorale que lui.
+Chaque électeur vote à l'aide d'un bulletin qu'il rédige lui-même. Il peut aussi utiliser l'un des bulletins imprimés envoyés
+par certains candidats après l'avis de la commission prévue à l'article L. 413-10. Ce bulletin imprimé peut être modifié de
+façon manuscrite. Chaque électeur ne met sous enveloppe qu'un seul bulletin. Le nombre des candidats désignés par chaque
+électeur sur son bulletin doit être égal ou inférieur à celui des juges à élire. Les suffrages exprimés en faveur des
+personnes dont la candidature n'a pas été enregistrée et affichée conformément aux dispositions de l'article R. 413-5 ne sont
+pas comptés lors du recensement des votes.
 
-Le juge d'instance peut être saisi à tout moment jusqu'à l'avant-veille du premier tour de scrutin à midi.
+Un arrêté du garde des sceaux, ministre de la justice, fixe le format, le libellé et les modalités d'impression des bulletins
+ainsi que les modalités de présentation des candidatures sur les bulletins de vote.
 
-L'électeur doit justifier devant le juge d'instance de son identité. Il doit en outre produire un certificat établi par le
-greffier du tribunal de commerce attestant de son inscription et de celle de son mandataire sur la liste électorale
-mentionnée à l'article R. 413-3.
+Pour chaque tour de scrutin, l'électeur place son bulletin de vote dans l'enveloppe électorale et place cette enveloppe dans
+l'enveloppe d'envoi prévue pour le tour de scrutin considéré. Il adresse cette deuxième enveloppe au préfet sous pli fermé.
 
-L'électeur doit se présenter en personne devant le juge d'instance. La présence du mandataire n'est pas indispensable.
+Le préfet dresse une liste des électeurs dont il a reçu l'enveloppe d'acheminement des votes. La liste est close la veille du
+dépouillement du premier tour de scrutin à dix-huit heures. Les plis parvenant ultérieurement portent la mention de la date
+et l'heure auxquelles ils sont parvenus à la préfecture et sont conservés par le préfet. La liste est remise avec les
+enveloppes cachetées contenant les enveloppes électorales au président de la commission prévue à l'article L. 413-10 avant le
+début des opérations de dépouillement.
 
-Le juge d'instance dresse l'acte de procuration en deux originaux : l'un est remis à l'électeur, le second auquel est annexé
-le certificat établi par le greffier du tribunal de commerce est conservé au rang des minutes du tribunal d'instance.
+Entre le premier et le second tour de scrutin, le préfet dresse la liste des électeurs dont il a reçu l'enveloppe
+d'acheminement des votes pour le second tour. Il clôt la liste la veille du dépouillement du second tour de scrutin à dix-
+huit heures et procède ensuite conformément à l'alinéa précédent.
 
-La validité de la procuration est limitée à la seule élection pour laquelle elle est établie.
+La liste d'émargement du vote par correspondance est constituée par la liste d'émargement prévue à l'article R. 413-13. A
+défaut, une copie de la liste des électeurs prévue au présent article tient lieu de liste d'émargement.
 
-Au cours du premier tour de scrutin, le mandataire remet au président de la commission électorale l'acte de procuration
-établi par le juge d'instance. Le secrétaire de la commission électorale porte sur la liste d'émargement, en face du nom de
-l'électeur ayant demandé à voter par procuration, la mention de cette demande et le nom du mandataire désigné par la
-procuration et, en face du nom de l'électeur désigné en qualité de mandataire, la mention de cette qualité et du nom de
-l'électeur représenté. La procuration est annexée à la liste d'émargement et conservée dans les conditions fixées par
-l'article R413-13. Le mandataire peut alors participer aux deux tours de scrutin au nom de l'électeur qu'il représente et
-pour lequel il émarge.
+A la clôture du scrutin, le secrétaire de la commission prévue à l'article L. 413-10 porte sur la liste d'émargement, en face
+du nom de chaque électeur, la mention "vote par correspondance". Le président de la commission ouvre ensuite chaque pli,
+énonce publiquement le nom de l'électeur, émarge et place dans une urne l'enveloppe contenant le bulletin de vote pour être
+dépouillé avec les autres.
+
+Les membres de la commission prévue à l'article L. 413-10 procèdent au dépouillement des bulletins contenus dans l'urne. Les
+enveloppes d'acheminement des votes et la liste des électeurs ayant voté par correspondance sont annexées à la liste
+d'émargement et conservées dans les conditions fixées par l'article R. 413-17.
 
 **Liens relatifs à cet article**
 
@@ -20902,57 +20966,40 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
 _Cité par_:
 
   - Arrêté du 29 juillet 2005 - art. 2 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-11 (Ab)
 
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-10 (V)
+  - Code de commerce. - art. R723-11 (V)
+  - Code de commerce. - art. R723-12 (V)
+  - Code de commerce. - art. R723-13 (V)
+  - Code de commerce. - art. R723-14 (V)
+
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
-  - Code de l'organisation judiciaire L413-3, L413-13
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-13 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-17 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (M)
 
 
 ###### Article R413-10
 
-Tout électeur désirant voter par correspondance en fait la demande auprès du préfet. Cette demande est recevable jusqu'au
-vingtième jour précédant la date du scrutin. La demande, formulée par écrit et signée par l'électeur, doit indiquer ses nom,
-prénoms et domicile ainsi que la qualité lui donnant droit à participer au vote.
-
-Si la demande est tardive ou si l'intéressé ne figure pas sur la liste électorale mentionnée à l'article R. 413-3, le préfet
-avise aussitôt l'intéressé du rejet de sa demande en lui donnant les motifs de son refus.
-
-Lorsque le préfet fait droit à la demande, il adresse à l'électeur, douze jours avant la date du premier tour de scrutin,
-deux enveloppes électorales destinées, pour chaque tour de scrutin, à recevoir le bulletin de vote et deux enveloppes d'envoi
-portant la mention "Election des juges du tribunal de commerce. - Vote par correspondance" et les nom et prénoms de
-l'électeur. L'une des deux enveloppes d'envoi porte en outre la mention "Premier tour de scrutin" et l'indication de la date
-du premier tour, la seconde enveloppe porte la mention "Second tour de scrutin" et l'indication de la date du second tour.
-
-Pour chaque tour de scrutin, l'électeur place son bulletin de vote dans l'enveloppe électorale sans la cacheter et place
-cette enveloppe dans l'enveloppe d'envoi prévue pour le tour de scrutin considéré. Il cachette cette deuxième enveloppe et
-l'adresse au préfet.
-
-Le préfet dresse la liste des électeurs ayant demandé à voter par correspondance. Il y mentionne ceux des électeurs dont il a
-reçu l'enveloppe électorale. La liste est close la veille du premier tour de scrutin à dix-huit heures. Les plis parvenant
-ultérieurement sont retournés aux électeurs avec la mention de la date et de l'heure auxquelles ils sont parvenus à la
-préfecture. La liste est remise avec les enveloppes cachetées contenant les enveloppes électorales au président de la
-commission électorale immédiatement après que celui-ci ait ouvert le scrutin.
-
-Entre le premier et le second tour de scrutin, le préfet dresse la liste des électeurs dont il a reçu l'enveloppe électorale
-pour le second tour. Il clôt la liste la veille du second tour de scrutin à dix-huit heures et procède ensuite comme il est
-dit à l'alinéa qui précède.
-
-Le secrétaire de la commission électorale porte sur la liste d'émargement, en face du nom de chaque électeur autorisé à voter
-par correspondance, la mention "Vote par correspondance". Le président de la commission électorale ouvre ensuite chaque pli,
-énonce publiquement le nom de l'électeur, émarge et place dans l'urne, pour être dépouillée avec les autres, l'enveloppe
-contenant le bulletin de vote.
-
-A la clôture du scrutin, les enveloppes électorales et la liste des électeurs autorisés à voter par correspondance sont
-annexées à la liste d'émargement et conservées dans les conditions fixées par l'article R. 413-13.
+Les dispositions des articles R. 49, R. 52, R. 54, alinéa 1, R. 59, alinéa 1, R. 62, R. 63, alinéa 1, et R. 68 du code
+électoral s'appliquent aux opérations électorales organisées en vue de la désignation des membres des tribunaux de commerce.
+Pour l'application de ces dispositions, la commission prévue à l'article L. 413-10 est substituée au bureau de vote.
 
 **Liens relatifs à cet article**
 
@@ -20962,56 +21009,40 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
-  - Code de l'organisation judiciaire L413-3, L413-13
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R723-15 (V)
 
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+  - Code de l'organisation judiciaire R49, R52, R54, R59, R62, R63, R68, L413-10
+
+
+##### Sous-section IV : Vote électronique<a id=254></a>
 
 ###### Article R413-11
 
-Les dispositions des articles R. 48, R. 49, R. 52, R. 54 (alinéa 1), R. 55 (alinéas 1 et 3), R. 57, R. 58, R. 59, R. 61
-(alinéa 1), R. 62, R. 63, R. 67 (alinéa 3) et R. 68 du code électoral s'appliquent aux opérations électorales organisées en
-vue de la désignation des membres des tribunaux de commerce.
+Le préfet adresse aux électeurs, en même temps que les documents prévus à l'article R. 413-9, une instruction relative aux
+modalités d'accès au système de vote électronique auquel l'électeur doit se relier pour voter ainsi que les instruments
+permettant l'expression du vote selon des modalités garantissant sa confidentialité.
 
-**Liens relatifs à cet article**
+Ces instruments permettent l'authentification de l'électeur et la vérification de l'unicité de son vote selon des exigences
+de sécurité et des modalités définies par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de
+l'intérieur, pris après avis de la Commission nationale de l'informatique et des libertés.
 
-_Codifié par_:
+**Nota:**
 
-  - Décret n°78-330 1978-03-16
+NOTA : Les dispositions de l'article 2 du présent décret relatives au vote électronique entrent en vigueur pour les
+opérations électorales qui se dérouleront au cours de l'année 2007.
 
-_Créé par_:
-
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. R723-16 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire R48, R49, R52, R54, R55, R57, R58, R59, R61, R62, R63, R67, R68
-
-
-###### Article R413-12
-
-Le recensement des votes est effectué par la commission électorale. Les résultats sont proclamés publiquement par le
-président de la commission électorale. La liste des candidats élus, établie dans l'ordre dégressif du nombre de voix obtenu
-par chacun d'entre eux, est immédiatement affichée au greffe du tribunal de commerce.
-
-Le procès-verbal des opérations électorales est dressé en trois exemplaires revêtus de la signature des membres de la
-commission électorale : le premier exemplaire est envoyé au procureur général, le deuxième au préfet et le troisième est
-conservé au greffe du tribunal de commerce.
+Les premières élections avec vote électronique se sont déroulées le 6 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -21021,21 +21052,38 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
-_Cité par_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (M)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007 en vigueur le 6 mai 2007
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. R723-17 (V)
+  - Code de commerce. - art. R723-16 (V)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (Ab)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (M)
 
 
-###### Article R413-13
+###### Article R413-12
 
-Les listes d'émargement signées par le président de la commission électorale demeurent déposées pendant huit jours au greffe
-du tribunal de commerce où elles sont communiquées à tout électeur qui en fait la demande.
+Pour voter par voie électronique, l'électeur, après connexion au site internet ou à tout autre réseau accessible à tous les
+électeurs, s'identifie, exprime son vote et le valide au moyen des instruments d'authentification qui lui ont été attribués.
+Il vérifie l'inscription sécurisée de son vote par le système de vote électronique. La transmission du vote et l'émargement
+de l'électeur font l'objet d'un accusé de réception électronique sur lequel figure la date de ladite réception.
+
+**Nota:**
+
+NOTA : Les dispositions de l'article 2 du présent décret relatives au vote électronique entrent en vigueur pour les
+opérations électorales qui se dérouleront au cours de l'année 2007.
+
+Les premières élections avec vote électronique se sont déroulées le 6 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -21043,9 +21091,77 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007 en vigueur le 6 mai 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-17 (V)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (M)
+
+
+###### Article R413-13
+
+Le jour du dépouillement des votes, le président de la commission prévue à l'article L. 413-10 imprime la liste d'émargement
+à partir du traitement "fichier des électeurs".
+
+Le président et l'un des membres de la commission reçoivent du préfet chacun une clé de dépouillement distincte, selon des
+modalités en garantissant la confidentialité, permettant d'accéder aux données du fichier dénommé "contenu de l'urne
+électronique". Le président reçoit également les éléments permettant la vérification de l'intégrité du système de vote
+électronique.
+
+Après clôture des opérations de vote et vérification de l'intégrité du fichier dénommé "contenu de l'urne électronique", le
+président de la commission prévue à l'article L. 413-10 et le membre de celle-ci mentionné à l'alinéa précédent procèdent
+publiquement au dépouillement.
+
+Les décomptes des voix par candidat doivent apparaître lisiblement à l'écran et faire l'objet d'une édition sécurisée qui est
+portée au procès-verbal de l'élection.
+
+Le système de vote électronique est verrouillé après le dépouillement de sorte qu'il soit impossible de reprendre ou de
+modifier le résultat après la décision de clôture du dépouillement prise par la commission.
+
+La commission prévue à l'article L. 413-10 vérifie que le nombre total de votes exprimés par voie électronique correspond au
+nombre de votants figurant sur la liste d'émargement. Mention des difficultés est portée au procès-verbal.
+
+Le nombre total des suffrages exprimés par voie électronique ainsi que le nombre de voix obtenues par chaque candidat sont
+portés au procès-verbal.
+
+**Nota:**
+
+Nota : Les dispositions de l'article 2 du présent décret relatives au vote électronique entrent en vigueur pour les
+opérations électorales qui se dérouleront au cours de l'année 2007.
+
+Les premières élections avec vote électronique se sont déroulées le 6 mai 2007.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007 en vigueur le 6 mai 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-19 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
 
 _Cité par_:
 
@@ -21053,18 +21169,25 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-21 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-22 (Ab)
 
-_Nouveaux textes_:
 
-  - Code de commerce. - art. R723-19 (V)
-
+##### Sous-section V : Fichiers<a id=255></a>
 
 ###### Article R413-14
 
-Dans les huit jours du scrutin, tout électeur peut contester la régularité des opérations électorales devant le tribunal
-d'instance dans le ressort duquel se trouve situé le siège du tribunal de commerce.
+Les données relatives aux électeurs inscrits sur les listes électorales ainsi que celles relatives à l'expression du vote
+font l'objet, selon des modalités fixées par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de
+l'intérieur, pris après avis de la Commission nationale de l'informatique et des libertés, de traitements automatisés
+d'information effectués sur des systèmes informatiques distincts dénommés "fichier des électeurs" et "contenu de l'urne
+électronique".
 
-Le recours est également ouvert au préfet et au procureur de la République qui peuvent l'exercer dans un délai de quinze
-jours à compter de la réception du procès-verbal mentionné à l'article R. 413-12.
+Le traitement "fichier des électeurs" est établi à partir des listes électorales dressées par la commission mentionnée à
+l'article L. 413-2. Le fichier des électeurs permet au préfet d'adresser à chaque électeur les instruments d'authentification
+mentionnés à l'article R. 413-11, d'identifier les électeurs ayant pris part au vote électronique et d'éditer la liste
+d'émargement. L'émargement indique l'heure du vote. Les listes d'émargement doivent être enregistrées sur un support distinct
+de celui de l'urne électronique, scellé, non réinscriptible, rendant son contenu inaltérable et probant.
+
+Le fichier dénommé "contenu de l'urne électronique" recense les votes exprimés par voie électronique. Les données de ce
+fichier font l'objet d'un chiffrement et ne doivent pas comporter de lien permettant l'identification des électeurs.
 
 **Liens relatifs à cet article**
 
@@ -21074,25 +21197,31 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-12 (M)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R723-20 (V)
 
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-11 (M)
+
 
 ###### Article R413-15
 
-Le recours est formé par déclaration écrite remise ou adressée au greffe du tribunal d'instance. La déclaration indique les
-nom, prénoms et adresse du réquérant, la qualité en laquelle il agit et l'objet du recours. La déclaration mentionne les
-noms, prénoms et adresses de la ou des personnes dont l'élection est contestée.
+Jusqu'à l'expiration des délais de recours contentieux, les fichiers supports comprenant la copie des programmes sources et
+des programmes exécutables, les matériels de vote, les fichiers d'émargement, de résultats et de sauvegarde doivent être
+conservés sous scellés sous le contrôle de la commission prévue à l'article L. 413-10. La procédure de décompte des votes
+enregistrés doit, si nécessaire, pouvoir être exécutée de nouveau.
 
-Le recours est porté à la connaissance du président du tribunal de commerce et du procureur de la République par le greffier
-du tribunal d'instance qui le notifie immédiatement aux personnes dont l'élection est contestée.
+A l'expiration des délais de recours, et si aucun recours n'a été exercé, il est procédé à la destruction des fichiers
+supports sous le contrôle de la commission prévue à l'article L. 413-10.
 
 **Liens relatifs à cet article**
 
@@ -21100,16 +21229,155 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R723-21 (V)
 
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+
+
+##### Sous-section VI : Proclamation des résultats et contentieux de l'élection des juges consulaires<a id=256></a>
 
 ###### Article R413-16
+
+Les votes sont recensés par la commission prévue à l'article L. 413-10. Les résultats sont proclamés publiquement par le
+président de cette commission. La liste des candidats élus, établie dans l'ordre décroissant du nombre de voix obtenu par
+chacun d'entre eux, est immédiatement affichée au greffe du tribunal de commerce.
+
+Le procès-verbal des opérations électorales est dressé en trois exemplaires revêtus de la signature des membres de la
+commission. Le premier exemplaire est adressé au procureur général, le deuxième au préfet et le troisième est conservé au
+greffe du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-22 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-18 (Ab)
+
+
+###### Article R413-17
+
+La liste d'émargement signée par le président de la commission prévue à l'article L. 413-10 demeure déposée pendant huit
+jours au greffe du tribunal de commerce où elle est communiquée à tout électeur qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-23 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-18 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
+
+
+###### Article R413-18
+
+Dans un délai de huit jours à compter de la proclamation des résultats, tout électeur peut contester la régularité des
+opérations électorales devant le tribunal d'instance dans le ressort duquel se trouve situé le siège du tribunal de commerce.
+
+Le recours est également ouvert au préfet et au procureur de la République qui peuvent l'exercer dans un délai de quinze
+jours à compter de la réception du procès-verbal mentionné à l'article R. 413-16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-25 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-16 (M)
+
+
+###### Article R413-19
+
+Le recours est formé par déclaration orale ou écrite faite, remise ou adressée au greffe du tribunal d'instance. La
+déclaration indique les nom, prénoms et adresse du requérant, la qualité en laquelle il agit et l'objet du recours. La
+déclaration mentionne les nom, prénoms et adresse de la ou des personnes dont l'élection est contestée.
+
+Le recours est porté à la connaissance du président du tribunal de commerce et du procureur de la République par le greffe du
+tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-26 (V)
+
+
+###### Article R413-20
 
 Dans les dix jours du recours, le tribunal d'instance statue sans formalité, sans frais et sur simple avertissement donné
 trois jours à l'avance à toutes les parties en cause.
@@ -21120,51 +21388,25 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
-
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-18 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. R723-22 (V)
-
-
-###### Article R413-17
-
-La décision du tribunal d'instance est notifiée dans les trois jours par le greffier du tribunal d'instance aux parties par
-lettre recommandée avec demande d'avis de réception. Le greffier en donne avis au préfet et au procureur de la République
-dans le même délai.
-
-La décision du tribunal n'est susceptible ni d'appel ni d'opposition.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
-_Cité par_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-18 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. R723-23 (V)
+  - Code de commerce. - art. R723-27 (V)
 
 
-###### Article R413-18
+###### Article R413-21
 
-Le pourvoi en cassation est formé dans les conditions fixées aux articles 999 à 1022 du nouveau code de procédure civile. Le
-délai de pourvoi court à compter de la notification prévue à l'article R. 413-17.
+La décision du tribunal d'instance est notifiée dans les trois jours par le greffe aux parties par lettre recommandée avec
+demande d'avis de réception. Le greffe en donne avis au préfet et au procureur de la République dans le même délai.
+
+La décision du tribunal n'est pas susceptible d'opposition.
 
 **Liens relatifs à cet article**
 
@@ -21174,19 +21416,51 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-28 (V)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-22 (Ab)
+
+
+###### Article R413-22
+
+Le pourvoi en cassation est formé et instruit dans les conditions fixées aux articles 999 à 1008 du nouveau code de procédure
+civile. Le délai de pourvoi court à compter de la notification prévue à l'article R. 413-21.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R723-29 (V)
 
 _Cite_:
 
-  - Code de procédure civile 999 à 1022
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-17 (M)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. R723-25 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-21 (Ab)
+  - Nouveau code de procédure civile 999 à 1008
 
 
-###### Article R413-19
+###### Article R413-23
 
 Les juges dont l'élection est contestée peuvent valablement prêter serment, être installés et siéger tant qu'il n'a pas été
 définitivement statué sur le recours.
@@ -21199,17 +21473,21 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. R723-26 (V)
+  - Code de commerce. - art. R723-30 (V)
 
 
-###### Article R413-20
+###### Article R413-24
 
-Les délais mentionnés au présent chapitre sont comptés dans les conditions fixées aux articles 640 à 647 du nouveau code de
-procédure civile.
+Les délais mentionnés au présent chapitre sont calculés et prorogés dans les conditions fixées aux articles 640 à 647 du
+nouveau code de procédure civile.
 
 **Liens relatifs à cet article**
 
@@ -21219,18 +21497,22 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 2 () JORF 20 juillet 2005
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de procédure civile 640 à 647
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. R723-27 (V)
+  - Code de commerce. - art. R723-31 (V)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 640 à 647
 
 
-#### Chapitre IV : Discipline des membres des tribunaux de commerce.<a id=251></a>
+#### Chapitre IV : Discipline des membres des tribunaux de commerce.<a id=257></a>
 
 ###### Article R414-1
 
@@ -21810,9 +22092,9 @@ _Cite_:
   - Nouveau code de procédure civile 641 à 647
 
 
-### Titre II : Le conseil de prud'hommes<a id=252></a>
+### Titre II : Le conseil de prud'hommes<a id=258></a>
 
-#### Chapitre Ier : Attributions et institution<a id=253></a>
+#### Chapitre Ier : Attributions et institution<a id=259></a>
 
 ###### Article R421-1
 
@@ -21870,7 +22152,7 @@ _Anciens textes_:
   - Code du travail R511-1 à R511-3
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=254></a>
+#### Chapitre II : Organisation et fonctionnement<a id=260></a>
 
 ###### Article R422-1
 
@@ -22158,7 +22440,7 @@ _Anciens textes_:
   - Code du travail R512-1 à R512-7, R512-11, R512-12
 
 
-#### Chapitre III : Election des conseillers prud'hommes<a id=255></a>
+#### Chapitre III : Election des conseillers prud'hommes<a id=261></a>
 
 ###### Article R423-1
 
@@ -23398,7 +23680,7 @@ _Anciens textes_:
   - Code du travail R513-1 à R513-119
 
 
-#### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé<a id=256></a>
+#### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé<a id=262></a>
 
 ###### Article R424-1
 
@@ -23475,9 +23757,9 @@ _Anciens textes_:
   - Code du travail R515-1 à R515-4
 
 
-### Titre III : Le juge de l'expropriation<a id=257></a>
+### Titre III : Le juge de l'expropriation<a id=263></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=258></a>
+#### Chapitre II : Organisation et fonctionnement<a id=264></a>
 
 ###### Article R432-1
 
@@ -23532,9 +23814,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique R13-1 à R13-4
 
 
-### Titre IV : Le tribunal paritaire des baux ruraux<a id=259></a>
+### Titre IV : Le tribunal paritaire des baux ruraux<a id=265></a>
 
-#### Chapitre II : Constitution des tribunaux paritaires.<a id=260></a>
+#### Chapitre II : Constitution des tribunaux paritaires.<a id=266></a>
 
 ###### Article R442-1
 
@@ -23564,9 +23846,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L442-1
 
 
-### Titre V : Les juridictions de sécurité sociale<a id=261></a>
+### Titre V : Les juridictions de sécurité sociale<a id=267></a>
 
-#### Chapitre Ier : Le tribunal des affaires de sécurité sociale<a id=262></a>
+#### Chapitre Ier : Le tribunal des affaires de sécurité sociale<a id=268></a>
 
 ###### Article R*451-1
 
@@ -23616,9 +23898,9 @@ _Abrogé par_:
   - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
 
 
-#### Chapitre II : Le contentieux technique<a id=263></a>
+#### Chapitre II : Le contentieux technique<a id=269></a>
 
-##### Section I : Les tribunaux du contentieux de l'incapacité<a id=264></a>
+##### Section I : Les tribunaux du contentieux de l'incapacité<a id=270></a>
 
 ###### Article R*452-1
 
@@ -23668,7 +23950,7 @@ _Abrogé par_:
   - Décret n°2005-1224 du 29 septembre 2005 - art. 12 () JORF 30 septembre 2005 en vigueur le 1er octobre 2005
 
 
-##### Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail<a id=265></a>
+##### Section II : La Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail<a id=271></a>
 
 ###### Article R*452-2
 
@@ -23700,7 +23982,7 @@ _Cite_:
   - Code de la sécurité sociale R143-15 à R143-20
 
 
-### Titre VI : Les prud'hommes pêcheurs<a id=266></a>
+### Titre VI : Les prud'hommes pêcheurs<a id=272></a>
 
 ###### Article R*461-1
 
@@ -23726,11 +24008,11 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre V : Les juridictions des mineurs<a id=267></a>
+## Livre V : Les juridictions des mineurs<a id=273></a>
 
-### Titre II : Le tribunal pour enfants<a id=268></a>
+### Titre II : Le tribunal pour enfants<a id=274></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=269></a>
+#### Chapitre II : Organisation et fonctionnement<a id=275></a>
 
 ###### Article R*522-2
 
@@ -24045,9 +24327,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D251-1 (V)
 
 
-### Titre III : Le juge des enfants<a id=270></a>
+### Titre III : Le juge des enfants<a id=276></a>
 
-#### Chapitre Ier : Institution et compétence<a id=271></a>
+#### Chapitre Ier : Institution et compétence<a id=277></a>
 
 ###### Article R531-1
 
@@ -24073,11 +24355,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R252-2 (V)
 
 
-## Livre VI : Les juridictions pénales<a id=272></a>
+## Livre VI : Les juridictions pénales<a id=278></a>
 
-### Titre Ier : Les juridictions d'instruction de droit commun<a id=273></a>
+### Titre Ier : Les juridictions d'instruction de droit commun<a id=279></a>
 
-#### Chapitre Ier : Le juge d'instruction<a id=274></a>
+#### Chapitre Ier : Le juge d'instruction<a id=280></a>
 
 ###### Article R611-1
 
@@ -24102,7 +24384,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-#### Chapitre II : La chambre de l'instruction<a id=275></a>
+#### Chapitre II : La chambre de l'instruction<a id=281></a>
 
 ###### Article R612-1
 
@@ -24136,9 +24418,9 @@ _Cite_:
   - Code de procédure pénale - art. D43
 
 
-### Titre II : Les juridictions de jugement de droit commun<a id=276></a>
+### Titre II : Les juridictions de jugement de droit commun<a id=282></a>
 
-#### Chapitre Ier : La cour d'assises<a id=277></a>
+#### Chapitre Ier : La cour d'assises<a id=283></a>
 
 ###### Article R621-1
 
@@ -24170,7 +24452,7 @@ _Anciens textes_:
   - Code de procédure pénale 232 et 234
 
 
-#### Chapitre III : Le tribunal de police<a id=278></a>
+#### Chapitre III : Le tribunal de police<a id=284></a>
 
 ###### Article R*623-1
 
@@ -24200,11 +24482,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D221-1 (V)
 
 
-### Titre III : Les juridictions pénales spécialisées<a id=279></a>
+### Titre III : Les juridictions pénales spécialisées<a id=285></a>
 
-#### Chapitre II : Les juridictions des forces armées<a id=280></a>
+#### Chapitre II : Les juridictions des forces armées<a id=286></a>
 
-##### Section I : Des tribunaux territoriaux des forces armées<a id=281></a>
+##### Section I : Des tribunaux territoriaux des forces armées<a id=287></a>
 
 ###### Article R632-1
 
@@ -24235,7 +24517,7 @@ _Cite_:
   - Code de justice militaire - art. 26
 
 
-##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées<a id=282></a>
+##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées<a id=288></a>
 
 ###### Article R632-2
 
@@ -24269,7 +24551,7 @@ _Cite_:
   - Code de justice militaire - art. 50
 
 
-##### Section III : Des tribunaux prévôtaux<a id=283></a>
+##### Section III : Des tribunaux prévôtaux<a id=289></a>
 
 ###### Article R632-3
 
@@ -24294,7 +24576,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Le tribunal maritime commercial<a id=284></a>
+#### Chapitre III : Le tribunal maritime commercial<a id=290></a>
 
 ###### Article R633-1
 
@@ -24321,9 +24603,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre VII : Dispositions communes à plusieurs juridictions<a id=285></a>
+## Livre VII : Dispositions communes à plusieurs juridictions<a id=291></a>
 
-### Titre Ier : L'année judiciaire<a id=286></a>
+### Titre Ier : L'année judiciaire<a id=292></a>
 
 ###### Article R*711-1
 
@@ -24386,7 +24668,7 @@ _Cité par_:
   - Code du travail - art. R1423-13 (VD)
 
 
-### Titre II : Incompatibilités<a id=287></a>
+### Titre II : Incompatibilités<a id=293></a>
 
 ###### Article R*721-1
 
@@ -24515,7 +24797,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre III : Récusation et renvoi<a id=288></a>
+### Titre III : Récusation et renvoi<a id=294></a>
 
 ###### Article R731-1
 
@@ -24538,7 +24820,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 342 à 366
 
 
-### Titre IV : Rangs, costumes et insignes<a id=289></a>
+### Titre IV : Rangs, costumes et insignes<a id=295></a>
 
 ###### Article R*741-1
 
@@ -24709,7 +24991,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre V : Dispositions générales relatives au ministère public<a id=290></a>
+### Titre V : Dispositions générales relatives au ministère public<a id=296></a>
 
 ###### Article R*751-1
 
@@ -24735,9 +25017,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-1 (V)
 
 
-### Titre VI : Assemblées générales<a id=291></a>
+### Titre VI : Assemblées générales<a id=297></a>
 
-#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=292></a>
+#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=298></a>
 
 ###### Article R*761-1
 
@@ -24775,7 +25057,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=293></a>
+##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=299></a>
 
 ###### Article R*761-2
 
@@ -25214,7 +25496,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-38 (V)
 
 
-##### Section II : L'assemblée des magistrats<a id=294></a>
+##### Section II : L'assemblée des magistrats<a id=300></a>
 
 ###### Article R*761-15
 
@@ -25250,7 +25532,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
 
 
-##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=295></a>
+##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=301></a>
 
 ###### Article R*761-16
 
@@ -25432,7 +25714,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-26 (V)
 
 
-##### Sous-section II : L'assemblée des magistrats du siège<a id=296></a>
+##### Sous-section II : L'assemblée des magistrats du siège<a id=302></a>
 
 ###### Article R*761-21
 
@@ -25638,7 +25920,7 @@ _Modifié par_:
   - Décret n°2005-460 du 13 mai 2005 - art. 24 () JORF 14 mai 2005
 
 
-##### Sous-section III : L'assemblée des magistrats du parquet<a id=297></a>
+##### Sous-section III : L'assemblée des magistrats du parquet<a id=303></a>
 
 ###### Article R*761-25
 
@@ -25709,7 +25991,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-47 (V)
 
 
-##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=298></a>
+##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=304></a>
 
 ###### Article R*761-27
 
@@ -25941,7 +26223,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-55 (V)
 
 
-##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=299></a>
+##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=305></a>
 
 ###### Article R*761-34
 
@@ -26056,9 +26338,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section V : Les commissions<a id=300></a>
+##### Section V : Les commissions<a id=306></a>
 
-##### Sous-section I : La commission permanente<a id=301></a>
+##### Sous-section I : La commission permanente<a id=307></a>
 
 ###### Article R*761-38
 
@@ -26295,7 +26577,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-61 (V)
 
 
-##### Sous-section II : Les commissions restreintes<a id=302></a>
+##### Sous-section II : Les commissions restreintes<a id=308></a>
 
 ###### Article R*761-46
 
@@ -26450,9 +26732,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité<a id=303></a>
+#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité<a id=309></a>
 
-##### Section I : Le tribunal d'instance<a id=304></a>
+##### Section I : Le tribunal d'instance<a id=310></a>
 
 ###### Article R*762-1
 
@@ -26719,7 +27001,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-21 (V)
 
 
-##### Section II : La juridiction de proximité<a id=305></a>
+##### Section II : La juridiction de proximité<a id=311></a>
 
 ###### Article R*762-9
 
@@ -26826,7 +27108,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre III : Consultation des juridictions<a id=306></a>
+#### Chapitre III : Consultation des juridictions<a id=312></a>
 
 ###### Article R*763-1
 
@@ -26859,7 +27141,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R435-2 (V)
 
 
-### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=307></a>
+### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=313></a>
 
 ###### Article R*771-1
 
@@ -26903,7 +27185,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre IX : Participation aux commissions non juridictionnelles<a id=308></a>
+### Titre IX : Participation aux commissions non juridictionnelles<a id=314></a>
 
 ###### Article R*791-1
 
@@ -26926,7 +27208,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
 
 
-### Titre X : Audiences foraines et transfert provisoire du siège<a id=309></a>
+### Titre X : Audiences foraines et transfert provisoire du siège<a id=315></a>
 
 ###### Article R*7-10-1-1
 
@@ -27007,7 +27289,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-1 (V)
 
 
-### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=310></a>
+### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=316></a>
 
 ###### Article R*7-11-1-1
 
@@ -27033,7 +27315,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
 
 
-### Titre XII : Maisons de justice et du droit<a id=311></a>
+### Titre XII : Maisons de justice et du droit<a id=317></a>
 
 ###### Article R*7-12-1-1
 
@@ -27346,11 +27628,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-11 (V)
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=312></a>
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=318></a>
 
-### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=313></a>
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=319></a>
 
-#### Chapitre Ier : Organisation<a id=314></a>
+#### Chapitre Ier : Organisation<a id=320></a>
 
 ###### Article R*811-1
 
@@ -27550,7 +27832,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-4 (VT)
 
 
-#### Chapitre II : Fonctionnement<a id=315></a>
+#### Chapitre II : Fonctionnement<a id=321></a>
 
 ###### Article R*812-1
 
@@ -28139,7 +28421,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Etats et statistiques<a id=316></a>
+#### Chapitre III : Etats et statistiques<a id=322></a>
 
 ###### Article R*813-1
 
@@ -28244,7 +28526,7 @@ _Anciens textes_:
   - Ordonnance 1826-04-15 art. 79
 
 
-#### Chapitre IV : Régime financier<a id=317></a>
+#### Chapitre IV : Régime financier<a id=323></a>
 
 ###### Article R*814-1
 
@@ -28456,9 +28738,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre II : Le greffe du tribunal de commerce<a id=318></a>
+### Titre II : Le greffe du tribunal de commerce<a id=324></a>
 
-#### Chapitre I : Dispositions générales.<a id=319></a>
+#### Chapitre I : Dispositions générales.<a id=325></a>
 
 ###### Article R821-1
 
@@ -29299,11 +29581,11 @@ _Nouveaux textes_:
   - Code de commerce. - art. R741-23 (M)
 
 
-#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce<a id=320></a>
+#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce<a id=326></a>
 
-##### Section I : La procédure disciplinaire<a id=321></a>
+##### Section I : La procédure disciplinaire<a id=327></a>
 
-##### Sous-section I : L'enquête disciplinaire.<a id=322></a>
+##### Sous-section I : L'enquête disciplinaire.<a id=328></a>
 
 ###### Article R822-1
 
@@ -29372,7 +29654,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-7 (V)
 
 
-##### Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce.<a id=323></a>
+##### Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce.<a id=329></a>
 
 ###### Article R822-2
 
@@ -29512,7 +29794,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-11 (V)
 
 
-##### Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement.<a id=324></a>
+##### Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement.<a id=330></a>
 
 ###### Article R822-6
 
@@ -29640,7 +29922,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-15 (V)
 
 
-##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.<a id=325></a>
+##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.<a id=331></a>
 
 ###### Article R822-7
 
@@ -29834,7 +30116,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-21 (V)
 
 
-##### Section III : La suspension provisoire.<a id=326></a>
+##### Section III : La suspension provisoire.<a id=332></a>
 
 ###### Article R822-13
 
@@ -29932,7 +30214,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-4 (Ab)
 
 
-##### Section IV : Les voies de recours.<a id=327></a>
+##### Section IV : Les voies de recours.<a id=333></a>
 
 ###### Article R822-16
 
@@ -30030,7 +30312,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-28 (V)
 
 
-##### Section V : Dispositions communes.<a id=328></a>
+##### Section V : Dispositions communes.<a id=334></a>
 
 ###### Article R822-19
 
@@ -30056,7 +30338,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-5 (V)
 
 
-### Titre III : Le secrétariat-greffe du conseil de prud'hommes<a id=329></a>
+### Titre III : Le secrétariat-greffe du conseil de prud'hommes<a id=335></a>
 
 ###### Article R*831-1
 
@@ -30211,7 +30493,7 @@ _Anciens textes_:
   - Code du travail - art. R512-9 (M)
 
 
-### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=330></a>
+### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=336></a>
 
 ###### Article R841-1
 
@@ -30250,7 +30532,7 @@ _Cite_:
   - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-11 (M)
 
 
-### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=331></a>
+### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=337></a>
 
 ###### Article R861-1
 
@@ -30278,9 +30560,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=332></a>
+### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=338></a>
 
-#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=333></a>
+#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=339></a>
 
 ###### Article R882-2
 
@@ -30307,13 +30589,13 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre IX : Dispositions particulières<a id=334></a>
+## Livre IX : Dispositions particulières<a id=340></a>
 
-### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=335></a>
+### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=341></a>
 
-#### Chapitre Ier : Le tribunal d'instance<a id=336></a>
+#### Chapitre Ier : Le tribunal d'instance<a id=342></a>
 
-##### Section I : Dispositions générales<a id=337></a>
+##### Section I : Dispositions générales<a id=343></a>
 
 ###### Article R*911-1
 
@@ -30427,7 +30709,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 33
 
 
-##### Section II : Dispositions particulières au service du livre foncier<a id=338></a>
+##### Section II : Dispositions particulières au service du livre foncier<a id=344></a>
 
 ###### Article R*911-13
 
@@ -30652,7 +30934,7 @@ _Anciens textes_:
   - Décret n°1937-04-15 art. 1 et art. 2
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=339></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=345></a>
 
 ###### Article R*913-1
 
@@ -30741,7 +31023,7 @@ _Anciens textes_:
 
 ###### Article R*913-4
 
-Les assesseurs des chambres commerciales sont élus dans les conditions fixées aux articles R. 413-1 à R. 413-20.
+Les assesseurs des chambres commerciales sont élus dans les conditions fixées aux articles R. 413-1 à R. 413-24.
 
 **Liens relatifs à cet article**
 
@@ -30751,11 +31033,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 3 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R731-4 (V)
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R413-1 à R413-20
+  - Code de l'organisation judiciaire R413-1 à R413-24
 
 _Anciens textes_:
 
@@ -30790,7 +31080,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 28 al. 2
 
 
-#### Chapitre V : Les secrétariats-greffes<a id=340></a>
+#### Chapitre V : Les secrétariats-greffes<a id=346></a>
 
 ###### Article R*915-1
 
@@ -30923,11 +31213,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. art. 35 al. 3
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=341></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=347></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=342></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=348></a>
 
-##### Section I : La cour d'appel<a id=343></a>
+##### Section I : La cour d'appel<a id=349></a>
 
 ###### Article R*921-2
 
@@ -30985,7 +31275,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
 
 
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=344></a>
+##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=350></a>
 
 ###### Article R*921-4
 
@@ -31069,7 +31359,7 @@ _Créé par_:
   - Décret n°88-38 du 13 janvier 1988 - art. 7 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
 
 
-##### Section V : Les secrétariats-greffes et secrétariats<a id=345></a>
+##### Section V : Les secrétariats-greffes et secrétariats<a id=351></a>
 
 ###### Article R*921-12
 
@@ -31158,7 +31448,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-6 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=346></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=352></a>
 
 ###### Article R*922-3
 
@@ -31200,7 +31490,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Dispositions particulières au département de la Réunion<a id=347></a>
+#### Chapitre III : Dispositions particulières au département de la Réunion<a id=353></a>
 
 ###### Article R*923-1
 
@@ -31263,11 +31553,11 @@ _Cite_:
   - Code de la sécurité sociale. - art. R752-14
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=348></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=354></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=349></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=355></a>
 
-##### Section III : Le tribunal mixte de commerce<a id=350></a>
+##### Section III : Le tribunal mixte de commerce<a id=356></a>
 
 ###### Article R*921-6
 
@@ -31325,7 +31615,7 @@ _Nouveaux textes_:
 
 ###### Article R*921-8
 
-Les juges des tribunaux mixtes de commerce sont élus dans les conditions fixées aux articles R. 413-1 à R. 413-20.
+Les juges des tribunaux mixtes de commerce sont élus dans les conditions fixées aux articles R. 413-1 à R. 413-24.
 
 **Liens relatifs à cet article**
 
@@ -31339,11 +31629,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-808 du 18 juillet 2005 - art. 3 () JORF 20 juillet 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R732-3 (V)
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R413-1 à R413-20
+  - Code de l'organisation judiciaire R413-1 à R413-24
 
 
 ###### Article R*921-9
@@ -31407,9 +31705,9 @@ _Cite_:
   - Code de l'organisation judiciaire R411-4
 
 
-### Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer<a id=351></a>
+### Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer<a id=357></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=352></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=358></a>
 
 ###### Article R931-1
 
@@ -31447,7 +31745,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-2 (V)
 
 
-##### Section I : La cour d'appel.<a id=353></a>
+##### Section I : La cour d'appel.<a id=359></a>
 
 ###### Article R931-2
 
@@ -31652,9 +31950,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 
-##### Section II : Le tribunal de première instance<a id=354></a>
+##### Section II : Le tribunal de première instance<a id=360></a>
 
-##### Sous-section I : Institution et compétence.<a id=355></a>
+##### Sous-section I : Institution et compétence.<a id=361></a>
 
 ###### Article R931-8
 
@@ -31847,7 +32145,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-4 (V)
 
 
-##### Sous-section II : Organisation.<a id=356></a>
+##### Sous-section II : Organisation.<a id=362></a>
 
 ###### Article R931-11
 
@@ -31971,7 +32269,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-5 (V)
 
 
-##### Section III : Les juridictions des mineurs.<a id=357></a>
+##### Section III : Les juridictions des mineurs.<a id=363></a>
 
 ###### Article R931-15
 
@@ -32012,7 +32310,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=358></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=364></a>
 
 ###### Article R931-16
 
@@ -32042,7 +32340,7 @@ _Modifié par_:
   - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
 
-##### Section VI : Les secrétariats-greffes des juridictions.<a id=359></a>
+##### Section VI : Les secrétariats-greffes des juridictions.<a id=365></a>
 
 ###### Article R931-17
 
@@ -32217,9 +32515,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=360></a>
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=366></a>
 
-##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=361></a>
+##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=367></a>
 
 ###### Article R932-1
 
@@ -32547,7 +32845,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R932-6
 
 
-##### Section II : Le tribunal du travail.<a id=362></a>
+##### Section II : Le tribunal du travail.<a id=368></a>
 
 ###### Article R932-10
 
@@ -32582,9 +32880,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-40 (V)
 
 
-##### Section III : Le tribunal mixte de commerce<a id=363></a>
+##### Section III : Le tribunal mixte de commerce<a id=369></a>
 
-##### Sous-section I : Institution et compétence.<a id=364></a>
+##### Sous-section I : Institution et compétence.<a id=370></a>
 
 ###### Article R932-11
 
@@ -32653,7 +32951,7 @@ _Abrogé par_:
   - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=365></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=371></a>
 
 ###### Article R932-13
 
@@ -32686,9 +32984,9 @@ _Cite_:
   - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19
 
 
-##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=366></a>
+##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=372></a>
 
-##### I : Electorat.<a id=367></a>
+##### I : Electorat.<a id=373></a>
 
 ###### Article R932-14
 
@@ -32804,7 +33102,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-22 (Ab)
 
 
-##### III : Scrutin et opérations électorales.<a id=368></a>
+##### III : Scrutin et opérations électorales.<a id=374></a>
 
 ###### Article R932-17
 
@@ -33122,7 +33420,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R947-8 (V)
 
 
-##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=369></a>
+##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=375></a>
 
 ###### Article R932-25
 
@@ -33145,7 +33443,7 @@ _Abrogé par_:
   - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 
-##### Section IV : Les juridictions des mineurs.<a id=370></a>
+##### Section IV : Les juridictions des mineurs.<a id=376></a>
 
 ###### Article R932-26
 
@@ -33178,7 +33476,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=371></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=377></a>
 
 ###### Article R932-27
 
@@ -33209,7 +33507,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 
-#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=372></a>
+#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=378></a>
 
 ###### Article R933-1
 
@@ -33447,9 +33745,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=373></a>
+#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=379></a>
 
-##### Section II : Le tribunal de première instance.<a id=374></a>
+##### Section II : Le tribunal de première instance.<a id=380></a>
 
 ###### Article R934-1
 
@@ -33641,7 +33939,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=375></a>
+#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=381></a>
 
 ###### Article R935-1
 
@@ -33692,9 +33990,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre IV : Dispositions particulières à Mayotte<a id=376></a>
+### Titre IV : Dispositions particulières à Mayotte<a id=382></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=377></a>
+#### Chapitre Ier : Dispositions générales.<a id=383></a>
 
 ###### Article R941-1
 
@@ -33750,9 +34048,9 @@ _Cite_:
   - Nouveau code de procédure civile 342 à 366
 
 
-#### Chapitre II : Le tribunal supérieur d'appel<a id=378></a>
+#### Chapitre II : Le tribunal supérieur d'appel<a id=384></a>
 
-##### Section I : Organisation.<a id=379></a>
+##### Section I : Organisation.<a id=385></a>
 
 ###### Article R942-1
 
@@ -33823,9 +34121,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section II : Fonctionnement<a id=380></a>
+##### Section II : Fonctionnement<a id=386></a>
 
-##### Sous-section I : Dispositions générales.<a id=381></a>
+##### Sous-section I : Dispositions générales.<a id=387></a>
 
 ###### Article R942-4
 
@@ -33922,7 +34220,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Le ministère public.<a id=382></a>
+##### Sous-section II : Le ministère public.<a id=388></a>
 
 ###### Article R942-8
 
@@ -34010,7 +34308,7 @@ _Abrogé par_:
   - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
 
 
-##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=383></a>
+##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=389></a>
 
 ###### Article R942-12
 
@@ -34266,7 +34564,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=384></a>
+##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=390></a>
 
 ###### Article R942-20
 
@@ -34288,9 +34586,9 @@ _Cite_:
   - Code de l'organisation judiciaire R213-29
 
 
-#### Chapitre III : Le tribunal de première instance<a id=385></a>
+#### Chapitre III : Le tribunal de première instance<a id=391></a>
 
-##### Section I : Institution et compétence.<a id=386></a>
+##### Section I : Institution et compétence.<a id=392></a>
 
 ###### Article R943-1
 
@@ -34401,7 +34699,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section II : Organisation.<a id=387></a>
+##### Section II : Organisation.<a id=393></a>
 
 ###### Article R943-4
 
@@ -34473,9 +34771,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section III : Fonctionnement<a id=388></a>
+##### Section III : Fonctionnement<a id=394></a>
 
-##### Sous-section I : Dispositions générales.<a id=389></a>
+##### Sous-section I : Dispositions générales.<a id=395></a>
 
 ###### Article R943-7
 
@@ -34723,7 +35021,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=390></a>
+##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=396></a>
 
 ###### Article R943-16
 
@@ -34795,7 +35093,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Sous-section III : Dispositions particulières à certaines matières.<a id=391></a>
+##### Sous-section III : Dispositions particulières à certaines matières.<a id=397></a>
 
 ###### Article R943-18
 
@@ -34875,7 +35173,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R311-29-3
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=392></a>
+#### Chapitre IV : Les juridictions des mineurs.<a id=398></a>
 
 ###### Article R944-1
 
@@ -34906,7 +35204,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre V : La cour criminelle.<a id=393></a>
+#### Chapitre V : La cour criminelle.<a id=399></a>
 
 ###### Article R945-1
 
@@ -34928,7 +35226,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=394></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=400></a>
 
 ###### Article R946-1
 
@@ -35041,9 +35339,9 @@ _Cite_:
   - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
 
 
-### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=395></a>
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=401></a>
 
-#### Chapitre Ier : Des fonctions judiciaires.<a id=396></a>
+#### Chapitre Ier : Des fonctions judiciaires.<a id=402></a>
 
 ###### Article R951-1
 
@@ -35226,11 +35524,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-7 (V)
 
 
-#### Chapitre II : Des juridictions<a id=397></a>
+#### Chapitre II : Des juridictions<a id=403></a>
 
-##### Section I : Dispositions communes<a id=398></a>
+##### Section I : Dispositions communes<a id=404></a>
 
-##### Sous-section I : Dispositions générales.<a id=399></a>
+##### Sous-section I : Dispositions générales.<a id=405></a>
 
 ###### Article R952-1
 
@@ -35266,7 +35564,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R511-1 (V)
 
 
-##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=400></a>
+##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=406></a>
 
 ###### Article R952-2
 
@@ -35364,9 +35662,9 @@ _Cite_:
   - Loi n°1881-07-29 art. 38 ter
 
 
-##### Section II : Le tribunal de première instance<a id=401></a>
+##### Section II : Le tribunal de première instance<a id=407></a>
 
-##### Sous-section I : Compétence.<a id=402></a>
+##### Sous-section I : Compétence.<a id=408></a>
 
 ###### Article R952-5
 
@@ -35445,7 +35743,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=403></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=409></a>
 
 ###### Article R952-7
 
@@ -35507,7 +35805,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal supérieur d'appel.<a id=404></a>
+##### Section III : Le tribunal supérieur d'appel.<a id=410></a>
 
 ###### Article R952-9
 
@@ -35566,7 +35864,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L951-3
 
 
-# Annexes<a id=405></a>
+# Annexes<a id=411></a>
 
 ###### Article Annexe Tableau des costumes
 
