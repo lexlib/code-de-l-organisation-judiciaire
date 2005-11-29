@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-11-16
+Version Consolidée au 2005-11-30
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -379,36 +379,37 @@ Version Consolidée au 2005-11-16
         - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#376)
           - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#377)
         - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1 à R935-3)](#378)
-      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-5)](#379)
+      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-6)](#379)
         - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#380)
         - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#381)
           - [Section I : Organisation. (art. R942-1 à R942-3)](#382)
           - [Section II : Fonctionnement (art. R942-4 à R942-20)](#383)
             - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#384)
-            - [Sous-section II : Le ministère public. (art. R942-8 à R942-11)](#385)
-            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19)](#386)
+            - [Sous-section II : Le ministère public. (art. R942-8)](#385)
+            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19-1)](#386)
             - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#387)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-19)](#388)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-20)](#388)
           - [Section I : Institution et compétence. (art. R943-1 à R943-3-1)](#389)
           - [Section II : Organisation. (art. R943-4 à R943-6)](#390)
-          - [Section III : Fonctionnement (art. R943-7 à R943-19)](#391)
+          - [Section III : Fonctionnement (art. R943-7 à R943-20)](#391)
             - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#392)
-            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17)](#393)
+            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17-1)](#393)
             - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#394)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#395)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#396)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-5)](#397)
-      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#398)
-        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#399)
-        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#400)
-          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#401)
-            - [Sous-section I : Dispositions générales. (art. R952-1)](#402)
-            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#403)
-          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#404)
-            - [Sous-section I : Compétence. (art. R952-5 à R952-6-1)](#405)
-            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#406)
-          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#407)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#408)
+            - [Sous-section IV : Le ministère public (art. R943-20)](#395)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#396)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#397)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-6)](#398)
+      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#399)
+        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#400)
+        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#401)
+          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#402)
+            - [Sous-section I : Dispositions générales. (art. R952-1)](#403)
+            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#404)
+          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#405)
+            - [Sous-section I : Compétence. (art. R952-5 à R952-6-1)](#406)
+            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#407)
+          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#408)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#409)
 # Partie législative ancienne<a id=1></a>
 
 ## Livre Ier : La Cour de cassation<a id=2></a>
@@ -34017,7 +34018,12 @@ Pour l'application des dispositions étendues par le présent titre à Mayotte, 
 
 3° "Président du tribunal supérieur d'appel" à la place de "premier président de la cour d'appel" ;
 
-4° "Procureur de la République" à la place de "procureur général".
+4° "Procureur de la République près le tribunal supérieur d'appel" à la place de "procureur général" ;
+
+5° "Procureur de la République près le tribunal de première instance" à la place de "procureur de la République" ;
+
+6° "Les substituts près le tribunal supérieur d'appel" et "substitut près le tribunal supérieur d'appel" à la place de "Les
+avocats généraux et les substituts généraux" et "avocat général".
 
 **Liens relatifs à cet article**
 
@@ -34028,13 +34034,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 2 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R521-2 (Ab)
 
 
 ###### Article R941-2
 
-Les dispositions communes à plusieurs juridictions contenues au livre VII (partie Réglementaire) sont applicables à Mayotte,
-à l'exception de l'article R. 721-2 et du titre VI de ce livre, et sous réserve des adaptations suivantes :
+Les dispositions communes à plusieurs juridictions contenues au livre VII sont applicables à Mayotte, à l'exception de
+l'article R. 721-2, du deuxième alinéa de l'article R. 761-16, du premier alinéa de l'article R. 761-21, des 1° et 2° de
+l'article R. 761-23, du 2° de l'article R. 761-24, du second alinéa de l'article R. 761-34 et du chapitre II du titre VI de
+ce livre et sous réserve des adaptations suivantes :
 
 1° Pour l'application de l'article R. 721-3, la référence aux avocats ou avoués est remplacée par une référence aux avocats
 ou personnes agréés par le président du tribunal supérieur d'appel pour exercer les attributions dévolues aux conseils des
@@ -34052,13 +34068,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R731-1 (V)
-  - Code de l'organisation judiciaire R721-2, R721-3, R731-1
-  - Nouveau code de procédure civile 342 à 366
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 3 () JORF 30 novembre 2005
 
 
 #### Chapitre II : Le tribunal supérieur d'appel<a id=381></a>
@@ -34237,8 +34247,7 @@ _Abrogé par_:
 
 ###### Article R942-8
 
-Les substituts participent à l'exercice des fonctions du ministère public devant le tribunal supérieur d'appel sous la
-direction du procureur de la République.
+Les articles R. 213-21 à R. 213-24 et l'article R. 213-26 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -34248,77 +34257,17 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 _Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-
-###### Article R942-9
-
-Le procureur de la République, et les substituts au nom du procureur de la République, portent la parole aux audiences du
-tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Décret n°78-330 1978-03-16
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
 
   - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
 
-
-###### Article R942-10
-
-Le procureur de la République prend les dispositions de nature à assurer le fonctionnement des services du parquet.
-
-En cas d'absence ou d'empêchement, le procureur de la République est remplacé par le magistrat du parquet qu'il aura désigné.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Décret n°78-330 1978-03-16
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
 _Abrogé par_:
 
-  - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
+_Cite_:
 
-###### Article R942-11
-
-Il est tenu, au tribunal supérieur d'appel, une liste de rang des magistrats du parquet.
-
-Les magistrats sont inscrits sur cette liste dans l'ordre suivant :
-
-1° Le procureur de la République ;
-
-2° Les substituts dans l'ordre de leur nomination au tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Décret n°78-330 1978-03-16
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1468 du 28 novembre 2005 - art. 4 () JORF 30 novembre 2005
+  - Code de l'organisation judiciaire
+  - Code de l'organisation judiciaire - art. R213-26
 
 
 ##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=386></a>
@@ -34575,6 +34524,34 @@ _Abrogé par_:
 _Cite_:
 
   - Code de l'organisation judiciaire
+
+
+###### Article R942-19-1
+
+Il est attribué, pour l'exercice de leurs fonctions judiciaires, une indemnité de vacation aux assesseurs au tribunal
+supérieur d'appel. Cette indemnité, calculée par demi-journée, est fixée par arrêté conjoint du garde des sceaux, ministre de
+la justice, et du ministre chargé du budget.
+
+La réalité du service fait par les assesseurs est attestée par le président du tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 5 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-19 (Ab)
 
 
 ##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=387></a>
@@ -35130,6 +35107,34 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
+###### Article R943-17-1
+
+Il est attribué, pour l'exercice de leurs fonctions judiciaires, une indemnité de vacation aux assesseurs au tribunal de
+première instance. Cette indemnité, calculée par demi-journée, est fixée par arrêté conjoint du garde des sceaux, ministre de
+la justice, et du ministre chargé du budget.
+
+La réalité du service fait par les assesseurs est attestée par le président du tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 6 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-7 (Ab)
+
+
 ##### Sous-section III : Dispositions particulières à certaines matières.<a id=394></a>
 
 ###### Article R943-18
@@ -35210,7 +35215,33 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R311-29-3
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=395></a>
+##### Sous-section IV : Le ministère public<a id=395></a>
+
+###### Article R943-20
+
+Les articles R. 311-34 à R. 311-37 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 7 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
+
+
+#### Chapitre IV : Les juridictions des mineurs.<a id=396></a>
 
 ###### Article R944-1
 
@@ -35241,7 +35272,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre V : La cour criminelle.<a id=396></a>
+#### Chapitre V : La cour criminelle.<a id=397></a>
 
 ###### Article R945-1
 
@@ -35263,7 +35294,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=397></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=398></a>
 
 ###### Article R946-1
 
@@ -35294,8 +35325,11 @@ _Abrogé par_:
 
 ###### Article R946-2
 
-Le secrétariat-greffe du tribunal de première instance n'est pas doté d'un effectif propre. Son service est assuré par des
-agents du secrétariat-greffe du tribunal supérieur d'appel.
+Au tribunal supérieur d'appel et au tribunal de première instance, le greffier en chef participe à la préparation des projets
+de répartition de l'effectif des fonctionnaires.
+
+Les chefs de la juridiction répartissent l'effectif des fonctionnaires entre les services du siège et du parquet. La décision
+est prise après avis des assemblées mentionnées au articles R. 761-16 et R. 761-27.
 
 **Liens relatifs à cet article**
 
@@ -35306,15 +35340,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 8 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
 
 
 ###### Article R946-3
 
-Le président du tribunal supérieur d'appel et le procureur de la République près ledit tribunal, après avis du président du
-tribunal de première instance et du greffier en chef du tribunal supérieur d'appel, répartissent le personnel assurant le
-service des secrétariats-greffes entre le secrétariat-greffe du tribunal supérieur d'appel et celui du tribunal de première
-instance et désignent un fonctionnaire responsable du secrétariat-greffe du tribunal de première instance.
+Les dispositions des chapitres II et III du titre Ier du livre VIII relatives au fonctionnement des secrétariats-greffes sont
+applicables au tribunal supérieur d'appel et au tribunal de première instance, à l'exception du troisième alinéa de l'article
+R. 812-10, des articles R. 812-13 à R. 812-15, de la deuxième phrase du premier alinéa de l'article R. 812-16 et de l'article
+R. 813-4.
 
 **Liens relatifs à cet article**
 
@@ -35325,14 +35367,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 8 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
 
 
 ###### Article R946-4
 
-Les chefs du tribunal supérieur d'appel, après avis du greffier en chef de ce tribunal, et les chefs du tribunal de première
-instance, après avis du fonctionnaire responsable du secrétariat-greffe de cette juridiction, décident de la répartition du
-personnel assurant le service du secrétariat-greffe entre les services du siège et ceux du parquet.
+Des régies d'avances et de recettes, des régies d'avances ou des régies de recettes, fonctionnant dans les conditions prévues
+pour les régies d'avances et de recettes des organismes publics de l'Etat, peuvent être créées auprès de chaque secrétariat-
+greffe.
+
+Les attributions des régisseurs ainsi que les modalités de paiement et d'encaissement sont définies par arrêté conjoint du
+garde des sceaux, ministre de la justice, et du ministre chargé du budget et fixées dans le cadre de la réglementation des
+régies de l'Etat.
+
+Les attributions des régisseurs sont confiées à un fonctionnaire du secrétariat-greffe. Les régisseurs sont, pour l'ensemble
+des opérations qui leur sont confiées, tenus aux garanties et encourent les responsabilités définies par la réglementation
+des régies de l'Etat. Ils perçoivent une indemnité de responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -35343,22 +35401,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 8 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R523-2 (Ab)
 
 
 ###### Article R946-5
 
-Les dispositions des chapitres II et III du titre Ier du livre VIII (partie Réglementaire) relatives au fonctionnement des
-secrétariats-greffes sont applicables au tribunal supérieur d'appel et au tribunal de première instance, à l'exception des
-articles R. 812-8, R. 812-9, du troisième alinéa de l'article R. 812-10, des articles R. 812-13 à R. 812-15, R. 812-17 et R.
-813-4, et sous réserve des adaptations suivantes :
-
-1° Pour l'application des articles R. 812-1 à R. 812-3, R. 812-6, R. 812-7, R. 812-11, R. 812-16 et R. 813-1, la référence au
-greffier en chef est remplacée par une référence au greffier en chef du tribunal supérieur d'appel ou au fonctionnaire
-responsable du secrétariat-greffe du tribunal de première instance ;
-
-2° Pour l'application de l'article R. 812-19, la référence aux avis des assemblées mentionnées aux articles R. 761-16 et R.
-761-27 est supprimée.
+Les opérations d'encaissement ou de paiement incombant aux régisseurs sont exécutées par ceux-ci pour le compte des
+comptables directs du Trésor.
 
 **Liens relatifs à cet article**
 
@@ -35369,16 +35426,43 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 8 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article R946-6
+
+Les régisseurs sont habilités à payer les frais de justice criminelle, correctionnelle et de police mentionnés à l'article R.
+92 du code de procédure pénale ainsi que les frais mentionnés à l'article R. 93 du même code, à l'exclusion de ceux dont la
+liste est fixée par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-329 1978-03-16
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1468 du 28 novembre 2005 - art. 8 () JORF 30 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R812-10, R812-13 à R812-15, R812-17, R813-4, R812-1 à R812-3, R812-6, R812-7, R812-11, R812-16, R813-1, R812-19, R761-16, R761-27
+  - Code de procédure pénale - art. R92
+  - Code de procédure pénale - art. R93
 
 
-### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=398></a>
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=399></a>
 
-#### Chapitre Ier : Des fonctions judiciaires.<a id=399></a>
+#### Chapitre Ier : Des fonctions judiciaires.<a id=400></a>
 
 ###### Article R951-1
 
@@ -35561,11 +35645,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-7 (V)
 
 
-#### Chapitre II : Des juridictions<a id=400></a>
+#### Chapitre II : Des juridictions<a id=401></a>
 
-##### Section I : Dispositions communes<a id=401></a>
+##### Section I : Dispositions communes<a id=402></a>
 
-##### Sous-section I : Dispositions générales.<a id=402></a>
+##### Sous-section I : Dispositions générales.<a id=403></a>
 
 ###### Article R952-1
 
@@ -35601,7 +35685,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R511-1 (V)
 
 
-##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=403></a>
+##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=404></a>
 
 ###### Article R952-2
 
@@ -35699,9 +35783,9 @@ _Cite_:
   - Loi n°1881-07-29 art. 38 ter
 
 
-##### Section II : Le tribunal de première instance<a id=404></a>
+##### Section II : Le tribunal de première instance<a id=405></a>
 
-##### Sous-section I : Compétence.<a id=405></a>
+##### Sous-section I : Compétence.<a id=406></a>
 
 ###### Article R952-5
 
@@ -35780,7 +35864,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=406></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=407></a>
 
 ###### Article R952-7
 
@@ -35842,7 +35926,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal supérieur d'appel.<a id=407></a>
+##### Section III : Le tribunal supérieur d'appel.<a id=408></a>
 
 ###### Article R952-9
 
@@ -35901,7 +35985,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L951-3
 
 
-# Annexes<a id=408></a>
+# Annexes<a id=409></a>
 
 ###### Article Annexe Tableau des costumes
 
