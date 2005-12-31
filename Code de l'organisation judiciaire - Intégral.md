@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2005-11-30
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -189,14 +189,14 @@ Version Consolidée au 2005-11-30
         - [Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale (art. R142-1)](#186)
       - [Titre V : Saisine pour avis de la Cour de cassation. (art. R151-1)](#187)
     - [Livre II : La cour d'appel (art. R*211-1 à R*231-1)](#188)
-      - [Titre Ier : Dispositions générales (art. R*211-1 à R*213-29)](#189)
+      - [Titre Ier : Dispositions générales (art. R*211-1 à R*213-30)](#189)
         - [Chapitre Ier : Institution et compétence (art. R*211-1 à R*211-2)](#190)
         - [Chapitre II : Organisation (art. R*212-1 à R*212-8)](#191)
-        - [Chapitre III : Fonctionnement (art. R*213-2 à R*213-29)](#192)
+        - [Chapitre III : Fonctionnement (art. R*213-2 à R*213-30)](#192)
           - [Section I : Dispositions générales relatives au service des chambres de la cour (art. R*213-2 à R213-1)](#193)
           - [Section II : Dispositions relatives aux assemblées générales (art. R*213-13)](#194)
           - [Section III : Le ministère public (art. R*213-21 à R213-26)](#195)
-          - [Section IV : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort (art. R*213-29)](#196)
+          - [Section IV : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort (art. R*213-29 à R*213-30)](#196)
       - [Titre II : Dispositions particulières à certaines matières (art. R*221-1 à R*226-1)](#197)
         - [Chapitre Ier : Dispositions particulières en matière sociale (art. R*221-1)](#198)
         - [Chapitre II : Dispositions particulières en matière d'expropriation (art. R222-1)](#199)
@@ -221,7 +221,7 @@ Version Consolidée au 2005-11-30
           - [Section IV : Dispositions relatives à la présidence et au service des chambres détachées des tribunaux de grande instance (art. R*311-39 à R*311-42)](#218)
         - [Chapitre II : Dispositions particulières à certaines matières (art. R312-1 à R*312-11)](#219)
           - [Section I : Dispositions particulières en matière familiale. (art. R312-1 à R312-1-1)](#220)
-          - [Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales. (art. R*312-2)](#221)
+          - [Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales. (art. R*312-2 à R*312-2-1)](#221)
           - [Section III : Dispositions particulières en matière de baux commerciaux (art. R*312-3)](#222)
           - [Section IV : Dispositions particulières relatives à l'informatique, aux fichiers et aux libertés. (art. R*312-4)](#223)
           - [Section V : Dispositions particulières en matière commerciale (art. R*312-5)](#224)
@@ -4478,10 +4478,10 @@ _Cité par_:
 
 ###### Article L412-2
 
-Lorsque le tribunal de commerce statue en matière de redressement judiciaire dans les conditions prévues aux sections I à IV
-du chapitre premier du titre deuxième du livre sixième du code de commerce,la formation de jugement ne peut comprendre, sous
-réserve de l'application des dispositions de l'article L. 412-14, qu'une majorité de juges ayant exercé des fonctions
-judiciaires pendant plus de deux ans.
+Lorsque le tribunal de commerce statue en matière de procédures de sauvegarde ou de redressement judiciaire dans les
+conditions prévues aux sections I à IV du chapitre premier du titre deuxième du livre sixième du code de commerce,la
+formation de jugement ne peut comprendre, sous réserve de l'application des dispositions de l'article L. 412-14, qu'une
+majorité de juges ayant exercé des fonctions judiciaires pendant plus de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -4496,7 +4496,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cité par_:
 
@@ -4611,9 +4615,9 @@ fonctions auprès du tribunal de renvoi.
 
 Lorsque l'empêchement qui avait motivé le renvoi a cessé, la cour d'appel, saisie sur requête du procureur général, fixe la
 date à partir de laquelle le tribunal de commerce connaît à nouveau des affaires de sa compétence. A cette date, les affaires
-sont transmises, en l'état, au tribunal de commerce. Le tribunal de renvoi reste toutefois saisi des affaires de règlement
-amiable et, lorsqu'il est statué au fond, des affaires autres que celles de règlement judiciaire, de liquidation de biens, de
-redressement et de liquidation judiciaires.
+sont transmises, en l'état, au tribunal de commerce. Le tribunal de renvoi reste toutefois saisi des affaires de procédure de
+conciliation et, lorsqu'il est statué au fond, des affaires autres que celles de règlement judiciaire, de liquidation de
+biens, de redressement et de liquidation judiciaires.
 
 **Liens relatifs à cet article**
 
@@ -4626,9 +4630,13 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cite_:
 
@@ -4870,10 +4878,10 @@ _Cité par_:
 ###### Article L412-14
 
 Lorsque aucun des juges du tribunal de commerce ne remplit les conditions d'ancienneté requises soit pour statuer en matière
-de redressement judiciaire conformément aux dispositions de l'article L. 412-2, soit pour présider une formation de jugement
-dans les conditions prévues par l'article L. 412-3, soit pour remplir les fonctions de juge-commissaire dans les conditions
-prévues par l'article L. 412-4, le premier président de la cour d'appel, saisi par requête du procureur général, peut
-décider, par ordonnance, que l'ancienneté requise ne sera pas exigée.
+de procédures de sauvegarde ou de redressement judiciaire conformément aux dispositions de l'article L. 412-2, soit pour
+présider une formation de jugement dans les conditions prévues par l'article L. 412-3, soit pour remplir les fonctions de
+juge-commissaire dans les conditions prévues par l'article L. 412-4, le premier président de la cour d'appel, saisi par
+requête du procureur général, peut décider, par ordonnance, que l'ancienneté requise ne sera pas exigée.
 
 **Liens relatifs à cet article**
 
@@ -4886,9 +4894,13 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cité par_:
 
@@ -4948,7 +4960,7 @@ Les personnes mentionnées ci-dessus ne peuvent faire partie du collège électo
 V du titre II du livre VI du code de commerce, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et
 à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, ou d'une
-mesure d'interdiction définie à l'article L. 625-8 du code de commerce ou d'une mesure d'interdiction d'exercer une activité
+mesure d'interdiction définie à l'article L. 653-8 du code de commerce ou d'une mesure d'interdiction d'exercer une activité
 commerciale.
 
 Les délégués consulaires sont désignés dans les conditions prévues aux articles L. 713-6 à L. 713-18 du code de commerce.
@@ -4959,8 +4971,8 @@ _Cite_:
 
   - Loi n°67-563 1967-07-13
   - Loi n°85-98 1985-01-25
-  - Code de commerce L625-8, L713-6 à L713-18
-  - Code de commerce. - art. L625-8 (M)
+  - Code de commerce L653-8, L713-6 à L713-18
+  - Code de commerce. - art. L653-8 (V)
 
 _Codifié par_:
 
@@ -4969,7 +4981,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Cité par_:
 
@@ -8038,6 +8054,21 @@ collectifs.
 
 Les modes d'élection et de fonctionnement du Conseil national sont fixés par décret en Conseil d'Etat.
 
+Le conseil fixe son budget.
+
+Il peut assurer le financement de services d'intérêt collectif dans les domaines fixés par décret.
+
+A cette fin, le conseil national appelle une cotisation versée annuellement par chaque titulaire d'un office de greffier de
+tribunal de commerce. Le montant de cette cotisation résulte d'un barème progressif fixé par décret après avis du conseil
+national, en fonction de l'activité de l'office et, le cas échéant, du nombre d'associés.
+
+Le produit de cette cotisation ne peut excéder une quotité déterminée par le conseil national, dans la limite de 2% du total
+des produits hors taxes comptabilisées par l'ensemble des offices au titre de l'année précédente.
+
+A défaut de paiement de cette cotisation dans un délai d'un mois à compter d'une mise en demeure, le conseil national
+délivre, à l'encontre du redevable, un acte assimilé à une décision au sens du 6° de l'article 3 de la loi n° 91-650 du 9
+juillet 1991 portant réforme des procédures civiles d'exécution.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -8045,9 +8076,17 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Loi n°91-1258 1991-12-17
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°90-1259 du 31 décembre 1990 - art. 62 () JORF 5 janvier 1991
+  - Loi n°91-650 1991-07-09 art. 3
+
+_Modifié par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 187 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 #### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce.<a id=109></a>
@@ -15727,6 +15766,8 @@ industrielle, le siège et le ressort des cours d'appel compétentes pour conna�
 décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des
 titres de propriété industrielle sont fixés conformément au tableau IV bis annexé au présent code.
 
+Pour l'application de la deuxième phrase de l'article L. 420-7 du code de commerce, la cour d'appel de Paris est compétente.
+
 Lorsqu'une cour d'appel est créée ou lorsque le ressort d'une cour d'appel est modifié par suite d'une nouvelle délimitation
 des circonscriptions administratives ou judiciaires, la cour compétente primitivement saisie demeure compétente pour statuer
 sur les procédures introduites antérieurement à la date de création de la cour ou de modification du ressort.
@@ -15743,7 +15784,8 @@ de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet e
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE annexe
+  - Code de l'organisation judiciaire annexe
+  - Code de commerce. - art. L420-7 (M)
   - Code de la propriété intellectuelle - art. L411-4 (V)
 
 _Anciens textes_:
@@ -15756,7 +15798,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-251 du 17 mars 1992 - art. 1 () JORF 19 mars 1992
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R*212-2
@@ -16438,6 +16480,33 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-68 (M)
 
 
+###### Article R*213-30
+
+Le premier président et le procureur général sont institués conjointement ordonnateurs secondaires des dépenses et des
+recettes des juridictions de leur ressort, à l'exception des dépenses et des recettes d'investissement.
+
+Ils peuvent déléguer conjointement leur signature, sous leur responsabilité, à un même magistrat ou fonctionnaire de
+catégorie A de la cour d'appel.
+
+**Nota:**
+
+NOTA : Décret 2004-435 du 24 mai 2004 : Les dispositions de l'article R. 213-30 du code de l'organisation judiciaire sont
+applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+
+A compter du 25 mai 2004, le décret 2004-435 entre en vigueur uniquement dans les cours d'appel désignées par arrêté du garde
+des sceaux, ministre de la justice. Il s'applique à l'ensemble des cours d'appel à compter du 1er janvier 2006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2004-435 du 24 mai 2004 - art. 1 () JORF 25 mai 2004 en vigueur le 1er janvier 2006
+
+
 ### Titre II : Dispositions particulières à certaines matières<a id=197></a>
 
 #### Chapitre Ier : Dispositions particulières en matière sociale<a id=198></a>
@@ -16851,8 +16920,11 @@ _Anciens textes_:
 
 Le siège et le ressort des tribunaux de grande instance sont fixés conformément au tableau n° I annexé au présent code.
 
-Pour l'application de l'article L. 621-5 du code de commerce, la liste des tribunaux de grande instance compétents en
+Pour l'application de l'article L. 610-1 du code de commerce, la liste des tribunaux de grande instance compétents en
 métropole est fixée au tableau VIII annexé au présent code.
+
+Pour l'application de l'article L. 420-7 du code de commerce, la liste des tribunaux de grande instance compétents en
+métropole est fixée conformément au tableau XI bis annexé au présent code.
 
 Lorsqu'un tribunal de grande instance est créé ou lorsque le ressort d'un tribunal de grande instance est modifié par suite
 d'une nouvelle délimitation des circonscriptions administratives ou judiciaires, le tribunal compétent primitivement saisi
@@ -16872,8 +16944,9 @@ ministère de la justice.
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE annexe
-  - Code de commerce. - art. L621-5 (M)
+  - Code de l'organisation judiciaire annexe
+  - Code de commerce. - art. L420-7 (M)
+  - Code de commerce. - art. L610-1 (V)
 
 _Codifié par_:
 
@@ -16881,7 +16954,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 15 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R*311-8
@@ -17980,20 +18054,16 @@ _Abrogé par_:
 
 ###### Article R*312-2
 
-Le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de
-certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et
-d'obtentions végétales, en application des articles L. 611-2, L. 615-17, L. 622-7 et L. 623-31 du code de la propriété
-intellectuelle, sont fixés conformément au tableau IV annexé au présent code.
+Le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière d'obtentions végétales, en
+application de l'article L. 623-31 du code de la propriété intellectuelle, sont fixés conformément au tableau IV annexé au
+présent code.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code de l'organisation judiciaire Annexe tableau IV
-  - Code de la propriété intellectuelle - art. L611-2 (V)
-  - Code de la propriété intellectuelle - art. L615-17 (V)
-  - Code de la propriété intellectuelle - art. L622-7 (M)
-  - Code de la propriété intellectuelle - art. L623-31 (V)
+  - Code de l'organisation judiciaire annexe
+  - Code de la propriété intellectuelle - art. L623-31
 
 _Anciens textes_:
 
@@ -18005,7 +18075,48 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 11 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-5 (V)
+
+
+###### Article R*312-2-1
+
+Le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de
+certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs, en
+application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle, sont fixés conformément au
+tableau IV sexties annexé au présent code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'organisation judiciaire annexe
+  - Code de la propriété intellectuelle - art. L611-2
+  - Code de la propriété intellectuelle - art. L615-17
+  - Code de la propriété intellectuelle - art. L622-7
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 13 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-6 (V)
 
 
 ##### Section III : Dispositions particulières en matière de baux commerciaux<a id=222></a>
@@ -19905,15 +20016,13 @@ _Nouveaux textes_:
 
 Le siège et le ressort des tribunaux de commerce sont fixés conformément au tableau VII annexé au présent code.
 
-Pour l'application de l'article L. 621-5 du code de commerce, le siège et le ressort des juridictions commerciales
+Pour l'application de l'article L. 610-1 du code de commerce, le siège et le ressort des juridictions commerciales
 compétentes en métropole sont fixés conformément au tableau IX annexé au présent code.
 
+Pour l'application de l'article L. 420-7 du code de commerce, le siège et le ressort des juridictions commerciales
+compétentes en métropole sont fixés conformément au tableau XI ter annexé au présent code.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE annexe
-  - Code de commerce. - art. L621-5 (M)
 
 _Codifié par_:
 
@@ -19921,7 +20030,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 15 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 4 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Cite_:
+
+  - Code de commerce. - art. L420-7 (M)
+  - Code de commerce. - art. L610-1 (V)
+  - Code de l'organisation judiciaire annexe
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R420-3 (V)
+  - Code de commerce. - art. R600-3 (V)
+  - Code de commerce. - art. R721-2 (V)
 
 
 ###### Article R*411-2
@@ -19957,8 +20083,9 @@ Lorsqu'une juridiction commerciale est créée ou lorsque le ressort d'un tribun
 instance statuant en matière commerciale est modifié par suite d'une nouvelle délimitation des circonscriptions
 administratives ou judiciaires, le tribunal compétent primitivement saisi demeure compétent pour statuer sur les procédures
 introduites antérieurement à la date de création du tribunal ou de modification du ressort ainsi que sur toutes les
-procédures qui découlent d'un règlement judiciaire, d'un redressement judiciaire, d'une liquidation judiciaire, d'une
-liquidation de biens, d'une faillite personnelle ou d'autres sanctions prononcées par ce tribunal.
+procédures qui découlent d'un règlement judiciaire, des procédures de sauvegarde ou d'un redressement judiciaire, d'une
+liquidation judiciaire, d'une liquidation de biens, d'une faillite personnelle ou d'autres sanctions prononcées par ce
+tribunal.
 
 **Liens relatifs à cet article**
 
@@ -19972,7 +20099,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 3 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R721-5 (V)
 
 
 ###### Article R*411-4
@@ -20088,8 +20223,8 @@ _Cite_:
 ###### Article R412-3
 
 Les recours relatifs à l'élection du président du tribunal de commerce sont formés par déclaration écrite déposée ou remise
-au greffe de la cour d'appel dans les dix jours du scrutin. Le recours n'est ouvert qu'aux magistrats consulaires en exercice
-du tribunal de commerce et au procureur de la République. Le président dont l'élection est contestée peut valablement être
+au greffe de la cour d'appel dans les dix jours du scrutin. Le recours n'est ouvert qu'aux juges consulaires en exercice du
+tribunal de commerce et au procureur de la République. Le président dont l'élection est contestée peut valablement être
 installé et remplir ses fonctions tant qu'il n'a pas été définitivement statué sur le recours.
 
 La cour d'appel statue dans les dix jours de sa saisine après avoir convoqué le requérant et le président dont l'élection est
@@ -20105,9 +20240,13 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
@@ -20122,7 +20261,7 @@ cas d'élections complémentaires organisées conformément au deuxième alinéa
 électorales.
 
 En cas de création d'un tribunal de commerce, le premier président de la cour d'appel dans le ressort duquel la juridiction
-consulaire a son siège procède à l'installation publique des magistrats élus.
+consulaire a son siège procède à l'installation publique des juges élus.
 
 **Liens relatifs à cet article**
 
@@ -20132,7 +20271,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-808 du 18 juillet 2005 - art. 1 () JORF 20 juillet 2005
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R722-10 (V)
+  - Code de commerce. - art. R722-10 (M)
 
 _Cite_:
 
@@ -20142,10 +20290,6 @@ _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-9 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-13 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. R722-10 (M)
 
 
 ###### Article R412-5
@@ -20239,9 +20383,9 @@ _Cite_:
 ###### Article R412-8
 
 Les présidents de chambre sont choisis parmi les juges ayant exercé des fonctions dans un tribunal de commerce pendant trois
-ans [*durée*] au moins et sont désignés chaque année dans la quinzaine de l'installation des juges nouvellement élus par
-ordonnance du président du tribunal de commerce prise après avis de l'assemblée générale. Cette ordonnance peut être modifiée
-en cours d'année judiciaire, en cas de cessation des fonctions des magistrats initialement désignés.
+ans au moins et sont désignés chaque année dans la quinzaine de l'installation des juges nouvellement élus par ordonnance du
+président du tribunal de commerce prise après avis de l'assemblée générale. Cette ordonnance peut être modifiée en cours
+d'année judiciaire, en cas de cessation des fonctions des juges initialement désignés.
 
 **Liens relatifs à cet article**
 
@@ -20249,17 +20393,22 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R722-14 (V)
+  - Code de commerce. - art. R722-14 (M)
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-7 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. R722-14 (M)
 
 
 ###### Article R412-9
@@ -21655,7 +21804,7 @@ _Cite_:
 
 L'année où il est procédé au renouvellement des membres de la commission, les présidents des tribunaux de commerce font
 connaître par écrit, le 15 février au plus tard, au secrétaire de la commission les noms, prénoms, adresses, dates et lieux
-de naissance des magistrats appartenant à leur juridiction se portant candidats en application du 3° de l'article L. 414-2.
+de naissance des juges appartenant à leur juridiction se portant candidats en application du 3° de l'article L. 414-2.
 
 Le secrétaire de la commission établit la liste des candidatures le 20 février au plus tard et en adresse aussitôt une copie
 à tous les présidents des tribunaux de commerce.
@@ -21666,17 +21815,21 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-2 (Ab)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R724-4 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-2 (Ab)
 
 
 ###### Article R414-6
@@ -21854,9 +22007,9 @@ _Cite_:
 
 ###### Article R414-12
 
-Dès la saisine de la commission, le magistrat poursuivi en est informé par lettre recommandée avec demande d'avis de
-réception du secrétaire de la commission, qui lui précise qu'il peut prendre connaissance, au secrétariat de la commission,
-des pièces afférentes à la poursuite.
+Dès la saisine de la commission, le juge poursuivi en est informé par lettre recommandée avec demande d'avis de réception du
+secrétaire de la commission, qui lui précise qu'il peut prendre connaissance, au secrétariat de la commission, des pièces
+afférentes à la poursuite.
 
 Le président de la commission désigne parmi les membres de la commission un rapporteur, qui procède à toutes investigations
 utiles. Le rapporteur entend l'intéressé et, s'il y a lieu, le plaignant et les témoins. Il peut les faire entendre par un
@@ -21868,23 +22021,28 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
+  - Code de commerce. - art. R724-12 (V)
   - Code de commerce. - art. R724-12 (M)
 
 
 ###### Article R414-13
 
-Le magistrat poursuivi peut se faire assister par l'un de ses pairs, par un avocat au Conseil d'Etat et à la Cour de
-cassation ou par un avocat inscrit à un barreau.
+Le juge poursuivi peut se faire assister par l'un de ses pairs, par un avocat au Conseil d'Etat et à la Cour de cassation ou
+par un avocat inscrit à un barreau.
 
 Le dossier de la procédure doit être mis à la disposition de l'intéressé et de son conseil quarante-huit heures au moins
-avant chaque séance de la commission ou chaque audition par le rapporteur ou son délégué du magistrat poursuivi. Celui-ci
-peut à tout moment de la procédure verser aux débats les pièces qu'il estime utiles et déposer des mémoires en défense.
+avant chaque séance de la commission ou chaque audition par le rapporteur ou son délégué du juge poursuivi. Celui-ci peut à
+tout moment de la procédure verser aux débats les pièces qu'il estime utiles et déposer des mémoires en défense.
 
 **Liens relatifs à cet article**
 
@@ -21892,23 +22050,27 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
-_Cité par_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-15 (Ab)
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
   - Code de commerce. - art. R724-13 (V)
 
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-15 (Ab)
+
 
 ###### Article R414-14
 
-Le magistrat poursuivi est cité à comparaître devant la commission par lettre recommandée avec demande d'avis de réception
-par le secrétaire de la commission.
+Le juge poursuivi est cité à comparaître devant la commission par lettre recommandée avec demande d'avis de réception par le
+secrétaire de la commission.
 
 **Liens relatifs à cet article**
 
@@ -21916,19 +22078,24 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
+  - Code de commerce. - art. R724-14 (V)
   - Code de commerce. - art. R724-14 (M)
 
 
 ###### Article R414-15
 
-Le magistrat poursuivi est tenu de comparaître en personne. Toutefois, il peut être autorisé en cas de maladie ou
-d'empêchement reconnu justifié à se faire représenter par le conseil qu'il a choisi en application de l'article R. 414-13.
+Le juge poursuivi est tenu de comparaître en personne. Toutefois, il peut être autorisé en cas de maladie ou d'empêchement
+reconnu justifié à se faire représenter par le conseil qu'il a choisi en application de l'article R. 414-13.
 
 **Liens relatifs à cet article**
 
@@ -21936,23 +22103,28 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R724-15 (V)
+  - Code de commerce. - art. R724-15 (M)
 
 _Cite_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-13 (M)
 
-_Nouveaux textes_:
-
-  - Code de commerce. - art. R724-15 (M)
-
 
 ###### Article R414-16
 
-Après lecture du rapport et après audition du représentant du garde des sceaux, ministre de la justice, le magistrat
-poursuivi est invité à fournir ses explications et moyens de défense sur les faits qui lui sont reprochés.
+Après lecture du rapport et après audition du représentant du garde des sceaux, ministre de la justice, le juge poursuivi est
+invité à fournir ses explications et moyens de défense sur les faits qui lui sont reprochés.
 
 **Liens relatifs à cet article**
 
@@ -21960,9 +22132,13 @@ _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 2 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 21 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
@@ -28806,6 +28982,8 @@ _Nouveaux textes_:
 
 Le greffier assure la tenue du répertoire général des affaires de la juridiction.
 
+Il applique les instructions de tenue du répertoire général élaborées par le ministère de la justice.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -28814,7 +28992,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-832 du 5 juillet 1995 - art. 3 () JORF 8 juillet 1995
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 359 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R741-3 (V)
 
 
 ###### Article R821-4
@@ -31318,23 +31504,39 @@ _Cite_:
 
 ###### Article R921-5-1
 
-Pour l'application de l'article L. 621-5 du code de commerce, la liste des tribunaux de grande instance compétents dans les
+Pour l'application de l'article L. 610-1 du code de commerce, la liste des tribunaux de grande instance compétents dans les
 départements d'outre-mer est fixée au tableau X annexé au présent code.
 
+Pour l'application de l'article L. 420-7 du code de commerce, le siège et le ressort des tribunaux de grande instance
+compétents dans les départements d'outre-mer sont fixés conformément au tableau XI bis annexé au présent code. Pour
+l'application de la deuxième phrase du même article, la cour d'appel de Paris est compétente.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE annexe
-  - Code de commerce. - art. L621-5 (M)
 
 _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-38 du 13 janvier 1988 - art. 7 () JORF 15 janvier 1988 en vigueur le 1er janvier 1988
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 15 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 5 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Cite_:
+
+  - Code de commerce. - art. L420-7 (M)
+  - Code de commerce. - art. L610-1 (V)
+  - Code de l'organisation judiciaire annexe
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R420-4 (V)
+  - Code de commerce. - art. R420-5 (V)
+  - Code de commerce. - art. R600-4 (V)
 
 
 ##### Section V : Les secrétariats-greffes et secrétariats<a id=348></a>
@@ -31541,15 +31743,20 @@ _Cite_:
 
 Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau n° VII annexé au présent code.
 
-Pour l'application de l'article L. 621-5 du code de commerce, le siège et le ressort des juridictions commerciales
+Pour l'application de l'article L. 610-1 du code de commerce, le siège et le ressort des juridictions commerciales
 compétentes dans les départements d'outre-mer sont fixés conformément au tableau XI annexé au présent code.
+
+Pour l'application de l'article L. 420-7 du code de commerce, le siège et le ressort des juridictions commerciales
+compétentes dans les départements d'outre-mer sont fixés conformément au tableau XI ter annexé au présent code. Pour
+l'application de la deuxième phrase du même article, la cour d'appel de Paris est compétente.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE annexe
-  - Code de commerce. - art. L621-5 (M)
+  - Code de l'organisation judiciaire annexe
+  - Code de commerce. - art. L420-7 (M)
+  - Code de commerce. - art. L610-1 (V)
 
 _Anciens textes_:
 
@@ -31561,7 +31768,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-611 du 3 juillet 1992 - art. 5 () JORF 5 juillet 1992
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 15 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 6 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R420-3 (V)
+  - Code de commerce. - art. R420-5 (V)
+  - Code de commerce. - art. R600-4 (V)
+  - Code de commerce. - art. R732-1 (V)
 
 
 ###### Article R*921-7
@@ -31760,9 +31979,9 @@ _Cite_:
 ###### Article R931-3
 
 Les dispositions du chapitre II du titre Ier du livre II (partie Réglementaire) relatives à l'organisation de la cour d'appel
-sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième et troisième alinéas de l'article
-R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des adaptations
-suivantes :
+sont applicables dans les territoires visés au présent chapitre, à l'exception des deuxième, troisième et quatrième alinéas
+de l'article R. 212-1, des troisième et quatrième alinéas de l'article R. 212-4 et de l'article R. 212-8, et sous réserve des
+adaptations suivantes :
 
 1° Pour l'application de l'article R. 212-2, la référence au code de procédure pénale est remplacée par une référence aux
 dispositions de procédure pénale applicables localement ;
@@ -31780,18 +31999,9 @@ _Codifié par_:
   - Décret n°78-329 1978-03-16
   - Décret n°78-330 1978-03-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
-
 _Modifié par_:
 
-  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
-
-_Cite_:
-
-  - Code de l'organisation judiciaire R212-1, R212-4, R212-8, R212-2, R212-5, R212-7
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 7 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R931-4
@@ -32149,30 +32359,35 @@ _Créé par_:
 
 Le siège et le ressort des tribunaux de première instance sont fixés conformément au tableau I annexé au présent code.
 
-Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaire des entreprises, le siège et le ressort des tribunaux de
-première instance compétents en Nouvelle-Calédonie et dans les territoires visés au présent chapitre sont fixés conformément
-au tableau X annexé au présent code.
+Pour l'application de l'article L. 610-1 du code de commerce, le siège et le ressort des tribunaux de première instance
+compétents en Nouvelle-Calédonie et dans les territoires visés au présent chapitre sont fixés conformément au tableau X
+annexé au présent code.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de l'organisation judiciaire annexe
-  - Code de commerce. - art. L621-5 (M)
+  - Code de commerce - art. L610-1
 
 _Codifié par_:
 
   - Décret n°78-329 1978-03-16
   - Décret n°78-330 1978-03-16
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
 _Modifié par_:
 
-  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 16 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D532-2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D552-1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D562-1 (V)
 
 
 ###### Article R931-12
@@ -32886,17 +33101,11 @@ _Nouveaux textes_:
 
 Le siège et le ressort des tribunaux mixtes de commerce sont fixés conformément au tableau VII annexé au présent code.
 
-Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaire des entreprises, le siège et le ressort des juridictions
-commerciales compétentes en Nouvelle-Calédonie et dans les territoires visés au présent chapitre sont fixés conformément au
-tableau XI annexé au présent code.
+Pour l'application de l'article L. 610-1 du code de commerce, le siège et le ressort des juridictions commerciales
+compétentes en Nouvelle-Calédonie et dans les territoires visés au présent chapitre sont fixés conformément au tableau XI
+annexé au présent code.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'organisation judiciaire annexe
-  - Code de commerce. - art. L621-5 (M)
 
 _Codifié par_:
 
@@ -32905,7 +33114,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 16 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
+
+_Cite_:
+
+  - Code de commerce. - art. L610-1 (V)
+  - Code de l'organisation judiciaire annexe
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. R936-1 (V)
+  - Code de commerce. - art. R937-1 (V)
+  - Code de commerce. - art. R940-3 (V)
+  - Code de commerce. - art. R947-1 (V)
 
 
 ###### Article R932-12
@@ -33749,13 +33974,16 @@ _Cite_:
 
 ###### Article R934-1
 
-Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, le siège et le ressort de la
-juridiction compétente du territoire visé au présent chapitre, pour connaître des procédures de redressement et de
-liquidation judiciaires applicables aux commerçants et artisans, sont fixées conformément au tableau XI annexé au présent
-code.
+Pour l'application de l'article L. 610-1 du code de commerce, le siège et le ressort de la juridiction compétente de la
+collectivité territoriale visée au présent chapitre pour connaître des procédures applicables aux commerçants et artisans
+sont fixés conformément au tableau XI annexé au présent code.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'organisation judiciaire annexe
+  - Code de commerce. - art. L610-1 (V)
 
 _Codifié par_:
 
@@ -33764,12 +33992,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 17 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de commerce. - art. L621-5 (M)
-  - Code de l'organisation judiciaire annexe
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Nouveaux textes_:
 
@@ -34562,7 +34789,13 @@ _Nouveaux textes_:
 
 ###### Article R942-20
 
-Les dispositions de l'article R. 213-29 sont applicables à Mayotte.
+Les dispositions des articles R. 213-29 et R. 213-30 sont applicables à Mayotte.
+
+**Nota:**
+
+NOTA : Décret 2004-435 du 24 mai 2004 : A compter du 25 mai 2004, le décret 2004-435 entre en vigueur uniquement dans les
+cours d'appel désignées par arrêté du garde des sceaux, ministre de la justice. Il s'applique à l'ensemble des cours d'appel
+à compter du 1er janvier 2006.
 
 **Liens relatifs à cet article**
 
@@ -34573,11 +34806,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2004-435 du 24 mai 2004 - art. 2 () JORF 25 mai 2004 en vigueur le 1er janvier 2006
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R213-29
+  - Code de l'organisation judiciaire R213-29, R213-30
 
 
 #### Chapitre III : Le tribunal de première instance<a id=388></a>
@@ -34725,16 +34958,20 @@ _Cite_:
 
 Le siège du tribunal de première instance est fixé conformément au tableau I annexé au présent code.
 
-Pour l'application de l'article L. 621-5 du code de commerce et du troisième alinéa de l'article 7 de la loi n° 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, le siège et le ressort des
-juridictions compétentes à Mayotte sont fixés conformément aux tableaux X et XI annexés au présent code.
+Pour l'application de l'article L. 610-1 du code de commerce, le siège et le ressort des juridictions compétentes à Mayotte
+sont fixés conformément aux tableaux X et XI annexés au présent code.
+
+Pour l'application de l'article L. 420-7 du code de commerce, le siège et le ressort des juridictions compétentes à Mayotte
+sont fixés conformément aux tableaux XI bis et XI ter annexés au présent code. Pour l'application de la deuxième phrase du
+même article, la cour d'appel de Paris est compétente.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de l'organisation judiciaire annexe
-  - Code de commerce. - art. L621-5 (M)
+  - Code de commerce. - art. L420-7 (M)
+  - Code de commerce. - art. L610-1 (V)
 
 _Codifié par_:
 
@@ -34743,7 +34980,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 16 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 8 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 _Cité par_:
 
@@ -35823,23 +36061,33 @@ _Cite_:
 
 ###### Article R952-6
 
-Pour l'application de l'article L. 621-5 du code de commerce, le siège et le ressort de la juridiction compétente dans la
+Pour l'application de l'article L. 610-1 du code de commerce, le siège et le ressort de la juridiction compétente dans la
 collectivité territoriale de Saint-Pierre-et-Miquelon sont fixés conformément aux tableaux X et XI annexés au présent code.
+
+Pour l'application de l'article L. 420-7 du code de commerce, le siège et le ressort des juridictions compétentes dans la
+collectivité territoriale de Saint-Pierre-et-Miquelon sont fixés conformément aux tableaux XI bis et XI ter annexés au
+présent code. Pour l'application de la deuxième phrase du même article, la cour d'appel de Paris est compétente.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de l'organisation judiciaire annexe
-  - Code de commerce. - art. L621-5 (M)
+  - Code de commerce. - art. L420-7 (M)
+  - Code de commerce. - art. L610-1 (V)
 
 _Codifié par_:
 
   - Décret n°78-330 1978-03-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-431 du 18 mai 2001 - art. 1 () JORF 20 mai 2001
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 15 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 9 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 _Cité par_:
 
@@ -36279,76 +36527,73 @@ _Abrogé par_:
 
 ###### Article Annexe Tableau IV
 
-**Tableau IV **
-
-**Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats
-d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions
-végétales
+**Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
 
 **
+  **
+  **
+****
+
+****
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ **TRIBUNAUX DE GRANDE │ **COMPÉTENCE TERRITORIALE **s'étendant aux départements compris dans le ressort des cours d'appel ┃
-┃ INSTANCE**            │ de :                                                                                              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel d'Aix                                                                                                        ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Marseille             │ Aix-en-Provence, Bastia, Nîmes.                                                                   ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Bordeaux                                                                                                  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Bordeaux              │ Agen, Bordeaux, Poitiers.                                                                         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Colmar                                                                                                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Strasbourg            │ Colmar, Metz.                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Douai                                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Lille                 │ Amiens, Douai.                                                                                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Limoges                                                                                                   ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Limoges               │ Bourges, Limoges, Riom.                                                                           ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Lyon                                                                                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Lyon                  │ Chambéry, Lyon, Grenoble.                                                                         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Nancy                                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Nancy                 │ Besançon, Dijon, Nancy.                                                                           ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Paris                                                                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Paris                 │ Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, ┃
-┃                       │ Nouméa, Papeete, Madmouzou et Saint-Pierre-et-Miquelon.                                           ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Rennes                                                                                                    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Rennes                │ Angers, Caen, Rennes.                                                                             ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Cour d'appel de Toulouse                                                                                                  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Toulouse              │ Pau, Montpellier, Toulouse.                                                                       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ TRIBUNAUX DE GRANDE │ COMPÉTENCE TERRITORIALE s'étendant aux départements compris dans le ressort des cours d'appel de :  ┃
+┃ INSTANCE            │                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel d'Aix**                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Marseille           │ Aix-en-Provence, Bastia, Nîmes.                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Bordeaux**                                                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bordeaux            │ Agen, Bordeaux, Poitiers.                                                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Colmar**                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Strasbourg          │ Colmar, Metz.                                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Douai**                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lille               │ Amiens, Douai.                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Limoges**                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Limoges             │ Bourges, Limoges, Riom.                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Lyon**                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lyon                │ Chambéry, Lyon, Grenoble.                                                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Nancy**                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nancy               │ Besançon, Dijon, Nancy.                                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Paris**                                                                                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Paris               │ Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion,   ┃
+┃                     │ Nouméa, Papeete, Madmouzou et Saint-Pierre-et-Miquelon.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Rennes**                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rennes              │ Angers, Caen, Rennes.                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ **Cour d'appel de Toulouse**                                                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Toulouse            │ Pau, Montpellier, Toulouse.                                                                         ┃
+┗━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
-
+****
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°78-330 1978-03-16
-
 _Modifié par_:
 
-  - Décret n°94-1056 du 8 décembre 1994 - art. 1 () JORF 10 décembre 1994
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 12
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_SOURCE: Code de l'organisation judiciaire R312-2
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
 ###### Article Annexe Tableau IV bis
@@ -36657,6 +36902,65 @@ _Codifié par_:
   - Décret n°78-330 1978-03-16
 
 
+###### Article Annexe Tableau IV sexties
+
+**Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats
+d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs
+
+**
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ TRIBUNAUX DE      │ COMPÉTENCE TERRITORIALE s'étendant aux départements et aux collectivités d'outre-mer compris dans le  ┃
+┃ GRANDE INSTANCE   │ ressort des cours d'appel de                                                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel d'Aix                                                                                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Marseille         │ Aix-en-Provence, Bastia, Nîmes.                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Bordeaux                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bordeaux          │ Agen, Bordeaux, Limoges, Poitiers.                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Colmar                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Strasbourg        │ Colmar, Metz, Besançon, Dijon, Nancy                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Douai                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lille             │ Amiens, Douai.                                                                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Lyon                                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lyon              │ Chambéry, Lyon, Grenoble, Riom                                                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Paris                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Paris             │ Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion,     ┃
+┃                   │ Nouméa, Papeete, Madmouzou et Saint-Pierre-et-Miquelon, Bourges, Angers, Caen, Rennes.                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Toulouse                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Toulouse          │ Pau, Montpellier, Toulouse.                                                                           ┃
+┗━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 14 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
 ###### Article Annexe Tableau IV ter
 
 <font size="2">
@@ -36807,6 +37111,21 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article Annexe Tableau IX
+
+Tableau non reproduit : voir fac-similé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 18 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article Annexe Tableau V
@@ -37700,6 +38019,131 @@ _Abrogé par_:
 _Créé par_:
 
   - Décret n°88-38 du 13 janvier 1988 (V)
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article Annexe Tableau VIII
+
+Tableau non reproduit : voir fac-similé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 18 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+
+###### Article Annexe Tableau X
+
+Tableau non reproduit : voir fac-similé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Modifié par_:
+
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 18 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+
+###### Article Annexe Tableau XI bis
+
+**Juridictions compétentes pour connaître, en application de l'article L. 420-7 du code de comemrce, des procédures
+applicables aux personnes qui ne sont ni commerçants ni artisans
+
+**
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ SIÈGE DES TRIBUNAUX de    │ RESSORT                                                                                       ┃
+┃ grande instance           │                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Marseille                 │ Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier, Nîmes.                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bordeaux                  │ Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau, Toulouse.                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lille                     │ Le ressort des cours d'appel d'Amiens, Douai, Reims, Rouen.                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Fort-de-France            │ Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lyon                      │ Le ressort des cours d'appel de Chambéry, Grenoble, Lyon, Riom.                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nancy                     │ Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz, Nancy.                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Paris                     │ Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis-de-la-Réunion, Ver-      ┃
+┃                           │ sailles et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre-et-Miquelon.         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rennes                    │ Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 10 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+
+###### Article Annexe Tableau XI ter
+
+**Juridictions compétentes pour connaître, en application de l'article L. 420-7 du code de commerce, des procédures
+applicables aux personnes qui sont commerçants ou artisans
+
+**
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ TRIBUNAUX de commerce et tribu- │ RESSORT                                                                                 ┃
+┃ naux mixtes de commerce         │                                                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Marseille                       │ Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier, Nîmes.             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bordeaux                        │ Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau, Toulouse.                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lille                           │ Le ressort des cours d'appel d'Amiens, Douai, Reims, Rouen.                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Fort-de-France                  │ Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lyon                            │ Le ressort des cours d'appel de Chambéry, Grenoble, Lyon, Riom.                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nancy                           │ Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz, Nancy.                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Paris                           │ Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis-de-la-Réunion,     ┃
+┃                                 │ Versailles et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre-et-Mique-   ┃
+┃                                 │ lon.                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rennes                          │ Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-330 1978-03-16
+
+_Créé par_:
+
+  - Décret n°2005-1756 du 30 décembre 2005 - art. 10 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 _Abrogé par_:
 
