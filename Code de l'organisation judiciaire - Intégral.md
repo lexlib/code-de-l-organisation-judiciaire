@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-02-21
+Version Consolidée au 2006-03-01
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -15893,7 +15893,9 @@ _Nouveaux textes_:
 
 ###### Article R*212-5
 
-En matière civile, les renvois après cassation d'un arrêt sont portés aux audiences solennelles.
+Après cassation d'un arrêt en matière civile, le premier président, d'office ou à la demande des parties, renvoie l'affaire à
+l'audience solennelle si la nature ou la complexité de celle-ci le justifie. Cette décision est une mesure d'administration
+judiciaire.
 
 Le contentieux des élections au Conseil national des barreaux ou au conseil de l'ordre ou de celles des bâtonniers, ainsi que
 les recours dirigés contre les décisions ou délibérations de ces conseils sont portés aux audiences solennelles.
@@ -15915,7 +15917,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-1197 du 27 novembre 1991 - art. 276 () JORF 28 novembre 1991 en vigueur le 1er janvier 1992
+  - Décret n°2005-1678 du 28 décembre 2005 - art. 52 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-9 (V)
 
 
 ###### Article R*212-6
