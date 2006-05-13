@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-05-05
+Version Consolidée au 2006-05-14
 ## Contenu: 
   - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
     - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
@@ -15417,14 +15417,21 @@ _Nouveaux textes_:
 
 ###### Article R*131-18
 
-Le service peut, moyennant le paiement de participations versées au titre d'offres de concours, communiquer des fiches
-analytiques des décisions classées par ses soins ainsi que le texte de ces décisions.
+Peuvent donner lieu à rémunération pour services rendus les prestations fournies par la Cour de cassation à des personnes
+privées ou publiques autres que l'Etat, dont la liste suit :
 
-Les sommes ainsi versées donnent lieu à un rattachement au budget de la justice par la procédure du fonds de concours et sont
-affectées aux dépenses de fonctionnement de ce service.
+1° Communication des décisions et avis contenus dans la base de données prévue par l'article R. 131-16-1, le cas échéant
+assortis de leurs sommaires et de leurs titres, des rapports des conseillers et conseillers référendaires et des avis des
+avocats généraux préparatoires à ces décisions et avis ;
 
-Un arrêté du garde des sceaux, ministre de la justice, et du ministre de l'économie et des finances détermine les conditions
-d'application du présent article.
+2° Vente d'ouvrages ou d'autres documents, quel que soit le support utilisé ;
+
+3° Cession des droits de reproduction ou de diffusion des ouvrages et documents mentionnés au 2° ;
+
+4° Mise à disposition de locaux pour l'organisation de manifestations.
+
+Les tarifs des rémunérations dues au titre de ces prestations sont fixés par arrêté du garde des sceaux, ministre de la
+justice, ou par voie de contrat relatif à une prestation déterminée.
 
 **Liens relatifs à cet article**
 
@@ -15434,7 +15441,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-134 1984-02-20 art. 1 JORF 25 février 1984
+  - Décret n°2006-545 du 12 mai 2006 - art. 1 () JORF 14 mai 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-10 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire
 
 
 ###### Article R*131-19
