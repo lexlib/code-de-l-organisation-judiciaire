@@ -1,422 +1,3870 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-05-14
+Version Consolidée au 2006-06-09
 ## Contenu: 
-  - [Partie législative ancienne (art. L111-1 à L952-14)](#1)
-    - [Livre Ier : La Cour de cassation (art. L111-1 à L151-3)](#2)
-      - [Titre Ier : Institution et compétence. (art. L111-1 à L111-4)](#3)
-      - [Titre II : Organisation. (art. L121-1 à L121-6)](#4)
-      - [Titre III : Fonctionnement (art. L131-1 à L132-5)](#5)
-        - [Chapitre Ier : Le service des chambres de la Cour. (art. L131-1 à L131-7)](#6)
-        - [Chapitre II : Le ministère public. (art. L132-1 à L132-5)](#7)
-      - [Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation (art. L141-1 à L142-2)](#8)
-        - [Chapitre Ier : La commission nationale de réparation des détentions. (art. L141-1 à L141-2)](#9)
-        - [Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale. (art. L142-1 à L142-2)](#10)
-      - [Titre V : Saisine pour avis de la Cour de cassation. (art. L151-1 à L151-3)](#11)
-    - [Livre II : La cour d'appel (art. L211-1 à L226-1)](#12)
-      - [Titre Ier : Dispositions générales (art. L211-1 à L213-4)](#13)
-        - [Chapitre Ier : Institution et compétence. (art. L211-1)](#14)
-        - [Chapitre II : Organisation. (art. L212-1 à L212-2)](#15)
-        - [Chapitre III : Fonctionnement. (art. L213-1 à L213-4)](#16)
-      - [Titre II : Dispositions particulières à certaines matières (art. L221-1 à L226-1)](#17)
-        - [Chapitre I : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort. (art. L221-1 à L221-3)](#18)
-        - [Chapitre II : Dispositions particulières en matière d'expropriation. (art. L222-1 à L222-2)](#19)
-        - [Chapitre III : Dispositions particulières à la protection de l'enfance. (art. L223-1 à L223-3)](#20)
-        - [Chapitre IV : Dispositions particulières en matière pénale. (art. L224-1)](#21)
-        - [Chapitre V : Dispositions particulières aux professions juridiques et judiciaires (art. L225-1 à L225-4)](#22)
-          - [Section I : Dispositions particulières aux avocats. (art. L225-1 à L225-2)](#23)
-          - [Section II : Dispositions particulières aux experts judiciaires. (art. L225-3)](#24)
-          - [Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires. (art. L225-4)](#25)
-        - [Chapitre VI : Dispositions particulières aux aspects civils de l'enlèvement international d'enfants (art. L226-1)](#26)
-    - [Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité (art. L311-1 à L331-9)](#27)
-      - [Titre Ier : Le tribunal de grande instance (art. L311-1 à L313-2)](#28)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-18)](#29)
-          - [Section I : Institution et compétence. (art. L311-1 à L311-4)](#30)
-          - [Section II : Organisation. (art. L311-5 à L311-6)](#31)
-          - [Section III : Fonctionnement (art. L311-7 à L311-15)](#32)
-            - [Sous-section I : Dispositions relatives au service des chambres du tribunal. (art. L311-7 à L311-9)](#33)
-            - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution. (art. L311-10 à L311-13)](#34)
-            - [Sous-section IV : Le ministère public. (art. L311-14 à L311-15)](#35)
-          - [Section IV : Les chambres détachées. (art. L311-16 à L311-18)](#36)
-        - [Chapitre II : Dispositions particulières à certaines matières (art. L312-1 à L312-7)](#37)
-          - [Section I : Dispositions particulières en matière familiale. (art. L312-1 à L312-1-1)](#38)
-          - [Section II : Dispositions particulières en matière de brevets d'invention et d'obtentions végétales. (art. L312-2)](#39)
-          - [Section IV : Dispositions particulières aux professions juridiques et judiciaires. (art. L312-3 à L312-6)](#40)
-          - [Section VI : Dispositions particulières aux actions immobilières possessoires. (art. L312-7)](#41)
-        - [Chapitre III : Commission juridictionnelle fonctionnant auprès du tribunal de grande instance : la commission d'indemnisation de certains dommages corporels. (art. L313-1 à L313-2)](#42)
-      - [Titre II : Le tribunal d'instance (art. L321-1 à L323-1)](#43)
-        - [Chapitre Ier : Dispositions générales (art. L321-1 à L321-5)](#44)
-          - [Section I : Institution et compétence. (art. L321-1 à L321-2-4)](#45)
-          - [Section II : Organisation. (art. L321-3 à L321-4)](#46)
-          - [Section III : Fonctionnement. (art. L321-5)](#47)
-        - [Chapitre II : Dispositions particulières à la tutelle. (art. L322-1 à L322-2)](#48)
-        - [Chapitre III : Attributions non juridictionnelles. (art. L323-1)](#49)
-      - [Titre III : La juridiction de proximité (art. L331-1 à L331-9)](#50)
-        - [Chapitre unique : Dispositions générales (art. L331-1 à L331-9)](#51)
-          - [Section I : Institution, compétence et fonctionnement (art. L331-1 à L331-5)](#52)
-          - [Section II : Organisation (art. L331-6 à L331-9)](#53)
-    - [Livre IV : Les juridictions spécialisées non pénales (art. L411-1 à L461-1)](#54)
-      - [Titre I : Le tribunal de commerce (art. L411-1 à L414-7)](#55)
-        - [Chapitre Ier : Institution et compétence. (art. L411-1 à L411-7)](#56)
-        - [Chapitre II : Organisation et fonctionnement. (art. L412-1 à L412-15)](#57)
-        - [Chapitre III : Election des juges des tribunaux de commerce (art. L413-1 à L413-12)](#58)
-          - [Section I : Electorat. (art. L413-1 à L413-2)](#59)
-          - [Section II : Eligibilité. (art. L413-3 à L413-5)](#60)
-          - [Section III : Scrutin et opérations électorales. (art. L413-6 à L413-11)](#61)
-          - [Section IV : Mesures d'application. (art. L413-12)](#62)
-        - [Chapitre IV : Discipline des membres des tribunaux de commerce. (art. L414-1 à L414-7)](#63)
-      - [Titre II : Le conseil de prud'hommes. (art. L420-1)](#64)
-      - [Titre III : Le juge de l'expropriation (art. L431-1)](#65)
-        - [Chapitre Ier : Institution et compétence. (art. L431-1)](#66)
-      - [Titre IV : Le tribunal paritaire de baux ruraux (art. L441-1 à L444-1)](#67)
-        - [Chapitre Ier : Organisation des tribunaux paritaires. (art. L441-1 à L441-2)](#68)
-        - [Chapitre II : Constitution des tribunaux paritaires. (art. L442-1 à L442-5)](#69)
-        - [Chapitre III : Compétence et procédure. (art. L443-1 à L443-5)](#70)
-        - [Chapitre IV : Voies de recours. (art. L444-1)](#71)
-      - [Titre V : Les juridictions de sécurité sociale. (art. L450-1)](#72)
-      - [Titre VI : Les prud'hommes pêcheurs. (art. L461-1)](#73)
-    - [Livre V : Les juridictions des mineurs (art. L511-1 à L532-1)](#74)
-      - [Titre Ier : La cour d'assises des mineurs (art. L511-1 à L512-3)](#75)
-        - [Chapitre Ier : Institution et compétence. (art. L511-1 à L511-2)](#76)
-        - [Chapitre II : Organisation et fonctionnement. (art. L512-1 à L512-3)](#77)
-      - [Titre II : Le tribunal pour enfants (art. L521-1 à L522-6)](#78)
-        - [Chapitre Ier : Institution et compétence. (art. L521-1 à L521-2)](#79)
-        - [Chapitre II : Organisation et fonctionnement. (art. L522-1 à L522-6)](#80)
-      - [Titre III : Le juge des enfants (art. L531-1 à L532-1)](#81)
-        - [Chapitre Ier : Institution et compétence. (art. L531-1 à L531-3)](#82)
-        - [Chapitre II : Organisation et fonctionnement. (art. L532-1)](#83)
-    - [Livre VI : Les juridictions pénales (art. L611-1 à L650-5)](#84)
-      - [Titre I : Les juridictions d'instruction de droit commun (art. L611-1 à L612-1)](#85)
-        - [Chapitre I : Le juge d'instruction. (art. L611-1)](#86)
-        - [Chapitre II : La chambre de l'instruction. (art. L612-1)](#87)
-      - [Titre II : Les juridictions de jugement de droit commun (art. L621-1 à L624-1)](#88)
-        - [Chapitre Ier : La cour d'assises. (art. L621-1)](#89)
-        - [Chapitre II : Le tribunal correctionnel. (art. L622-1)](#90)
-        - [Chapitre III : Le tribunal de police. (art. L623-1 à L623-2)](#91)
-        - [Chapitre IV : La juridiction d'appel. (art. L624-1)](#92)
-      - [Titre III : Les juridictions pénales spécialisées. (art. L630-1 à L630-3)](#93)
-      - [Titre IV : Le juge des libertés et de la détention (art. L640-1 à L640-2)](#94)
-      - [Titre V : Les juridictions spécialisées prévues par les articles 704, 706-2 et 706-75 du code de procédure pénale. (art. L650-1 à L650-5)](#95)
-    - [Livre VII : Dispositions communes à plusieurs juridictions (art. L710-1 à L781-1)](#96)
-      - [Titre Ier : L'année judiciaire. (art. L710-1)](#97)
-      - [Titre X : Les audiences foraines. (art. L7-10-1-1)](#98)
-      - [Titre XII : Maisons de justice et du droit. (art. L7-12-1-1 à L7-12-1-3)](#99)
-      - [Titre III : Récusation et renvoi (art. L731-1 à L732-1)](#100)
-        - [Chapitre Ier : Dispositions générales. (art. L731-1 à L731-4)](#101)
-        - [Chapitre II : Dispositions particulières au conseil de prud'hommes. (art. L732-1)](#102)
-      - [Titre V : Dispositions générales relatives au ministère public. (art. L751-1 à L751-2)](#103)
-      - [Titre VIII : Responsabilité du fait du fonctionnement défectueux du service de la justice. (art. L781-1)](#104)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. L811-1 à L882-2)](#105)
-      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun. (art. L811-1 à L811-2)](#106)
-      - [Titre II : Le greffe du tribunal de commerce (art. L821-1 à L822-8)](#107)
-        - [Chapitre Ier : Dispositions générales. (art. L821-1 à L821-4)](#108)
-        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce. (art. L822-1 à L822-8)](#109)
-      - [Titre III : Le secrétariat-greffe du conseil de prud'hommes. (art. L831-1)](#110)
-      - [Titre VII : Dispositions particulières au greffe des juridictions des mineurs. (art. L871-1 à L871-2)](#111)
-      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. L881-1 à L882-2)](#112)
-        - [Chapitre Ier : Les greffes des juridictions pénales de droit commun. (art. L881-1 à L881-5)](#113)
-        - [Chapitre II : Les greffes des juridictions pénales spécialisées. (art. L882-1 à L882-2)](#114)
-    - [Livre IX : Dispositions particulières (art. L911-1 à L952-14)](#115)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L911-1 à L914-2)](#116)
-        - [Chapitre Ier : Le tribunal d'instance. (art. L911-1 à L911-4)](#117)
-        - [Chapitre II : Le tribunal de grande instance (art. L912-1)](#118)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. L913-1 à L913-4)](#119)
-        - [Chapitre IV : Les conseils de prud'hommes. (art. L914-1 à L914-2)](#120)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L921-1 à L921-11)](#121)
-        - [Chapitre Ier : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. L921-1 à L921-11)](#122)
-          - [Section III : Le tribunal mixte de commerce (art. L921-5 à L921-9)](#123)
-          - [Section IV : Les juridictions pénales (art. L921-11)](#124)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon *DOM* (art. L921-3 à L922-1)](#125)
-        - [Chapitre Ier : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. L921-3 à L921-4)](#126)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. L921-3)](#127)
-          - [Section III : Le tribunal mixte de commerce (art. L921-4)](#128)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. L922-1)](#129)
-      - [Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie (art. L931-1 à L935-1)](#130)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. L931-1 à L931-18)](#131)
-          - [Section I : La cour d'appel. (art. L931-2 à L931-4)](#132)
-          - [Section II : Le tribunal de première instance (art. L931-5 à L931-12)](#133)
-          - [Section III : Les juridictions des mineurs. (art. L931-13)](#134)
-          - [Section IV : La cour d'assises. (art. L931-14 à L931-15)](#135)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. L931-16)](#136)
-          - [Section VI : Les secrétariats-greffes des juridictions. (art. L931-17 à L931-18)](#137)
-        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. L932-1 à L932-46)](#138)
-          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. L932-1 à L932-9)](#139)
-          - [Section I bis : La juridiction de proximité (art. L932-9-1)](#140)
-          - [Section 2 : Le tribunal du travail (art. L932-10 à L932-22)](#141)
-            - [Sous-section 1 : Institution et compétence (art. L932-10 à L932-10-1)](#142)
-            - [Sous-section 2 : Organisation et fonctionnement (art. L932-11 à L932-13)](#143)
-            - [Sous-section 3 : Statut des assesseurs (art. L932-14 à L932-22)](#144)
-          - [Section III : Le tribunal mixte de commerce (art. L932-23 à L932-43)](#145)
-            - [Sous-section I : Institution et compétence. (art. L932-23 à L932-25)](#146)
-            - [Sous-section II : Organisation et fonctionnement. (art. L932-26 à L932-28)](#147)
-            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. L932-29 à L932-42)](#148)
-              - [I : Electorat. (art. L932-29 à L932-30)](#149)
-              - [II : Eligibilité. (art. L932-31 à L932-33)](#150)
-              - [III : Scrutin et opérations électorales. (art. L932-34 à L932-42)](#151)
-            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. L932-43)](#152)
-          - [Section IV : Les juridictions des mineurs. (art. L932-44 à L932-46)](#153)
-        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. L933-1 à L933-11)](#154)
-        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. L934-1 à L934-9)](#155)
-          - [Section I : La cour d'appel. (art. L934-1)](#156)
-          - [Section II : Le tribunal de première instance. (art. L934-2 à L934-8)](#157)
-          - [Section II bis : La juridiction de proximité (art. L934-8-1)](#158)
-          - [Section III : Les juridictions des mineurs. (art. L934-9)](#159)
-        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. L935-1)](#160)
-      - [Titre IV : Dispositions particulières à Mayotte (art. L941-1 à L946-2)](#161)
-        - [Chapitre Ier : Dispositions générales. (art. L941-1 à L941-2)](#162)
-        - [Chapitre II : Le tribunal supérieur d'appel. (art. L942-1 à L942-21)](#163)
-        - [Chapitre III : Le tribunal de première instance. (art. L943-1 à L943-12)](#164)
-        - [Chapitre III bis : La juridiction de proximité (art. L943-12-1)](#165)
-        - [Chapitre IV : Les juridictions des mineurs. (art. L944-1 à L944-3)](#166)
-        - [Chapitre V : La cour criminelle. (art. L945-1 à L945-2)](#167)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. L946-1 à L946-2)](#168)
-      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L951-1 à L952-14)](#169)
-        - [Chapitre Ier : Des fonctions judiciaires (art. L951-1 à L951-4)](#170)
-        - [Chapitre II : Des juridictions (art. L952-1 à L952-14)](#171)
-          - [Section I : Dispositions communes (art. L952-1 à L952-3)](#172)
-          - [Section II : Le tribunal de première instance (art. L952-4 à L952-8)](#173)
-            - [Sous-section I : Compétence. (art. L952-4)](#174)
-            - [Sous-section II : Organisation et fonctionnement (art. L952-5 à L952-8)](#175)
-          - [Section III : Le tribunal supérieur d'appel (art. L952-9 à L952-14)](#176)
-            - [Sous-section II : Organisation et fonctionnement. (art. L952-9 à L952-14)](#177)
-  - [Partie réglementaire ancienne - Décrets en Conseil d'Etat (art. R*121-1 à R952-10)](#178)
-    - [Livre Ier : La Cour de cassation (art. R*121-1 à R151-1)](#179)
-      - [Titre II : Organisation (art. R*121-1 à R*121-7)](#180)
-      - [Titre III : Fonctionnement (art. R*131-1 à R*132-4)](#181)
-        - [Chapitre Ier : Le service des chambres de la Cour (art. R*131-1 à R*131-20)](#182)
-        - [Chapitre II : Le ministère public (art. R*132-1 à R*132-4)](#183)
-      - [Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation (art. R*141-1 à R142-1)](#184)
-        - [Chapitre Ier : La commission nationale d'indemnisation en matière de détention provisoire (art. R*141-1)](#185)
-        - [Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale (art. R142-1)](#186)
-      - [Titre V : Saisine pour avis de la Cour de cassation. (art. R151-1)](#187)
-    - [Livre II : La cour d'appel (art. R*211-1 à R*231-1)](#188)
-      - [Titre Ier : Dispositions générales (art. R*211-1 à R*213-30)](#189)
-        - [Chapitre Ier : Institution et compétence (art. R*211-1 à R*211-2)](#190)
-        - [Chapitre II : Organisation (art. R*212-1 à R*212-8)](#191)
-        - [Chapitre III : Fonctionnement (art. R*213-2 à R*213-30)](#192)
-          - [Section I : Dispositions générales relatives au service des chambres de la cour (art. R*213-2 à R213-1)](#193)
-          - [Section II : Dispositions relatives aux assemblées générales (art. R*213-13)](#194)
-          - [Section III : Le ministère public (art. R*213-21 à R213-26)](#195)
-          - [Section IV : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort (art. R*213-29 à R*213-30)](#196)
-      - [Titre II : Dispositions particulières à certaines matières (art. R*221-1 à R*226-1)](#197)
-        - [Chapitre Ier : Dispositions particulières en matière sociale (art. R*221-1)](#198)
-        - [Chapitre II : Dispositions particulières en matière d'expropriation (art. R222-1)](#199)
-        - [Chapitre V : Dispositions particulières aux professions juridiques et judiciaires (art. R225-1 à R225-4)](#200)
-          - [Section I : Dispositions particulières aux avocats (art. R225-1)](#201)
-          - [Section II : Dispositions particulières aux experts judiciaires (art. R*225-2 à R*225-3)](#202)
-          - [Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires (art. R225-4)](#203)
-        - [Chapitre VI : Dispositions particulières relatives à l'application des peines (art. R*226-1)](#204)
-      - [Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels (art. R*231-1)](#205)
-    - [Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité (art. R*311-1 à R*331-6)](#206)
-      - [Titre Ier : Le tribunal de grande instance (art. R*311-1 à R*312-11)](#207)
-        - [Chapitre Ier : Dispositions générales (art. R*311-1 à R*311-42)](#208)
-          - [Section I : Institution et compétence (art. R*311-1 à R*311-6)](#209)
-          - [Section II : Organisation (art. R*311-7 à R311-11)](#210)
-          - [Section III : Fonctionnement (art. R*311-14 à R*311-38-1)](#211)
-            - [Sous-section I : Dispositions relatives au service des chambres du tribunal (art. R*311-14 à R311-21)](#212)
-            - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état, au juge de l'exécution et au juge aux affaires familiales. (art. R311-29-1 à R311-29-3)](#213)
-            - [Sous-section III : Dispositions relatives aux assemblées générales (art. R311-30)](#214)
-            - [Sous-section IV : Le ministère public (art. R*311-34 à R*311-37)](#215)
-            - [Sous-section V : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des tribunaux d'instance de leur ressort (art. R*311-38)](#216)
-            - [Sous-section VI : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des juridictions de proximité de leur ressort (art. R*311-38-1)](#217)
-          - [Section IV : Dispositions relatives à la présidence et au service des chambres détachées des tribunaux de grande instance (art. R*311-39 à R*311-42)](#218)
-        - [Chapitre II : Dispositions particulières à certaines matières (art. R312-1 à R*312-11)](#219)
-          - [Section I : Dispositions particulières en matière familiale. (art. R312-1 à R312-1-1)](#220)
-          - [Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales. (art. R*312-2 à R*312-2-1)](#221)
-          - [Section III : Dispositions particulières en matière de baux commerciaux (art. R*312-3)](#222)
-          - [Section IV : Dispositions particulières relatives à l'informatique, aux fichiers et aux libertés. (art. R*312-4)](#223)
-          - [Section V : Dispositions particulières en matière commerciale (art. R*312-5)](#224)
-          - [Section VI : Dispositions particulières à la saisie immobilière (art. R312-6)](#225)
-          - [Section VII : Dispositions particulières à l'application des peines (art. R*312-7 à R*312-8)](#226)
-          - [Section VIII : Dispositions particulières en matière de nationalité. (art. R*312-9)](#227)
-          - [Section IX : Dispositions particulières en matière de marque communautaire (art. R*312-10)](#228)
-          - [Section X : Dispositions particulières en matière de pollution des eaux de mer par les rejets des navires (art. R*312-11)](#229)
-      - [Titre II : Le tribunal d'instance (art. R*321-3 à R323-2)](#230)
-        - [Chapitre Ier : Dispositions générales (art. R*321-3 à R*321-45)](#231)
-          - [Section I : Institution et compétence (art. R*321-3 à R*321-30-1)](#232)
-            - [Sous-section I : Compétence d'attribution (art. R*321-3 à R*321-23)](#233)
-            - [Sous-section II : Compétence territoriale (art. R*321-24 à R*321-30-1)](#234)
-          - [Section II : Organisation (art. R*321-31)](#235)
-          - [Section III : Fonctionnement (art. R*321-33 à R*321-45)](#236)
-        - [Chapitre II : Dispositions particulières à la tutelle (art. R*322-1)](#237)
-        - [Chapitre III : Attributions non juridictionnelles (art. R*323-3 à R323-2)](#238)
-      - [Titre III : La juridiction de proximité (art. R*331-1 à R*331-6)](#239)
-        - [Chapitre unique : Dispositions générales (art. R*331-1 à R*331-6)](#240)
-          - [Section I : Institution et compétence (art. R*331-1 à R*331-3)](#241)
-            - [Sous-section I : Compétence d'attribution (art. R*331-1 à R*331-2)](#242)
-            - [Sous-section II : Compétence territoriale (art. R*331-3)](#243)
-          - [Section II : Organisation (art. R*331-4 à R*331-6)](#244)
-    - [Livre IV : Les juridictions spécialisées non pénales (art. R*411-1 à R*461-1)](#245)
-      - [Titre I : Le tribunal de commerce (art. R*411-1 à R414-21)](#246)
-        - [Chapitre I : Institution et compétence (art. R*411-1 à R*411-4)](#247)
-        - [Chapitre II : Organisation et fonctionnement. (art. R412-1 à R412-20)](#248)
-        - [Chapitre III : Election des juges des tribunaux de commerce (art. R413-1 à R413-24)](#249)
-          - [Section I : Electorat. (art. R413-1 à R413-4)](#250)
-          - [Section III : Scrutin et opérations électorales. (art. R413-5 à R413-24)](#251)
-            - [Sous-section I : Candidatures (art. R413-5)](#252)
-            - [Sous-section II : Opérations préalables au scrutin (art. R413-6 à R413-7)](#253)
-            - [Sous-section III : Vote par correspondance (art. R413-8 à R413-10)](#254)
-            - [Sous-section IV : Vote électronique (art. R413-11 à R413-13)](#255)
-            - [Sous-section V : Fichiers (art. R413-14 à R413-15)](#256)
-            - [Sous-section VI : Proclamation des résultats et contentieux de l'élection des juges consulaires (art. R413-16 à R413-24)](#257)
-        - [Chapitre IV : Discipline des membres des tribunaux de commerce. (art. R414-1 à R414-21)](#258)
-      - [Titre II : Le conseil de prud'hommes (art. R421-1 à R424-1)](#259)
-        - [Chapitre Ier : Attributions et institution (art. R421-1)](#260)
-        - [Chapitre II : Organisation et fonctionnement (art. R422-1)](#261)
-        - [Chapitre III : Election des conseillers prud'hommes (art. R423-1)](#262)
-        - [Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé (art. R424-1)](#263)
-      - [Titre III : Le juge de l'expropriation (art. R432-1)](#264)
-        - [Chapitre II : Organisation et fonctionnement (art. R432-1)](#265)
-      - [Titre IV : Le tribunal paritaire des baux ruraux (art. R442-1)](#266)
-        - [Chapitre II : Constitution des tribunaux paritaires. (art. R442-1)](#267)
-      - [Titre V : Les juridictions de sécurité sociale (art. R*450-1)](#268)
-      - [Titre VI : Les prud'hommes pêcheurs (art. R*461-1)](#269)
-    - [Livre V : Les juridictions des mineurs (art. R*522-2 à R531-1)](#270)
-      - [Titre II : Le tribunal pour enfants (art. R*522-2 à R522-1)](#271)
-        - [Chapitre II : Organisation et fonctionnement (art. R*522-2 à R522-1)](#272)
-      - [Titre III : Le juge des enfants (art. R531-1)](#273)
-        - [Chapitre Ier : Institution et compétence (art. R531-1)](#274)
-    - [Livre VI : Les juridictions pénales (art. R611-1 à R633-1)](#275)
-      - [Titre Ier : Les juridictions d'instruction de droit commun (art. R611-1 à R612-1)](#276)
-        - [Chapitre Ier : Le juge d'instruction (art. R611-1)](#277)
-        - [Chapitre II : La chambre de l'instruction (art. R612-1)](#278)
-      - [Titre II : Les juridictions de jugement de droit commun (art. R621-1 à R*623-1)](#279)
-        - [Chapitre Ier : La cour d'assises (art. R621-1)](#280)
-        - [Chapitre III : Le tribunal de police (art. R*623-1)](#281)
-      - [Titre III : Les juridictions pénales spécialisées (art. R632-1 à R633-1)](#282)
-        - [Chapitre II : Les juridictions des forces armées (art. R632-1 à R632-3)](#283)
-          - [Section I : Des tribunaux territoriaux des forces armées (art. R632-1)](#284)
-          - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#285)
-          - [Section III : Des tribunaux prévôtaux (art. R632-3)](#286)
-        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#287)
-    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*711-1 à R*7-12-1-10)](#288)
-      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#289)
-      - [Titre II : Incompatibilités (art. R*721-1 à R*721-4)](#290)
-      - [Titre III : Récusation et renvoi (art. R731-1)](#291)
-      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#292)
-      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#293)
-      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#294)
-        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#295)
-          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#296)
-          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#297)
-            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#298)
-            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#299)
-            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#300)
-          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#301)
-          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#302)
-          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#303)
-            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#304)
-            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#305)
-        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité (art. R*762-1 à R*762-11)](#306)
-          - [Section I : Le tribunal d'instance (art. R*762-1 à R*762-8)](#307)
-          - [Section II : La juridiction de proximité (art. R*762-9 à R*762-11)](#308)
-        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#309)
-      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#310)
-      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#311)
-      - [Titre X : Audiences foraines et transfert provisoire du siège (art. R*7-10-1-1 à R*7-10-1-2)](#312)
-      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#313)
-      - [Titre XII : Maisons de justice et du droit (art. R*7-12-1-1 à R*7-12-1-10)](#314)
-    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#315)
-      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#316)
-        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-7)](#317)
-        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#318)
-        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#319)
-        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#320)
-      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R822-19)](#321)
-        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-26)](#322)
-        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce (art. R822-1 à R822-19)](#323)
-          - [Section I : La procédure disciplinaire (art. R822-1 à R822-6-3)](#324)
-            - [Sous-section I : L'enquête disciplinaire. (art. R822-1 à R822-1-1)](#325)
-            - [Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce. (art. R822-2 à R822-5)](#326)
-            - [Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement. (art. R822-6 à R822-6-3)](#327)
-          - [Section II : L'exécution des peines disciplinaires ; l'administration provisoire. (art. R822-7 à R822-12)](#328)
-          - [Section III : La suspension provisoire. (art. R822-13 à R822-15)](#329)
-          - [Section IV : Les voies de recours. (art. R822-16 à R822-18)](#330)
-          - [Section V : Dispositions communes. (art. R822-19)](#331)
-      - [Titre III : Le secrétariat-greffe du conseil de prud'hommes (art. R*831-1)](#332)
-      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#333)
-      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#334)
-      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#335)
-        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#336)
-    - [Livre IX : Dispositions particulières (art. R*911-1 à R952-10)](#337)
-      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#338)
-        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#339)
-          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#340)
-          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#341)
-        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-5)](#342)
-        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#343)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R*923-2)](#344)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-2 à R*921-14)](#345)
-          - [Section I : La cour d'appel (art. R*921-2 à R*921-3)](#346)
-          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#347)
-          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#348)
-        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#349)
-        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#350)
-      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#351)
-        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#352)
-          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#353)
-      - [Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer (art. R931-1 à R935-3)](#354)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#355)
-          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#356)
-          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#357)
-            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-4)](#358)
-            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#359)
-          - [Section III : Les juridictions des mineurs. (art. R931-15)](#360)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#361)
-          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#362)
-        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. R932-1 à R932-27)](#363)
-          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#364)
-          - [Section II : Le tribunal du travail. (art. R932-10)](#365)
-          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#366)
-            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12-1)](#367)
-            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#368)
-            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#369)
-              - [I : Electorat. (art. R932-14 à R932-16)](#370)
-              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#371)
-            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#372)
-          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#373)
-          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#374)
-        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. R933-1 à R933-8)](#375)
-        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#376)
-          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#377)
-        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1 à R935-3)](#378)
-      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-6)](#379)
-        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#380)
-        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#381)
-          - [Section I : Organisation. (art. R942-1 à R942-3)](#382)
-          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#383)
-            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#384)
-            - [Sous-section II : Le ministère public. (art. R942-8)](#385)
-            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19-1)](#386)
-            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#387)
-        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-20)](#388)
-          - [Section I : Institution et compétence. (art. R943-1 à R943-3-1)](#389)
-          - [Section II : Organisation. (art. R943-4 à R943-6)](#390)
-          - [Section III : Fonctionnement (art. R943-7 à R943-20)](#391)
-            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#392)
-            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17-1)](#393)
-            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#394)
-            - [Sous-section IV : Le ministère public (art. R943-20)](#395)
-        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#396)
-        - [Chapitre V : La cour criminelle. (art. R945-1)](#397)
-        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-6)](#398)
-      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#399)
-        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#400)
-        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#401)
-          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#402)
-            - [Sous-section I : Dispositions générales. (art. R952-1)](#403)
-            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#404)
-          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#405)
-            - [Sous-section I : Compétence. (art. R952-5 à R952-6-1)](#406)
-            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#407)
-          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#408)
-  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#409)
-# Partie législative ancienne<a id=1></a>
+  - [Partie législative (art. L111-1 à L563-1)](#1)
+    - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-2)](#2)
+      - [TITRE Ier : PRINCIPES GÉNÉRAUX (art. L111-1 à L111-11)](#3)
+        - [Chapitre unique (art. L111-1 à L111-11)](#4)
+      - [TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT (art. L121-1 à L123-2)](#5)
+        - [Chapitre Ier : Les juges (art. L121-1 à L121-4)](#6)
+          - [Section 1 : Composition des juridictions (art. L121-1 à L121-2)](#7)
+          - [Section 2 : Le service juridictionnel (art. L121-3 à L121-4)](#8)
+        - [Chapitre II : Le ministère public (art. L122-1 à L122-4)](#9)
+          - [Section 1 : Organisation (art. L122-1 à L122-3)](#10)
+          - [Section 2 : Fonctionnement (art. L122-4)](#11)
+        - [Chapitre III : Le greffe (art. L123-1 à L123-2)](#12)
+      - [TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE (art. L141-1 à L141-2)](#13)
+        - [Chapitre unique (art. L141-1 à L141-2)](#14)
+    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#15)
+      - [TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE (art. L211-1 à L215-2)](#16)
+        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-12)](#17)
+          - [Section 1 : Compétence matérielle (art. L211-3 à L211-12)](#18)
+            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. L211-3 à L211-9)](#19)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. L211-10 à L211-12)](#20)
+        - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-6)](#21)
+          - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5)](#22)
+          - [Section 2 : Le parquet (art. L212-6)](#23)
+        - [Chapitre III : Fonctions particulières (art. L213-1 à L213-11)](#24)
+          - [Section 1 : Fonctions particulières exercées en matière civile (art. L213-1 à L213-8)](#25)
+            - [Sous-section 1 : Le président du tribunal de grande instance (art. L213-1 à L213-2)](#26)
+            - [Sous-section 3 : Le juge aux affaires familiales (art. L213-3 à L213-4)](#27)
+            - [Sous-section 4 : Le juge de l'exécution (art. L213-5 à L213-7)](#28)
+            - [Sous-section 5 : Le juge des libertés et de la détention (art. L213-8)](#29)
+          - [Section 2 : Fonctions particulières exercées en matière pénale (art. L213-9 à L213-11)](#30)
+        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. L214-1 à L214-2)](#31)
+        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L215-1 à L215-2)](#32)
+      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. L221-1 à L223-7)](#33)
+        - [Chapitre Ier : Institution et compétence (art. L221-1 à L221-10)](#34)
+          - [Section 1 : Compétence matérielle (art. L221-4 à L221-10)](#35)
+            - [Sous-section 1 : Compétence civile du tribunal d'instance (art. L221-4 à L221-5)](#36)
+            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. L221-6 à L221-8)](#37)
+            - [Sous-section 3 : Compétence du juge des tutelles (art. L221-9)](#38)
+            - [Sous-section 4 : Compétence du tribunal de police (art. L221-10)](#39)
+        - [Chapitre II : Organisation et fonctionnement (art. L222-1 à L222-3)](#40)
+          - [Section 1 : Le service juridictionnel (art. L222-1 à L222-2)](#41)
+          - [Section 2 : Le ministère public (art. L222-3)](#42)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L223-1 à L223-7)](#43)
+      - [TITRE III : LA JURIDICTION DE PROXIMITÉ (art. L231-1 à L232-3)](#44)
+        - [Chapitre Ier : Institution et compétence (art. L231-1 à L231-6)](#45)
+          - [Section 1 : Compétence civile (art. L231-3 à L231-5)](#46)
+          - [Section 2 : Compétence pénale (art. L231-6)](#47)
+        - [Chapitre II : Organisation et fonctionnement (art. L232-1 à L232-3)](#48)
+          - [Section 1 : Le service juridictionnel (art. L232-1 à L232-2)](#49)
+          - [Section 2 : Le ministère public (art. L232-3)](#50)
+      - [TITRE IV : LA COUR D'ASSISES (art. L241-1)](#51)
+        - [Chapitre unique (art. L241-1)](#52)
+      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. L251-1 à L254-1)](#53)
+        - [Chapitre Ier : Le tribunal pour enfants (art. L251-1 à L251-6)](#54)
+          - [Section 1 : Institution et compétence (art. L251-1 à L251-2)](#55)
+          - [Section 2 : Organisation et fonctionnement (art. L251-3 à L251-6)](#56)
+        - [Chapitre II : Le juge des enfants (art. L252-1 à L252-5)](#57)
+        - [Chapitre IV : La cour d'assises des mineurs (art. L254-1)](#58)
+      - [TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION (art. L261-1)](#59)
+        - [Chapitre unique (art. L261-1)](#60)
+    - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ (art. L311-1 à L331-1)](#61)
+      - [TITRE Ier : LA COUR D'APPEL (art. L311-1 à L313-2)](#62)
+        - [Chapitre Ier : Compétence (art. L311-1 à L311-14)](#63)
+          - [Section 1 : Dispositions générales (art. L311-1)](#64)
+          - [Section 2 : Dispositions particulières (art. L311-2 à L311-6)](#65)
+          - [Section 3 : Dispositions relatives au premier président (art. L311-7)](#66)
+          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. L311-8 à L311-9)](#67)
+          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. L311-10 à L311-14)](#68)
+        - [Chapitre II : Organisation et fonctionnement (art. L312-1 à L312-7)](#69)
+          - [Section 1 : Les formations de la cour d'appel (art. L312-1 à L312-6)](#70)
+            - [Sous-section 1 : Dispositions générales (art. L312-1 à L312-3)](#71)
+            - [Sous-section 2 : Dispositions particulières à certaines formations (art. L312-4 à L312-6)](#72)
+          - [Section 2 : Le parquet général (art. L312-7)](#73)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L313-1 à L313-2)](#74)
+      - [TITRE II : LA COUR D'ASSISES STATUANT EN APPEL (art. L321-1)](#75)
+        - [Chapitre unique (art. L321-1)](#76)
+      - [TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL (art. L331-1)](#77)
+        - [Chapitre unique (art. L331-1)](#78)
+    - [LIVRE IV : LA COUR DE CASSATION (art. L411-1 à L451-2)](#79)
+      - [TITRE Ier : INSTITUTION ET COMPÉTENCE (art. L411-1 à L411-4)](#80)
+        - [Chapitre unique (art. L411-1 à L411-4)](#81)
+      - [TITRE II : ORGANISATION (art. L421-1 à L421-8)](#82)
+        - [Chapitre unique (art. L421-1 à L421-8)](#83)
+      - [TITRE III : FONCTIONNEMENT (art. L431-1 à L432-5)](#84)
+        - [Chapitre Ier : Les chambres de la cour (art. L431-1 à L431-10)](#85)
+          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#86)
+          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. L431-5 à L431-10)](#87)
+        - [Chapitre II : Le parquet général (art. L432-1 à L432-5)](#88)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION (art. L441-1 à L441-4)](#89)
+        - [Chapitre unique (art. L441-1 à L441-4)](#90)
+      - [TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION (art. L451-1 à L451-2)](#91)
+        - [Chapitre unique (art. L451-1 à L451-2)](#92)
+    - [LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À MAYOTTE, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES, À LA POLYNÉSIE FRANçAISE ET À LA NOUVELLE-CALÉDONIE (art. L511-1 à L563-1)](#93)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L511-1 à L513-11)](#94)
+        - [Chapitre Ier : Dispositions générales (art. L511-1)](#95)
+        - [Chapitre II : Des fonctions judiciaires (art. L512-1 à L512-4)](#96)
+        - [Chapitre III : Des juridictions (art. L513-1 à L513-11)](#97)
+          - [Section 1 : Le tribunal de première instance (art. L513-1 à L513-5)](#98)
+          - [Section 2 : Le tribunal supérieur d'appel (art. L513-6 à L513-11)](#99)
+      - [TITRE II : DISPOSITIONS APPLICABLES À MAYOTTE (art. L521-1 à L523-1)](#100)
+        - [Chapitre Ier : Dispositions générales (art. L521-1 à L521-2)](#101)
+        - [Chapitre II : Des juridictions (art. L522-1 à L522-36)](#102)
+          - [Section 1 : Le tribunal de première instance (art. L522-1 à L522-10)](#103)
+          - [Section 2 : Le tribunal supérieur d'appel (art. L522-11 à L522-27)](#104)
+          - [Section 3 : La juridiction de proximité (art. L522-28 à L522-32)](#105)
+          - [Section 4 : Les juridictions des mineurs (art. L522-33 à L522-34)](#106)
+          - [Section 5 : La cour criminelle (art. L522-35 à L522-36)](#107)
+        - [Chapitre III : Du greffe (art. L523-1)](#108)
+      - [TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA (art. L531-1 à L533-1)](#109)
+        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#110)
+        - [Chapitre II : Des juridictions (art. L532-1 à L532-28)](#111)
+          - [Section 1 : Le tribunal de première instance (art. L532-1 à L532-18)](#112)
+          - [Section 2 : La juridiction de proximité (art. L532-19 à L532-24)](#113)
+          - [Section 3 : Les juridictions des mineurs (art. L532-25 à L532-26)](#114)
+          - [Section 4 : La cour d'assises (art. L532-27 à L532-28)](#115)
+        - [Chapitre III : Du greffe (art. L533-1)](#116)
+      - [TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE (art. L551-1 à L553-1)](#117)
+        - [Chapitre Ier : Dispositions générales (art. L551-1 à L551-2)](#118)
+        - [Chapitre II : Des juridictions (art. L552-1 à L552-21)](#119)
+          - [Section 1 : Le tribunal de première instance (art. L552-1 à L552-9)](#120)
+          - [Section 2 : La cour d'appel (art. L552-10 à L552-12)](#121)
+          - [Section 3 : La juridiction de proximité (art. L552-13 à L552-18)](#122)
+          - [Section 4 : Les juridictions des mineurs (art. L552-19)](#123)
+          - [Section 5 : La cour d'assises (art. L552-20 à L552-21)](#124)
+        - [Chapitre III : Du greffe (art. L553-1)](#125)
+      - [TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE (art. L561-1 à L563-1)](#126)
+        - [Chapitre Ier : Dispositions générales (art. L561-1 à L561-2)](#127)
+        - [Chapitre II : Des juridictions (art. L562-1 à L562-37)](#128)
+          - [Section 1 : Le tribunal de première instance (art. L562-1 à L562-24)](#129)
+          - [Section 2 : La cour d'appel (art. L562-25 à L562-28)](#130)
+          - [Section 3 : La juridiction de proximité (art. L562-29 à L562-34)](#131)
+          - [Section 4 : Les juridictions des mineurs (art. L562-35)](#132)
+          - [Section 5 : La cour d'assises (art. L562-36 à L562-37)](#133)
+        - [Chapitre III : Du greffe (art. L563-1)](#134)
+  - [Partie législative ancienne (art. L121-1 à L952-11)](#135)
+    - [Livre Ier : La Cour de cassation (art. L121-1 à L151-2)](#136)
+      - [Titre II : Organisation. (art. L121-1 à L121-4)](#137)
+      - [Titre III : Fonctionnement (art. L131-1 à L131-7)](#138)
+        - [Chapitre Ier : Le service des chambres de la Cour. (art. L131-1 à L131-7)](#139)
+      - [Titre V : Saisine pour avis de la Cour de cassation. (art. L151-1 à L151-2)](#140)
+    - [Livre II : La cour d'appel (art. L212-1 à L226-1)](#141)
+      - [Titre Ier : Dispositions générales (art. L212-1)](#142)
+        - [Chapitre II : Organisation. (art. L212-1)](#143)
+      - [Titre II : Dispositions particulières à certaines matières (art. L221-1 à L226-1)](#144)
+        - [Chapitre I : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort. (art. L221-1 à L221-3)](#145)
+        - [Chapitre III : Dispositions particulières à la protection de l'enfance. (art. L223-1 à L223-2)](#146)
+        - [Chapitre V : Dispositions particulières aux professions juridiques et judiciaires (art. L225-3)](#147)
+          - [Section II : Dispositions particulières aux experts judiciaires. (art. L225-3)](#148)
+        - [Chapitre VI : Dispositions particulières aux aspects civils de l'enlèvement international d'enfants (art. L226-1)](#149)
+    - [Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité (art. L311-5 à L331-8)](#150)
+      - [Titre Ier : Le tribunal de grande instance (art. L311-5 à L312-2)](#151)
+        - [Chapitre Ier : Dispositions générales (art. L311-5 à L311-18)](#152)
+          - [Section II : Organisation. (art. L311-5)](#153)
+          - [Section III : Fonctionnement (art. L311-8 à L311-13)](#154)
+            - [Sous-section I : Dispositions relatives au service des chambres du tribunal. (art. L311-8)](#155)
+            - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution. (art. L311-10 à L311-13)](#156)
+          - [Section IV : Les chambres détachées. (art. L311-16 à L311-18)](#157)
+        - [Chapitre II : Dispositions particulières à certaines matières (art. L312-1 à L312-2)](#158)
+          - [Section I : Dispositions particulières en matière familiale. (art. L312-1 à L312-1-1)](#159)
+          - [Section II : Dispositions particulières en matière de brevets d'invention et d'obtentions végétales. (art. L312-2)](#160)
+      - [Titre II : Le tribunal d'instance (art. L321-2 à L323-1)](#161)
+        - [Chapitre Ier : Dispositions générales (art. L321-2 à L321-3)](#162)
+          - [Section I : Institution et compétence. (art. L321-2 à L321-2-3)](#163)
+          - [Section II : Organisation. (art. L321-3)](#164)
+        - [Chapitre III : Attributions non juridictionnelles. (art. L323-1)](#165)
+      - [Titre III : La juridiction de proximité (art. L331-2 à L331-8)](#166)
+        - [Chapitre unique : Dispositions générales (art. L331-2 à L331-8)](#167)
+          - [Section I : Institution, compétence et fonctionnement (art. L331-2 à L331-2-1)](#168)
+          - [Section II : Organisation (art. L331-6 à L331-8)](#169)
+    - [Livre IV : Les juridictions spécialisées non pénales (art. L411-1 à L443-5)](#170)
+      - [Titre I : Le tribunal de commerce (art. L411-1 à L413-11)](#171)
+        - [Chapitre Ier : Institution et compétence. (art. L411-1)](#172)
+        - [Chapitre II : Organisation et fonctionnement. (art. L412-12)](#173)
+        - [Chapitre III : Election des juges des tribunaux de commerce (art. L413-6 à L413-11)](#174)
+          - [Section III : Scrutin et opérations électorales. (art. L413-6 à L413-11)](#175)
+      - [Titre IV : Le tribunal paritaire de baux ruraux (art. L441-2 à L443-5)](#176)
+        - [Chapitre Ier : Organisation des tribunaux paritaires. (art. L441-2)](#177)
+        - [Chapitre II : Constitution des tribunaux paritaires. (art. L442-1 à L442-5)](#178)
+        - [Chapitre III : Compétence et procédure. (art. L443-1 à L443-5)](#179)
+    - [Livre V : Les juridictions des mineurs (art. L522-1 à L522-6)](#180)
+      - [Titre II : Le tribunal pour enfants (art. L522-1 à L522-6)](#181)
+        - [Chapitre II : Organisation et fonctionnement. (art. L522-1 à L522-6)](#182)
+    - [Livre VI : Les juridictions pénales (art. L623-2)](#183)
+      - [Titre II : Les juridictions de jugement de droit commun (art. L623-2)](#184)
+        - [Chapitre III : Le tribunal de police. (art. L623-2)](#185)
+    - [Livre VII : Dispositions communes à plusieurs juridictions (art. L710-1 à L7-12-1-3)](#186)
+      - [Titre Ier : L'année judiciaire. (art. L710-1)](#187)
+      - [Titre X : Les audiences foraines. (art. L7-10-1-1)](#188)
+      - [Titre XII : Maisons de justice et du droit. (art. L7-12-1-1 à L7-12-1-3)](#189)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. L811-2 à L871-2)](#190)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun. (art. L811-2)](#191)
+      - [Titre VII : Dispositions particulières au greffe des juridictions des mineurs. (art. L871-2)](#192)
+    - [Livre IX : Dispositions particulières (art. L912-1 à L952-11)](#193)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L912-1)](#194)
+        - [Chapitre II : Le tribunal de grande instance (art. L912-1)](#195)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon *DOM* (art. L922-1)](#196)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. L922-1)](#197)
+      - [Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie (art. L931-2 à L935-1)](#198)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. L931-2 à L931-18)](#199)
+          - [Section I : La cour d'appel. (art. L931-2)](#200)
+          - [Section II : Le tribunal de première instance (art. L931-7 à L931-12)](#201)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. L931-16)](#202)
+          - [Section VI : Les secrétariats-greffes des juridictions. (art. L931-18)](#203)
+        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. L932-1 à L932-46)](#204)
+          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. L932-1 à L932-8)](#205)
+          - [Section 2 : Le tribunal du travail (art. L932-10 à L932-22)](#206)
+            - [Sous-section 1 : Institution et compétence (art. L932-10 à L932-10-1)](#207)
+            - [Sous-section 2 : Organisation et fonctionnement (art. L932-11 à L932-13)](#208)
+            - [Sous-section 3 : Statut des assesseurs (art. L932-14 à L932-22)](#209)
+          - [Section III : Le tribunal mixte de commerce (art. L932-25 à L932-42)](#210)
+            - [Sous-section I : Institution et compétence. (art. L932-25)](#211)
+            - [Sous-section II : Organisation et fonctionnement. (art. L932-28)](#212)
+            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. L932-36 à L932-42)](#213)
+              - [III : Scrutin et opérations électorales. (art. L932-36 à L932-42)](#214)
+          - [Section IV : Les juridictions des mineurs. (art. L932-44 à L932-46)](#215)
+        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. L933-3 à L933-6)](#216)
+        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. L934-1 à L934-5)](#217)
+          - [Section I : La cour d'appel. (art. L934-1)](#218)
+          - [Section II : Le tribunal de première instance. (art. L934-4 à L934-5)](#219)
+        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. L935-1)](#220)
+      - [Titre IV : Dispositions particulières à Mayotte (art. L941-2 à L946-2)](#221)
+        - [Chapitre Ier : Dispositions générales. (art. L941-2)](#222)
+        - [Chapitre II : Le tribunal supérieur d'appel. (art. L942-3 à L942-16)](#223)
+        - [Chapitre III : Le tribunal de première instance. (art. L943-4 à L943-7)](#224)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. L946-2)](#225)
+      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L951-3 à L952-11)](#226)
+        - [Chapitre Ier : Des fonctions judiciaires (art. L951-3 à L951-4)](#227)
+        - [Chapitre II : Des juridictions (art. L952-7 à L952-11)](#228)
+          - [Section II : Le tribunal de première instance (art. L952-7)](#229)
+            - [Sous-section II : Organisation et fonctionnement (art. L952-7)](#230)
+          - [Section III : Le tribunal supérieur d'appel (art. L952-9 à L952-11)](#231)
+            - [Sous-section II : Organisation et fonctionnement. (art. L952-9 à L952-11)](#232)
+  - [Partie réglementaire ancienne - Décrets en Conseil d'Etat (art. R*121-1 à R952-10)](#233)
+    - [Livre Ier : La Cour de cassation (art. R*121-1 à R151-1)](#234)
+      - [Titre II : Organisation (art. R*121-1 à R*121-7)](#235)
+      - [Titre III : Fonctionnement (art. R*131-1 à R*132-4)](#236)
+        - [Chapitre Ier : Le service des chambres de la Cour (art. R*131-1 à R*131-20)](#237)
+        - [Chapitre II : Le ministère public (art. R*132-1 à R*132-4)](#238)
+      - [Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation (art. R*141-1 à R142-1)](#239)
+        - [Chapitre Ier : La commission nationale d'indemnisation en matière de détention provisoire (art. R*141-1)](#240)
+        - [Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale (art. R142-1)](#241)
+      - [Titre V : Saisine pour avis de la Cour de cassation. (art. R151-1)](#242)
+    - [Livre II : La cour d'appel (art. R*211-1 à R*231-1)](#243)
+      - [Titre Ier : Dispositions générales (art. R*211-1 à R*213-30)](#244)
+        - [Chapitre Ier : Institution et compétence (art. R*211-1 à R*211-2)](#245)
+        - [Chapitre II : Organisation (art. R*212-1 à R*212-8)](#246)
+        - [Chapitre III : Fonctionnement (art. R*213-2 à R*213-30)](#247)
+          - [Section I : Dispositions générales relatives au service des chambres de la cour (art. R*213-2 à R213-1)](#248)
+          - [Section II : Dispositions relatives aux assemblées générales (art. R*213-13)](#249)
+          - [Section III : Le ministère public (art. R*213-21 à R213-26)](#250)
+          - [Section IV : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort (art. R*213-29 à R*213-30)](#251)
+      - [Titre II : Dispositions particulières à certaines matières (art. R*221-1 à R*226-1)](#252)
+        - [Chapitre Ier : Dispositions particulières en matière sociale (art. R*221-1)](#253)
+        - [Chapitre II : Dispositions particulières en matière d'expropriation (art. R222-1)](#254)
+        - [Chapitre V : Dispositions particulières aux professions juridiques et judiciaires (art. R225-1 à R225-4)](#255)
+          - [Section I : Dispositions particulières aux avocats (art. R225-1)](#256)
+          - [Section II : Dispositions particulières aux experts judiciaires (art. R*225-2 à R*225-3)](#257)
+          - [Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires (art. R225-4)](#258)
+        - [Chapitre VI : Dispositions particulières relatives à l'application des peines (art. R*226-1)](#259)
+      - [Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels (art. R*231-1)](#260)
+    - [Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité (art. R*311-1 à R*331-6)](#261)
+      - [Titre Ier : Le tribunal de grande instance (art. R*311-1 à R*312-11)](#262)
+        - [Chapitre Ier : Dispositions générales (art. R*311-1 à R*311-42)](#263)
+          - [Section I : Institution et compétence (art. R*311-1 à R*311-6)](#264)
+          - [Section II : Organisation (art. R*311-7 à R311-11)](#265)
+          - [Section III : Fonctionnement (art. R*311-14 à R*311-38-1)](#266)
+            - [Sous-section I : Dispositions relatives au service des chambres du tribunal (art. R*311-14 à R311-21)](#267)
+            - [Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état, au juge de l'exécution et au juge aux affaires familiales. (art. R311-29-1 à R311-29-3)](#268)
+            - [Sous-section III : Dispositions relatives aux assemblées générales (art. R311-30)](#269)
+            - [Sous-section IV : Le ministère public (art. R*311-34 à R*311-37)](#270)
+            - [Sous-section V : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des tribunaux d'instance de leur ressort (art. R*311-38)](#271)
+            - [Sous-section VI : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des juridictions de proximité de leur ressort (art. R*311-38-1)](#272)
+          - [Section IV : Dispositions relatives à la présidence et au service des chambres détachées des tribunaux de grande instance (art. R*311-39 à R*311-42)](#273)
+        - [Chapitre II : Dispositions particulières à certaines matières (art. R312-1 à R*312-11)](#274)
+          - [Section I : Dispositions particulières en matière familiale. (art. R312-1 à R312-1-1)](#275)
+          - [Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales. (art. R*312-2 à R*312-2-1)](#276)
+          - [Section III : Dispositions particulières en matière de baux commerciaux (art. R*312-3)](#277)
+          - [Section IV : Dispositions particulières relatives à l'informatique, aux fichiers et aux libertés. (art. R*312-4)](#278)
+          - [Section V : Dispositions particulières en matière commerciale (art. R*312-5)](#279)
+          - [Section VI : Dispositions particulières à la saisie immobilière (art. R312-6)](#280)
+          - [Section VII : Dispositions particulières à l'application des peines (art. R*312-7 à R*312-8)](#281)
+          - [Section VIII : Dispositions particulières en matière de nationalité. (art. R*312-9)](#282)
+          - [Section IX : Dispositions particulières en matière de marque communautaire (art. R*312-10)](#283)
+          - [Section X : Dispositions particulières en matière de pollution des eaux de mer par les rejets des navires (art. R*312-11)](#284)
+      - [Titre II : Le tribunal d'instance (art. R*321-3 à R323-2)](#285)
+        - [Chapitre Ier : Dispositions générales (art. R*321-3 à R*321-45)](#286)
+          - [Section I : Institution et compétence (art. R*321-3 à R*321-30-1)](#287)
+            - [Sous-section I : Compétence d'attribution (art. R*321-3 à R*321-23)](#288)
+            - [Sous-section II : Compétence territoriale (art. R*321-24 à R*321-30-1)](#289)
+          - [Section II : Organisation (art. R*321-31)](#290)
+          - [Section III : Fonctionnement (art. R*321-33 à R*321-45)](#291)
+        - [Chapitre II : Dispositions particulières à la tutelle (art. R*322-1)](#292)
+        - [Chapitre III : Attributions non juridictionnelles (art. R*323-3 à R323-2)](#293)
+      - [Titre III : La juridiction de proximité (art. R*331-1 à R*331-6)](#294)
+        - [Chapitre unique : Dispositions générales (art. R*331-1 à R*331-6)](#295)
+          - [Section I : Institution et compétence (art. R*331-1 à R*331-3)](#296)
+            - [Sous-section I : Compétence d'attribution (art. R*331-1 à R*331-2)](#297)
+            - [Sous-section II : Compétence territoriale (art. R*331-3)](#298)
+          - [Section II : Organisation (art. R*331-4 à R*331-6)](#299)
+    - [Livre IV : Les juridictions spécialisées non pénales (art. R*411-1 à R*461-1)](#300)
+      - [Titre I : Le tribunal de commerce (art. R*411-1 à R414-21)](#301)
+        - [Chapitre I : Institution et compétence (art. R*411-1 à R*411-4)](#302)
+        - [Chapitre II : Organisation et fonctionnement. (art. R412-1 à R412-20)](#303)
+        - [Chapitre III : Election des juges des tribunaux de commerce (art. R413-1 à R413-24)](#304)
+          - [Section I : Electorat. (art. R413-1 à R413-4)](#305)
+          - [Section III : Scrutin et opérations électorales. (art. R413-5 à R413-24)](#306)
+            - [Sous-section I : Candidatures (art. R413-5)](#307)
+            - [Sous-section II : Opérations préalables au scrutin (art. R413-6 à R413-7)](#308)
+            - [Sous-section III : Vote par correspondance (art. R413-8 à R413-10)](#309)
+            - [Sous-section IV : Vote électronique (art. R413-11 à R413-13)](#310)
+            - [Sous-section V : Fichiers (art. R413-14 à R413-15)](#311)
+            - [Sous-section VI : Proclamation des résultats et contentieux de l'élection des juges consulaires (art. R413-16 à R413-24)](#312)
+        - [Chapitre IV : Discipline des membres des tribunaux de commerce. (art. R414-1 à R414-21)](#313)
+      - [Titre II : Le conseil de prud'hommes (art. R421-1 à R424-1)](#314)
+        - [Chapitre Ier : Attributions et institution (art. R421-1)](#315)
+        - [Chapitre II : Organisation et fonctionnement (art. R422-1)](#316)
+        - [Chapitre III : Election des conseillers prud'hommes (art. R423-1)](#317)
+        - [Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé (art. R424-1)](#318)
+      - [Titre III : Le juge de l'expropriation (art. R432-1)](#319)
+        - [Chapitre II : Organisation et fonctionnement (art. R432-1)](#320)
+      - [Titre IV : Le tribunal paritaire des baux ruraux (art. R442-1)](#321)
+        - [Chapitre II : Constitution des tribunaux paritaires. (art. R442-1)](#322)
+      - [Titre V : Les juridictions de sécurité sociale (art. R*450-1)](#323)
+      - [Titre VI : Les prud'hommes pêcheurs (art. R*461-1)](#324)
+    - [Livre V : Les juridictions des mineurs (art. R*522-2 à R531-1)](#325)
+      - [Titre II : Le tribunal pour enfants (art. R*522-2 à R522-1)](#326)
+        - [Chapitre II : Organisation et fonctionnement (art. R*522-2 à R522-1)](#327)
+      - [Titre III : Le juge des enfants (art. R531-1)](#328)
+        - [Chapitre Ier : Institution et compétence (art. R531-1)](#329)
+    - [Livre VI : Les juridictions pénales (art. R611-1 à R633-1)](#330)
+      - [Titre Ier : Les juridictions d'instruction de droit commun (art. R611-1 à R612-1)](#331)
+        - [Chapitre Ier : Le juge d'instruction (art. R611-1)](#332)
+        - [Chapitre II : La chambre de l'instruction (art. R612-1)](#333)
+      - [Titre II : Les juridictions de jugement de droit commun (art. R621-1 à R*623-1)](#334)
+        - [Chapitre Ier : La cour d'assises (art. R621-1)](#335)
+        - [Chapitre III : Le tribunal de police (art. R*623-1)](#336)
+      - [Titre III : Les juridictions pénales spécialisées (art. R632-1 à R633-1)](#337)
+        - [Chapitre II : Les juridictions des forces armées (art. R632-1 à R632-3)](#338)
+          - [Section I : Des tribunaux territoriaux des forces armées (art. R632-1)](#339)
+          - [Section II : Des tribunaux aux armées et des tribunaux militaires aux armées (art. R632-2)](#340)
+          - [Section III : Des tribunaux prévôtaux (art. R632-3)](#341)
+        - [Chapitre III : Le tribunal maritime commercial (art. R633-1)](#342)
+    - [Livre VII : Dispositions communes à plusieurs juridictions (art. R*711-1 à R*7-12-1-10)](#343)
+      - [Titre Ier : L'année judiciaire (art. R*711-1 à R*711-2)](#344)
+      - [Titre II : Incompatibilités (art. R*721-1 à R*721-4)](#345)
+      - [Titre III : Récusation et renvoi (art. R731-1)](#346)
+      - [Titre IV : Rangs, costumes et insignes (art. R*741-1 à R741-6)](#347)
+      - [Titre V : Dispositions générales relatives au ministère public (art. R*751-1)](#348)
+      - [Titre VI : Assemblées générales (art. R*761-1 à R*763-1)](#349)
+        - [Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance (art. R*761-1 à R*761-50)](#350)
+          - [Section I : Dispositions communes aux différentes formations de l'assemblée générale (art. R*761-2 à R*761-14)](#351)
+          - [Section II : L'assemblée des magistrats (art. R*761-15 à R*761-26)](#352)
+            - [Sous-section I : L'assemblée des magistrats du siège et du parquet (art. R*761-16 à R*761-20)](#353)
+            - [Sous-section II : L'assemblée des magistrats du siège (art. R*761-21 à R*761-24)](#354)
+            - [Sous-section III : L'assemblée des magistrats du parquet (art. R*761-25 à R*761-26)](#355)
+          - [Section III : L'assemblée des fonctionnaires du secrétariat-greffe (art. R*761-27 à R*761-33)](#356)
+          - [Section IV : L'assemblée plénière des magistrats et des fonctionnaires (art. R*761-34 à R*761-37)](#357)
+          - [Section V : Les commissions (art. R*761-38 à R*761-50)](#358)
+            - [Sous-section I : La commission permanente (art. R*761-38 à R*761-45)](#359)
+            - [Sous-section II : Les commissions restreintes (art. R*761-46 à R*761-50)](#360)
+        - [Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité (art. R*762-1 à R*762-11)](#361)
+          - [Section I : Le tribunal d'instance (art. R*762-1 à R*762-8)](#362)
+          - [Section II : La juridiction de proximité (art. R*762-9 à R*762-11)](#363)
+        - [Chapitre III : Consultation des juridictions (art. R*763-1)](#364)
+      - [Titre VII : Fonctions pouvant être confiées à des magistrats honoraires (art. R*771-1 à R*771-2)](#365)
+      - [Titre IX : Participation aux commissions non juridictionnelles (art. R*791-1)](#366)
+      - [Titre X : Audiences foraines et transfert provisoire du siège (art. R*7-10-1-1 à R*7-10-1-2)](#367)
+      - [Titre XI : Assistance du juge par le secrétaire de la juridiction (art. R*7-11-1-1)](#368)
+      - [Titre XII : Maisons de justice et du droit (art. R*7-12-1-1 à R*7-12-1-10)](#369)
+    - [Livre VIII : Les secrétariats-greffes, greffes et secrétariats (art. R*811-1 à R882-2)](#370)
+      - [Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun (art. R*811-1 à R*814-7)](#371)
+        - [Chapitre Ier : Organisation (art. R*811-1 à R*811-7)](#372)
+        - [Chapitre II : Fonctionnement (art. R*812-1 à R*812-19)](#373)
+        - [Chapitre III : Etats et statistiques (art. R*813-1 à R*813-4)](#374)
+        - [Chapitre IV : Régime financier (art. R*814-1 à R*814-7)](#375)
+      - [Titre II : Le greffe du tribunal de commerce (art. R821-1 à R822-19)](#376)
+        - [Chapitre I : Dispositions générales. (art. R821-1 à R821-26)](#377)
+        - [Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce (art. R822-1 à R822-19)](#378)
+          - [Section I : La procédure disciplinaire (art. R822-1 à R822-6-3)](#379)
+            - [Sous-section I : L'enquête disciplinaire. (art. R822-1 à R822-1-1)](#380)
+            - [Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce. (art. R822-2 à R822-5)](#381)
+            - [Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement. (art. R822-6 à R822-6-3)](#382)
+          - [Section II : L'exécution des peines disciplinaires ; l'administration provisoire. (art. R822-7 à R822-12)](#383)
+          - [Section III : La suspension provisoire. (art. R822-13 à R822-15)](#384)
+          - [Section IV : Les voies de recours. (art. R822-16 à R822-18)](#385)
+          - [Section V : Dispositions communes. (art. R822-19)](#386)
+      - [Titre III : Le secrétariat-greffe du conseil de prud'hommes (art. R*831-1)](#387)
+      - [Titre IV : Le secrétariat des juridictions de l'expropriation (art. R841-1 à R841-2)](#388)
+      - [Titre VI : Le secrétariat des juridictions de sécurité sociale (art. R861-1)](#389)
+      - [Titre VIII : Dispositions particulières aux greffes des juridictions pénales (art. R882-2)](#390)
+        - [Chapitre II : Les greffes des juridictions pénales spécialisées (art. R882-2)](#391)
+    - [Livre IX : Dispositions particulières (art. R*911-1 à R952-10)](#392)
+      - [Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R*911-1 à R*915-4)](#393)
+        - [Chapitre Ier : Le tribunal d'instance (art. R*911-1 à R911-12)](#394)
+          - [Section I : Dispositions générales (art. R*911-1 à R*911-4)](#395)
+          - [Section II : Dispositions particulières au service du livre foncier (art. R*911-13 à R911-12)](#396)
+        - [Chapitre III : La chambre commerciale du tribunal de grande instance. (art. R*913-1 à R*913-5)](#397)
+        - [Chapitre V : Les secrétariats-greffes (art. R*915-1 à R*915-4)](#398)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer *DOM* (art. R*921-2 à R*923-2)](#399)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-2 à R*921-14)](#400)
+          - [Section I : La cour d'appel (art. R*921-2 à R*921-3)](#401)
+          - [Section II : Le tribunal de grande instance et le tribunal d'instance (art. R*921-4 à R921-5-1)](#402)
+          - [Section V : Les secrétariats-greffes et secrétariats (art. R*921-12 à R*921-14)](#403)
+        - [Chapitre II : Dispositions particulières au département de la Guyane (art. R*922-3 à R*922-4)](#404)
+        - [Chapitre III : Dispositions particulières au département de la Réunion (art. R*923-1 à R*923-2)](#405)
+      - [Titre II : Dispositions particulières aux départements d'outre-mer (art. R*921-6 à R*921-10)](#406)
+        - [Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. R*921-6 à R*921-10)](#407)
+          - [Section III : Le tribunal mixte de commerce (art. R*921-6 à R*921-10)](#408)
+      - [Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer (art. R931-1 à R935-3)](#409)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna (art. R931-1 à R931-21)](#410)
+          - [Section I : La cour d'appel. (art. R931-2 à R931-7)](#411)
+          - [Section II : Le tribunal de première instance (art. R931-8 à R931-14)](#412)
+            - [Sous-section I : Institution et compétence. (art. R931-8 à R931-10-4)](#413)
+            - [Sous-section II : Organisation. (art. R931-11 à R931-14)](#414)
+          - [Section III : Les juridictions des mineurs. (art. R931-15)](#415)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R931-16)](#416)
+          - [Section VI : Les secrétariats-greffes des juridictions. (art. R931-17 à R931-21)](#417)
+        - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française (art. R932-1 à R932-27)](#418)
+          - [Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance. (art. R932-1 à R932-9)](#419)
+          - [Section II : Le tribunal du travail. (art. R932-10)](#420)
+          - [Section III : Le tribunal mixte de commerce (art. R932-11 à R932-25)](#421)
+            - [Sous-section I : Institution et compétence. (art. R932-11 à R932-12-1)](#422)
+            - [Sous-section II : Organisation et fonctionnement. (art. R932-13)](#423)
+            - [Sous-section III : Election des juges des tribunaux mixtes de commerce (art. R932-14 à R932-24)](#424)
+              - [I : Electorat. (art. R932-14 à R932-16)](#425)
+              - [III : Scrutin et opérations électorales. (art. R932-17 à R932-24)](#426)
+            - [Sous-section IV : Discipline des juges des tribunaux mixtes de commerce. (art. R932-25)](#427)
+          - [Section IV : Les juridictions des mineurs. (art. R932-26)](#428)
+          - [Section V : Dispositions communes à plusieurs juridictions. (art. R932-27)](#429)
+        - [Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie. (art. R933-1 à R933-8)](#430)
+        - [Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna (art. R934-1 à R934-7)](#431)
+          - [Section II : Le tribunal de première instance. (art. R934-1 à R934-7)](#432)
+        - [Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises. (art. R935-1 à R935-3)](#433)
+      - [Titre IV : Dispositions particulières à Mayotte (art. R941-1 à R946-6)](#434)
+        - [Chapitre Ier : Dispositions générales. (art. R941-1 à R941-2)](#435)
+        - [Chapitre II : Le tribunal supérieur d'appel (art. R942-1 à R942-20)](#436)
+          - [Section I : Organisation. (art. R942-1 à R942-3)](#437)
+          - [Section II : Fonctionnement (art. R942-4 à R942-20)](#438)
+            - [Sous-section I : Dispositions générales. (art. R942-4 à R942-7)](#439)
+            - [Sous-section II : Le ministère public. (art. R942-8)](#440)
+            - [Sous-section III : Les assesseurs du tribunal supérieur d'appel. (art. R942-12 à R942-19-1)](#441)
+            - [Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte. (art. R942-20)](#442)
+        - [Chapitre III : Le tribunal de première instance (art. R943-1 à R943-20)](#443)
+          - [Section I : Institution et compétence. (art. R943-1 à R943-3-1)](#444)
+          - [Section II : Organisation. (art. R943-4 à R943-6)](#445)
+          - [Section III : Fonctionnement (art. R943-7 à R943-20)](#446)
+            - [Sous-section I : Dispositions générales. (art. R943-7 à R943-15)](#447)
+            - [Sous-section II : Les assesseurs du tribunal de première instance. (art. R943-16 à R943-17-1)](#448)
+            - [Sous-section III : Dispositions particulières à certaines matières. (art. R943-18 à R943-19)](#449)
+            - [Sous-section IV : Le ministère public (art. R943-20)](#450)
+        - [Chapitre IV : Les juridictions des mineurs. (art. R944-1)](#451)
+        - [Chapitre V : La cour criminelle. (art. R945-1)](#452)
+        - [Chapitre VI : Les secrétariats-greffes des juridictions. (art. R946-1 à R946-6)](#453)
+      - [Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R951-1 à R952-10)](#454)
+        - [Chapitre Ier : Des fonctions judiciaires. (art. R951-1 à R951-6)](#455)
+        - [Chapitre II : Des juridictions (art. R952-1 à R952-10)](#456)
+          - [Section I : Dispositions communes (art. R952-1 à R952-4)](#457)
+            - [Sous-section I : Dispositions générales. (art. R952-1)](#458)
+            - [Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences. (art. R952-2 à R952-4)](#459)
+          - [Section II : Le tribunal de première instance (art. R952-5 à R952-8)](#460)
+            - [Sous-section I : Compétence. (art. R952-5 à R952-6-1)](#461)
+            - [Sous-section II : Organisation et fonctionnement. (art. R952-7 à R952-8)](#462)
+          - [Section III : Le tribunal supérieur d'appel. (art. R952-9 à R952-10)](#463)
+  - [Annexes (art. Annexe Tableau des costumes à Annexe Tableau XIII)](#464)
+# Partie législative<a id=1></a>
 
-## Livre Ier : La Cour de cassation<a id=2></a>
+## LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES<a id=2></a>
 
-### Titre Ier : Institution et compétence.<a id=3></a>
+### TITRE Ier : PRINCIPES GÉNÉRAUX<a id=3></a>
+
+#### Chapitre unique<a id=4></a>
 
 ###### Article L111-1
+
+Les juridictions judiciaires rendent leurs décisions au nom du peuple français.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L111-2
+
+La gratuité du service de la justice est assurée selon les modalités fixées par la loi et le règlement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L111-3
+
+Les décisions de justice sont rendues dans un délai raisonnable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 331 K ter (V)
+
+
+###### Article L111-4
+
+La permanence et la continuité du service de la justice demeurent toujours assurées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L111-5
+
+L'impartialité des juridictions judiciaires est garantie par les dispositions du présent code et celles prévues par les
+dispositions particulières à certaines juridictions ainsi que par les règles d'incompatibilité fixées par le statut de la
+magistrature.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L111-6
+
+Sous réserve de dispositions particulières à certaines juridictions, la récusation d'un juge peut être demandée :
+
+1° Si lui-même ou son conjoint a un intérêt personnel à la contestation ;
+
+2° Si lui-même ou son conjoint est créancier, débiteur, héritier présomptif ou donataire de l'une des parties ;
+
+3° Si lui-même ou son conjoint est parent ou allié de l'une des parties ou de son conjoint jusqu'au quatrième degré
+inclusivement ;
+
+4° S'il y a eu ou s'il y a procès entre lui ou son conjoint et l'une des parties ou son conjoint ;
+
+5° S'il a précédemment connu de l'affaire comme juge ou comme arbitre ou s'il a conseillé l'une des parties ;
+
+6° Si le juge ou son conjoint est chargé d'administrer les biens de l'une des parties ;
+
+7° S'il existe un lien de subordination entre le juge ou son conjoint et l'une des parties ou son conjoint ;
+
+8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
+
+Les magistrats du ministère public, partie jointe, peuvent être récusés dans les mêmes cas.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Décret n°2008-812 du 21 août 2008 - art. 5 (Ab)
+  - Décret n°2012-432  du 30 mars 2012 - art. 130 (V)
+  - Décret n°2012-432  du 30 mars 2012 - art. 178 (V)
+  - Décret n°2016-651 du 20 mai 2016 - art. 12 (V)
+  - Décret n°2017-514 du 10 avril 2017 - art. 7
+  - Décret n°2018-747 du 24 août 2018 - art. 1
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-11 (V)
+  - Code de procédure civile - art. 341 (V)
+  - Code des transports - art. R5524-30 (V)
+  - Code rural et de la pêche maritime - art. R242-100 (V)
+  - Code rural et de la pêche maritime - art. R242-94 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+
+
+###### Article L111-7
+
+Le juge qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer par un
+autre juge spécialement désigné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L111-8
+
+En matière civile, le renvoi à une autre juridiction de même nature et de même degré peut être ordonné pour cause de
+suspicion légitime, de sûreté publique ou s'il existe des causes de récusation contre plusieurs juges. 
+
+En matière pénale, le renvoi d'un tribunal à un autre peut être ordonné conformément aux articles 662 à 667-1 du code de
+procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 662 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-3 (Ab)
+
+
+###### Article L111-9
+
+Ne peut faire partie d'une formation de jugement du second degré le juge qui a précédemment connu de l'affaire en premier
+ressort.
+
+Ne peut faire partie d'une formation de jugement de la Cour de cassation le juge qui a précédemment connu de l'affaire en
+premier ou en dernier ressort.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L111-10
+
+Les conjoints, les parents et alliés jusqu'au troisième degré inclus ne peuvent, sauf dispense, être simultanément membres
+d'un même tribunal ou d'une même cour en quelque qualité que ce soit.
+
+Aucune dispense ne peut être accordée lorsque la juridiction ne comprend qu'une chambre ou que l'un des conjoints, parents ou
+alliés au degré mentionné à l'alinéa précédent est le président de la juridiction ou le chef du parquet près celle-ci.
+
+En aucun cas, même si la dispense est accordée, les conjoints, les parents ou alliés mentionnés à l'alinéa premier ne peuvent
+siéger dans une même cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R111-3 (V)
+  - Code du travail - art. D1442-23 (VD)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*721-1 (Ab)
+
+
+###### Article L111-11
+
+Pour l'application des articles L. 111-6 et L. 111-10, la personne liée au juge par un pacte civil de solidarité est
+assimilée au conjoint.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-6 (V)
+
+
+### TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT<a id=5></a>
+
+#### Chapitre Ier : Les juges<a id=6></a>
+
+##### Section 1 : Composition des juridictions<a id=7></a>
+
+###### Article L121-1
+
+Sauf disposition particulière, à la Cour de cassation, dans les cours d'appel, les tribunaux de grande instance et les
+tribunaux d'instance, les fonctions de jugement sont exercées par des magistrats appartenant au corps judiciaire ; les règles
+applicables à leur nomination sont fixées par le statut de la magistrature.
+
+Les autres juridictions judiciaires sont composées soit de magistrats du corps judiciaire, soit de juges non professionnels
+désignés dans les conditions prévues par les textes organisant ces juridictions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L121-2
+
+Sauf disposition particulière, les juges statuent en nombre impair.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-1, phrase 1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-7 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-8, phrase 1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-1, phrase 1 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-6 (V)
+
+
+##### Section 2 : Le service juridictionnel<a id=8></a>
+
+###### Article L121-3
+
+Chaque année, le premier président de la Cour de cassation, le premier président de la cour d'appel, le président du tribunal
+de grande instance, et le magistrat chargé de la direction et de l'administration du tribunal d'instance répartissent les
+juges dans les différents services de la juridiction.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise notamment les conditions dans
+lesquelles la répartition des juges peut être modifiée en cours d'année.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-3 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-5 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-6 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-69 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-3 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-19 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-28 (V)
+  - Code de l'organisation judiciaire - art. R121-1 (V)
+  - Code de l'organisation judiciaire - art. R212-20 (VD)
+  - Code de l'organisation judiciaire - art. R212-21 (VD)
+  - Code de l'organisation judiciaire - art. R212-4 (VD)
+  - Code de l'organisation judiciaire - art. R212-5 (VD)
+  - Code de l'organisation judiciaire - art. R212-59 (VD)
+  - Code de l'organisation judiciaire - art. R212-6 (VD)
+  - Code de l'organisation judiciaire - art. R213-10 (VD)
+  - Code de l'organisation judiciaire - art. R213-12-1 (VD)
+  - Code de l'organisation judiciaire - art. R213-6 (VD)
+  - Code de l'organisation judiciaire - art. R213-7 (VD)
+  - Code de l'organisation judiciaire - art. R213-8 (VD)
+  - Code de l'organisation judiciaire - art. R222-3 (VT)
+  - Code de l'organisation judiciaire - art. R232-3 (VT)
+  - Code de l'organisation judiciaire - art. R522-4 (Ab)
+  - Code de l'organisation judiciaire - art. R522-5 (Ab)
+
+
+###### Article L121-4
+
+En cas de vacance d'emploi ou d'empêchement d'un ou plusieurs magistrats ou lorsque le renforcement temporaire et immédiat
+des juridictions du premier degré apparaît indispensable pour assurer le traitement du contentieux dans un délai raisonnable,
+le premier président peut, par ordonnance, déléguer les présidents de chambre et les conseillers de la cour d'appel, les
+juges des tribunaux d'instance et de grande instance, pour exercer des fonctions judiciaires dans les tribunaux du ressort de
+la cour d'appel dont le service est assuré par des magistrats du corps judiciaire.
+
+Un magistrat ne peut être délégué plus de cinq fois au cours de la même année judiciaire. Ses délégations ne peuvent excéder
+une durée totale de trois mois.
+
+En ce qui concerne les magistrats désignés pour exercer les fonctions de juge de l'expropriation, la durée de la délégation
+prévue à l'alinéa précédent peut être portée à six mois.
+
+L'ordonnance mentionnée au premier alinéa précise le motif et la durée de la délégation ainsi que la nature des fonctions qui
+seront exercées par le magistrat délégué.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-1, alinéas 1 à 3 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-3 (V)
+  - Code de l'organisation judiciaire - art. L562-6-1 (V)
+  - Code des pensions militaires d'invalidité et de... - art. R741-4 (VT)
+
+
+#### Chapitre II : Le ministère public<a id=9></a>
+
+##### Section 1 : Organisation<a id=10></a>
+
+###### Article L122-1
+
+A la Cour de cassation, dans les cours d'appel et les tribunaux de grande instance, le ministère public est exercé par des
+magistrats appartenant au corps judiciaire ; les règles applicables à leur nomination sont fixées par le statut de la
+magistrature.
+
+Devant les autres juridictions, le ministère public est exercé soit par des magistrats du corps judiciaire, soit par des
+personnes habilitées dans les conditions prévues par les textes organisant ces juridictions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L122-2
+
+Le ministère public est exercé, en toutes matières, devant toutes les juridictions du premier degré du ressort du tribunal de
+grande instance par le procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-15 (Ab)
+
+_Cité par_:
+
+  - Code de commerce - art. R722-5 (V)
+  - Code de l'organisation judiciaire - art. L217-2 (VD)
+  - Code de l'organisation judiciaire - art. L552-9-1 (M)
+
+
+###### Article L122-3
+
+Le ministère public est exercé, en toutes matières, devant toutes les juridictions du second degré et les cours d'assises
+instituées dans le ressort de la cour d'appel par le procureur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-4 (Ab)
+
+
+##### Section 2 : Fonctionnement<a id=11></a>
+
+###### Article L122-4
+
+Tout magistrat d'un parquet ou d'un parquet général peut exercer les fonctions du ministère public au sein de ce parquet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L217-3 (VD)
+
+
+#### Chapitre III : Le greffe<a id=12></a>
+
+###### Article L123-1
+
+La Cour de cassation, les cours d'appel, les tribunaux de grande instance, les tribunaux d'instance, les tribunaux d'instance
+ayant compétence exclusive en matière pénale, les juridictions de proximité et les conseils de prud'hommes comprennent un
+greffe composé de fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Décret n°2019-913 du 30 août 2019 - art. 2
+  - Code du travail - art. R1423-36 (VD)
+  - Code du travail - art. R1423-37 (VD)
+  - Code du travail - art. R1423-38 (VD)
+  - Code du travail - art. R1423-44 (VD)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L811-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L831-1 (Ab)
+
+
+###### Article L123-2
+
+Les dispositions particulières applicables au greffe des autres juridictions sont fixées par les textes sur l'organisation et
+le fonctionnement de ces juridictions, mentionnés à l'article L. 261-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (V)
+
+
+### TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE<a id=13></a>
+
+#### Chapitre unique<a id=14></a>
+
+###### Article L141-1
+
+L'Etat est tenu de réparer le dommage causé par le fonctionnement défectueux du service de la justice.
+
+Sauf dispositions particulières, cette responsabilité n'est engagée que par une faute lourde ou par un déni de justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1, alinéa 1 (Ab)
+
+_Cité par_:
+
+  - Code de la sécurité intérieure - art. L229-6 (VT)
+
+
+###### Article L141-2
+
+La responsabilité des juges, à raison de leur faute personnelle, est régie :
+
+- s'agissant des magistrats du corps judiciaire, par le statut de la magistrature ;
+
+- s'agissant des autres juges, par des lois spéciales ou, à défaut, par les articles 505 et suivants du code de procédure
+civile.
+
+L'Etat garantit les victimes des dommages causés par les fautes personnelles des juges et autres magistrats, sauf son recours
+contre ces derniers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - Code de procédure civile - art. 505 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 149 (V)
+  - Code du travail - art. D1442-23 (VD)
+
+
+## LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ<a id=15></a>
+
+### TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE<a id=16></a>
+
+#### Chapitre Ier : Institution et compétence<a id=17></a>
+
+###### Article L211-1
+
+Le tribunal de grande instance statue en première instance en matière civile et pénale. Lorsqu'il statue en matière pénale,
+il est dénommé tribunal correctionnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1, alinéa 1 (Ab)
+
+
+###### Article L211-2
+
+Il y a au moins un tribunal de grande instance dans le ressort de chaque cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-1 (Ab)
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1210-4 (V)
+
+
+##### Section 1 : Compétence matérielle<a id=18></a>
+
+##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=19></a>
+
+###### Article L211-3
+
+Le tribunal de grande instance connaît de toutes les affaires civiles et commerciales pour lesquelles compétence n'est pas
+attribuée, en raison de leur nature ou du montant de la demande, à une autre juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-1 (Ab)
+
+
+###### Article L211-4
+
+Le tribunal de grande instance a compétence exclusive dans les matières déterminées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-3 al 2  (Ab)
+
+
+###### Article L211-5
+
+Le tribunal de grande instance est compétent pour connaître des recours : 
+
+1° Contre les décisions du juge des tutelles et celles du conseil de famille ; 
+
+2° Contre les décisions du tribunal d'instance en matière de titres perdus ou volés dans les conditions prévues à l'article
+11 du décret n° 56-27 du 11 janvier 1956 relatif à la procédure à suivre en cas de dépossession de titres au porteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - Décret n°56-27 du 11 janvier 1956 - art. 11 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-3 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-4-1 (VT)
+
+
+###### Article L211-6
+
+Le tribunal de grande instance connaît des demandes relatives aux frais, émoluments et débours des auxiliaires de justice et
+des officiers publics ou ministériels dans les cas prévus par l'article 52 du nouveau code de procédure civile, sans
+préjudice des dispositions particulières en matière d'honoraires d'avocats énoncées à l'article L. 311-7 du présent code et à
+l'article 179 du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat, et d'honoraires d'avoués énoncées
+par l'article 5 de la loi n° 57-1420 du 31 décembre 1957 sur le recouvrement des honoraires des avocats.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°57-1420 du 31 décembre 1957 - art. 5 (V)
+  - Décret n°91-1197 1991-11-27 art. 179
+  - Nouveau code de procédure civile 52
+  - Code de l'organisation judiciaire L311-7
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L211-7
+
+Dans les cas prévus par l'article 16 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions
+judiciaires et juridiques, le tribunal de grande instance remplit les fonctions du conseil de l'ordre des avocats.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°71-1130 du 31 décembre 1971 - art. 16 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L211-8
+
+Le tribunal de grande instance est la juridiction disciplinaire des avoués, des commissaires-priseurs judiciaires, des
+huissiers de justice et des notaires dans les cas et conditions prévus par l'ordonnance n° 45-1418 du 28 juin 1945 relative à
+la discipline des notaires et de certains officiers ministériels.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-1418 du 28 juin 1945 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-3 (Ab)
+
+
+###### Article L211-9
+
+Le tribunal correctionnel connaît des délits, sans préjudice des autres compétences prévues par les dispositions du code de
+procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1, alinéa 2, ecqc compétence (Ab)
+
+
+##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=20></a>
+
+###### Article L211-10
+
+Des tribunaux de grande instance spécialement désignés connaissent des actions en matière de brevets d'invention, de
+certificats d'utilité, de certificats complémentaires de protection, de topographie de produits semi-conducteurs et
+d'obtentions végétales, dans les cas et conditions prévus par le code de la propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L532-2 (V)
+  - Code de l'organisation judiciaire - art. L552-2 (V)
+  - Code de l'organisation judiciaire - art. L562-2 (V)
+
+
+###### Article L211-11
+
+Un tribunal de grande instance spécialement désigné connaît des actions et demandes en matière de marque communautaire, dans
+les cas et conditions prévus par le code de la propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-10 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-4-1 (VT)
+
+
+###### Article L211-12
+
+Des tribunaux de grande instance spécialement désignés connaissent des actions engagées sur le fondement des dispositions des
+instruments internationaux et communautaires relatives au déplacement illicite international d'enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Décret n°2017-892 du 6 mai 2017 - art. 28
+  - Code de l'organisation judiciaire - art. L532-2 (V)
+  - Code de l'organisation judiciaire - art. L552-2 (V)
+  - Code de l'organisation judiciaire - art. L562-2 (V)
+  - Code de procédure civile - art. 1210-11 (V)
+  - Code de procédure civile - art. 1210-4 (V)
+  - Code de procédure civile - art. 1210-6 (V)
+  - Code de procédure civile - art. 1210-7 (V)
+  - Code de procédure civile - art. 1210-9 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1-1 (Ab)
+
+
+#### Chapitre II : Organisation et fonctionnement<a id=21></a>
+
+##### Section 1 : Le service juridictionnel<a id=22></a>
+
+###### Article L212-1
+
+Le tribunal de grande instance statue en formation collégiale, sous réserve des exceptions tenant à l'objet du litige ou à la
+nature des questions à juger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-6 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-5 (VT)
+
+
+###### Article L212-2
+
+Lorsqu'une affaire, compte tenu de l'objet du litige ou de la nature des questions à juger, est portée devant le tribunal de
+grande instance statuant à juge unique, le renvoi à la formation collégiale est de droit, sur la demande non motivée d'une
+des parties formulée selon les modalités et délais fixés par décret en Conseil d'Etat.
+
+Toutefois, les dispositions du présent article ne sont pas applicables en matières disciplinaires ou relatives à l'état des
+personnes, sous réserve des dispositions particulières aux matières de la compétence du juge aux affaires familiales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-10, alinéas 2 et 4 (Ab)
+
+
+###### Article L212-3
+
+La formation collégiale du tribunal de grande instance se compose d'un président et de plusieurs assesseurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-8 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L212-3-1 (MMN)
+
+
+###### Article L212-4
+
+Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les juges pour compléter le tribunal de grande
+instance.
+
+Toutefois, la formation de jugement ne peut comprendre, en matière pénale, une majorité de juges non professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-9 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L552-8 (MMN)
+  - Code de l'organisation judiciaire - art. L562-8 (MMN)
+
+
+###### Article L212-5
+
+Les règles relatives à l'organisation et au fonctionnement du tribunal correctionnel statuant à juge unique sont fixées par
+les articles 398 et 398-1 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 398 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1, alinéa 2 (Ab)
+
+
+##### Section 2 : Le parquet<a id=23></a>
+
+###### Article L212-6
+
+Le procureur de la République représente, en personne ou par ses substituts, le ministère public près le tribunal de grande
+instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-14 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L217-2 (VD)
+
+
+#### Chapitre III : Fonctions particulières<a id=24></a>
+
+##### Section 1 : Fonctions particulières exercées en matière civile<a id=25></a>
+
+##### Sous-section 1 : Le président du tribunal de grande instance<a id=26></a>
+
+###### Article L213-1
+
+Le président du tribunal de grande instance a compétence dans les matières déterminées par la loi et le règlement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-12 (Ab)
+
+_Cité par_:
+
+  - Code des transports - art. L4261-3 (V)
+
+
+###### Article L213-2
+
+En toutes matières, le président du tribunal de grande instance statue en référé ou sur requête.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+##### Sous-section 3 : Le juge aux affaires familiales<a id=27></a>
+
+###### Article L213-3
+
+Dans chaque tribunal de grande instance, un ou plusieurs magistrats du siège sont délégués dans les fonctions de juge aux
+affaires familiales.
+
+Le juge aux affaires familiales connaît :
+
+1° Du divorce, de la séparation de corps et de leurs conséquences, sous réserve des compétences attribuées au tribunal de
+grande instance ;
+
+2° Des actions liées à la fixation de l'obligation alimentaire, de la contribution aux charges du mariage et de l'obligation
+d'entretien, à l'exercice de l'autorité parentale, à la modification du nom de l'enfant naturel et aux prénoms.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1, alinéas 1 à 4 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. Annexe Tableau IV bis (VT)
+  - Code de l'organisation judiciaire - art. L532-15-1 (V)
+  - Code de l'organisation judiciaire - art. L552-8-1 (V)
+  - Code de l'organisation judiciaire - art. L562-24-1 (V)
+  - Code de procédure civile - art. 1381 (VD)
+
+
+###### Article L213-4
+
+Le juge aux affaires familiales peut renvoyer à la formation collégiale du tribunal de grande instance qui statue comme juge
+aux affaires familiales.
+
+La formation collégiale comprend le juge qui a ordonné le renvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1, alinéa 5 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L213-3 (M)
+
+
+##### Sous-section 4 : Le juge de l'exécution<a id=28></a>
+
+###### Article L213-5
+
+Les fonctions de juge de l'exécution sont exercées par le président du tribunal de grande instance.
+
+Lorsqu'il délègue ces fonctions à un ou plusieurs juges, le président du tribunal de grande instance fixe la durée et
+l'étendue territoriale de cette délégation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-12, alinéa 1 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L532-6-1 (VD)
+  - Code général des collectivités territoriales - art. L1617-5 (VD)
+
+
+###### Article L213-6
+
+Le juge de l'exécution connaît, de manière exclusive, des difficultés relatives aux titres exécutoires et des contestations
+qui s'élèvent à l'occasion de l'exécution forcée, même si elles portent sur le fond du droit à moins qu'elles n'échappent à
+la compétence des juridictions de l'ordre judiciaire.
+
+Dans les mêmes conditions, il autorise les mesures conservatoires et connaît des contestations relatives à leur mise en
+oeuvre.
+
+Le juge de l'exécution connaît, sous la même réserve, de la procédure de saisie immobilière, des contestations qui s'élèvent
+à l'occasion de celle-ci et des demandes nées de cette procédure ou s'y rapportant directement, même si elles portent sur le
+fond du droit ainsi que de la procédure de distribution qui en découle (1).
+
+Il connaît, sous la même réserve, des demandes en réparation fondées sur l'exécution ou l'inexécution dommageables des
+mesures d'exécution forcée ou des mesures conservatoires.
+
+Il connaît des mesures de traitement des situations de surendettement des particuliers et de la procédure de rétablissement
+personnel.
+
+**Nota:**
+
+Alinéa ajouté par l'ordonnance 2006-461 du 21 avril 2006. La codification à droit constant peut entraîner un décalage entre
+le moment où le code paraît et des modifications antérieures mais entrant en vigueur à une date différée. C'est le cas pour
+ce troisième alinéa.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 12 () JORF 22 avril 2006 en vigueur le 1er janvier 2007
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-12-1, alinéas 1 à 3 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L221-8 (VT)
+  - Code des procédures civiles d'exécution - art. L121-1 (VD)
+
+
+###### Article L213-7
+
+Le juge de l'exécution peut renvoyer à la formation collégiale du tribunal de grande instance qui statue comme juge de
+l'exécution.
+
+La formation collégiale comprend le juge qui a ordonné le renvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-12-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 ecqc phrase 2 (Ab)
+
+
+##### Sous-section 5 : Le juge des libertés et de la détention<a id=29></a>
+
+###### Article L213-8
+
+Les compétences du juge des libertés et de la détention en matière non répressive sont fixées par des lois particulières.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Code de procédure civile - art. 346 (V)
+
+
+##### Section 2 : Fonctions particulières exercées en matière pénale<a id=30></a>
+
+###### Article L213-9
+
+Le code de procédure pénale fixe les règles relatives à la compétence, à l'organisation et au fonctionnement de certains
+tribunaux de grande instance :
+
+1° En matière militaire en temps de paix ;
+
+2° En matière économique et financière ;
+
+3° En matière sanitaire ;
+
+4° En matière de terrorisme ;
+
+5° En matière de délinquance organisée ;
+
+6° En matière de pollution des eaux maritimes par rejets des navires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L213-10
+
+Le code de procédure pénale fixe les règles relatives à la compétence, à l'organisation et au fonctionnement de la
+juridiction des libertés et de la détention et de la juridiction de l'application des peines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L611-1, alinéa 2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L640-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L640-2 (Ab)
+
+
+###### Article L213-11
+
+Le code de procédure pénale fixe les règles relatives à la compétence, à l'organisation et au fonctionnement de la
+juridiction d'instruction, et notamment :
+
+1° En matière militaire en temps de paix ;
+
+2° En matière économique et financière ;
+
+3° En matière sanitaire ;
+
+4° En matière de terrorisme ;
+
+5° En matière de délinquance et de criminalité organisée ;
+
+6° En matière de pollution des eaux maritimes par rejets des navires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-1 (Ab)
+
+
+#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=31></a>
+
+###### Article L214-1
+
+Chaque tribunal de grande instance comporte une commission d'indemnisation de certaines victimes d'infractions qui revêt le
+caractère d'une juridiction civile. Cette commission, compétente pour fixer l'indemnisation prévue par l'article 706-3 du
+code de procédure pénale, statue en premier ressort.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-3 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L313-1 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L513-5-1 (V)
+  - Code de l'organisation judiciaire - art. L522-10-1 (VT)
+  - Code de l'organisation judiciaire - art. L532-17-1 (V)
+
+
+###### Article L214-2
+
+La commission d'indemnisation est composée de magistrats du siège du tribunal de grande instance et d'une ou plusieurs
+personnes majeures, de nationalité française et jouissant de leurs droits civiques, s'étant signalées par l'intérêt qu'elles
+portent aux problèmes des victimes. Elle est présidée par l'un des magistrats.
+
+Les membres de la commission et leurs suppléants sont désignés pour une durée de trois ans par l'assemblée générale des
+magistrats du siège du tribunal.
+
+Les fonctions du ministère public sont exercées par le procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L313-2 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L513-5-1 (V)
+  - Code de l'organisation judiciaire - art. L522-10-1 (VT)
+  - Code de l'organisation judiciaire - art. L532-17-1 (V)
+  - Code de l'organisation judiciaire - art. R214-1 (VD)
+
+
+#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=32></a>
+
+###### Article L215-1
+
+Dans les matières prévues au livre VI du code de commerce, le tribunal de grande instance ou, le cas échéant, la chambre
+commerciale de ce tribunal remplit les fonctions attribuées au tribunal de commerce.
+
+Les fonctions de juge-commissaire peuvent aussi être exercées par un juge du siège du tribunal de grande instance ou par un
+juge chargé du service du tribunal d'instance du domicile du débiteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Code de commerce - art. L731-4 (V)
+
+
+###### Article L215-2
+
+Les règles relatives à la compétence, à l'organisation et au fonctionnement des chambres commerciales des tribunaux de grande
+instance des départements du Bas-Rhin, du Haut-Rhin et de la Moselle sont fixées par le code de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+### TITRE II : LE TRIBUNAL D'INSTANCE<a id=33></a>
+
+#### Chapitre Ier : Institution et compétence<a id=34></a>
+
+###### Article L221-1
+
+Le tribunal d'instance connaît en première instance des affaires civiles et pénales qui lui sont attribuées par la loi ou le
+règlement en raison de leur nature ou du montant de la demande.
+
+Toutefois, peuvent être institués des tribunaux d'instance ayant compétence exclusive en matière pénale.
+
+Lorsqu'il statue en matière pénale, le tribunal d'instance est dénommé tribunal de police.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-1, alinéa 1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-2, alinéa 1 (Ab)
+
+
+###### Article L221-2
+
+Il y a au moins un tribunal d'instance dans le ressort de chaque cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-1 (Ab)
+
+
+###### Article L221-3
+
+Au sein du tribunal d'instance, un ou plusieurs juges exercent les fonctions de juge des tutelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-1 (Ab)
+
+
+##### Section 1 : Compétence matérielle<a id=35></a>
+
+##### Sous-section 1 : Compétence civile du tribunal d'instance<a id=36></a>
+
+###### Article L221-4
+
+Sous réserve des dispositions législatives ou réglementaires fixant la compétence particulière des autres juridictions, le
+tribunal d'instance connaît, en matière civile, de toutes actions personnelles ou mobilières jusqu'à la valeur de 10 000
+euros. Il connaît aussi des demandes indéterminées qui ont pour origine l'exécution d'une obligation dont le montant n'excède
+pas 10 000 euros.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-2 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L221-6 (VT)
+  - Code de l'organisation judiciaire - art. R221-4 (VT)
+  - Code de l'organisation judiciaire - art. R221-41 (VT)
+  - Code de la défense. - art. R2234-91 (VD)
+
+
+###### Article L221-5
+
+Les compétences particulières du tribunal d'instance sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Décret n°2017-1767 du 26 décembre 2017 (V)
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-2-4 (Ab)
+
+
+##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=37></a>
+
+###### Article L221-6
+
+Lorsqu'il statue sur requête et en référé, le juge du tribunal d'instance connaît des demandes visées à l'article L. 221-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-3 al 2  (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L221-4 (VT)
+
+
+###### Article L221-7
+
+Lorsqu'il statue selon la procédure d'injonction de payer, sous réserve de la compétence de la juridiction de proximité, le
+juge d'instance est compétent à quelque valeur que la demande puisse s'élever.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-3 al 2 (Ab)
+
+
+###### Article L221-8
+
+Par dérogation aux dispositions de l'article L. 213-6, le juge du tribunal d'instance est compétent en matière de saisies des
+rémunérations et exerce les pouvoirs du juge de l'exécution conformément à l'article L. 145-5 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-6 (V)
+  - Code du travail - art. L145-5 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R221-42 (VT)
+  - Code des procédures civiles d'exécution - art. L121-1 (VD)
+  - Code du travail - art. L3252-6 (VD)
+  - Code du travail - art. R3252-11 (VT)
+
+
+##### Sous-section 3 : Compétence du juge des tutelles<a id=38></a>
+
+###### Article L221-9
+
+Le juge des tutelles connaît :
+
+1° De l'émancipation ;
+
+2° De l'administration légale et de la tutelle des mineurs ;
+
+3° Du placement sous sauvegarde de justice, de la curatelle et de la tutelle des incapables majeurs ;
+
+4° Sous réserve de la compétence du juge des enfants, de la tutelle aux prestations sociales ;
+
+5° De la tutelle des pupilles de la nation ;
+
+6° De la constatation de la présomption d'absence.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+
+
+##### Sous-section 4 : Compétence du tribunal de police<a id=39></a>
+
+###### Article L221-10
+
+Le tribunal de police connaît des contraventions de la cinquième classe, sous réserve de la compétence du juge des enfants et
+sans préjudice des autres compétences qui lui sont attribuées par le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-1, alinéa 2 (Ab)
+
+
+#### Chapitre II : Organisation et fonctionnement<a id=40></a>
+
+##### Section 1 : Le service juridictionnel<a id=41></a>
+
+###### Article L222-1
+
+Le tribunal d'instance statue à juge unique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-4 (Ab)
+
+
+###### Article L222-2
+
+Les magistrats du siège qui assurent le service d'un tribunal d'instance peuvent être suppléés en cas de vacance d'emploi,
+d'absence ou d'empêchement, ou remplacés provisoirement, par des magistrats du siège désignés par le président du tribunal de
+grande instance.
+
+Ils peuvent être également chargés du service de tribunaux d'instance limitrophes ayant leur siège dans le ressort du même
+tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-5 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-34 (Ab)
+
+
+##### Section 2 : Le ministère public<a id=42></a>
+
+###### Article L222-3
+
+Le siège du ministère public devant le tribunal de police est occupé par le procureur de la République ou par le commissaire
+de police dans les cas et conditions prévus aux articles 45 à 48 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 15 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 45
+
+
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=43></a>
+
+###### Article L223-1
+
+En matière patrimoniale, le tribunal d'instance connaît, de manière exclusive, de toutes actions réelles et immobilières
+jusqu'à la valeur de 10 000 euros.
+
+Il connaît également, de manière exclusive, de toutes actions personnelles ou mobilières de la valeur de 4 000 euros à la
+valeur de 10 000 euros. Il connaît aussi des demandes indéterminées qui ont pour origine l'exécution d'une obligation dont le
+montant est compris entre 4 000 euros et 10 000 euros.
+
+En matière commerciale, le tribunal d'instance connaît, de manière exclusive, de toutes actions jusqu'à la valeur de 10 000
+euros.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L911-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*911-3 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R223-1 (VT)
+  - Code de la sécurité sociale. - art. R167-7 (V)
+
+
+###### Article L223-2
+
+Les fonctions du tribunal de l'exécution sont exercées par le tribunal d'instance.
+
+Le tribunal de l'exécution connaît :
+
+1° De l'exécution forcée sur les biens immeubles ;
+
+2° De l'administration forcée des immeubles ;
+
+3° De la procédure en matière de purge des hypothèques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L911-3 (Ab)
+
+
+###### Article L223-3
+
+Les fonctions de tribunal pour la navigation du Rhin sont exercées par un tribunal d'instance spécialement désigné,
+conformément à la convention révisée pour la navigation du Rhin, signée à Mannheim le 17 octobre 1868. 
+
+Les fonctions de tribunal de première instance pour la navigation de la Moselle sont exercées par un tribunal d'instance
+spécialement désigné, conformément à la loi n° 66-379 du 15 juin 1966 déterminant, en application de la convention franco-
+luxembourgeoise du 27 octobre 1956, les juridictions compétentes pour la navigation de la Moselle.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-379 du 15 juin 1966
+
+_Anciens textes_:
+
+  - Loi n°66-379 du 15 juin 1966 - art. 2, alinéa 1, ecqc CA (VT)
+  - Loi du 19 mars 1934 - art. 1 (V)
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Cité par_:
+
+  - Code des transports - art. L4261-2 (V)
+  - Code des transports - art. L4262-2 (V)
+
+
+###### Article L223-4
+
+Le service du livre foncier est assuré au sein du tribunal d'instance selon les modalités fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L911-4 (Ab)
+
+
+###### Article L223-5
+
+Le tribunal d'instance connaît :
+
+1° De la tutelle, des administrations légales et des curatelles de droit local ;
+
+2° Du partage judiciaire et de la vente judiciaire d'immeubles, des certificats d'héritier et des scellés ;
+
+3° Des registres des associations et des registres des associations coopératives de droit local.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*911-1 (Ab)
+
+
+###### Article L223-6
+
+Le tribunal d'instance statue à la place du tribunal de grande instance et du président de cette juridiction dans les cas où
+la loi leur donne compétence en matière successorale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*911-2 (Ab)
+
+
+###### Article L223-7
+
+Le juge du tribunal d'instance connaît de la saisie conservatoire prévue à l'article L. 511-51 du code de commerce quel que
+soit le montant des causes de la saisie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Cite_:
+
+  - Code de commerce - art. L511-51
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*911-4 (Ab)
+
+
+### TITRE III : LA JURIDICTION DE PROXIMITÉ<a id=44></a>
+
+#### Chapitre Ier : Institution et compétence<a id=45></a>
+
+###### Article L231-1
+
+La juridiction de proximité statue en première instance en matière civile et pénale.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+
+###### Article L231-2
+
+Il y a au moins une juridiction de proximité dans le ressort de chaque cour d'appel.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-1 (Ab)
+
+
+##### Section 1 : Compétence civile<a id=46></a>
+
+###### Article L231-3
+
+La juridiction de proximité connaît, en matière civile, sous réserve des dispositions législatives ou réglementaires fixant
+la compétence particulière des autres juridictions, des actions personnelles ou mobilières jusqu'à la valeur de 4 000 euros.
+
+Elle connaît des demandes indéterminées qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas 4 000
+euros.
+
+Elle connaît, dans les mêmes limites, en vue de lui donner force exécutoire, de la demande d'homologation du constat d'accord
+formée par les parties, à l'issue d'une tentative préalable de conciliation.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-29-1 (VT)
+  - Code de l'organisation judiciaire - art. R231-3 (VT)
+
+
+###### Article L231-4
+
+Les compétences particulières de la juridiction de proximité sont fixées par décret en Conseil d'État.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2-2 (Ab)
+
+
+###### Article L231-5
+
+Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
+d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
+après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal d'instance qui
+statue en tant que juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-4 (Ab)
+
+
+##### Section 2 : Compétence pénale<a id=47></a>
+
+###### Article L231-6
+
+Les règles concernant la compétence, l'organisation et le fonctionnement de la juridiction de proximité statuant en matière
+pénale sont fixées par le code de procédure pénale et, en ce qui concerne les mineurs, par l'ordonnance n° 45-174 du 2
+février 1945 relative à l'enfance délinquante.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-5, alinéa 1 (Ab)
+
+
+#### Chapitre II : Organisation et fonctionnement<a id=48></a>
+
+##### Section 1 : Le service juridictionnel<a id=49></a>
+
+###### Article L232-1
+
+La juridiction de proximité statue à juge unique.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-7 (Ab)
+
+
+###### Article L232-2
+
+En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
+fonctions de ce juge sont exercées par un juge du tribunal d'instance, désigné à cet effet par le président du tribunal de
+grande instance.
+
+Le juge d'instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de proximité lorsque aucun juge
+de proximité n'a été affecté au sein de la juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-9 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R212-37 (M)
+
+
+##### Section 2 : Le ministère public<a id=50></a>
+
+###### Article L232-3
+
+Le siège du ministère public devant la juridiction de proximité est occupé par le procureur de la République ou par le
+commissaire de police dans les cas et conditions prévus aux articles 45 à 48 du code de procédure pénale.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a  modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet  2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Cite_:
+
+  - Code de procédure pénale - art. 45
+
+
+### TITRE IV : LA COUR D'ASSISES<a id=51></a>
+
+#### Chapitre unique<a id=52></a>
+
+###### Article L241-1
+
+Les règles concernant l'institution, la compétence, l'organisation et le fonctionnement de la cour d'assises sont fixées par
+le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L621-1 (Ab)
+
+
+### TITRE V : LES JURIDICTIONS DES MINEURS<a id=53></a>
+
+#### Chapitre Ier : Le tribunal pour enfants<a id=54></a>
+
+##### Section 1 : Institution et compétence<a id=55></a>
+
+###### Article L251-1
+
+Le tribunal pour enfants connaît, dans les conditions définies par l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante, des contraventions et des délits commis par les mineurs et des crimes commis par les mineurs de seize
+ans.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L521-2 (Ab)
+
+
+###### Article L251-2
+
+Il y a au moins un tribunal pour enfants dans le ressort de chaque cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L521-1 (Ab)
+
+
+##### Section 2 : Organisation et fonctionnement<a id=56></a>
+
+###### Article L251-3
+
+Le tribunal pour enfants est composé d'un juge des enfants, président, et de plusieurs assesseurs.
+
+**Nota:**
+
+Dans sa décision n° 2011-147 QPC du 8 juillet 2011 (NOR : CSCX1119047S) le Conseil constitutionel a déclaré contraire à la
+Constitution l'article L251-3 du code de l'organisation judiciaire. La déclaration d'inconstitutionnalité prévue par
+l'article 1er prend effet au 1er janvier 2013 dans les conditions fixées au considérant 12 de la présente décision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-2 (Ab)
+
+
+###### Article L251-4
+
+Les assesseurs titulaires et suppléants sont choisis parmi les personnes âgées de plus de trente ans, de nationalité
+française et qui se sont signalées par l'intérêt qu'elles portent aux questions de l'enfance et par leurs compétences.
+
+Les assesseurs sont nommés pour quatre ans par le garde des sceaux, ministre de la justice. Leur renouvellement s'opère par
+moitié. Toutefois, en cas de création d'un tribunal pour enfants, d'augmentation ou de réduction du nombre des assesseurs
+dans ces juridictions, ou de remplacement d'un ou de plusieurs de ces assesseurs à une date autre que celle qui est prévue
+pour leur renouvellement, la désignation des intéressés peut intervenir pour une période inférieure à quatre années dans la
+limite de la durée requise pour permettre leur renouvellement par moitié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-3 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R251-7 (VD)
+
+
+###### Article L251-5
+
+Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent serment devant le tribunal de grande instance de
+bien et fidèlement remplir leurs fonctions et de garder religieusement le secret des délibérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-4 (Ab)
+
+
+###### Article L251-6
+
+Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
+successives peuvent, à la demande du juge des enfants ou du ministère public, être déclarés démissionnaires, par décision de
+la cour d'appel.
+
+En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-5 (Ab)
+
+
+#### Chapitre II : Le juge des enfants<a id=57></a>
+
+###### Article L252-1
+
+Il y a au moins un juge des enfants au siège de chaque tribunal pour enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-1 (Ab)
+
+
+###### Article L252-2
+
+Le juge des enfants est compétent en matière d'assistance éducative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 13 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-3 (Ab)
+
+
+###### Article L252-3
+
+Le juge des enfants est compétent en matière d'organisation ou de prolongation d'une action de protection judiciaire à
+l'égard des mineurs émancipés ou des majeurs âgés de vingt et un ans ou moins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L252-4
+
+Le juge des enfants connaît, sous réserve de la compétence du juge des tutelles, de la tutelle aux prestations sociales.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L252-5
+
+En matière pénale, le juge des enfants connaît, dans les conditions définies par l'ordonnance n° 45-174 du 2 février 1945
+relative à l'enfance délinquante, des délits et des contraventions de cinquième classe commis par les mineurs.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-2 (Ab)
+
+
+#### Chapitre IV : La cour d'assises des mineurs<a id=58></a>
+
+###### Article L254-1
+
+Les règles concernant la compétence, l'organisation et le fonctionnement de la cour d'assises des mineurs sont fixées par
+l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante et, en matière de terrorisme, par l'article 706-17
+du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 (V)
+  - Code de procédure pénale - art. 706-17 (VT)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L511-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L511-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-3 (Ab)
+
+
+### TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION<a id=59></a>
+
+#### Chapitre unique<a id=60></a>
+
+###### Article L261-1
+
+Les dispositions particulières relatives à l'institution, la compétence, l'organisation et au fonctionnement des autres
+juridictions d'attribution sont énoncées :
+
+1° Au code de commerce en ce qui concerne le tribunal de commerce ;
+
+2° Au code disciplinaire et pénal de la marine marchande, en ce qui concerne le tribunal maritime commercial ;
+
+3° Au code de l'expropriation pour cause d'utilité publique et aux lois et règlements particuliers en ce qui concerne le juge
+de l'expropriation ;
+
+4° Au code de justice militaire en ce qui concerne les juridictions des forces armées ;
+
+5° Au code de procédure pénale en ce qui concerne le tribunal d'application des peines ;
+
+6° Au code rural en ce qui concerne le tribunal paritaire des baux ruraux ;
+
+7° Au code de la sécurité sociale en ce qui concerne le tribunal des affaires de sécurité sociale, le tribunal du contentieux
+de l'incapacité et la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail ;
+
+8° Au code du travail en ce qui concerne le conseil de prud'hommes ;
+
+9° Au décret du 19 novembre 1859 sur la police de la pêche côtière dans le cinquième arrondissement maritime en ce qui
+concerne les prud'homies de pêche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L123-2 (V)
+  - Code de l'organisation judiciaire - art. L551-1 (VD)
+  - Code de l'organisation judiciaire - art. L561-1 (VD)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L420-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L450-1, ecqc TASS et TCI (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L461-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L630-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L630-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L630-3 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L882-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L882-2 (Ab)
+
+
+## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=61></a>
+
+### TITRE Ier : LA COUR D'APPEL<a id=62></a>
+
+#### Chapitre Ier : Compétence<a id=63></a>
+
+##### Section 1 : Dispositions générales<a id=64></a>
+
+###### Article L311-1
+
+La cour d'appel connaît, sous réserve des compétences attribuées à d'autres juridictions, des décisions judiciaires, civiles
+et pénales, rendues en premier ressort.
+
+La cour d'appel statue souverainement sur le fond des affaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*211-1 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
+
+
+##### Section 2 : Dispositions particulières<a id=65></a>
+
+###### Article L311-2
+
+La cour d'appel connaît des contestations relatives à l'élection du président du tribunal de commerce dans les conditions
+prévues par le code de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-11-1 (VT)
+
+
+###### Article L311-3
+
+La cour d'appel connaît, en ce qui concerne les avocats :
+
+1° Des contestations relatives aux élections au conseil de l'ordre et à l'élection du bâtonnier de l'ordre ;
+
+2° Des recours contre les décisions ou délibérations du conseil de l'ordre ;
+
+3° Des recours contre les décisions des centres de formation professionnelle ;
+
+4° Des recours exercés après arbitrage du bâtonnier pour les litiges nés à l'occasion du contrat de travail des avocats
+salariés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L225-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L225-2 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-12 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
+
+
+###### Article L311-4
+
+La cour d'appel connaît :
+
+1° En ce qui concerne le stage des avoués, des recours contre les décisions de la chambre de la compagnie des avoués ;
+
+2° En ce qui concerne le stage des huissiers de justice, des recours contre les décisions de la chambre départementale des
+huissiers de justice ;
+
+3° En ce qui concerne le stage des notaires, des recours contre les décisions du conseil d'administration du centre de
+formation professionnelle des notaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L311-5
+
+La cour d'appel connaît, en ce qui concerne la discipline des avoués, des commissaires-priseurs judiciaires, des huissiers de
+justice et des notaires, des recours contre les décisions de la chambre de discipline.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L311-6
+
+La cour d'appel connaît des contestations relatives à la régularité des élections des membres des organismes professionnels
+des avoués, des commissaires-priseurs judiciaires, des huissiers de justice et des notaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+##### Section 3 : Dispositions relatives au premier président<a id=66></a>
+
+###### Article L311-7
+
+Le premier président a compétence dans les matières suivantes, sans préjudice des autres compétences qui lui sont attribuées
+par la loi ou le règlement :
+
+1° L'arrêt ou l'octroi de l'exécution provisoire en cas d'appel, conformément au nouveau code de procédure civile ;
+
+2° Le recours contre la décision du bâtonnier prise sur contestation des honoraires d'avocat ;
+
+3° La réparation à raison d'une détention provisoire, conformément au code de procédure pénale ;
+
+4° L'appel des ordonnances du juge des libertés et de la détention en cas de prolongation du maintien en zone d'attente et de
+la rétention, conformément au code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*212-7 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L211-6 (VD)
+  - Code de l'organisation judiciaire - art. L314-2 (VT)
+  - Code de l'organisation judiciaire - art. L522-11-1 (VT)
+
+
+##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=67></a>
+
+###### Article L311-8
+
+Les règles relatives à la compétence de la chambre de l'instruction, de la chambre de l'application des peines et de la
+chambre des appels correctionnels sont fixées par le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L224-1, ecqc compétence (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L612-1, ecqc compétence (Ab)
+
+
+###### Article L311-9
+
+Les règles relatives à la compétence de la chambre de l'expropriation sont fixées par le code de l'expropriation pour cause
+d'utilité publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6 (VD)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L222-1 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
+
+
+##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=68></a>
+
+###### Article L311-10
+
+Des cours d'appel spécialement désignées connaissent des recours contre les décisions du directeur de l'Institut national de
+la propriété industrielle dans les cas et conditions prévus par le code de la propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L311-11
+
+Une cour d'appel spécialement désignée connaît des recours contre :
+
+1° Les décisions du Conseil de la concurrence, dans les cas et conditions prévus par le code de commerce ;
+
+2° Les décisions de portée individuelle de l'Autorité des marchés financiers, dans les cas et conditions prévus par le code
+monétaire et financier ;
+
+3° Les décisions du Comité de la protection des obtentions végétales, dans les cas et conditions prévus par le code de la
+propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L311-12
+
+Une cour d'appel spécialement désignée connaît des actions, engagées en matière d'indemnisation des victimes de préjudices
+résultant de la contamination par le virus d'immunodéficience humaine, contre l'Office national d'indemnisation des accidents
+médicaux, des affections iatrogènes et des infections nosocomiales, dans les cas et conditions prévus par le code de la santé
+publique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2006-504 du 3 mai 2006 - art. 54 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L231-5 (V)
+  - Code général des collectivités territoriales - art. L1617-5 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L311-13
+
+Une cour d'appel spécialement désignée connaît des recours contre les décisions prises par l'Autorité de régulation des
+communications électroniques et des postes dans les cas et conditions prévus par le code des postes et des communications
+électroniques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L311-14
+
+Une cour d'appel spécialement désignée connaît :
+
+1° Des contestations relatives à l'élection des membres du Conseil national des barreaux et des membres du bureau de ce
+conseil ;
+
+2° Des recours contre les décisions individuelles prises par le Conseil national des barreaux ;
+
+3° Des recours contre les décisions prises par les commissions nationales en matière d'inscription, de retrait ou de
+discipline des administrateurs judiciaires, des mandataires judiciaires au redressement et à la liquidation des entreprises
+et des experts en diagnostic d'entreprise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+#### Chapitre II : Organisation et fonctionnement<a id=69></a>
+
+##### Section 1 : Les formations de la cour d'appel<a id=70></a>
+
+##### Sous-section 1 : Dispositions générales<a id=71></a>
+
+###### Article L312-1
+
+La cour d'appel statue en formation collégiale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L312-2
+
+La formation de jugement de la cour d'appel se compose d'un président et de plusieurs conseillers.
+
+Aux audiences solennelles, la cour est présidée par le premier président et comprend en outre des conseillers appartenant à
+plusieurs chambres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-2, alinéa 1 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
+  - Code de l'organisation judiciaire - art. L522-19 (VT)
+  - Code monétaire et financier - art. L312-4 (VD)
+
+
+###### Article L312-3
+
+Les avocats dans l'ordre du tableau et, après eux, les avoués selon la date de leur réception, peuvent être appelés à
+suppléer les conseillers pour compléter la cour d'appel.
+
+Toutefois, la formation de jugement de la cour d'appel ne peut comprendre, en matière pénale, une majorité de juges non
+professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-2 (Ab)
+
+
+##### Sous-section 2 : Dispositions particulières à certaines formations<a id=72></a>
+
+###### Article L312-4
+
+Les règles relatives à l'organisation et au fonctionnement de la chambre de l'instruction, de la chambre de l'application des
+peines et de la chambre des appels correctionnels sont fixées par le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L224-1, ecqc organisation et fonctionnement (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L612-1, ecqc organisation et fonctionnement (Ab)
+
+
+###### Article L312-5
+
+Les règles relatives à l'organisation et au fonctionnement de la chambre de l'expropriation sont fixées par le code de
+l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 6 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L222-2 (Ab)
+
+
+###### Article L312-6
+
+Un magistrat qui prend le nom de délégué à la protection de l'enfance est désigné au sein de chaque cour d'appel. 
+
+Ce magistrat préside la chambre spéciale des mineurs ou y exerce les fonctions de rapporteur. 
+
+Il siège comme membre de la chambre de l'instruction dans les cas mentionnés à l'article 23 de l'ordonnance n° 45-174 du 2
+février 1945. 
+
+Il siège également dans la formation de la cour d'appel qui statue sur les recours formés contre les décisions rendues en
+première instance sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement
+illicite international d'enfants.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 23 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-2, alinéa 1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-3 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L226-1, alinéa 1 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
+  - Code de l'organisation judiciaire - art. L522-15 (VT)
+
+
+##### Section 2 : Le parquet général<a id=73></a>
+
+###### Article L312-7
+
+Le procureur général représente en personne, ou par ses substituts, le ministère public près la cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-4 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
+
+
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=74></a>
+
+###### Article L313-1
+
+Une cour d'appel spécialement désignée exerce les fonctions de tribunal d'appel pour la navigation du Rhin et connaît des
+recours contre les décisions du tribunal pour la navigation du Rhin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Code des transports - art. L4261-4 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-24 (Ab)
+
+_Anciens textes_:
+
+  - Loi du 19 mars 1934 - art. 3 (V)
+
+
+###### Article L313-2
+
+Une cour d'appel spécialement désignée exerce les fonctions de tribunal d'appel pour la navigation de la Moselle et connaît
+des recours contre les décisions du tribunal de première instance pour la navigation de la Moselle.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-379 du 15 juin 1966 - art. 2 (VT)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Code des transports - art. L4262-3 (V)
+  - Code des transports - art. L4262-4 (V)
+
+
+### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL<a id=75></a>
+
+#### Chapitre unique<a id=76></a>
+
+###### Article L321-1
+
+Les règles relatives à l'institution, la compétence, l'organisation et au fonctionnement de la cour d'assises statuant en
+appel sont fixées par le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL<a id=77></a>
+
+#### Chapitre unique<a id=78></a>
+
+###### Article L331-1
+
+Les règles concernant l'institution, la compétence, l'organisation et le fonctionnement de la Cour nationale de l'incapacité
+et de la tarification de l'assurance des accidents du travail sont fixées par le code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 12
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L450-1, ecqc CNITAAT (Ab)
+
+
+## LIVRE IV : LA COUR DE CASSATION<a id=79></a>
+
+### TITRE Ier : INSTITUTION ET COMPÉTENCE<a id=80></a>
+
+#### Chapitre unique<a id=81></a>
+
+###### Article L411-1
 
 Il y a, pour toute la République, une Cour de cassation.
 
@@ -424,26 +3872,21 @@ Il y a, pour toute la République, une Cour de cassation.
 
 _Codifié par_:
 
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
 
-_Abrogé par_:
+_Créé par_:
 
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L411-1 (V)
-
 _Anciens textes_:
 
-  - Loi n°1790-11-27 art. 1
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-1 (Ab)
 
 
-###### Article L111-2
+###### Article L411-2
 
-La Cour de cassation statue sur les pourvois en cassation formés contre les jugements en dernier ressort rendus par les
-juridictions de l'ordre judiciaire. 
+La Cour de cassation statue sur les pourvois en cassation formés contre les arrêts et jugements rendus en dernier ressort par
+les juridictions de l'ordre judiciaire.
 
 La Cour de cassation ne connaît pas du fond des affaires, sauf disposition législative contraire.
 
@@ -451,82 +3894,4700 @@ La Cour de cassation ne connaît pas du fond des affaires, sauf disposition lég
 
 _Codifié par_:
 
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
 
-_Anciens textes_:
-
-  - Loi n°1790-11-27 art. 2, art. 3
-
-_Abrogé par_:
+_Créé par_:
 
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L411-2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-2 (Ab)
 
 
-###### Article L111-3
+###### Article L411-3
 
-La compétence de la chambre criminelle est déterminée par les articles 567 et suivants du Code de procédure pénale et par les
-lois spéciales qui la prévoient ou l'impliquent.
+La Cour de cassation peut casser sans renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond.
+
+Elle peut aussi, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été souverainement constatés
+et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée.
+
+En ces cas, elle se prononce sur la charge des dépens afférents aux instances civiles devant les juges du fond.
+
+L'arrêt emporte exécution forcée.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
 
-_Abrogé par_:
+_Créé par_:
 
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
-_Cite_:
-
-  - Code de procédure pénale 567 et s.
-
 _Anciens textes_:
 
-  - Code de procédure pénale 567 et s.
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-5 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc art. L131-5 (Ab)
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-4 (V)
+  - Code de procédure civile - art. 627 (V)
 
 
-###### Article L111-4
+###### Article L411-4
 
-Ainsi qu'il est dit au I de l'article 2 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires, "il est établi
-pour l'information des juges une liste nationale des experts judiciaires, dressée par le bureau de la Cour de cassation".
+Ainsi qu'il est dit à l'article 11-1 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut
+de la magistrature, l'action récursoire contre les magistrats ayant commis une faute personnelle se rattachant au service
+public de la justice est exercée devant une chambre civile de la Cour de cassation.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°71-498 du 29 juin 1971 - art. 2 (M)
-
-_Anciens textes_:
-
-  - Loi n°71-498 du 29 juin 1971 - art. 2 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*711-1 al 2 (Ab)
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 11-1 (V)
 
 _Codifié par_:
 
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+### TITRE II : ORGANISATION<a id=82></a>
+
+#### Chapitre unique<a id=83></a>
+
+###### Article L421-1
+
+La Cour de cassation comprend des chambres civiles et une chambre criminelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (Ab)
+
+
+###### Article L421-2
+
+Les pourvois formés à l'encontre des arrêts et jugements rendus en dernier ressort en matière pénale sont portés devant la
+chambre criminelle dans les conditions prévues au code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-3 (Ab)
+
+
+###### Article L421-3
+
+Les arrêts de la Cour de cassation sont rendus soit par l'une des chambres, soit par une chambre mixte, soit par l'assemblée
+plénière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-4, alinéa 1 (Ab)
+
+
+###### Article L421-4
+
+Lorsqu'une chambre mixte doit être constituée, elle est composée de magistrats appartenant à trois chambres au moins de la
+cour.
+
+La chambre mixte est présidée par le premier président, ou, en cas d'empêchement de celui-ci, par le plus ancien des
+présidents de chambre.
+
+Elle comprend, en outre, les présidents et doyens des chambres qui la composent ainsi que deux conseillers de chacune de ces
+chambres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-5 (Ab)
+
+
+###### Article L421-5
+
+L'assemblée plénière est présidée par le premier président, ou, en cas d'empêchement de celui-ci, par le plus ancien des
+présidents de chambre.
+
+Elle comprend, en outre, les présidents et les doyens des chambres ainsi qu'un conseiller de chaque chambre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-6 (Ab)
+
+
+###### Article L421-6
+
+Les dispositions de l'article L. 121-2 ne sont pas applicables à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2 (V)
+
+
+###### Article L421-7
+
+Un ou plusieurs avocats généraux à la Cour d'appel de Paris peuvent, par décret, être délégués à la Cour de cassation pour
+exercer les fonctions du ministère public près cette juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2, phrase 1 (Ab)
+
+
+###### Article L421-8
+
+Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 2 (Ab)
+
+
+### TITRE III : FONCTIONNEMENT<a id=84></a>
+
+#### Chapitre Ier : Les chambres de la cour<a id=85></a>
+
+##### Section 1 : Dispositions générales<a id=86></a>
+
+###### Article L431-1
+
+Les affaires soumises à une chambre civile sont examinées par une formation de trois magistrats appartenant à la chambre à
+laquelle elles ont été distribuées.
+
+Cette formation statue lorsque la solution du pourvoi s'impose. Dans le cas contraire, elle renvoie l'examen du pourvoi à
+l'audience de la chambre.
+
+Toutefois, le premier président ou le président de la chambre concernée, ou leurs délégués, d'office ou à la demande du
+procureur général ou de l'une des parties, peuvent renvoyer directement une affaire à l'audience de la chambre par décision
+non motivée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-6, alinéas 1, 2 et 3, ecqc organisation judiciaire (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R*461-1 (V)
+  - Code de l'organisation judiciaire - art. R421-3 (V)
+
+
+###### Article L431-2
+
+En matière pénale, les dispositions relatives à la formation d'admission des pourvois sont fixées par le code de procédure
+pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-6, alinéa 4 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R421-3 (V)
+
+
+###### Article L431-3
+
+Les conseillers référendaires siègent, avec voix consultative, dans la chambre à laquelle ils sont affectés. Ils ont voix
+délibérative dans le jugement des affaires qu'ils sont chargés de rapporter.
+
+En outre, des conseillers référendaires pris par ordre d'ancienneté dans leurs fonctions peuvent, avec voix délibérative,
+être appelés à compléter la chambre à laquelle ils appartiennent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-7 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-7 (V)
+
+
+###### Article L431-4
+
+En cas de cassation, l'affaire est renvoyée, sous réserve des dispositions de l'article L. 411-3, devant une autre
+juridiction de même nature que celle dont émane l'arrêt ou le jugement cassé ou devant la même juridiction composée d'autres
+magistrats. 
+
+Lorsque le renvoi est ordonné par l'assemblée plénière, la juridiction de renvoi doit se conformer à la décision de cette
+assemblée sur les points de droit jugés par celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-4 (Ab)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L411-3 (V)
+
+_Cité par_:
+
+  - Code de procédure civile - art. 626 (V)
+
+
+##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=87></a>
+
+###### Article L431-5
+
+Le renvoi devant une chambre mixte peut être ordonné lorsqu'une affaire pose une question relevant normalement des
+attributions de plusieurs chambres ou si la question a reçu ou est susceptible de recevoir devant les chambres des solutions
+divergentes ; il doit l'être en cas de partage égal des voix.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-2, alinéa 1 (Ab)
+
+
+###### Article L431-6
+
+Le renvoi devant l'assemblée plénière peut être ordonné lorsque l'affaire pose une question de principe, notamment s'il
+existe des solutions divergentes soit entre les juges du fond, soit entre les juges du fond et la Cour de cassation ; il doit
+l'être lorsque, après cassation d'un premier arrêt ou jugement, la décision rendue par la juridiction de renvoi est attaquée
+par les mêmes moyens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-2, alinéa 2 (Ab)
+
+
+###### Article L431-7
+
+Le renvoi devant une chambre mixte ou devant l'assemblée plénière est décidé soit, avant l'ouverture des débats, par
+ordonnance non motivée du premier président, soit par arrêt non motivé de la chambre saisie.
+
+Le renvoi est de droit lorsque le procureur général le requiert avant l'ouverture des débats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-3, alinéas 1 à 4 (Ab)
+
+
+###### Article L431-8
+
+En cas d'empêchement de l'un des membres, il est remplacé par un conseiller désigné par le premier président ou, à défaut de
+celui-ci, par le président de chambre qui le remplace.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-6-2 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-13 (V)
+
+
+###### Article L431-9
+
+La chambre mixte et l'assemblée plénière se prononcent sur le pourvoi même si les conditions de leur saisine n'étaient pas
+réunies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-2, alinéa 3 (Ab)
+
+
+###### Article L431-10
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et chambres (Ab)
+
+
+#### Chapitre II : Le parquet général<a id=88></a>
+
+###### Article L432-1
+
+Le procureur général porte la parole aux audiences des chambres mixtes et de l'assemblée plénière ainsi que dans les
+assemblées générales de la cour. 
+
+Il peut la porter aux audiences des chambres et devant la formation prévue à l'article L. 441-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-1 (Ab)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-2 (V)
+
+
+###### Article L432-2
+
+En cas d'empêchement du procureur général, celui-ci est remplacé pour les actes de ses fonctions par le premier avocat
+général ou, à défaut, par un avocat général désigné par le procureur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L432-3
+
+Les avocats généraux portent la parole, au nom du procureur général, devant les chambres auxquelles ils sont affectés.
+
+Ils peuvent être désignés par le procureur général pour la porter également devant les autres formations de la cour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L432-4
+
+Lorsque l'empêchement d'un avocat général est de longue durée, le premier président et le procureur général peuvent, par une
+décision conjointe, déléguer un conseiller dans les fonctions d'avocat général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-4 (Ab)
+
+
+###### Article L432-5
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et parquet général (Ab)
+
+
+### TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION<a id=89></a>
+
+#### Chapitre unique<a id=90></a>
+
+###### Article L441-1
+
+Avant de statuer sur une question de droit nouvelle, présentant une difficulté sérieuse et se posant dans de nombreux
+litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours, solliciter l'avis de la
+Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-1, alinéa 1, jusqu'à "cassation" (Ab)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. L190 (VD)
+
+
+###### Article L441-2
+
+La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président ou, en cas
+d'empêchement, par le président de chambre le plus ancien.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-2, alinéa 1 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-1 (M)
+
+
+###### Article L441-3
+
+L'avis rendu ne lie pas la juridiction qui a formulé la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-1, alinéa 3, phrase 1 (Ab)
+
+
+###### Article L441-4
+
+Les modalités d'application du présent titre sont fixées, en ce qui concerne les juridictions autres que pénales, par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-3 (Ab)
+
+
+### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION<a id=91></a>
+
+#### Chapitre unique<a id=92></a>
+
+###### Article L451-1
+
+Les règles relatives à l'institution, à la compétence, à l'organisation et au fonctionnement de la Commission nationale de
+réparation des détentions, de la commission de révision des décisions pénales, de la commission de réexamen d'une décision
+pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme et de la commission d'examen des recours
+en matière de discipline des officiers de police judiciaire sont fixées par le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-2 (Ab)
+
+
+###### Article L451-2
+
+Les règles relatives à l'institution, à la compétence, à l'organisation et au fonctionnement de la cour de révision sont
+fixées par le code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À MAYOTTE, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES, À LA POLYNÉSIE FRANçAISE ET À LA NOUVELLE-CALÉDONIE<a id=93></a>
+
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=94></a>
+
+#### Chapitre Ier : Dispositions générales<a id=95></a>
+
+###### Article L511-1
+
+Pour l'application à Saint-Pierre-et-Miquelon du présent code (partie Législative), il y a lieu de lire :
+
+1° " tribunal supérieur d'appel " à la place de : " cour d'appel " ;
+
+2° " tribunal de première instance " à la place de : " tribunal de grande instance " ou de : " tribunal d'instance " ;
+
+3° " président du tribunal supérieur d'appel " à la place de :
+
+" premier président de la cour d'appel " ;
+
+4° " procureur de la République près le tribunal supérieur d'appel " à la place de : " procureur général près la cour d'appel
+" et de : " procureur de la République près le tribunal de grande instance ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-13 (Ab)
+
+
+#### Chapitre II : Des fonctions judiciaires<a id=96></a>
+
+###### Article L512-1
+
+Les fonctions judiciaires à Saint-Pierre-et-Miquelon sont exercées :
+
+1° Par des magistrats du corps judiciaire ;
+
+2° Par des assesseurs au tribunal supérieur d'appel et au tribunal criminel ;
+
+3° Par des suppléants du procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-1 (V)
+
+
+###### Article L512-2
+
+Les personnes appelées à exercer l'une des fonctions judiciaires mentionnées aux 2° et 3° de l'article L. 512-1 sont choisies
+parmi les personnes de nationalité française, âgées de plus de vingt-trois ans, jouissant des droits civiques, civils et de
+famille et présentant des garanties de compétence et d'impartialité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-6 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L512-1
+
+
+###### Article L512-3
+
+Les assesseurs au tribunal supérieur d'appel et les suppléants du procureur de la République sont désignés pour deux ans par
+le garde des sceaux, ministre de la justice.
+
+Les assesseurs sont désignés sur proposition du président du tribunal supérieur d'appel, après avis du procureur de la
+République.
+
+Les suppléants sont désignés sur proposition du procureur de la République, après avis du président du tribunal supérieur
+d'appel.
+
+Avant d'entrer en fonctions, les assesseurs et les suppléants du procureur de la République prêtent devant le tribunal
+supérieur d'appel le serment prévu à l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique
+relative au statut de la magistrature.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-4 (V)
+
+
+###### Article L512-4
+
+Les assesseurs au tribunal supérieur d'appel et les suppléants du procureur de la République peuvent, avant l'expiration de
+la période de deux ans prévue à l'article L. 512-3, être relevés de leurs fonctions, par arrêté du garde des sceaux, ministre
+de la justice, sur leur demande.
+
+Les assesseurs au tribunal supérieur d'appel peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
+de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 512-3, par décision du premier
+président de la cour d'appel de Paris, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils
+peuvent, selon les mêmes formes, à la demande du président du tribunal supérieur d'appel, être déclarés démissionnaires
+lorsque, sans motif légitime, ils se sont abstenus de déférer à plus de deux convocations successives.
+
+Les suppléants du procureur de la République peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
+de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 512-3, par arrêté du garde des sceaux,
+ministre de la justice, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils peuvent, selon les
+mêmes formes, à la demande du procureur de la République, être déclarés démissionnaires lorsque, sans motif légitime, ils se
+sont abstenus de déférer à plus de deux convocations successives. Dans les mêmes conditions et selon les mêmes formes, il
+peut également être mis fin à leurs fonctions pour les nécessités du service.
+
+Dans tous les cas, l'avis du président du tribunal supérieur d'appel et celui du procureur de la République sont nécessaires
+lorsque la décision n'intervient pas sur leur demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L512-3
+
+
+#### Chapitre III : Des juridictions<a id=97></a>
+
+##### Section 1 : Le tribunal de première instance<a id=98></a>
+
+###### Article L513-1
+
+Le tribunal de première instance connaît de toutes les affaires pour lesquelles compétence n'est pas attribuée à une autre
+juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-4 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (M)
+
+
+###### Article L513-2
+
+Le tribunal de première instance statue à juge unique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-5 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (M)
+
+
+###### Article L513-3
+
+En cas de vacance des postes de magistrat au tribunal de première instance, d'absence, d'empêchement ou d'incompatibilité
+légale, les fonctions de magistrat dans cette juridiction sont exercées par le président du tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-4 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (M)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-6 (Ab)
+
+
+###### Article L513-4
+
+I. – Si, pour l'une des causes énoncées à l'article L. 513-3, le président du tribunal supérieur d'appel ne peut intervenir,
+les fonctions de magistrat du tribunal de première instance sont alors assurées par un magistrat du siège désigné par le
+premier président de la cour d'appel de Paris sur une liste arrêtée par lui pour chaque année civile.
+
+II. – Lorsque la venue du magistrat assurant le remplacement n'est pas matériellement possible, soit dans les délais
+prescrits par la loi, soit dans les délais exigés par la nature de l'affaire, l'audience est présidée par ce magistrat depuis
+un autre point du territoire de la République, ce dernier se trouvant relié, en direct, à la salle d'audience, par un moyen
+de communication audiovisuelle.
+
+Les modalités d'application de l'alinéa qui précède sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Arrêté du 22 décembre 2008 - art. 1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-3 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7, I et II (Ab)
+
+
+###### Article L513-5
+
+Le président du tribunal de première instance exerce les fonctions de juge des enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-8 (Ab)
+
+
+##### Section 2 : Le tribunal supérieur d'appel<a id=99></a>
+
+###### Article L513-6
+
+Le tribunal supérieur d'appel statuant en formation collégiale comprend un président, magistrat du siège, et des assesseurs
+choisis parmi les personnes mentionnées à l'article L. 512-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-2 (V)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-8 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-9 (Ab)
+
+
+###### Article L513-7
+
+En cas de vacance du poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président du tribunal
+supérieur d'appel sont exercées par le président du tribunal de première instance ou, à défaut, par un juge de ce tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-8 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-10 (Ab)
+
+
+###### Article L513-8
+
+I. – Si, pour l'une des causes énoncées à l'article L. 513-7, aucun magistrat du siège du tribunal de première instance ne
+peut remplacer le président du tribunal supérieur d'appel, ses fonctions sont assurées par un magistrat du siège désigné par
+le premier président de la cour d'appel de Paris sur une liste arrêtée par lui pour chaque année civile.
+
+II. – Lorsque la venue du magistrat assurant le remplacement n'est pas matériellement possible, soit dans les délais
+prescrits par la loi, soit dans les délais exigés par la nature de l'affaire, l'audience est présidée par le magistrat depuis
+un autre point du territoire de la République, ce dernier se trouvant relié, en direct, à la salle d'audience, par un moyen
+de communication audiovisuelle.
+
+Lorsque l'audience est collégiale, par dérogation aux dispositions de l'article L. 513-6, la formation de jugement est
+composée de magistrats, figurant sur la liste prévue au I ci-dessus, reliés à la salle d'audience selon le même procédé.
+
+Les modalités d'application des deux alinéas précédents sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Arrêté du 22 décembre 2008 - art. 1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-9 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-6 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-7 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 I et II (Ab)
+
+
+###### Article L513-9
+
+Le président du tribunal supérieur d'appel exerce les fonctions de délégué à la protection de l'enfance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-12 (Ab)
+
+
+###### Article L513-10
+
+Le procureur de la République près le tribunal supérieur d'appel peut, en toutes matières, exercer le ministère public devant
+toutes juridictions du premier degré établies dans son ressort.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-2 (Ab)
+
+
+###### Article L513-11
+
+En cas d'empêchement, quelle qu'en soit la cause, le procureur de la République est remplacé par l'un de ses suppléants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Arrêté du 22 décembre 2008 - art. 1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+
+### TITRE II : DISPOSITIONS APPLICABLES À MAYOTTE<a id=100></a>
+
+#### Chapitre Ier : Dispositions générales<a id=101></a>
+
+###### Article L521-1
+
+Le livre Ier du présent code est applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+###### Article L521-2
+
+Pour l'application des dispositions étendues par le présent titre à Mayotte, il y a lieu de lire :
+
+1° " tribunal supérieur d'appel " à la place de : " cour d'appel " ;
+
+2° " tribunal de première instance " à la place de : " tribunal de grande instance " et de : " tribunal d'instance " ;
+
+3° " président du tribunal supérieur d'appel " à la place de :
+
+" premier président de la cour d'appel " ;
+
+4° " procureur de la République près le tribunal supérieur d'appel " à la place de : " procureur général " ;
+
+5° " procureur de la République près le tribunal de première instance " à la place de : " procureur de la République ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+
+#### Chapitre II : Des juridictions<a id=102></a>
+
+##### Section 1 : Le tribunal de première instance<a id=103></a>
+
+###### Article L522-1
+
+A Mayotte, la juridiction du premier degré est dénommée tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-1 (Ab)
+
+
+###### Article L522-2
+
+Le tribunal de première instance connaît de toutes les affaires relevant du droit commun pour lesquelles compétence n'est pas
+attribuée, en raison de la nature de la demande, à une autre juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-1 (Ab)
+
+
+###### Article L522-3
+
+Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2009-594 du 27 mai 2009 - art. 66 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-2 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-11-2 (VT)
+
+
+###### Article L522-4
+
+Le tribunal de première instance exerce les compétences dévolues en métropole au tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-3 (Ab)
+
+
+###### Article L522-5
+
+En matière civile, commerciale et de sécurité sociale, le tribunal de première instance statue à juge unique.
+
+Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale du tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-5, alinéas 1 et 2 (Ab)
+
+
+###### Article L522-6
+
+Lorsqu'il statue en formation collégiale, le tribunal de première instance est composé d'un magistrat du siège, président du
+tribunal, et d'assesseurs choisis parmi les personnes mentionnées à l'article L. 522-20.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-6 (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L522-20
+
+
+###### Article L522-7
+
+Les articles L. 522-21 et L. 522-23 à L. 522-26 sont applicables au tribunal de première instance, sous réserve des
+adaptations suivantes : 
+
+1° Pour l'application de l'article L. 522-21, la liste des assesseurs est arrêtée sur proposition du président du tribunal
+supérieur d'appel après avis du procureur de la République et du président du tribunal de première instance ; 
+
+2° Pour l'application de l'article L. 522-23, l'assesseur suppléant est désigné, dans l'ordre de la liste, par le président
+du tribunal de première instance ; 
+
+3° Pour l'application de l'article L. 522-26, la démission ou la déchéance des assesseurs titulaires ou suppléants est
+prononcée par le tribunal supérieur d'appel, statuant en chambre du conseil, à la demande du président du tribunal de
+première instance ou du ministère public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-7 (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L522-21
+  - Code de l'organisation judiciaire - art. L522-23
+  - Code de l'organisation judiciaire - art. L522-26
+
+
+###### Article L522-8
+
+En cas d'absence ou d'empêchement, les magistrats du siège du tribunal de première instance peuvent être remplacés par un
+assesseur titulaire désigné, dans l'ordre de la liste, par ordonnance du président du tribunal de première instance ou, à
+défaut d'une telle désignation, par l'assesseur titulaire non empêché le plus âgé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-8 (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*522-4 (Ab)
+
+
+###### Article L522-9
+
+Les fonctions d'assesseur au tribunal de première instance sont incompatibles avec celles d'assesseur au tribunal supérieur
+d'appel ou au tribunal pour enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-9 (Ab)
+
+
+###### Article L522-10
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement des juridictions d'instruction et de jugement en
+matière pénale sont fixées par les dispositions de procédure pénale applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-10 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-11 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-12 (Ab)
+
+
+##### Section 2 : Le tribunal supérieur d'appel<a id=104></a>
+
+###### Article L522-11
+
+Il y a à Mayotte un tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-1 (Ab)
+
+
+###### Article L522-12
+
+Le tribunal supérieur d'appel connaît de l'appel des jugements rendus en premier ressort par les juridictions instituées à
+Mayotte ainsi que des recours mentionnés à l'article L. 311-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L311-3
+
+
+###### Article L522-13
+
+Le tribunal supérieur d'appel statue en formation collégiale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+
+###### Article L522-14
+
+La formation collégiale du tribunal supérieur d'appel se compose d'un président et de magistrats du siège.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-19 (V)
+
+
+###### Article L522-15
+
+Les dispositions de l'article L. 312-6 relatives à la protection de l'enfance sont applicables à Mayotte.
+
+Pour l'application de l'article L. 312-6, le président du tribunal supérieur d'appel exerce les fonctions de délégué à la
+protection de l'enfance. Toutefois, le président du tribunal supérieur d'appel peut, par ordonnance, désigner un magistrat du
+siège de sa juridiction pour exercer ces fonctions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - Code de l'organisation judiciaire L312-6
+
+
+###### Article L522-16
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement des juridictions d'instruction et de jugement en
+matière pénale sont fixées par les dispositions de procédure pénale applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-8 (Ab)
+
+
+###### Article L522-17
+
+En cas d'absence ou d'empêchement, le président du tribunal supérieur d'appel est remplacé, pour les besoins du service, par
+un magistrat du siège du tribunal supérieur d'appel ou, à défaut, par le président du tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-9 (Ab)
+
+
+###### Article L522-18
+
+En cas d'absence ou d'empêchement, les magistrats du siège du tribunal supérieur d'appel, à l'exception du président de cette
+juridiction, sont remplacés, pour les besoins du service, par des magistrats du siège du tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-10 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-19 (VT)
+
+
+###### Article L522-19
+
+Lorsque le tribunal supérieur d'appel ne peut être composé conformément aux articles L. 522-14 et L. 522-18, il est complété
+par des assesseurs désignés par ordonnance du président du tribunal supérieur d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-14 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-18 (V)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-22 (VT)
+
+
+###### Article L522-20
+
+Les assesseurs titulaires et suppléants sont choisis, pour une durée de deux ans, parmi les personnes de nationalité
+française, âgées de plus de vingt-trois ans, jouissant des droits civiques, civils et de famille et présentant des garanties
+de compétence et d'impartialité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-12 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-6 (VT)
+  - Code de l'organisation judiciaire - art. R522-12 (Ab)
+
+
+###### Article L522-21
+
+Avant l'expiration des fonctions des assesseurs en exercice, le garde des sceaux, ministre de la justice, arrête la liste des
+assesseurs titulaires et suppléants.
+
+Les assesseurs sont choisis sur proposition du président du tribunal supérieur d'appel après avis du procureur de la
+République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-13 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-22 (VT)
+  - Code de l'organisation judiciaire - art. L522-23 (VT)
+  - Code de l'organisation judiciaire - art. L522-7 (VT)
+
+
+###### Article L522-22
+
+Les assesseurs appelés à remplacer les magistrats du siège du tribunal supérieur d'appel en application de l'article L.
+522-19 sont désignés dans l'ordre de la liste d'assesseurs prévue à l'article L. 522-21.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-14 (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L522-19
+  - Code de l'organisation judiciaire - art. L522-21
+
+
+###### Article L522-23
+
+Lorsqu'un assesseur titulaire est absent ou empêché, il est remplacé par l'un de ses suppléants appelés dans l'ordre de la
+liste d'assesseurs prévue à l'article L. 522-21.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-15 (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L522-21
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-7 (VT)
+
+
+###### Article L522-24
+
+Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent devant le tribunal supérieur d'appel le serment
+prévu à l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la
+magistrature.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-17 (Ab)
+
+
+###### Article L522-25
+
+Les assesseurs restent en fonctions jusqu'à l'installation de leurs successeurs. Toutefois, la prorogation de leurs fonctions
+ne peut excéder une période de deux mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-18 (Ab)
+
+
+###### Article L522-26
+
+Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
+successives peuvent, à la demande du président du tribunal supérieur d'appel ou du ministère public, après avoir été
+convoqués et mis en mesure de présenter leurs observations, être déclarés démissionnaires par le garde des sceaux, ministre
+de la justice.
+
+En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-20 (Ab)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L522-7 (VT)
+
+
+###### Article L522-27
+
+Les fonctions d'assesseur au tribunal supérieur d'appel sont incompatibles avec celles d'assesseur au tribunal de première
+instance ou au tribunal pour enfants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-21 (Ab)
+
+
+##### Section 3 : La juridiction de proximité<a id=105></a>
+
+###### Article L522-28
+
+Il y a à Mayotte une juridiction de proximité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-12-1, alinéa 1, ecqc L331-1 (Ab)
+
+
+###### Article L522-29
+
+En matière civile, la juridiction de proximité connaît des actions personnelles mobilières dont elle est saisie par une
+personne physique pour les besoins de sa vie non professionnelle, jusqu'à la valeur de 250 euros ou d'une valeur indéterminée
+mais qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas 250 euros.
+
+Elle connaît des procédures d'injonction de payer ou de faire, dans les conditions prévues au premier alinéa.
+
+Elle connaît aussi, dans les mêmes conditions, en vue de lui donner force exécutoire, de la demande d'homologation du constat
+d'accord formée par les parties, à l'issue d'une tentative préalable de conciliation menée en application de l'article 21 de
+la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et
+administrative.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°95-125 du 8 février 1995 - art. 21
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+
+###### Article L522-30
+
+Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
+d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
+après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal de première
+instance qui statue en tant que juridiction de proximité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+
+###### Article L522-31
+
+La juridiction de proximité statue à juge unique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+
+###### Article L522-32
+
+En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
+fonctions de ce juge sont exercées par un juge du tribunal de première instance désigné à cet effet par le président de ce
+tribunal.
+
+Le juge du tribunal de première instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de
+proximité lorsque aucun juge de proximité n'a été affecté au sein de la juridiction de proximité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+
+##### Section 4 : Les juridictions des mineurs<a id=106></a>
+
+###### Article L522-33
+
+Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables à
+Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 1 (V)
+
+
+###### Article L522-34
+
+Les fonctions d'assesseur au tribunal pour enfants sont incompatibles avec celles d'assesseur au tribunal supérieur d'appel
+ou au tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L944-3 (Ab)
+
+
+##### Section 5 : La cour criminelle<a id=107></a>
+
+###### Article L522-35
+
+Il y a à Mayotte une cour criminelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L945-1 (Ab)
+
+
+###### Article L522-36
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement de la cour criminelle ainsi que celles relatives au
+ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L945-2 (Ab)
+
+
+#### Chapitre III : Du greffe<a id=108></a>
+
+###### Article L523-1
+
+Le service des greffes du tribunal supérieur d'appel et du tribunal de première instance est assuré par des fonctionnaires de
+l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires des cadres
+territoriaux ou des agents territoriaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L946-1 (Ab)
+
+
+### TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA<a id=109></a>
+
+#### Chapitre Ier : Dispositions générales<a id=110></a>
+
+###### Article L531-1
+
+Le livre Ier du présent code est applicable à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-16, ecqc WF (Ab)
+
+
+###### Article L531-2
+
+Pour l'application des dispositions étendues par le présent titre à Wallis-et-Futuna, il y a lieu de lire : " tribunal de
+première instance " à la place de : " tribunal de grande instance " et de : " tribunal d'instance ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc WF (Ab)
+
+
+#### Chapitre II : Des juridictions<a id=111></a>
+
+##### Section 1 : Le tribunal de première instance<a id=112></a>
+
+###### Article L532-1
+
+A Wallis-et-Futuna, la juridiction du premier degré est dénommée tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-5, ecqc WF (Ab)
+
+
+###### Article L532-2
+
+Les dispositions de l'article L. 211-12 sont applicables à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-12 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-7-1, ecqc WF (Ab)
+
+
+###### Article L532-3
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement du tribunal correctionnel et du tribunal de police
+ainsi que celles relatives au ministère public près ces juridictions sont fixées par les dispositions du présent titre et par
+les dispositions de procédure pénale applicables à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-11, ecqc WF (Ab)
+
+
+###### Article L532-4
+
+Le tribunal de première instance connaît de toutes les affaires pour lesquelles compétence n'est pas attribuée, en raison de
+la nature de la demande, à une autre juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-8 ecqc WF (Ab)
+
+
+###### Article L532-5
+
+Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-6, ecqc WF (Ab)
+
+
+###### Article L532-6
+
+Le tribunal de première instance exerce les compétences dévolues en métropole au tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-2 (Ab)
+
+
+###### Article L532-7
+
+En matière civile et commerciale, le tribunal de première instance statue à juge unique.
+
+Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale du tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8, alinéas 1 et 2, ecqc WF (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-11 (V)
+
+
+###### Article L532-8
+
+Lorsqu'il statue en formation collégiale, le tribunal de première instance est composé d'un magistrat du siège, président du
+tribunal, et d'assesseurs choisis, pour une durée de deux ans, parmi les personnes de nationalité française, âgées de plus de
+vingt-trois ans, jouissant des droits civiques, civils et de famille et présentant des garanties de compétence et
+d'impartialité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-10 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-15 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-13 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-17 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-3 (Ab)
+
+
+###### Article L532-9
+
+Avant l'expiration des fonctions des assesseurs en exercice, le garde des sceaux, ministre de la justice, arrête la liste des
+assesseurs titulaires et suppléants.
+
+Les assesseurs sont choisis sur proposition du premier président de la cour d'appel après avis du procureur général et de
+l'assemblée générale de la cour d'appel. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-11 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-14 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-16 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-4 (Ab)
+
+
+###### Article L532-10
+
+Si le nombre des candidats remplissant les conditions fixées à l'article L. 532-8 n'est pas suffisant pour établir la liste
+des assesseurs titulaires et suppléants, le tribunal de première instance statue sans assesseur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-13 (V)
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-8 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-4, ecqc WF (Ab)
+
+
+###### Article L532-11
+
+Lorsqu'un assesseur titulaire est absent ou empêché, il est remplacé par l'un de ses suppléants appelés dans l'ordre de la
+liste d'assesseurs prévue à l'article L. 532-9.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-9 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-5, ecqc WF (Ab)
+
+
+###### Article L532-12
+
+Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent devant la cour d'appel le serment prévu à
+l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-7, ecqc WF (Ab)
+
+
+###### Article L532-13
+
+Sous réserve de l'application de l'article L. 532-10, les assesseurs restent en fonctions jusqu'à l'installation de leurs
+successeurs. Toutefois, la prorogation des fonctions d'un assesseur ne peut en aucun cas excéder une période de deux mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-10 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-8, ecqc WF (Ab)
+
+
+###### Article L532-14
+
+Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
+successives peuvent, à la demande du président du tribunal de première instance ou du ministère public, après avoir été
+convoqués et mis en mesure de présenter leurs observations, être déclarés démissionnaires par la cour d'appel statuant en
+chambre du conseil.
+
+En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-10, ecqc WF (Ab)
+
+
+###### Article L532-15
+
+Lorsque, du fait de l'absence ou de l'empêchement d'un assesseur titulaire et de ses suppléants, la formation normalement
+compétente ne peut être légalement composée et que le cours de la justice s'en trouve interrompu, la cour d'appel, sur
+requête présentée par le procureur général, constate l'impossibilité pour la formation de se réunir dans la composition
+prévue à l'article L. 532-8 et renvoie la connaissance de l'affaire à la formation statuant sans assesseur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-8 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-11, ecqc WF (Ab)
+
+
+###### Article L532-16
+
+Le président du tribunal de première instance exerce les fonctions de juge d'instruction dans les conditions prévues par les
+dispositions de procédure pénale applicables à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-7 (Ab)
+
+
+###### Article L532-17
+
+En cas d'empêchement ou lorsque, en matière pénale, il a participé à l'instruction de l'affaire, le président du tribunal de
+première instance est remplacé, par ordonnance du premier président, par un magistrat du siège appartenant au ressort de la
+cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - Arrêté du 22 décembre 2008 - art. 1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L561-1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-22 (V)
+
+
+###### Article L532-18
+
+En cas d'empêchement, le procureur de la République est remplacé par un magistrat du parquet appartenant au ressort de la
+cour d'appel et désigné par le procureur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8, alinéa 2 (Ab)
+
+
+##### Section 2 : La juridiction de proximité<a id=113></a>
+
+###### Article L532-19
+
+Il y a à Wallis-et-Futuna une juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-1 (Ab)
+
+
+###### Article L532-20
+
+En matière civile, la juridiction de proximité connaît des actions personnelles mobilières dont elle est saisie par une
+personne physique pour les besoins de sa vie non professionnelle, jusqu'à la contrepartie en monnaie locale de la somme de 1
+500 euros ou d'une valeur indéterminée mais qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas la
+contrepartie en monnaie locale de la somme de 1 500 euros.
+
+Elle connaît des procédures d'injonction de payer ou de faire, dans les conditions prévues au premier alinéa.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, ecqc L331-2 (Ab)
+
+
+###### Article L532-21
+
+Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
+d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
+après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal de première
+instance qui statue en tant que juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-4 (Ab)
+
+
+###### Article L532-22
+
+En matière pénale, les règles concernant la compétence et le fonctionnement de la juridiction de proximité ainsi que celles
+relatives au ministère public près cette juridiction sont fixées par l'article 706-72 du code de procédure pénale et, en ce
+qui concerne les mineurs, par l'article 21 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dans
+leur rédaction antérieure à la loi n° 2005-47 du 26 janvier 2005 relative aux compétences du tribunal d'instance, de la
+juridiction de proximité et du tribunal de grande instance.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 21
+  - Loi n°2005-47 du 26 janvier 2005
+  - Code de procédure pénale - art. 706-72
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-5 (Ab)
+
+
+###### Article L532-23
+
+La juridiction de proximité statue à juge unique.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-7 (Ab)
+
+
+###### Article L532-24
+
+En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
+fonctions de ce juge sont exercées par un juge du tribunal de première instance désigné à cet effet par le président de ce
+tribunal.
+
+Le juge du tribunal de première instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de
+proximité lorsque aucun juge de proximité n'a été affecté au sein de la juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-9 (Ab)
+
+
+##### Section 3 : Les juridictions des mineurs<a id=114></a>
+
+###### Article L532-25
+
+Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables à
+Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc WF (Ab)
+
+
+###### Article L532-26
+
+Les fonctions de juge des enfants sont exercées par le président du tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-9 (Ab)
+
+
+##### Section 4 : La cour d'assises<a id=115></a>
+
+###### Article L532-27
+
+Il est tenu des assises à Mata-Utu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-14, ecqc WF (Ab)
+
+
+###### Article L532-28
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement de la cour d'assises ainsi que celles relatives au
+ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables à Wallis-et-Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc WF (Ab)
+
+
+#### Chapitre III : Du greffe<a id=116></a>
+
+###### Article L533-1
+
+Le service des greffes du tribunal de première instance et de la juridiction de proximité est assuré par des fonctionnaires
+de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires des cadres
+territoriaux ou des agents territoriaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc WF (Ab)
+
+
+### TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE<a id=117></a>
+
+#### Chapitre Ier : Dispositions générales<a id=118></a>
+
+###### Article L551-1
+
+Le livre Ier du présent code est applicable en Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-16, ecqc PF (Ab)
+
+
+###### Article L551-2
+
+Pour l'application des dispositions étendues par le présent titre à la Polynésie française, il y a lieu de lire : " tribunal
+de première instance " à la place de : " tribunal de grande instance " et de : " tribunal d'instance ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc PF (Ab)
+
+
+#### Chapitre II : Des juridictions<a id=119></a>
+
+##### Section 1 : Le tribunal de première instance<a id=120></a>
+
+###### Article L552-1
+
+En Polynésie française, la juridiction du premier degré est dénommée tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-5, ecqc PF (Ab)
+
+
+###### Article L552-2
+
+Les dispositions de l'article L. 211-12 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-12 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-7-1, ecqc PF (Ab)
+
+
+###### Article L552-3
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement du tribunal correctionnel et du tribunal de police
+ainsi que celles relatives au ministère public près ces juridictions sont fixées par les dispositions du présent titre et par
+les dispositions de procédure pénale applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-11, ecqc PF (Ab)
+
+
+###### Article L552-4
+
+Le tribunal de première instance connaît de toutes les affaires pour lesquelles compétence n'est pas attribuée, en raison de
+la nature de la demande, à une autre juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-8 ecqc PF (Ab)
+
+
+###### Article L552-5
+
+Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-6, ecqc PF (Ab)
+
+
+###### Article L552-6
+
+En matière civile, le tribunal de première instance statue à juge unique.
+
+Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale du tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-7 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-11 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8, alinéas 1 et 2, ecqc PF (Ab)
+
+
+###### Article L552-7
+
+La formation collégiale prévue à l'article L. 552-6 est composée d'un président et de magistrats du siège.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-6 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-1, ecqc PF (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-12 (V)
+
+
+###### Article L552-8
+
+Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les juges pour compléter le tribunal de première
+instance.
+
+La formation de jugement du tribunal de première instance ne peut comprendre, en matière pénale, une majorité de juges non
+professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-2, ecqc PF (Ab)
+
+
+###### Article L552-9
+
+Il y a au tribunal de première instance un ou plusieurs juges d'instruction. Les règles concernant les conditions de
+nomination et les attributions du juge d'instruction sont fixées par les dispositions de procédure pénale applicables en
+Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9, ecqc PF (Ab)
+
+
+##### Section 2 : La cour d'appel<a id=121></a>
+
+###### Article L552-10
+
+Les dispositions des articles L. 311-1, L. 311-3, L. 312-2 et L. 312-7 relatives à la cour d'appel sont applicables en
+Polynésie française. 
+
+Les dispositions des articles L. 311-9 et L. 312-6 relatives à la protection de l'enfance sont applicables en Polynésie
+française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-3 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-9 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-6 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-7 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc PF, généralités et protection (Ab)
+
+
+###### Article L552-11
+
+Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les conseillers pour compléter la cour d'appel.
+
+La formation de jugement de la cour d'appel ne peut comprendre, en matière pénale, une majorité de juges non professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3, ecqc PF (Ab)
+
+
+###### Article L552-12
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement de la chambre des appels correctionnels et de la
+chambre de l'instruction ainsi que celles relatives au ministère public près ces juridictions sont fixées par les
+dispositions du présent titre et par les dispositions de procédure pénale applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-4, ecqc PF (Ab)
+
+
+##### Section 3 : La juridiction de proximité<a id=122></a>
+
+###### Article L552-13
+
+Il y a en Polynésie française une juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-1 (Ab)
+
+
+###### Article L552-14
+
+En matière civile, la juridiction de proximité connaît des actions personnelles mobilières dont elle est saisie par une
+personne physique pour les besoins de sa vie non professionnelle, jusqu'à la contrepartie en monnaie locale de la somme de 1
+500 euros ou d'une valeur indéterminée mais qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas la
+contrepartie en monnaie locale de la somme de 1 500 euros.
+
+Elle connaît des procédures d'injonction de payer ou de faire, dans les conditions prévues au premier alinéa.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, ecqc PF ecqc L331-2 (Ab)
+
+
+###### Article L552-15
+
+Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
+d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
+après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal de première
+instance qui statue en tant que juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-4 (Ab)
+
+
+###### Article L552-16
+
+En matière pénale, les règles concernant la compétence et le fonctionnement de la juridiction de proximité ainsi que celles
+relatives au ministère public près cette juridiction sont fixées par l'article 706-72 du code de procédure pénale et, en ce
+qui concerne les mineurs, par l'article 21 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dans
+leur rédaction antérieure à la loi n° 2005-47 du 26 janvier 2005 relative aux compétences du tribunal d'instance, de la
+juridiction de proximité et du tribunal de grande instance.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 21
+  - Loi n°2005-47 du 26 janvier 2005
+  - Code de procédure pénale - art. 706-72
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-5 (Ab)
+
+
+###### Article L552-17
+
+La juridiction de proximité statue à juge unique.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-7 (Ab)
+
+
+###### Article L552-18
+
+En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
+fonctions de ce juge sont exercées par un juge du tribunal de première instance désigné à cet effet par le président de ce
+tribunal.
+
+Le juge du tribunal de première instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de
+proximité lorsque aucun juge de proximité n'a été affecté au sein de la juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-9 (Ab)
+
+
+##### Section 4 : Les juridictions des mineurs<a id=123></a>
+
+###### Article L552-19
+
+Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables en
+Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc PF (Ab)
+
+
+##### Section 5 : La cour d'assises<a id=124></a>
+
+###### Article L552-20
+
+Il est tenu des assises à Papeete.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-14, ecqc PF (Ab)
+
+
+###### Article L552-21
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement de la cour d'assises ainsi que celles relatives au
+ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables en Polynésie
+française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc PF (Ab)
+
+
+#### Chapitre III : Du greffe<a id=125></a>
+
+###### Article L553-1
+
+Le service des greffes de la cour d'appel, du tribunal de première instance et de la juridiction de proximité est assuré par
+des fonctionnaires de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires
+des cadres territoriaux ou des agents territoriaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc PF (Ab)
+
+
+### TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE<a id=126></a>
+
+#### Chapitre Ier : Dispositions générales<a id=127></a>
+
+###### Article L561-1
+
+Le livre premier du présent code est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-16, ecqc NC (Ab)
+
+
+###### Article L561-2
+
+Pour l'application des dispositions étendues par le présent titre à la Nouvelle-Calédonie, il y a lieu de lire : " tribunal
+de première instance " à la place de : " tribunal de grande instance " et de : " tribunal d'instance ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc NC (Ab)
+
+
+#### Chapitre II : Des juridictions<a id=128></a>
+
+##### Section 1 : Le tribunal de première instance<a id=129></a>
+
+###### Article L562-1
+
+En Nouvelle-Calédonie, la juridiction du premier degré est dénommée tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-5, ecqc NC (Ab)
+
+
+###### Article L562-2
+
+Les dispositions de l'article L. 211-12 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-12 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-7-1, ecqc NC (Ab)
+
+
+###### Article L562-3
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement du tribunal correctionnel et du tribunal de police
+ainsi que celles relatives au ministère public près ces juridictions sont fixées par les dispositions du présent titre et par
+les dispositions de procédure pénale applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-11, ecqc NC (Ab)
+
+
+###### Article L562-4
+
+Le tribunal de première instance connaît de toutes les affaires pour lesquelles compétence n'est pas attribuée, en raison de
+la nature de la demande, à une autre juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-8 ecqc NC (Ab)
+
+
+###### Article L562-5
+
+Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-6, ecqc NC (Ab)
+
+
+###### Article L562-6
+
+En matière civile, le tribunal de première instance statue à juge unique.
+
+Toutefois, le juge saisi peut ordonner le renvoi devant la formation collégiale du tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-7 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-11 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8, alinéas 1 et 2 (Ab)
+
+
+###### Article L562-7
+
+La formation collégiale prévue à l'article L. 562-6 est composée d'un président et de magistrats du siège.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-6 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-1, ecqc NC (Ab)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-12 (V)
+
+
+###### Article L562-8
+
+Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les juges pour compléter le tribunal de première
+instance.
+
+La formation de jugement du tribunal de première instance ne peut comprendre une majorité de juges non professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 _Modifié par_:
 
-  - Loi n°2004-130 du 11 février 2004 - art. 47 () JORF 12 février 2004
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112 (V)
 
-_Abrogé par_:
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-2, ecqc NC (Ab)
+
+
+###### Article L562-9
+
+En matière délictuelle, la formation collégiale est complétée par des assesseurs ayant voix délibérative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-17 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-1 (Ab)
+
+
+###### Article L562-10
+
+Les assesseurs titulaires et suppléants sont choisis, pour une durée de deux ans, parmi les personnes de nationalité
+française, âgées de plus de vingt-trois ans, jouissant des droits civiques, civils et de famille et présentant des garanties
+de compétence et d'impartialité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-12 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-13 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-17 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (Ab)
+
+
+###### Article L562-11
+
+Avant l'expiration des fonctions des assesseurs en exercice, le garde des sceaux, ministre de la justice, arrête la liste des
+assesseurs titulaires et suppléants.
+
+Les assesseurs sont choisis sur proposition du premier président de la cour d'appel après avis du procureur général et de
+l'assemblée générale de la cour d'appel. Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-13 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-14 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-16 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-3 (Ab)
+
+
+###### Article L562-12
+
+Si le nombre des candidats remplissant les conditions fixées à l'article L. 562-10 n'est pas suffisant pour établir la liste
+des assesseurs titulaires et suppléants, le tribunal statue sans assesseur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-10 (V)
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-15 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-4 (Ab)
+
+
+###### Article L562-13
+
+Lorsqu'un assesseur titulaire est absent ou empêché, il est remplacé par l'un de ses suppléants appelés dans l'ordre de la
+liste d'assesseurs prévue à l'article L. 562-11.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-11 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-5 (Ab)
+
+
+###### Article L562-14
+
+Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent devant la cour d'appel le serment prévu à
+l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1270 du 22 décembre 1958 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-7 (Ab)
+
+
+###### Article L562-15
+
+Sous réserve de l'application de l'article L. 562-12, les assesseurs restent en fonctions jusqu'à l'installation de leurs
+successeurs. Toutefois, la prorogation des fonctions d'un assesseur ne peut en aucun cas excéder une période de deux mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-12 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-8 (Ab)
+
+
+###### Article L562-16
+
+Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
+successives peuvent, à la demande du président du tribunal de première instance ou du ministère public, après avoir été
+convoqués et mis en mesure de présenter leurs observations, être déclarés démissionnaires par la cour d'appel statuant en
+chambre du conseil.
+
+En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-10 (Ab)
+
+
+###### Article L562-17
+
+Lorsque, du fait de l'absence ou de l'empêchement d'un assesseur titulaire et de ses suppléants, la formation normalement
+compétente ne peut être légalement composée et que le cours de la justice s'en trouve interrompu, la cour d'appel, sur
+requête présentée par le procureur général, constate l'impossibilité pour la formation de se réunir dans la composition
+prévue à l'article L. 562-9 et renvoie la connaissance de l'affaire à la formation statuant sans assesseur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-9 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-11 (Ab)
+
+
+###### Article L562-18
+
+Il y a au tribunal de première instance un ou plusieurs juges d'instruction. Les règles concernant les conditions de
+nomination et les attributions du juge d'instruction sont fixées par les dispositions de procédure pénale applicables en
+Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9, ecqc NC (Ab)
+
+
+###### Article L562-19
+
+Les contestations entre citoyens de statut civil particulier sur des matières régies par ce statut peuvent être directement
+portées, à l'initiative de l'une quelconque des parties, devant le tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°82-877 du 15 octobre 1982 - art. 2 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-20 (V)
+  - Code de l'organisation judiciaire - art. R562-25 (VD)
+
+
+###### Article L562-20
+
+Lorsque le tribunal de première instance est saisi des litiges mentionnés à l'article L. 562-19, il est complété par des
+assesseurs coutumiers, en nombre pair. 
+
+Les assesseurs ont voix délibérative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°82-877 du 15 octobre 1982 - art. 3, alinéas 1 et 3, ecqc TPI (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-19 (V)
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L562-28 (V)
+
+
+###### Article L562-21
+
+Les assesseurs sont choisis parmi les personnes de nationalité française, de statut civil particulier, âgées de plus de
+vingt-cinq ans, présentant des garanties de compétence et d'impartialité.
+
+Une liste comprenant des assesseurs de chaque coutume est établie tous les deux ans, par l'assemblée générale de la cour
+d'appel, sur proposition du procureur général.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°82-877 du 15 octobre 1982 - art. 4 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-22 (V)
+
+
+###### Article L562-22
+
+Les assesseurs appelés à compléter la formation de jugement sont désignés par ordonnance du président de la juridiction de
+telle sorte que la coutume de chacune des parties soit représentée par un assesseur au moins. 
+
+Sous cette réserve, les assesseurs d'une même coutume sont appelés dans l'ordre de leur inscription sur la liste prévue à
+l'article L. 562-21.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°82-877 du 15 octobre 1982 - art. 5 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-21 (V)
+
+
+###### Article L562-23
+
+Avant d'entrer en fonctions, les assesseurs coutumiers prêtent devant la cour d'appel le serment prévu à l'article 6 de
+l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1270 du 22 décembre 1958 (V)
+
+_Anciens textes_:
+
+  - Ordonnance n°82-877 du 15 octobre 1982 - art. 6 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
 
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### Titre II : Organisation.<a id=4></a>
+###### Article L562-24
+
+Les citoyens de statut particulier peuvent d'un commun accord réclamer devant le tribunal de première instance l'application
+à leur différend des règles de droit commun relatives à la composition de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°82-877 du 15 octobre 1982 - art. 7, alinéa 1 phrase 1 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-21 (V)
+
+
+##### Section 2 : La cour d'appel<a id=130></a>
+
+###### Article L562-25
+
+Les dispositions des articles L. 311-1, L. 311-3, L. 312-2 et L. 312-7 relatives à la cour d'appel sont applicables en
+Nouvelle-Calédonie. 
+
+Les dispositions des articles L. 311-9 et L. 312-6 relatives à la protection de l'enfance sont applicables en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-3 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-9 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-6 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-7 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc NC, généralités et protection (Ab)
+
+
+###### Article L562-26
+
+Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les conseillers pour compléter la cour d'appel.
+
+La formation de jugement de la cour d'appel ne peut comprendre, en matière pénale, une majorité d'avocats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3, ecqc NC (Ab)
+
+
+###### Article L562-27
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement de la chambre des appels correctionnels et de la
+chambre de l'instruction ainsi que celles relatives au ministère public près ces juridictions sont fixées par les
+dispositions du présent titre et par les dispositions de procédure pénale applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-4, ecqc NC (Ab)
+
+
+###### Article L562-28
+
+Lorsque la cour d'appel est saisie des contestations entre citoyens de statut civil particulier sur des matières régies par
+ledit statut, elle est complétée, conformément aux articles L. 562-20 à L. 562-23 par des assesseurs de statut civil
+particulier, en nombre pair, qui n'ont pas connu de l'affaire en première instance. 
+
+Les assesseurs ont voix délibérative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°82-877 du 15 octobre 1982 - art. 3, alinéas 2 et 3, ecqc CA (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L562-20 (V)
+
+
+##### Section 3 : La juridiction de proximité<a id=131></a>
+
+###### Article L562-29
+
+Il y a en Nouvelle-Calédonie une juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-1 (Ab)
+
+
+###### Article L562-30
+
+En matière civile, la juridiction de proximité connaît des actions personnelles mobilières dont elle est saisie par une
+personne physique pour les besoins de sa vie non professionnelle, jusqu'à la contrepartie en monnaie locale de la somme de 1
+500 euros ou d'une valeur indéterminée mais qui ont pour origine l'exécution d'une obligation dont le montant n'excède pas la
+contrepartie en monnaie locale de la somme de 1 500 euros.
+
+Elle connaît des procédures d'injonction de payer ou de faire, dans les conditions prévues au premier alinéa.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, ecqc NC ecqc L331-2 (Ab)
+
+
+###### Article L562-31
+
+Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
+d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
+après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal de première
+instance qui statue en tant que juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-4 (Ab)
+
+
+###### Article L562-32
+
+En matière pénale, les règles concernant la compétence et le fonctionnement de la juridiction de proximité ainsi que celles
+relatives au ministère public près cette juridiction sont fixées par l'article 706-72 du code de procédure pénale et, en ce
+qui concerne les mineurs, par l'article 21 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dans
+leur rédaction antérieure à la loi n° 2005-47 du 26 janvier 2005 relative aux compétences du tribunal d'instance, de la
+juridiction de proximité et du tribunal de grande instance.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 21
+  - Loi n°2005-47 du 26 janvier 2005
+  - Code de procédure pénale - art. 706-72
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-5 (Ab)
+
+
+###### Article L562-33
+
+La juridiction de proximité statue à juge unique.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-7 (Ab)
+
+
+###### Article L562-34
+
+En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
+fonctions de ce juge sont exercées par un juge du tribunal de première instance, désigné à cet effet par le président de ce
+tribunal.
+
+Le juge du tribunal de première instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de
+proximité lorsque aucun juge de proximité n'a été affecté au sein de la juridiction de proximité.
+
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Le 3° du IV de l'article 15 de la loi n° 2016-1547 du 18 novembre 2016 a modifié cette date en la reportant du 1er janvier
+2017 au 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Abrogé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 1
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-9 (Ab)
+
+
+##### Section 4 : Les juridictions des mineurs<a id=132></a>
+
+###### Article L562-35
+
+Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables en
+Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc NC (Ab)
+
+
+##### Section 5 : La cour d'assises<a id=133></a>
+
+###### Article L562-36
+
+Il est tenu des assises à Nouméa.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-14, ecqc NC (Ab)
+
+
+###### Article L562-37
+
+Les règles relatives à la compétence, l'organisation et au fonctionnement de la cour d'assises ainsi que celles relatives au
+ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc NC (Ab)
+
+
+#### Chapitre III : Du greffe<a id=134></a>
+
+###### Article L563-1
+
+Le service des greffes de la cour d'appel, du tribunal de première instance et de la juridiction de proximité est assuré par
+des fonctionnaires de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires
+des cadres territoriaux ou des agents territoriaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc NC (Ab)
+
+
+# Partie législative ancienne<a id=135></a>
+
+## Livre Ier : La Cour de cassation<a id=136></a>
+
+### Titre II : Organisation.<a id=137></a>
 
 ###### Article L121-1
 
@@ -606,30 +8667,6 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-7 (V)
 
 
-###### Article L121-3
-
-La Cour de cassation comprend des chambres civiles et au moins une chambre criminelle [*composition*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 1 al. 2
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-1 (V)
-
-
 ###### Article L121-4
 
 Les arrêts de la Cour de cassation sont rendus soit par l'une des chambres, soit par une chambre mixte, soit par l'assemblée
@@ -668,83 +8705,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R421-5 (V)
 
 
-###### Article L121-5
+### Titre III : Fonctionnement<a id=138></a>
 
-Lorsqu'une chambre mixte doit être constituée par application des articles L131-2 et L131-3, elle est composée de magistrats
-appartenant à trois chambres au moins de la cour. 
-
-La chambre mixte est présidée par le premier président, ou, en cas d'empêchement de celui-ci, par le plus ancien des
-présidents de chambre de la cour. 
-
-Elle comprend, en outre, les présidents et doyens des chambres qui la composent ainsi que deux conseillers de chacune de ces
-chambres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 6
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°79-9 1979-01-03 art. 1 et art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°79-9 1979-01-03 art. 8
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-4 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L131-2 et L131-3
-
-
-###### Article L121-6
-
-L'assemblée plénière est présidée par le premier président, ou, en cas d'empêchement de celui-ci, par le plus ancien des
-présidents de chambre.
-
-Elle comprend, en outre, les présidents et les doyens des chambres ainsi qu'un conseiller pris au sein de chaque chambre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 7
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°97-395 du 23 avril 1997 - art. 1 () JORF 25 avril 1997 rectificatif JORF 3 juillet 1997
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-5 (V)
-
-
-### Titre III : Fonctionnement<a id=5></a>
-
-#### Chapitre Ier : Le service des chambres de la Cour.<a id=6></a>
+#### Chapitre Ier : Le service des chambres de la Cour.<a id=139></a>
 
 ###### Article L131-1
 
@@ -780,50 +8743,6 @@ _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-2 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-1 (M)
-
-
-###### Article L131-2
-
-Le renvoi devant une chambre mixte peut être ordonné lorsqu'une affaire pose une question relevant normalement des
-attributions de plusieurs chambres ou si la question a reçu ou est susceptible de recevoir devant les chambres des solutions
-divergentes ; il doit l'être en cas de partage égal des voix.
-
-Le renvoi devant l'assemblée plénière peut être ordonné lorsque l'affaire pose une question de principe, notamment s'il
-existe des solutions divergentes soit entre les juges du fond, soit entre les juges du fond et la Cour de cassation ; il doit
-l'être lorsque, après cassation d'un premier arrêt ou jugement, la décision rendue par la juridiction de renvoi est attaquée
-par les mêmes moyens.
-
-La chambre mixte et l'assemblée plénière doivent se prononcer sur le pourvoi même si les conditions de leur saisine n'étaient
-pas réunies.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 14 al. 1
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°79-9 1979-01-03 art. 2, art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-5 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-6 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-9 (V)
-
-_Cité par_:
-
-  - Code de procédure pénale - art. 619 (V)
 
 
 ###### Article L131-3
@@ -870,86 +8789,6 @@ _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-7 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-14 (V)
-
-
-###### Article L131-4
-
-En cas de cassation, l'affaire est renvoyée, sauf disposition contraire, devant une autre juridiction de même nature que
-celle dont émane l'arrêt ou le jugement cassé ou devant la même juridiction composée d'autres magistrats. 
-
-Lorsque le renvoi est ordonné par l'assemblée plénière, la juridiction de renvoi doit se conformer à la décision de cette
-assemblée sur les points de droit jugés par celle-ci.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 15
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°79-9 1979-01-03 art. 2 et art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
-
-_Cité par_:
-
-  - Loi n°93-1252 du 23 novembre 1993 - art. 25 (V)
-  - Loi n°93-1252 du 23 novembre 1993 - art. 34 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-4 (V)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 626 (V)
-
-
-###### Article L131-5
-
-La Cour de cassation peut casser sans renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond. 
-
-Elle peut, aussi, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été souverainement
-constatés et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée. 
-
-En ces cas, elle se prononce sur la charge des dépens afférents aux instances devant les juges du fond. 
-
-L'arrêt emporte exécution forcée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 16
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°79-9 1979-01-03 art. 2, art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L411-3 (M)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 627 (V)
 
 
 ###### Article L131-6
@@ -1044,36 +8883,6 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-5 (M)
 
 
-###### Article L131-6-2
-
-Les chambres mixtes et l'assemblée plénière ne peuvent siéger que si tous les membres qui doivent les composer sont présents.
-En cas d'empêchement de l'un de ces membres, il est remplacé par un conseiller désigné par le premier président ou, à défaut
-de celui-ci, par le président de chambre qui le remplace.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°97-395 du 23 avril 1997 - art. 4 () JORF 25 avril 1997
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-8 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-6 (Ab)
-
-
 ###### Article L131-7
 
 Les conseillers référendaires siègent, avec voix consultative, dans la chambre à laquelle ils sont affectés. Ils ont voix
@@ -1123,286 +8932,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-7 (V)
 
 
-#### Chapitre II : Le ministère public.<a id=7></a>
-
-###### Article L132-1
-
-Le procureur général porte la parole aux audiences des chambres mixtes et de l'assemblée plénière ainsi que dans les
-assemblées générales de la cour.
-
-Il la porte aux audiences des chambres et devant la formation prévue à l'article L. 151-2, quand il le juge convenable.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 4
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°91-491 du 15 mai 1991 - art. 2 () JORF 18 mai 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-2 (M)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-1 (M)
-
-
-###### Article L132-2
-
-En cas d'empêchement du procureur général, celui-ci est remplacé pour les actes de ses fonctions par le premier avocat
-général ou, à défaut, par un avocat général désigné par le procureur général.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 10
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-2 (V)
-
-
-###### Article L132-3
-
-Les avocats généraux portent la parole, au nom du procureur général, devant les chambres auxquelles ils sont affectés.
-
-Ils peuvent être désignés par le procureur général pour la porter également devant les autres formations de la cour.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 11
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-3 (V)
-
-
-###### Article L132-4
-
-Lorsque l'empêchement d'un avocat général est de longue durée, le premier président et le procureur général peuvent, par une
-décision conjointe, déléguer un conseiller dans les fonctions d'avocat général.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 1967-07-03 art. 12
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-4 (V)
-
-
-###### Article L132-5
-
-Les modalités d'application du présent titre et du titre II ci-dessus sont fixées par des décrets en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-523 du 3 juillet 1967 - art. 25 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L411-3 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L421-8 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-10 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-5 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L121-1 à L121-6 et L131-1 à L132-5
-
-
-### Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation<a id=8></a>
-
-#### Chapitre Ier : La commission nationale de réparation des détentions.<a id=9></a>
-
-###### Article L141-1
-
-Il y a auprès de la Cour de cassation une commission juridictionnelle chargée de statuer sur les demandes de réparation
-présentées par certaines personnes ayant fait l'objet, dans les conditions prévues à l'article 149 du code de procédure
-pénale, d'une détention provisoire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-204 2004-03-09 art. 126 X 1°, 2° JORF 10 mars 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 126 () JORF 10 mars 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 149 (M)
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 149 (M)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
-
-
-###### Article L141-2
-
-Les règles concernant la compétence et la composition de la commission mentionnée à l'article précédent, ainsi que celles qui
-sont relatives au ministère public près cette commission, sont fixées par les articles 149-1 à 149-4 du Code de procédure
-pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-204 2004-03-09 art. 126 X 1°, 3° JORF 10 mars 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 126 () JORF 10 mars 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de procédure pénale 149-1 et 149-2
-
-_Cite_:
-
-  - Code de procédure pénale 149-1 à 149-4
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
-
-
-#### Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale.<a id=10></a>
-
-###### Article L142-1
-
-Il y a auprès de la Cour de cassation une commission juridictionnelle chargée de statuer sur les recours formés par les
-officiers de police judiciaire ayant fait l'objet d'une décision de suspension ou de retrait d'habilitation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-2 (Ab)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
-
-
-###### Article L142-2
-
-Les règles concernant la composition de la commission prévue à l'article précédent ainsi que celles qui sont relatives au
-ministère public près cette commission sont fixées par l'article 16-2 du Code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L142-1 (Ab)
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L451-1 (V)
-
-
-### Titre V : Saisine pour avis de la Cour de cassation.<a id=11></a>
+### Titre V : Saisine pour avis de la Cour de cassation.<a id=140></a>
 
 ###### Article L151-1
 
@@ -1508,62 +9038,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R441-1 (M)
 
 
-###### Article L151-3
+## Livre II : La cour d'appel<a id=141></a>
 
-Les modalités d'application du présent titre sont fixées, en ce qui concerne les juridictions autres que pénales, par décret
-en Conseil d'Etat.
+### Titre Ier : Dispositions générales<a id=142></a>
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-539 du 25 juin 2001 - art. 26 () JORF 25 juin 2001 en vigueur le 1er janvier 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-4 (V)
-
-
-## Livre II : La cour d'appel<a id=12></a>
-
-### Titre Ier : Dispositions générales<a id=13></a>
-
-#### Chapitre Ier : Institution et compétence.<a id=14></a>
-
-###### Article L211-1
-
-Les cours d'appel statuent souverainement sur le fond des affaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Anciens textes_:
-
-  - Loi n°1810-04-20 art. 7
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-1 (V)
-
-
-#### Chapitre II : Organisation.<a id=15></a>
+#### Chapitre II : Organisation.<a id=143></a>
 
 ###### Article L212-1
 
@@ -1604,136 +9083,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-8 (V)
 
 
-###### Article L212-2
+### Titre II : Dispositions particulières à certaines matières<a id=144></a>
 
-En toutes matières, les arrêts sont rendus par trois magistrats au moins, président compris. Pour le jugement des affaires
-qui doivent être portées en audience solennelle, les arrêts sont rendus par cinq magistrats au moins, président compris.
-
-Le tout à peine de nullité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Anciens textes_:
-
-  - Loi n°1883-08-30 art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-7 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-9 (V)
-
-
-#### Chapitre III : Fonctionnement.<a id=16></a>
-
-###### Article L213-1
-
-Les arrêts des cours d'appel sont rendus par des magistrats délibérant en nombre impair. Lorsque les membres d'une cour
-siègeant dans une affaire sont en nombre pair, le dernier dans l'ordre du tableau doit s'abstenir.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Anciens textes_:
-
-  - Loi n°1883-08-30 art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2 (V)
-
-
-###### Article L213-2
-
-Les avocats dans l'ordre du tableau et, après eux, les avoués selon la date de leur réception peuvent être appelés à suppléer
-les conseillers pour compléter la cour d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-3 (V)
-
-_Anciens textes_:
-
-  - Loi AN12-VE-22 22 ventôse an XII art. 30
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L213-3
-
-Si les besoins du service l'exigent, il pourra être formé par décret en Conseil d'Etat une chambre temporaire composée de
-conseillers pris dans d'autres chambres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Anciens textes_:
-
-  - Loi n°1883-08-30 art. 2
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L213-4
-
-Le procureur général représente en personne ou par ses substituts le ministère public auprès de la cour d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L122-3 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-7 (V)
-
-_Anciens textes_:
-
-  - Loi n°1810-04-20 art. 46 et art. 47
-
-
-### Titre II : Dispositions particulières à certaines matières<a id=17></a>
-
-#### Chapitre I : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort.<a id=18></a>
+#### Chapitre I : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort.<a id=145></a>
 
 ###### Article L221-1
 
@@ -1859,57 +9211,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-4 (V)
 
 
-#### Chapitre II : Dispositions particulières en matière d'expropriation.<a id=19></a>
-
-###### Article L222-1
-
-Appel des jugements du juge de l'expropriation peut être interjeté devant la cour d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-9 (VT)
-
-
-###### Article L222-2
-
-Ainsi qu'il est dit à l'article L. 13-22 du Code de l'expropriation pour cause d'utilité publique, "la chambre statuant en
-appel comprend, outre son président, deux assesseurs qui seront choisis par le président de la chambre parmi les juges du
-ressort visés à l'article L. 13-1. En cas d'impossibilité, le premier président peut désigner des magistrats de la cour.
-
-En aucun cas, les juges ne pourront avoir connu de l'affaire en première instance."
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-5 (VT)
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-22 (V)
-
-
-#### Chapitre III : Dispositions particulières à la protection de l'enfance.<a id=20></a>
+#### Chapitre III : Dispositions particulières à la protection de l'enfance.<a id=146></a>
 
 ###### Article L223-1
 
@@ -1996,141 +9298,9 @@ _Cite_:
   - Code de l'organisation judiciaire L223-1
 
 
-###### Article L223-3
+#### Chapitre V : Dispositions particulières aux professions juridiques et judiciaires<a id=147></a>
 
-Le délégué à la protection de l'enfance siège comme membre de la chambre de l'instruction dans les cas mentionnés à l'article
-23 de l'ordonnance n° 45-174 du 2 février 1945.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 23 (M)
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 23 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-6 (V)
-
-
-#### Chapitre IV : Dispositions particulières en matière pénale.<a id=21></a>
-
-###### Article L224-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la ou des chambres des appels correctionnels
-ainsi que celles qui sont relatives au ministère public sont fixées par les articles 34 à 38, 496, 510, 511 et 547 du Code de
-procédure pénale et par les dispositions spéciales à certaines matières.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 496 (V)
-  - CODE DE PROCEDURE PENALE - art. 510 (V)
-  - CODE DE PROCEDURE PENALE - art. 511 (M)
-  - CODE DE PROCEDURE PENALE - art. 547 (M)
-  - Code de procédure pénale 34 à 38, 496, 510, 511, 547
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 496 (V)
-  - CODE DE PROCEDURE PENALE - art. 510 (V)
-  - CODE DE PROCEDURE PENALE - art. 511 (M)
-  - CODE DE PROCEDURE PENALE - art. 547 (M)
-  - Code de procédure pénale 34 à 38, 496, 510, 511, 547
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-8 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-4 (V)
-
-
-#### Chapitre V : Dispositions particulières aux professions juridiques et judiciaires<a id=22></a>
-
-##### Section I : Dispositions particulières aux avocats.<a id=23></a>
-
-###### Article L225-1
-
-La cour d'appel connaît des recours dirigés contre les délibérations ou décisions du conseil de l'ordre des avocats dans les
-conditions prévues par les articles 19, 20 et 24 de la loi n° 71-1130 du 31 décembre 1971.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°71-1130 1971-12-31 art. 19, art. 20 et art. 24
-  - Loi n°71-1130 du 31 décembre 1971 - art. 19 (V)
-
-_Anciens textes_:
-
-  - Loi n°71-1130 1971-12-31 art. 19, art. 20 et art. 24
-  - Loi n°71-1130 du 31 décembre 1971 - art. 19 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-3 (V)
-
-
-###### Article L225-2
-
-Ainsi qu'il est dit à l'article 15 de la loi n° 71-1130 du 31 décembre 1971, "les élections au conseil de l'ordre [*des
-avocats*] peuvent être déférées à la cour d'appel".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°71-1130 du 31 décembre 1971 - art. 15 (M)
-
-_Anciens textes_:
-
-  - Loi n°71-1130 du 31 décembre 1971 - art. 15 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-3 (V)
-
-
-##### Section II : Dispositions particulières aux experts judiciaires.<a id=24></a>
+##### Section II : Dispositions particulières aux experts judiciaires.<a id=148></a>
 
 ###### Article L225-3
 
@@ -2164,29 +9334,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-43 (V)
 
 
-##### Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires.<a id=25></a>
-
-###### Article L225-4
-
-La cour d'appel dresse la liste des syndics et administrateurs judiciaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-603 du 20 mai 1955 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-#### Chapitre VI : Dispositions particulières aux aspects civils de l'enlèvement international d'enfants<a id=26></a>
+#### Chapitre VI : Dispositions particulières aux aspects civils de l'enlèvement international d'enfants<a id=149></a>
 
 ###### Article L226-1
 
@@ -2232,175 +9380,13 @@ _Cite_:
   - Code de l'organisation judiciaire L223-2
 
 
-## Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité<a id=27></a>
+## Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité<a id=150></a>
 
-### Titre Ier : Le tribunal de grande instance<a id=28></a>
+### Titre Ier : Le tribunal de grande instance<a id=151></a>
 
-#### Chapitre Ier : Dispositions générales<a id=29></a>
+#### Chapitre Ier : Dispositions générales<a id=152></a>
 
-##### Section I : Institution et compétence.<a id=30></a>
-
-###### Article L311-1
-
-Il y a dans le ressort de chaque cour d'appel des juridictions de première instance dénommées tribunaux de grande instance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance n°58-1273 du 22 décembre 1958 - art. 1, v. init.
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-2 (V)
-
-
-###### Article L311-2
-
-Le tribunal de grande instance a compétence exclusive dans les matières déterminées par les lois et règlements (1).
-
-(1) Nota : Le tribunal de grande instance a compétence exclusive notamment dans les matières suivantes :
-
-1° Etat des personnes : mariage, divorce, séparation de corps, filiation (art. 172 et suivants ; art. 247 et suivants ; art.
-311-4 et suivants du Code civil) ;
-
-2° Rectification des actes d'état civil (art. 99 du Code civil) ;
-
-3° Adoption (art. 353 du Code civil) ;
-
-4° Absence (art. 112 du Code civil) ;
-
-5° Régimes matrimoniaux (art. 1387 et suivants du Code civil) ;
-
-6° Successions (art. 718 et suivants du Code civil) ;
-
-7° Sanction de l'activité des officiers de l'état civil (art. 53 et 63 du Code civil) ;
-
-8° Contestations sur la nationalité (art. 124 du Code de la nationalité française) ;
-
-9° Actions immobilières pétitoires ;
-
-10° Saisies immobilières (art. 673 et suivants du Code de procédure civile) ;
-
-11° Actions en nullité ou en déchéance des brevets d'invention ainsi que toutes contestations relatives à la propriété de
-brevets d'invention, à leur contrefaçon et aux questions connexes de concurrence déloyale (art. 52 et 54 de la loi du 2
-janvier 1968) ;
-
-12° Actions civiles relatives aux marques de fabrique et de concurrence (art. 24 de la loi du 31 décembre 1964) ;
-
-13° Actions relatives aux récompenses industrielles (art. 6 de la loi du 8 août 1912) ;
-
-14° Actions relatives aux appellations d'origine (art. 2 de la loi du 6 mai 1919) ;
-
-15° Action en dissolution des associations (art. 7 de la loi du 1er juillet 1901) ;
-
-16° Règlement judiciaire et liquidation des biens des personnes morales de droit privé non commerçantes (art. 5 de la loi n°
-67-563 du 13 juillet 1967) ;
-
-17° Suspension provisoire des poursuites exercées contre certaines personnes morales de droit privé non commerçantes (art. 2
-de l'ordonnance n° 67-820 du 23 septembre 1967) ;
-
-18° Contestations relatives à l'assurance contre les accidents et les maladies professionnelles des personnes non salariées
-en agriculture (art. 18 du décret n° 69-119 du 1er février 1969) ;
-
-19° Litiges en matière fiscale dans les cas et conditions prévues par le Code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-4 (V)
-
-_Anciens textes_:
-
-  - Nouveau code de procédure civile 33
-
-
-###### Article L311-3
-
-Dans les circonscriptions où il n'est pas établi de tribunal de commerce, le tribunal de grande instance [*compétence*] et
-les membres de ce tribunal connaissent des matières et exercent les fonctions attribuées aux tribunaux de commerce et à leurs
-membres par le présent code et par les textes particuliers à chaque matière.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de commerce 640 et 641
-
-
-###### Article L311-4
-
-Ainsi qu'il est dit à l'alinéa 1er de l'article 1er de la loi n° 57-1424 du 31 décembre 1957,
-
-"Par dérogation à l'article 13 de la loi des 16 et 24 août 1790 sur l'organisation judiciaire, les tribunaux de l'ordre
-judiciaire sont seuls compétents pour statuer sur toute action en responsabilité, tendant à la réparation des dommages de
-toute nature causés par un véhicule quelconque".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°57-1424 du 31 décembre 1957 - art. 1 (V)
-
-_Anciens textes_:
-
-  - Décret n°58-1285 1958-12-22 Code de procédure pénale 39
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-##### Section II : Organisation.<a id=31></a>
+##### Section II : Organisation.<a id=153></a>
 
 ###### Article L311-5
 
@@ -2438,73 +9424,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-1 (V)
 
 
-###### Article L311-6
+##### Section III : Fonctionnement<a id=154></a>
 
-Le tribunal de grande instance statue en formation collégiale.
-
-Toutefois, sous réserve des règles fixées par le Code de procédure pénale, il statue à juge unique dans les cas et conditions
-définis aux articles L. 311-10 à L. 311-12 ci-dessous.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 1, art. 3-1 et art. 3-2
-  - Ordonnance n°58-1273 du 22 décembre 1958 - art. 1, v. init.
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-1 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L311-10 à L311-12
-
-
-##### Section III : Fonctionnement<a id=32></a>
-
-##### Sous-section I : Dispositions relatives au service des chambres du tribunal.<a id=33></a>
-
-###### Article L311-7
-
-Les jugements [*des tribunaux de grande instance*] sont rendus par des magistrats délibérant en nombre impair.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Anciens textes_:
-
-  - Loi n°1883-08-30 art. 4
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2 (V)
-
+##### Sous-section I : Dispositions relatives au service des chambres du tribunal.<a id=155></a>
 
 ###### Article L311-8
 
@@ -2545,36 +9467,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-7 (V)
 
 
-###### Article L311-9
-
-Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les juges pour compléter le tribunal de grande
-instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Anciens textes_:
-
-  - Loi AN12-VE-22 22 ventôse an XII art. 30 Décret 1806-03-30 art. 49
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-4 (V)
-
-
-##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution.<a id=34></a>
+##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état et au juge de l'exécution.<a id=156></a>
 
 ###### Article L311-10
 
@@ -2798,37 +9691,6 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve article 3
 
 
-###### Article L311-12-2
-
-Le juge de l'exécution peut renvoyer à la formation collégiale du tribunal de grande instance qui statue comme juge de
-l'exécution.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cité par_:
-
-  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-7 (V)
-
-
 ###### Article L311-13
 
 Les décisions relatives à la composition de la formation de jugement, prises en application des articles L. 311-10, L.
@@ -2874,72 +9736,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-12 (V)
 
 
-##### Sous-section IV : Le ministère public.<a id=35></a>
-
-###### Article L311-14
-
-Le procureur de la République représente en personne ou par ses substituts le ministère public près le tribunal de grande
-instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 39 (M)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-6 (V)
-
-
-###### Article L311-15
-
-Le procureur de la République peut, en toutes matières, exercer le ministère public devant toutes les juridictions du premier
-degré établies dans son ressort.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 4
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L122-2 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 (Ab)
-
-
-##### Section IV : Les chambres détachées.<a id=36></a>
+##### Section IV : Les chambres détachées.<a id=157></a>
 
 ###### Article L311-16
 
@@ -3048,9 +9845,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-18 (V)
 
 
-#### Chapitre II : Dispositions particulières à certaines matières<a id=37></a>
+#### Chapitre II : Dispositions particulières à certaines matières<a id=158></a>
 
-##### Section I : Dispositions particulières en matière familiale.<a id=38></a>
+##### Section I : Dispositions particulières en matière familiale.<a id=159></a>
 
 ###### Article L312-1
 
@@ -3146,7 +9943,7 @@ _Cité par_:
   - Nouveau code de procédure civile - art. 1210-4 (V)
 
 
-##### Section II : Dispositions particulières en matière de brevets d'invention et d'obtentions végétales.<a id=39></a>
+##### Section II : Dispositions particulières en matière de brevets d'invention et d'obtentions végétales.<a id=160></a>
 
 ###### Article L312-2
 
@@ -3200,245 +9997,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-10 (V)
 
 
-##### Section IV : Dispositions particulières aux professions juridiques et judiciaires.<a id=40></a>
+### Titre II : Le tribunal d'instance<a id=161></a>
 
-###### Article L312-3
+#### Chapitre Ier : Dispositions générales<a id=162></a>
 
-La discipline des notaires, des avoués, des huissiers de justice et des commissaires-priseurs s'exerce dans les formes et
-conditions prévues par l'ordonnance n° 45-1418 du 28 juin 1945. L'officier public ou ministériel est poursuivi
-disciplinairement soit devant la chambre de discipline soit devant le tribunal de grande instance selon les distinctions
-établies par les articles 5 et suivants de l'ordonnance précitée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-1418 1945-06-28 art. 5 et s.
-
-_Cite_:
-
-  - Ordonnance n°45-1418 du 28 juin 1945 - art. 5 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-8 (V)
-
-
-###### Article L312-4
-
-Le tribunal de grande instance prononce la suspension provisoire de l'officier public ou ministériel et met fin à celle-ci
-dans les conditions prévues aux articles 32 à 35 de l'ordonnance n° 45-1418 du 28 juin 1945.
-
-En cas d'urgence, la suspension provisoire est prononcée par le juge des référés dans les conditions prévues aux articles 32
-et 33 de l'ordonnance précitée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance n°45-1418 du 28 juin 1945 - art. 3 (V)
-
-_Cite_:
-
-  - Ordonnance n°45-1418 du 28 juin 1945 - art. 32 (V)
-  - Ordonnance n°45-1418 du 28 juin 1945 - art. 33 (V)
-  - Ordonnance n°45-1418 du 28 juin 1945 - art. 35 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L312-5
-
-Le tribunal de grande instance connaît des recours formés contre les décisions du procureur de la République relatives à
-l'établissement de la liste des conseils juridiques, dans les conditions prévues par l'article 57 de la loi n° 71-1130 du 31
-décembre 1971.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°71-1130 du 31 décembre 1971 - art. 57 (M)
-
-_Anciens textes_:
-
-  - Loi n°71-1130 du 31 décembre 1971 - art. 57 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L312-6
-
-Le tribunal de grande instance connaît des demandes présentées par le procureur de la République, aux fins de radiation
-temporaire ou définitive de la liste, dans les conditions fixées par l'article 60 de la loi n° 71-1130 du 31 décembre 1971.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°71-1130 du 31 décembre 1971 - art. 60 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-##### Section VI : Dispositions particulières aux actions immobilières possessoires.<a id=41></a>
-
-###### Article L312-7
-
-Les actions possessoires relèvent de la compétence exclusive du tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2005-47 du 26 janvier 2005 - art. 6 () JORF 27 janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-#### Chapitre III : Commission juridictionnelle fonctionnant auprès du tribunal de grande instance : la commission d'indemnisation de certains dommages corporels.<a id=42></a>
-
-###### Article L313-1
-
-Il y a dans le ressort de chaque tribunal de grande instance une commission juridictionnelle chargée de statuer sur les
-demandes d'indemnité présentées par les victimes de dommages corporels résultant d'une infraction.
-
-Cette commission a le caractère d'une juridiction civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L214-1 (V)
-
-
-###### Article L313-2
-
-Les règles concernant la compétence et la composition de la commission prévue à l'article précédent, ainsi que celles qui
-sont relatives au ministère public près cette commission, sont fixées par l'article 706-4 du code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L214-2 (V)
-
-
-### Titre II : Le tribunal d'instance<a id=43></a>
-
-#### Chapitre Ier : Dispositions générales<a id=44></a>
-
-##### Section I : Institution et compétence.<a id=45></a>
-
-###### Article L321-1
-
-Il y a dans le ressort de chaque cour d'appel des juridictions de première instance dénommées tribunaux d'instance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance n°58-1273 du 22 décembre 1958 - art. 1, v. init.
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-2 (VT)
-
+##### Section I : Institution et compétence.<a id=163></a>
 
 ###### Article L321-2
 
@@ -3606,35 +10169,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-39 (VT)
 
 
-###### Article L321-2-4
-
-Les compétences particulières du tribunal d'instance sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2005-47 du 26 janvier 2005 - art. 2 () JORF 27 janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-5 (VT)
-
-_Anciens textes_:
-
-  - Code du travail - art. L323-39 (M)
-
-
-##### Section II : Organisation.<a id=46></a>
+##### Section II : Organisation.<a id=164></a>
 
 ###### Article L321-3
 
@@ -3672,158 +10207,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D221-1 (V)
 
 
-###### Article L321-4
-
-Le tribunal d'instance statue à juge unique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance n°58-1273 du 22 décembre 1958 - art. 1, v. init.
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L222-1 (VT)
-
-
-##### Section III : Fonctionnement.<a id=47></a>
-
-###### Article L321-5
-
-Sauf dérogation prévue par décret en Conseil d'Etat, le service des tribunaux d'instance est assuré, en ce qui concerne les
-attributions dévolues aux magistrats du siège, par les magistrats des tribunaux de grande instance désignés à cet effet dans
-les formes prévues pour la nomination des magistrats du siège.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 5-1
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L222-2 (VT)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-33 (Ab)
-
-
-#### Chapitre II : Dispositions particulières à la tutelle.<a id=48></a>
-
-###### Article L322-1
-
-Ainsi qu'il est dit à l'article 393 du code civil les fonctions de juge des tutelles sont exercées par un juge du tribunal
-d'instance dans le ressort duquel le mineur a son domicile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code civil - art. 393 (AbD)
-
-_Cite_:
-
-  - Code civil - art. 393 (AbD)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-3 (V)
-
-
-###### Article L322-2
-
-Le juge des tutelles connaît :
-
-1° (paragraphe abrogé) ;
-
-2° De l'émancipation conformément à l'article 477 du Code civil ;
-
-3° De l'administration légale et de la tutelle des mineurs, conformément à l'article 395 du Code civil ;
-
-4° Du placement sous sauvegarde de justice, de la curatelle et de la tutelle des incapables majeurs, conformément aux
-articles 491-1, 509 et 493 du Code civil ;
-
-5° De la tutelle aux prestations sociales, dans les conditions prévues par la loi n° 66-774 du 18 octobre 1966 ;
-
-6° De la tutelle des pupilles de la nation, dans les cas et conditions prévues par les articles L. 473 et suivants du Code
-des pensions militaires d'invalidité et des victimes de guerre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-774 1966-10-18
-  - Code civil - art. 395 (AbD)
-  - Code civil - art. 477 (M)
-  - Code civil - art. 491-1 (AbD)
-  - Code civil - art. 493 (AbD)
-  - Code civil - art. 509 (AbD)
-  - Code des pensions militaires d'invalidité et des v - art. L473 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cité par_:
-
-  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-9 (VT)
-
-
-#### Chapitre III : Attributions non juridictionnelles.<a id=49></a>
+#### Chapitre III : Attributions non juridictionnelles.<a id=165></a>
 
 ###### Article L323-1
 
@@ -3862,36 +10246,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-43 (VT)
 
 
-### Titre III : La juridiction de proximité<a id=50></a>
+### Titre III : La juridiction de proximité<a id=166></a>
 
-#### Chapitre unique : Dispositions générales<a id=51></a>
+#### Chapitre unique : Dispositions générales<a id=167></a>
 
-##### Section I : Institution, compétence et fonctionnement<a id=52></a>
-
-###### Article L331-1
-
-Il est institué, dans le ressort de chaque cour d'appel, des juridictions de première instance dénommées juridictions de
-proximité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-2 (Ab)
-
+##### Section I : Institution, compétence et fonctionnement<a id=168></a>
 
 ###### Article L331-2
 
@@ -3984,119 +10343,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-4 (VT)
 
 
-###### Article L331-2-2
-
-Les compétences particulières de la juridiction de proximité en matière civile sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2005-47 du 26 janvier 2005 - art. 4 () JORF 27 janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-4 (VT)
-
-
-###### Article L331-3
-
-En matière civile, la juridiction de proximité statue selon les règles de procédure applicables devant le tribunal
-d'instance. Elle se prononce après avoir cherché à concilier les parties par elle-même ou, le cas échéant et avec l'accord de
-celles-ci, en désignant une personne remplissant les conditions fixées par décret en Conseil d'Etat.
-
-Les parties peuvent se faire assister et représenter devant elle dans les mêmes conditions que devant le tribunal d'instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L331-4
-
-Lorsque, en matière civile, le juge de proximité se heurte à une difficulté juridique sérieuse portant sur l'application
-d'une règle de droit ou sur l'interprétation du contrat liant les parties, il peut, à la demande d'une partie ou d'office,
-après avoir recueilli l'avis, selon le cas, de l'autre ou des deux parties, renvoyer l'affaire au tribunal d'instance qui
-statue en tant que juridiction de proximité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-5 (VT)
-
-
-###### Article L331-5
-
-En matière pénale, les règles concernant la compétence et le fonctionnement de la juridiction de proximité ainsi que celles
-relatives au ministère public près cette juridiction sont fixées par le deuxième alinéa de l'article 521 du code de procédure
-pénale et, en ce qui concerne les mineurs, par l'article 21 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance
-délinquante.
-
-Le président du tribunal de grande instance établit avant le début de l'année judiciaire la liste des juges de proximité de
-son ressort susceptibles de siéger en qualité d'assesseur au sein de la formation collégiale du tribunal correctionnel.
-
-Cette formation ne peut comprendre plus d'un juge de proximité.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 21 (M)
-  - CODE DE PROCEDURE PENALE - art. 521 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2005-47 du 26 janvier 2005 - art. 5 () JORF 27 janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-6 (VT)
-
-
-##### Section II : Organisation<a id=53></a>
+##### Section II : Organisation<a id=169></a>
 
 ###### Article L331-6
 
@@ -4128,34 +10375,6 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D231-1 (Ab)
-
-
-###### Article L331-7
-
-La juridiction de proximité statue à juge unique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 7 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L232-1 (VT)
-
-_Cité par_:
-
-  - Code de procédure pénale - art. 523-1 (VT)
 
 
 ###### Article L331-8
@@ -4195,44 +10414,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-3 (VT)
 
 
-###### Article L331-9
+## Livre IV : Les juridictions spécialisées non pénales<a id=170></a>
 
-En cas d'absence ou d'empêchement du juge de proximité ou lorsque le nombre de juges de proximité se révèle insuffisant, les
-fonctions de ce juge sont exercées par un juge du tribunal d'instance, désigné à cet effet par ordonnance prise par le
-président du tribunal de grande instance.
+### Titre I : Le tribunal de commerce<a id=171></a>
 
-Le juge d'instance exerce toutefois de plein droit, en cette qualité, les fonctions de juge de proximité lorsque aucun juge
-de proximité n'a été affecté au sein de la juridiction de proximité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 146 () JORF 10 mars 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L232-2 (VT)
-
-_Cité par_:
-
-  - Code de procédure pénale - art. 523-1 (VT)
-
-
-## Livre IV : Les juridictions spécialisées non pénales<a id=54></a>
-
-### Titre I : Le tribunal de commerce<a id=55></a>
-
-#### Chapitre Ier : Institution et compétence.<a id=56></a>
+#### Chapitre Ier : Institution et compétence.<a id=172></a>
 
 ###### Article L411-1
 
@@ -4266,550 +10452,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
 
 
-###### Article L411-2
-
-Les tribunaux de commerce sont créés par décret en Conseil d'Etat. Ce décret fixe leur siège et leur ressort.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L411-3
-
-Dans les circonscriptions où il n'est pas établi de tribunal de commerce, le tribunal de grande instance connaît des matières
-attribuées aux tribunaux de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L411-4
-
-Les tribunaux de commerce connaissent :
-
-1° Des contestations relatives aux engagements entre commerçants, entre établissements de crédit ou entre eux ;
-
-2° Des contestations relatives aux sociétés commerciales ;
-
-3° De celles relatives aux actes de commerce entre toutes personnes.
-
-Toutefois, les parties peuvent, au moment où elles contractent, convenir de soumettre à l'arbitrage les contestations ci-
-dessus énumérées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L411-5
-
-Le tribunal de commerce connaît des billets à ordre portant en même temps des signatures de commerçants et de non-
-commerçants.
-
-Lorsque les billets à ordre ne portent que des signatures de non-commerçants et n'ont pas pour occasion des opérations de
-commerce, trafic, change, banque ou courtage, le tribunal de commerce est tenu de renvoyer au tribunal de grande instance
-s'il en est requis par le défendeur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de commerce - art. 634 (Ab)
-  - Code de commerce - art. 637 (Ab)
-
-
-###### Article L411-6
-
-Sous réserve des compétences des juridictions disciplinaires et nonobstant toute disposition contraire, les tribunaux civils
-sont seuls compétents pour connaître des actions en justice dans lesquelles l'une des parties est une société constituée
-conformément à la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales
-soumises à un statut législatif ou réglementaire ou dont le titre est protégé, ainsi que des contestations survenant entre
-associés d'une telle société.
-
-Néanmoins, les associés peuvent convenir, dans les statuts, de soumettre à des arbitres les contestations qui surviendraient
-entre eux pour raison de leur société.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Cite_:
-
-  - Loi n°90-1258 1990-12-31
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 21 septembre 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de commerce - art. 636 (Ab)
-
-
-###### Article L411-7
-
-Ne sont point de la compétence des tribunaux de commerce les actions intentées contre un propriétaire, cultivateur ou
-vigneron, pour vente de denrées provenant de son cru, ni les actions intentées contre un commerçant, pour paiement de denrées
-et marchandises achetées pour son usage particulier.
-
-Néanmoins, les billets souscrits par un commerçant sont censés faits pour son commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 127 (V) JORF 16 mai 2001 en vigueur le 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de commerce - art. 638 (Ab)
-
-
-#### Chapitre II : Organisation et fonctionnement.<a id=57></a>
-
-###### Article L412-1
-
-Les jugements des tribunaux de commerce sont rendus par des juges délibérant en nombre impair. Sauf dispositions qui
-prévoient un juge unique, ils sont rendus par trois juges au moins.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-2 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-8 (Ab)
-
-
-###### Article L412-2
-
-Lorsque le tribunal de commerce statue en matière de procédures de sauvegarde ou de redressement judiciaire dans les
-conditions prévues aux sections I à IV du chapitre premier du titre deuxième du livre sixième du code de commerce,la
-formation de jugement ne peut comprendre, sous réserve de l'application des dispositions de l'article L. 412-14, qu'une
-majorité de juges ayant exercé des fonctions judiciaires pendant plus de deux ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Modifié par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-6 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-10 (Ab)
-
-
-###### Article L412-3
-
-La formation de jugement est présidée par le président du tribunal de commerce ou par un juge de ce tribunal ayant exercé des
-fonctions judiciaires pendant au moins trois ans, sous réserve de l'application des dispositions de l'article L. 412-14.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (M)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L913-4 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-8 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-10 (Ab)
-
-
-###### Article L412-4
-
-Sous réserve de l'application des dispositions de l'article L. 412-14, nul ne peut être désigné pour exercer les fonctions de
-juge-commissaire dans les conditions prévues à l'article L. 621-8 du code de commerce précité, s'il n'a exercé pendant deux
-ans au moins des fonctions judiciaires dans un tribunal de commerce.
-
-Le président du tribunal de commerce dresse, au début de chaque année judiciaire, par ordonnance prise après avis de
-l'assemblée générale du tribunal, la liste des juges pouvant exercer les fonctions de juge-commissaire.
-
-**Nota:**
-
-NOTA : L'article L. 621-8 du code de commerce a été abrogé par l'article 1er de la loi n° 2005-845 du 26 juillet 2005.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Modifié par_:
-
-  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de commerce. - art. L621-8 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-14 (M)
-
-
-###### Article L412-5
-
-Le procureur de la République près le tribunal de grande instance dans le ressort duquel se trouve le siège du tribunal de
-commerce exerce le ministère public devant cette dernière juridiction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-16 (Ab)
-
-
-###### Article L412-6
-
-Lorsqu'un tribunal de commerce ne peut se constituer ou statuer, la cour d'appel, saisie sur requête du procureur général,
-désigne, s'il n'a pas été fait application des dispositions des articles L. 412-13 et L. 412-14, le tribunal de grande
-instance [*de renvoi*] situé dans le ressort de la cour d'appel appelé à connaître des affaires inscrites au rôle du tribunal
-de commerce et de celles dont il aurait été saisi ultérieurement. Si le renvoi résulte de l'impossibilité de respecter les
-prescriptions de l'article L. 412-2, le tribunal de grande instance n'est saisi que des affaires de redressement et de
-liquidation judiciaires. Le greffier du tribunal de commerce n'est pas dessaisi de ses attributions et continue d'exercer ses
-fonctions auprès du tribunal de renvoi.
-
-Lorsque l'empêchement qui avait motivé le renvoi a cessé, la cour d'appel, saisie sur requête du procureur général, fixe la
-date à partir de laquelle le tribunal de commerce connaît à nouveau des affaires de sa compétence. A cette date, les affaires
-sont transmises, en l'état, au tribunal de commerce. Le tribunal de renvoi reste toutefois saisi des affaires de procédure de
-conciliation et, lorsqu'il est statué au fond, des affaires autres que celles de règlement judiciaire, de liquidation de
-biens, de redressement et de liquidation judiciaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Modifié par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-2 (M)
-  - Code de l'organisation judiciaire L412-2, L412-13 et L412-14
-
-
-###### Article L412-7
-
-Sous réserve des dispositions relatives aux élections complémentaires prévues au second alinéa de l'article L. 413-8, les
-juges des tribunaux de commerce sont élus pour deux ans lors de leur première élection. Ils peuvent, à l'issue d'un premier
-mandat, être réélus par période de quatre ans, dans le même tribunal ou dans tout autre tribunal de commerce, sans que puisse
-être dépassé le nombre maximal de mandats prévu à l'article L. 413-4.
-
-Lorsque le mandat des juges des tribunaux de commerce vient à expiration avant le commencement de la période fixée pour
-l'installation de leurs successeurs, ils restent en fonctions jusqu'à cette installation, sans que cette prorogation puisse
-dépasser une période de trois mois.
-
-Avant d'entrer en fonctions, les membres des tribunaux de commerce prêtent serment.
-
-Le serment est celui des magistrats de l'ordre judiciaire. Il est reçu par la cour d'appel, lorsque le tribunal de commerce
-est établi au siège de la cour d'appel et, dans les autres cas, par le tribunal de grande instance dans le ressort duquel le
-tribunal de commerce a son siège.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 10 () JORF 17 avril 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-8 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-28 (V)
-
-
-###### Article L412-8
-
-La cessation des fonctions de membre d'un tribunal de commerce résulte :
-
-1° De l'expiration du mandat électoral, sous réserve des dispositions du deuxième alinéa de l'article L. 412-7 et du
-troisième alinéa de l'article L. 412-11 ;
-
-2° De la suppression du tribunal ;
-
-3° De la démission ;
-
-4° De la déchéance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L412-7 al. 2 et L412-11 al. 3
-
-
-###### Article L412-9
-
-Lorsqu'une procédure de redressement ou de liquidation judiciaires est ouverte à l'égard d'un membre d'un tribunal de
-commerce, l'intéressé cesse ses fonctions à compter de la date du jugement d'ouverture. Il est réputé démissionnaire.
-
-Les mêmes dispositions s'appliquent à un membre du tribunal de commerce qui a une des qualités mentionnées au premier alinéa
-de l'article L. 713-3 du code de commerce, lorsque la société ou l'établissement public auquel il appartient fait l'objet
-d'une procédure de redressement ou de liquidation judiciaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Modifié par_:
-
-  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de commerce. - art. L713-3 (M)
-
-
-###### Article L412-10
-
-Lorsqu'un tribunal de grande instance a été désigné dans les conditions prévues au premier alinéa de l'article L. 412-6, le
-mandat des juges du tribunal de commerce dessaisi n'est pas interrompu pendant la période de dessaisissement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L412-6 al. 1
-
-
-###### Article L412-11
-
-Le président du tribunal de commerce est choisi parmi les juges du tribunal qui ont exercé des fonctions dans un tribunal de
-commerce pendant six ans au moins, sous réserve des dispositions de l'article L. 412-13.
-
-Le président est élu pour quatre ans au scrutin secret par les juges du tribunal de commerce réunis en assemblée générale
-sous la présidence du président sortant ou, à défaut, du doyen d'âge. L'élection a lieu à la majorité absolue aux deux
-premiers tours de scrutin et à la majorité relative au troisième tour. En cas d'égalité de voix au troisième tour, le
-candidat ayant la plus grande ancienneté dans les fonctions judiciaires est proclamé élu ; en cas d'égalité d'ancienneté, le
-plus âgé est proclamé élu.
-
-Le président reste en fonctions jusqu'à l'installation de son successeur sans que cette prorogation puisse dépasser une
-période de trois mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-13 (Ab)
-
+#### Chapitre II : Organisation et fonctionnement.<a id=173></a>
 
 ###### Article L412-12
 
@@ -4849,351 +10492,9 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R412-6 (Ab)
 
 
-###### Article L412-13
+#### Chapitre III : Election des juges des tribunaux de commerce<a id=174></a>
 
-Lorsque aucun des candidats ne remplit la condition d'ancienneté requise pour être président du tribunal de commerce, le
-premier président de la cour d'appel, saisi par requête du procureur général, peut décider, par ordonnance, que l'ancienneté
-requise ne sera pas exigée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-11 (Ab)
-
-
-###### Article L412-14
-
-Lorsque aucun des juges du tribunal de commerce ne remplit les conditions d'ancienneté requises soit pour statuer en matière
-de procédures de sauvegarde ou de redressement judiciaire conformément aux dispositions de l'article L. 412-2, soit pour
-présider une formation de jugement dans les conditions prévues par l'article L. 412-3, soit pour remplir les fonctions de
-juge-commissaire dans les conditions prévues par l'article L. 412-4, le premier président de la cour d'appel, saisi par
-requête du procureur général, peut décider, par ordonnance, que l'ancienneté requise ne sera pas exigée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Modifié par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-4 (Ab)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L412-2, L412-3 et L412-4
-
-
-###### Article L412-15
-
-Le mandat des membres élus des tribunaux de commerce est  gratuit .
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 1 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-#### Chapitre III : Election des juges des tribunaux de commerce<a id=58></a>
-
-##### Section I : Electorat.<a id=59></a>
-
-###### Article L413-1
-
-Les juges d'un tribunal de commerce sont élus dans le ressort de la juridiction par un collège composé :
-
-1° Des délégués consulaires élus dans le ressort de la juridiction ;
-
-2° Des membres du tribunal de commerce ainsi que des anciens membres du tribunal ayant demandé à être inscrits sur la liste
-électorale.
-
-Les personnes mentionnées ci-dessus ne peuvent faire partie du collège électoral qu'à la condition :
-
-- de ne pas avoir été déchues de leurs fonctions ;
-
-- de ne pas avoir été condamnées pénalement pour des agissements contraires à l'honneur, à la probité ou aux bonnes moeurs ;
-
-- de n'avoir pas été frappées de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre
-V du titre II du livre VI du code de commerce, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et
-à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
-juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, ou d'une
-mesure d'interdiction définie à l'article L. 653-8 du code de commerce ou d'une mesure d'interdiction d'exercer une activité
-commerciale.
-
-Les délégués consulaires sont désignés dans les conditions prévues aux articles L. 713-6 à L. 713-18 du code de commerce.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°67-563 1967-07-13
-  - Loi n°85-98 1985-01-25
-  - Code de commerce L653-8, L713-6 à L713-18
-  - Code de commerce. - art. L653-8 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L414-7 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
-
-
-###### Article L413-2
-
-La liste électorale pour les élections aux tribunaux de commerce est établie par une commission présidée par le juge commis à
-la surveillance du registre du commerce et des sociétés. En cas de création d'un tribunal de commerce, le premier président
-de la cour d'appel désigne comme président de la commission un magistrat de l'ordre judiciaire.
-
-Les dispositions du premier alinéa de l'article L. 25 et des articles L. 27, L. 34 et L. 35 du code électoral sont
-applicables en cas de contestation portant sur la liste électorale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Cité par_:
-
-  - Décret n°2005-808 du 18 juillet 2005 - art. 5 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-14 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code électoral L25 al. 1, L34 et L35
-
-
-##### Section II : Eligibilité.<a id=60></a>
-
-###### Article L413-3
-
-Sont éligibles aux fonctions de membre d'un tribunal de commerce les personnes âgées de trente ans au moins :
-
-1° Inscrites sur la liste électorale dressée en application de l'article L. 713-7 du code de commerce dans le ressort du
-tribunal de commerce ou dans le ressort des tribunaux de commerce limitrophes ;
-
-2° Qui remplissent la condition de nationalité prévue à l'article L. 2 du code électoral ;
-
-2° bis A l'encontre desquelles une procédure de redressement ou de liquidation judiciaires n'a pas été ouverte ;
-
-2° ter Qui, s'agissant des personnes mentionnées au 1° ou au 2° de l'article L. 713-7 du code de commerce, n'appartiennent
-pas à une société ou à un établissement public ayant fait l'objet d'une procédure de redressement ou de liquidation
-judiciaires ;
-
-3° Et qui justifient soit d'une immatriculation pendant les cinq dernières années au moins au registre du commerce et des
-sociétés, soit de l'exercice, pendant une durée totale cumulée de cinq ans, de l'une des qualités énumérées à l'article L.
-713-8 du code de commerce ou de l'une des professions énumérées au d du 1° de l'article L. 713-7.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cité par_:
-
-  - Décret n°91-739 du 18 juillet 1991 - art. 24 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-10 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (M)
-
-_Modifié par_:
-
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de commerce. - art. L713-7 (T)
-  - Code de commerce. - art. L713-8 (T)
-  - Code électoral - art. L2 (V)
-  - Code de l'organisation judiciaire L713-7
-
-
-###### Article L413-3-1
-
-Toute personne ayant été déchue de ses fonctions de membre d'un tribunal de commerce est inéligible à cette fonction pour une
-durée de dix ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
-
-
-###### Article L413-3-2
-
-Peut être déclarée inéligible pour une période d'une durée de dix ans par la commission nationale de discipline toute
-personne ayant présenté sa démission de membre d'un tribunal de commerce au cours de la procédure disciplinaire diligentée à
-son encontre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 12 () JORF 17 avril 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
-
-
-###### Article L413-4
-
-Les juges des tribunaux de commerce élus pour quatre mandats successifs dans un même tribunal de commerce ne sont plus
-éligibles dans ce tribunal pendant un an.
-
-Toutefois, le président sortant à l'issue de quatre mandats successifs de membre ou de président peut être réélu pour un
-nouveau mandat, en qualité de membre du même tribunal de commerce. A la fin de ce mandat, il n'est plus éligible à aucun
-mandat pendant un an.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 12 () JORF 17 avril 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-7 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L913-4 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
-
-
-###### Article L413-5
-
-Un membre d'un tribunal de commerce ne peut être simultanément membre d'un conseil de prud'hommes ou membre d'un autre
-tribunal de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 1987-07-16 art. 21 date d'entrée en vigueur
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-8 (M)
-
-
-##### Section III : Scrutin et opérations électorales.<a id=61></a>
+##### Section III : Scrutin et opérations électorales.<a id=175></a>
 
 ###### Article L413-6
 
@@ -5225,31 +10526,6 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 4
-
-
-###### Article L413-7
-
-Les élections des membres des tribunaux de commerce ont lieu au scrutin plurinominal majoritaire à deux tours.
-
-Sont déclarés élus au premier tour les candidats ayant obtenu un nombre de voix au moins égal à la majorité des suffrages
-exprimés et au quart des électeurs inscrits. Si aucun candidat n'est élu ou s'il reste des sièges à pourvoir, l'élection est
-acquise au second tour à la majorité relative des suffrages exprimés. Si plusieurs candidats obtiennent le même nombre de
-voix au second tour, le plus âgé est proclamé élu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L413-8
@@ -5292,67 +10568,6 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (Ab)
 
 
-###### Article L413-9
-
-Les dispositions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117 du code électoral s'appliquent aux opérations
-électorales organisées en vue de la désignation des membres des tribunaux de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code électoral - art. L49 (M)
-  - Code électoral - art. L50 (V)
-  - Code électoral L49, L50, L58 à L67, L86 à L117
-
-
-###### Article L413-10
-
-Une commission présidée par un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel est
-chargée de veiller à la régularité du scrutin et de proclamer les résultats.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Cité par_:
-
-  - Arrêté du 29 juillet 2005 - art. 2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-9 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-10 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-13 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-15 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-16 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-17 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-7 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
 ###### Article L413-11
 
 Les contestations relatives à l'électorat, à l'éligibilité et aux opérations électorales organisées en vue de la désignation
@@ -5386,310 +10601,9 @@ _Nouveaux textes_:
   - Code de commerce. - art. R723-24 (V)
 
 
-##### Section IV : Mesures d'application.<a id=62></a>
+### Titre IV : Le tribunal paritaire de baux ruraux<a id=176></a>
 
-###### Article L413-12
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 14 () JORF 17 avril 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-#### Chapitre IV : Discipline des membres des tribunaux de commerce.<a id=63></a>
-
-###### Article L414-1
-
-Tout manquement d'un membre d'un tribunal de commerce à l'honneur, à la probité, à la dignité et aux devoirs de sa charge
-constitue une faute disciplinaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-11 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-19 (Ab)
-
-
-###### Article L414-2
-
-Le pouvoir disciplinaire est exercé par une commission nationale de discipline qui est présidée par un président de chambre à
-la Cour de cassation, désigné par le premier président de la Cour de cassation, et qui comprend [*composition*] :
-
-1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
-
-2° Deux magistrats du siège des cours d'appel désignés par le premier président de la Cour de cassation sur une liste établie
-par les premiers présidents des cours d'appel, chacun d'eux arrêtant le nom d'un magistrat du siège de sa cour d'appel après
-avis de l'assemblée générale des magistrats du siège de la cour d'appel ;
-
-3° Quatre membres des tribunaux de commerce élus par l'ensemble des présidents des tribunaux de commerce.
-
-Des suppléants en nombre égal sont désignés dans les mêmes conditions. Les membres de la commission nationale de discipline
-sont désignés pour quatre ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-4 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-5 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-6 (Ab)
-
-
-###### Article L414-3
-
-Après audition de l'intéressé par le président du tribunal auquel il appartient, la commission nationale de discipline peut
-être saisie par le garde des sceaux, ministre de la justice.
-
-Elle peut prononcer soit le blâme, soit la déchéance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-19 (Ab)
-
-
-###### Article L414-4
-
-Sur proposition du garde des sceaux, ministre de la justice, le président de la commission nationale de discipline peut
-suspendre un membre d'un tribunal de commerce pour une durée qui ne peut excéder six mois, lorsqu'il existe contre
-l'intéressé, qui aura été préalablement entendu par le président du tribunal auquel il appartient, des faits de nature à
-entraîner une sanction disciplinaire. La suspension peut être renouvelée une fois par la commission nationale pour une durée
-qui ne peut excéder six mois. Si le membre du tribunal de commerce fait l'objet de poursuites pénales, la suspension peut
-être ordonnée par le président de la commission nationale jusqu'à l'intervention de la décision pénale définitive.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-5 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-11 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-18 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R414-19 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-17 (Ab)
-
-
-###### Article L414-5
-
-La commission nationale de discipline ne peut délibérer que si quatre de ses membres au moins, y compris le président, sont
-présents. En cas de partage égal des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L414-6
-
-Les décisions de la commission nationale de discipline et celles de son président doivent être motivées [*motivation
-obligatoire*] . Elles ne sont susceptibles de recours que devant la Cour de cassation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L414-7
-
-Indépendamment des décisions qui pourraient intervenir en application des articles L. 414-3 et L. 414-4, lorsqu'il apparaît,
-postérieurement à son élection, qu'un membre du tribunal de commerce a encouru, avant ou après son installation, une des
-condamnations, déchéances ou incapacités mentionnées à l'article L. 413-1, il est déchu de plein droit de ses fonctions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 2 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
-  - Code de l'organisation judiciaire L413-1, L413-3 et L413-4
-
-
-### Titre II : Le conseil de prud'hommes.<a id=64></a>
-
-###### Article L420-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement des conseils de prud'hommes sont fixées par le code
-du travail.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-### Titre III : Le juge de l'expropriation<a id=65></a>
-
-#### Chapitre Ier : Institution et compétence.<a id=66></a>
-
-###### Article L431-1
-
-Ainsi qu'il est dit à l'article L. 13-1 du code de l'expropriation pour cause d'utilité publique, "les indemnités
-d'expropriation sont fixées, à défaut d'accord amiable, par un juge de l'expropriation désigné pour chaque département parmi
-les magistrats du siège appartenant à un tribunal de grande instance".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-_Cite_:
-
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-1 (V)
-
-
-### Titre IV : Le tribunal paritaire de baux ruraux<a id=67></a>
-
-#### Chapitre Ier : Organisation des tribunaux paritaires.<a id=68></a>
-
-###### Article L441-1
-
-Il est créé au siège de chaque tribunal d'instance un tribunal paritaire de baux ruraux qui est seul compétent pour connaître
-des contestations entre bailleurs et preneurs de baux ruraux, relatives à l'application des titres Ier à V du livre IV du
-Code rural.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1293 1958-12-22 art. 1 JORF 23 décembre 1958
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
+#### Chapitre Ier : Organisation des tribunaux paritaires.<a id=177></a>
 
 ###### Article L441-2
 
@@ -5733,7 +10647,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 
-#### Chapitre II : Constitution des tribunaux paritaires.<a id=69></a>
+#### Chapitre II : Constitution des tribunaux paritaires.<a id=178></a>
 
 ###### Article L442-1
 
@@ -5855,75 +10769,6 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 
-###### Article L442-3
-
-L'élection des assesseurs bailleurs et preneurs a lieu au scrutin secret uninominal majoritaire à un tour dans le ressort de
-chaque tribunal. Sont déclarés élus titulaires les bailleurs et les preneurs ayant obtenu le plus grand nombre de suffrages.
-Sont ensuite déclarés élus suppléants les bailleurs et les preneurs dans l'ordre des voix obtenues lors de l'élection.
-
-Le droit de vote est exercé par correspondance.
-
-Les conditions d'application de l'article L. 442-1 et du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1293 1958-12-22 art. 5 JORF 23 décembre 1958
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2004-570 du 17 juin 2004 - art. 2 () JORF 19 juin 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
-
-
-###### Article L442-4
-
-Les membres assesseurs des tribunaux paritaires sont élus pour six ans .
-
-Avant d'entrer en fonction, ils prêtent individuellement, devant le juge d'instance, le serment de remplir leurs fonctions
-avec zèle et intégrité et de garder le secret des délibération.
-
-Si le nombre total des assesseurs, titulaires et suppléants d'une même catégorie d'une section se trouve réduit à deux, le
-préfet organise une élection partielle complémentaire dans le délai de deux mois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1293 1958-12-22 art. 6 JORF 23 décembre 1958
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
-
-_Cité par_:
-
-  - Loi n°2001-6 du 4 janvier 2001 - art. 22 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (M)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
 ###### Article L442-5
 
 Lorsqu'un tribunal paritaire ne peut être constitué ou ne peut fonctionner, il est supprimé par décret pris sur le rapport du
@@ -5964,7 +10809,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-2 (M)
 
 
-#### Chapitre III : Compétence et procédure.<a id=70></a>
+#### Chapitre III : Compétence et procédure.<a id=179></a>
 
 ###### Article L443-1
 
@@ -6005,69 +10850,6 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
-
-
-###### Article L443-2
-
-Les assesseurs peuvent être récusés :
-
-S'ils ont un intérêt personnel dans la contestation ;
-
-S'ils sont parents ou alliés de l'une des parties en ligne directe ou collatérale jusqu'au quatrième degré inclusivement ;
-
-Si, dans les cinq années qui ont précédé, il y a eu une action judiciaire civile ou criminelle entre eux et l'une des
-parties ;
-
-S'il ont donné un avis écrit dans l'affaire ;
-
-S'ils sont patrons, ouvriers, employés, bailleurs ou preneurs de l'une des parties en cause.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1293 1958-12-22 art. 16 JORF 23 décembre 1958
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L443-3
-
-Lorsque, par suite de l'absence d'assesseurs titulaires ou suppléants, régulièrement convoqués, ou de leur récusation, le
-tribunal paritaire ne peut se réunir au complet, le président statue seul, après avoir pris l'avis des assesseurs présents.
-
-Il en est de même lorsque, par suite de décès ou de démissions d'assesseurs, le tribunal ne peut provisoirement se réunir au
-complet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1293 1958-12-22 art. 18 JORF 23 décembre 1958
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°88-1202 du 30 décembre 1988 - art. 21 () JORF 31 décembre 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
 ###### Article L443-4
@@ -6168,311 +10950,11 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006 sous réserve art. 3
 
 
-#### Chapitre IV : Voies de recours.<a id=71></a>
+## Livre V : Les juridictions des mineurs<a id=180></a>
 
-###### Article L444-1
+### Titre II : Le tribunal pour enfants<a id=181></a>
 
-Les décisions en dernier ressort peuvent être attaquées par la voie du recours en cassation pour incompétence, excès de
-pouvoir ou violation de la loi conformément au livre Ier du présent code.
-
-La cour d'appel connaît de l'appel interjeté à l'encontre des autres décisions du tribunal paritaire des baux ruraux
-conformément au livre II du présent code.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'organisation judiciaire livre I et livre II
-
-_Anciens textes_:
-
-  - Décret n°58-1293 1958-12-22 art. 25 JORF 23 décembre 1958
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°90-85 1990-01-23 art. 44 JORF 25 janvier 1990
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-### Titre V : Les juridictions de sécurité sociale.<a id=72></a>
-
-###### Article L450-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement des juridictions de sécurité sociale sont fixées par
-le code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-1 (VT)
-
-
-### Titre VI : Les prud'hommes pêcheurs.<a id=73></a>
-
-###### Article L461-1
-
-Il y a des prud'hommes pêcheurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-## Livre V : Les juridictions des mineurs<a id=74></a>
-
-### Titre Ier : La cour d'assises des mineurs<a id=75></a>
-
-#### Chapitre Ier : Institution et compétence.<a id=76></a>
-
-###### Article L511-1
-
-Conformément à l'article 1er de l'ordonnance n° 45-174 du 2 février 1945, il y a des cours d'assises des mineurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 1 (V)
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L254-1 (V)
-
-
-###### Article L511-2
-
-Ainsi qu'il est dit à l'alinéa 1 de l'article 20 de l'ordonnance n° 45-174 du 2 février 1945, "le mineur âgé de seize ans au
-moins accusé de crime est jugé par la cour d'assises des mineurs [*compétence*]".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-174 1945-02-02 art. 20 al. 1
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L254-1 (V)
-
-
-#### Chapitre II : Organisation et fonctionnement.<a id=77></a>
-
-###### Article L512-1
-
-La cour d'assises des mineurs est composée d'un président, de deux assesseurs et complétée par le jury criminel, dans les
-conditions définies par l'ordonnance n° 45-174 du 2 février 1945 [*composition*].
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-174 1945-02-02
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L254-1 (V)
-
-
-###### Article L512-2
-
-Ainsi qu'il est dit à l'article 20, alinéa 2, de l'ordonnance n° 45-174 du 2 février 1945, "la cour d'assises des mineurs se
-réunit au siège de la cour d'assises et au cours de la session de celle-ci".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-174 1945-02-02 art. 20 al. 2
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L254-1 (V)
-
-
-###### Article L512-3
-
-Ainsi qu'il est dit à l'alinéa 3 de l'article 20 de l'ordonnance n° 45-174 du 2 février 1945, "les fonctions du ministère
-public auprès de la cour d'assises des mineurs sont remplies par le procureur général ou un magistrat du ministère public
-spécialement chargé des affaires de mineurs".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-174 1945-02-02 art. 20 al. 3
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L254-1 (V)
-
-
-### Titre II : Le tribunal pour enfants<a id=78></a>
-
-#### Chapitre Ier : Institution et compétence.<a id=79></a>
-
-###### Article L521-1
-
-Conformément à l'article 1er de l'ordonnance n° 45-174 du 2 février 1945, il y a dans le ressort de chaque cour d'appel une
-ou plusieurs juridictions de première instance dénommées tribunaux pour enfants.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 1 (V)
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L251-2 (V)
-
-
-###### Article L521-2
-
-Le tribunal pour enfants connaît des crimes commis par les mineurs de seize ans.
-
-Il connaît des délits et des contraventions de police de 5e classe commis par les mineurs qui lui sont renvoyés par le juge
-des enfants ou le juge d'instruction, conformément aux dispositions des articles 8 et 9 de l'ordonnance n° 45-174 du 2
-février 1945.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 9 (M)
-
-_Cite_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 9 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L251-1 (V)
-
-
-#### Chapitre II : Organisation et fonctionnement.<a id=80></a>
+#### Chapitre II : Organisation et fonctionnement.<a id=182></a>
 
 ###### Article L522-1
 
@@ -6504,115 +10986,6 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D251-1 (V)
-
-
-###### Article L522-2
-
-Le tribunal pour enfants est composé d'un juge des enfants, président, et de deux assesseurs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1274 1958-12-22 art. 5
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L251-3 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R251-5 (V)
-
-
-###### Article L522-3
-
-Les assesseurs titulaires et suppléants sont choisis parmi les personnes âgées de plus de trente ans, de nationalité
-française et qui se sont signalées par l'intérêt qu'elles portent aux questions de l'enfance et par leurs compétences.
-
-Les assesseurs sont nommés pour quatre ans par arrêté du ministre de la justice ; leur renouvellement s'opère par moitié ;
-toutefois, en cas de création d'un tribunal pour enfants, d'augmentation ou de réduction du nombre des assesseurs dans ces
-juridictions, ou de remplacement d'un ou de plusieurs de ces assesseurs à une date autre que celle qui est prévue pour leur
-renouvellement, la désignation des intéressés peut intervenir pour une période inférieure à quatre années dans la limite de
-la durée requise pour permettre leur renouvellement par moitié.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1274 1958-12-22 art. 5
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L251-4 (V)
-
-
-###### Article L522-4
-
-Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent serment devant le tribunal de grande instance,
-de bien et fidèlement remplir leurs fonctions et de garder religieusement le secret des délibérations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1274 1958-12-22 art. 5
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L251-5 (M)
-
-
-###### Article L522-5
-
-Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
-successives peuvent, à la demande du juge des enfants ou du ministère public, être déclarés démissionnaires, par délibération
-de la première chambre de la cour d'appel.
-
-En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1274 1958-12-22 art. 5-1
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L251-6 (V)
 
 
 ###### Article L522-6
@@ -6650,327 +11023,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-13 (V)
 
 
-### Titre III : Le juge des enfants<a id=81></a>
+## Livre VI : Les juridictions pénales<a id=183></a>
 
-#### Chapitre Ier : Institution et compétence.<a id=82></a>
+### Titre II : Les juridictions de jugement de droit commun<a id=184></a>
 
-###### Article L531-1
-
-Au siège de chaque tribunal pour enfants, il existe un ou plusieurs juges des enfants.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1274 1958-12-22 art. 2
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L252-1 (V)
-
-
-###### Article L531-2
-
-Le juge des enfants connaît, dans les conditions définies aux articles 8 et 9 de l'ordonnance n° 45-174 du 2 février 1945 des
-délits et des contraventions de police de 5e classe commis par les mineurs.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 9 (M)
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 9 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L252-5 (V)
-
-
-###### Article L531-3
-
-Le juge des enfants est en outre compétent pour tout ce qui concerne l'assistance éducative dans les conditions prévues aux
-articles 375 et suivants du code civil.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-174 1945-02-02 art. 10 et art. 20-1
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code civil 375 et s.
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L252-2 (V)
-
-
-#### Chapitre II : Organisation et fonctionnement.<a id=83></a>
-
-###### Article L532-1
-
-Le juge des enfants est choisi compte tenu de l'intérêt qu'il porte aux questions de l'enfance et de ses aptitudes, parmi les
-juges du tribunal de grande instance dans le ressort duquel le tribunal pour enfants a son siège ; il est nommé dans la forme
-exigée pour la nomination des magistrats du siège.
-
-En cas d'empêchement momentané du titulaire, le tribunal de grande instance désigne l'un de ses juges pour le remplacer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1274 1958-12-22 art. 3
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°87-1062 du 30 décembre 1987 - art. 24 () JORF 31 décembre 1987
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-## Livre VI : Les juridictions pénales<a id=84></a>
-
-### Titre I : Les juridictions d'instruction de droit commun<a id=85></a>
-
-#### Chapitre I : Le juge d'instruction.<a id=86></a>
-
-###### Article L611-1
-
-Les juges d'instruction exercent leur activité au siège du tribunal de grande instance auquel ils appartiennent. Toutefois,
-un décret en Conseil d'Etat peut les autoriser à exercer leur activité dans une commune du ressort de leur tribunal autre que
-celle du siège de la juridiction.
-
-Les règles concernant les conditions de nomination et les attributions du juge d'instruction sont fixées par les articles 49
-à 51 et 79 et suivants du code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2000-516 du 15 juin 2000 - art. 47 () JORF 16 juin 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 79 (V)
-  - Code de procédure pénale 49 à 51, 79
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 79 (V)
-  - Code de procédure pénale 49 à 51, 79
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-10 (V)
-
-
-#### Chapitre II : La chambre de l'instruction.<a id=87></a>
-
-###### Article L612-1
-
-Chaque cour d'appel comprend au moins une chambre de l'instruction.
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la chambre de l'instruction ainsi que celles qui
-sont relatives au ministère public près cette juridiction sont fixées par les articles 191 à 193 du code de procédure pénale,
-par les dispositions du livre II du présent code dans la mesure où elles ne sont pas incompatibles avec les dispositions du
-code de procédure pénale et par les textes particuliers à certaines matières.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 191 (M)
-
-_Cite_:
-
-  - Code de procédure pénale 191 à 193
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-8 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-4 (V)
-
-
-### Titre II : Les juridictions de jugement de droit commun<a id=88></a>
-
-#### Chapitre Ier : La cour d'assises.<a id=89></a>
-
-###### Article L621-1
-
-Il est tenu des assises à Paris et dans chaque département.
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la cour d'assises, ainsi que celles qui sont
-relatives au ministère public près cette juridiction sont fixées par les articles 231 à 267, 288, 289, 295 à 305 et 371 du
-code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 232 (V)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 288 (M)
-  - CODE DE PROCEDURE PENALE - art. 289 (V)
-  - CODE DE PROCEDURE PENALE - art. 371 (V)
-  - Code de procédure pénale 231 à 267, 288, 289, 295 à 305, 371
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L241-1 (V)
-
-
-#### Chapitre II : Le tribunal correctionnel.<a id=90></a>
-
-###### Article L622-1
-
-Le tribunal de grande instance, lorsqu'il statue en matière pénale, est dénommé tribunal correctionnel.
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal correctionnel, ainsi que celles qui sont
-relatives au ministère public près cette juridiction sont fixées par les articles 39 à 44, 381 à 384, 398 à 399, 418, 704 et
-705 du Code de procédure pénale, par les dispositions du titre Ier du livre III de la partie législative du présent code dans
-la mesure où elles ne sont pas incompatibles avec les dispositions du Code de procédure pénale et par les textes particuliers
-à certaines matières.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 381 (M)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 418 (V)
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - CODE DE PROCEDURE PENALE - art. 705 (M)
-  - Code de procédure pénale 39 à 44, 381 à 384, 398 à 399, 418, 704, 705
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L211-9 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L212-5 (V)
-
-
-#### Chapitre III : Le tribunal de police.<a id=91></a>
-
-###### Article L623-1
-
-Le tribunal d'instance, lorsqu'il statue en matière contraventionnelle, est dénommé tribunal de police.
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal de police, ainsi que celles qui sont
-relatives au ministère public près cette juridiction sont fixées par les articles 39, 45, 521 à 523 et 536 du Code de
-procédure pénale, par les dispositions du titre II du livre III de la partie législative du présent code, dans la mesure où
-elles ne sont pas incompatibles avec les dispositions du Code de procédure pénale et par les textes particuliers à certaines
-matières.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 39 (M)
-  - CODE DE PROCEDURE PENALE - art. 45 (M)
-  - CODE DE PROCEDURE PENALE - art. 536 (M)
-  - Code de procédure pénale 39, 45, 521 à 523, 536
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 521 (M)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L221-10 (V)
-
+#### Chapitre III : Le tribunal de police.<a id=185></a>
 
 ###### Article L623-2
 
@@ -7012,345 +11069,9 @@ _Cité par_:
   - Code de procédure pénale - art. 522-1 (VT)
 
 
-#### Chapitre IV : La juridiction d'appel.<a id=92></a>
+## Livre VII : Dispositions communes à plusieurs juridictions<a id=186></a>
 
-###### Article L624-1
-
-Conformément aux articles 496 et 547 du Code de procédure pénale, les appels des décisions rendues par le tribunal
-correctionnel et le tribunal de police sont portés devant la cour d'appel, chambre des appels correctionnels.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de procédure pénale 496 et 547
-
-_Cite_:
-
-  - Code de procédure pénale 496 et 547
-
-
-### Titre III : Les juridictions pénales spécialisées.<a id=93></a>
-
-###### Article L630-1
-
-Les règles concernant la compétence, l'organisation et le fonctionnement des juridictions des forces armées sont fixées par
-le code de justice militaire et le code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-###### Article L630-2
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal maritime commercial sont fixées par le
-code disciplinaire et pénal de la marine marchande.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-###### Article L630-3
-
-Il y a, dans le ressort de chaque cour d'appel, une ou plusieurs juridictions de première instance dénommées tribunaux de
-l'application des peines. Les règles concernant la composition, la compétence et le fonctionnement du tribunal de
-l'application des peines sont fixées par les articles 712-1 et suivants du code de procédure pénale. Le siège des tribunaux
-de l'application des peines est fixé par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 712-1 (V)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-### Titre IV : Le juge des libertés et de la détention<a id=94></a>
-
-###### Article L640-1
-
-Les règles concernant les conditions de désignation et les attributions du juge des libertés et de la détention sont fixées
-par le code de procédure pénale et par les lois particulières.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Créé par_:
-
-  - Loi n°2000-1354 du 30 décembre 2000 - art. 33 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-10 (V)
-
-
-###### Article L640-2
-
-Pour l'organisation du service de fin de semaine ou du service allégé pendant la période au cours de laquelle les magistrats
-bénéficient de leurs congés annuels, et nonobstant les dispositions des articles 137-1 du code de procédure pénale et L.
-710-1 du présent code, un magistrat ayant rang de président, de premier vice-président ou de vice-président exerçant les
-fonctions de juge des libertés et de la détention dans un tribunal de grande instance peut être désigné afin d'exercer
-concurremment ces fonctions dans, au plus, deux autres tribunaux de grande instance du ressort de la cour d'appel ; cette
-désignation est décidée par ordonnance du premier président prise à la demande des présidents de ces juridictions et après
-avis du président du tribunal de grande instance concerné ; elle en précise le motif et la durée, ainsi que les tribunaux
-pour lesquels elle s'applique ; la durée totale d'exercice concurrent des fonctions de juge des libertés dans plusieurs
-tribunaux de grande instance ne peut excéder quarante jours au cours de l'année judiciaire.
-
-La désignation prévue à l'alinéa précédent peut également être ordonnée, selon les mêmes modalités et pour une durée totale,
-intermittente ou continue, qui ne peut excéder quarante jours, lorsque, pour cause de vacance d'emploi ou d'empêchement,
-aucun magistrat n'est susceptible, au sein d'une juridiction, d'exercer les fonctions de juge des libertés et de la
-détention.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Créé par_:
-
-  - Loi n°2000-1354 du 30 décembre 2000 - art. 33 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L710-1 (V)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-10 (V)
-
-
-### Titre V : Les juridictions spécialisées prévues par les articles 704, 706-2 et 706-75 du code de procédure pénale.<a id=95></a>
-
-###### Article L650-1
-
-Au sein de chaque tribunal de grande instance dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours
-d'appel en application des articles 704 et 706-75 du code de procédure pénale, un ou plusieurs juges d'instruction désignés
-par le premier président après avis du président du tribunal de grande instance sont chargés spécialement des informations
-relatives aux crimes et délits entrant dans le champ d'application des articles 704, 706-73, à l'exception du 11°, ou 706-74
-du même code.
-
-Un ou plusieurs magistrats du parquet désignés par le procureur général après avis du procureur de la République sont chargés
-spécialement de l'enquête et de la poursuite des crimes et délits entrant dans le champ d'application des articles 706-73, à
-l'exception du 11°, ou 706-74 du même code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
-  - Code de l'organisation judiciaire 704, 706-73
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-11 (V)
-
-
-###### Article L650-2
-
-Au sein de chaque tribunal de grande instance dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours
-d'appel en application des articles 704 et 706-75 du code de procédure pénale, des magistrats du siège désignés par le
-premier président après avis du président du tribunal de grande instance sont chargés spécialement du jugement des délits
-entrant dans le champ d'application des articles 704, 706-73, à l'exception du 11°, ou 706-74 du même code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
-  - Code de l'organisation judiciaire 704, 706-73
-
-
-###### Article L650-3
-
-Au sein de chaque cour d'assises dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel en
-application de l'article 706-75 du code de procédure pénale, des magistrats du siège désignés par le premier président
-conformément aux dispositions des articles 244 à 253 du même code sont chargés spécialement du jugement des crimes entrant
-dans le champ d'application des articles 706-73, à l'exception du 11°, ou 706-74 du même code, dans les affaires qui sont ou
-apparaîtraient d'une grande complexité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
-  - Code de procédure pénale 704, 706-2, 706-75, 244 à 253
-  - Code de l'organisation judiciaire 706-73
-
-
-###### Article L650-4
-
-Au sein de chaque cour d'appel dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel en
-application des articles 704 et 706-75 du code de procédure pénale, des magistrats du siège désignés par le premier président
-sont chargés spécialement du jugement des délits entrant dans le champ d'application des articles 704, 706-73, à l'exception
-du 11°, ou 706-74 du même code.
-
-Un ou plusieurs magistrats du parquet général désignés par le procureur général sont chargés spécialement du traitement des
-affaires entrant dans le champ d'application des articles 704, 706-73, à l'exception du 11°, ou 706-74 du même code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
-  - Code de l'organisation judiciaire 704, 706-73
-
-
-###### Article L650-5
-
-Au sein de chaque cour d'appel dans laquelle se trouve une juridiction compétente en application des articles 704, 706-2 et
-706-75 du code de procédure pénale, le procureur général anime et coordonne, en concertation avec les autres procureurs
-généraux du ressort interrégional, la conduite de la politique d'action publique pour l'application de ces articles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-
-_Créé par_:
-
-  - Loi n°2004-204 du 9 mars 2004 - art. 24 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
-
-
-## Livre VII : Dispositions communes à plusieurs juridictions<a id=96></a>
-
-### Titre Ier : L'année judiciaire.<a id=97></a>
+### Titre Ier : L'année judiciaire.<a id=187></a>
 
 ###### Article L710-1
 
@@ -7410,7 +11131,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-2 (Ab)
 
 
-### Titre X : Les audiences foraines.<a id=98></a>
+### Titre X : Les audiences foraines.<a id=188></a>
 
 ###### Article L7-10-1-1
 
@@ -7450,7 +11171,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-2 (V)
 
 
-### Titre XII : Maisons de justice et du droit.<a id=99></a>
+### Titre XII : Maisons de justice et du droit.<a id=189></a>
 
 ###### Article L7-12-1-1
 
@@ -7563,358 +11284,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-1 (V)
 
 
-### Titre III : Récusation et renvoi<a id=100></a>
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=190></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=101></a>
-
-###### Article L731-1
-
-Sauf dispositions particulières à certaines juridictions, la récusation d'un juge peut être demandée :
-
-1° Si lui-même ou son conjoint a un intérêt personnel à la contestation ;
-
-2° Si lui-même ou son conjoint est créancier, débiteur, héritier présomptif ou donataire de l'une des parties ;
-
-3° Si lui-même ou son conjoint est parent ou allié de l'une des parties ou de son conjoint jusqu'au quatrième degré
-inclusivement ;
-
-4° S'il y a eu ou s'il y a procès entre lui ou son conjoint et l'une des parties ou son conjoint ;
-
-5° S'il a précédemment connu de l'affaire comme juge ou comme arbitre ou s'il a conseillé l'une des parties ;
-
-6° Si le juge ou son conjoint est chargé d'administrer les biens de l'une des parties ;
-
-7° S'il existe un lien de subordination entre le juge ou son conjoint et l'une des parties ou son conjoint ;
-
-8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
-
-Le ministère public, partie jointe, peut être récusé dans les mêmes cas.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 8-1
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cité par_:
-
-  - Décret n°98-558 du 2 juillet 1998 - art. 10 (Ab)
-  - Décret n°98-558 du 2 juillet 1998 - art. 15 (Ab)
-  - Décret n°2017-1100 du 15 juin 2017 - art. 4
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-22 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-6 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-19 (Ab)
-  - Code de la propriété intellectuelle - art. R422-63 (V)
-  - Code de la santé publique - art. R4234-17 (M)
-  - Code de la santé publique - art. R4234-28 (T)
-  - Code de la santé publique - art. R4234-3 (M)
-  - Code rural - art. R242-94 (M)
-  - Code rural - art. R242-99 (M)
-  - Nouveau code de procédure civile - art. 341 (V)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-6 (M)
-
-
-###### Article L731-2
-
-Comme il est dit à l'article 8-2 de l'ordonnance n° 58-1273 du 22 décembre 1958,
-
-"Le renvoi à une autre juridiction de même nature et de même degré peut être ordonné pour cause de suspicion légitime, de
-sûreté publique, ou s'il existe des causes de récusation contre plusieurs juges."
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 8-2
-
-_Cite_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 8-2
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-8 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-22 (Ab)
-
-
-###### Article L731-3
-
-Comme il est dit à l'alinéa 1er de l'article 662 du code de procédure pénale "En matière criminelle, correctionnelle ou de
-police, la chambre criminelle de la Cour de cassation peut dessaisir toute juridiction d'instruction ou de jugement et
-renvoyer la connaissance de l'affaire à une autre juridiction du même ordre pour cause de suspicion légitime".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 103 () JORF 5 janvier 1993
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 662 (M)
-
-_Anciens textes_:
-
-  - Code de procédure pénale 662 al. 1
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-8 (V)
-
-
-###### Article L731-4
-
-Comme il est dit à l'article 321 du code de justice militaire (1) "sont applicables aux juridictions d'instruction ou de
-jugement des forces armées les dispositions des articles 662 et suivants du code de procédure pénale, relatives au renvoi de
-la connaissance de l'affaire d'un tribunal à l'autre :
-
-1° Pour cause de sûreté publique ou de suspicion légitime ;
-
-2° Dans l'intérêt d'une bonne administration de la justice ;
-
-3° Exceptionnellement, et sur requête du ministre des armées, lorsqu'il ne sera pas possible de trouver pour la constitution
-d'une juridiction des forces armées le nombre de juges militaires du grade requis."
-
-**Nota:**
-
-NOTA : L'article 321 du code de justice militaire a été abrogé par l'article 51 de la loi n° 99-929 du 10 novembre 1999
-publiée au JORF du 11 novembre 1999.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°99-929 1999-11-10 art. 66 (compétence du tribunal aux armées)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de justice militaire - art. 321 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 662 (M)
-
-_Anciens textes_:
-
-  - Code de justice militaire - art. 321 (Ab)
-
-
-#### Chapitre II : Dispositions particulières au conseil de prud'hommes.<a id=102></a>
-
-###### Article L732-1
-
-Les causes de récusation devant le conseil des prud'hommes sont énumérées à l'article L. 518-1 du code du travail qui est
-rédigé ainsi qu'il suit :
-
-Les conseillers prud'hommes peuvent être récusés :
-
-1. Quand ils ont un intérêt personnel à la contestation, le seul fait d'être affilié à une organisation syndicale ne
-constituant pas cet intérêt personnel ;
-
-2. Quand ils sont parents ou alliés d'une des parties jusqu'au degré de cousin germain inclusivement ;
-
-3. Si, dans l'année qui a précédé la récusation, il y a eu action judiciaire, criminelle ou civile entre eux et une des
-parties ou son conjoint ou ses parents ou alliés en ligne directe ;
-
-4. S'ils ont donné un avis écrit dans l'affaire ;
-
-5. S'ils sont employeurs, cadres, ouvriers ou employés de l'une des parties en cause.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Décret n°79-1022 1979-11-23 art. 8 JORF 2 décembre 1979
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code du travail - art. L518-1 (M)
-
-_Anciens textes_:
-
-  - Code du travail - art. L518-1 (M)
-
-
-### Titre V : Dispositions générales relatives au ministère public.<a id=103></a>
-
-###### Article L751-1
-
-Comme il est dit aux articles 31 et 32 du code de procédure pénale "le ministère public, en matière pénale, exerce l'action
-publique et requiert l'application de la loi. Il assure l'exécution des décisions de justice".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de procédure pénale 31 et 32
-
-_Cite_:
-
-  - Code de procédure pénale 31 et 32
-
-
-###### Article L751-2
-
-En matière civile, le ministère public agit d'office dans les cas spécifiés par la loi. Il surveille l'exécution des lois,
-des arrêts et des jugements. Il poursuit d'office cette exécution dans les dispositions qui intéressent l'ordre public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Anciens textes_:
-
-  - Loi n°1810-04-20 art. 46
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-### Titre VIII : Responsabilité du fait du fonctionnement défectueux du service de la justice.<a id=104></a>
-
-###### Article L781-1
-
-L'Etat est tenu de réparer le dommage causé par le fonctionnement défectueux du service de la justice. Cette responsabilité
-n'est engagée que par une faute lourde ou par un déni de justice. 
-
-La responsabilité des juges, à raison de leur faute personnelle, est régie par le statut de la magistrature en ce qui
-concerne les magistrats du corps judiciaire et par des lois spéciales en ce qui concerne les juges composant les juridictions
-d'attribution. 
-
-L'Etat garantit les victimes des dommages causés par les fautes personnelles des juges et autres magistrats, sauf son recours
-contre ces derniers. 
-
-Toutefois, les règles de l'article 505 du Code de procédure civile continuent à recevoir application jusqu'à l'entrée en
-vigueur des dispositions législatives concernant la responsabilité des magistrats à raison de leur faute personnelle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de procédure civile 857
-
-_Cite_:
-
-  - Code de procédure civile - art. 505 (V)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-1 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-3 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-22 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-16 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L941-2 (V)
-  - CODE DE PROCEDURE PENALE - art. 149 (M)
-  - Code de procédure pénale - art. 626 (V)
-
-
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=105></a>
-
-### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun.<a id=106></a>
-
-###### Article L811-1
-
-Le service des secrétariats-greffes de la Cour de cassation, des cours d'appel, des tribunaux de grande instance, des
-tribunaux d'instance et des tribunaux d'instance ayant seuls compétence en matière pénale ainsi que des juridictions de
-proximité est assuré par des fonctionnaires de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°65-1002 1965-11-30 art. 1
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 9 () JORF 10 septembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L123-1 (V)
-
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs et aux juridictions pénales de droit commun.<a id=191></a>
 
 ###### Article L811-2
 
@@ -7953,525 +11325,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-7 (V)
 
 
-### Titre II : Le greffe du tribunal de commerce<a id=107></a>
-
-#### Chapitre Ier : Dispositions générales.<a id=108></a>
-
-###### Article L821-1
-
-Les greffiers des tribunaux de commerce sont des officiers publics et ministériels. Ils peuvent exercer leur profession à
-titre individuel, sous forme de sociétés civiles professionnelles ou sous forme de sociétés d'exercice libéral telles que
-prévues par la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales
-soumises à un statut législatif ou réglementaire ou dont le titre est protégé. Ils peuvent aussi être membres d'un groupement
-d'intérêt économique ou d'un groupement européen d'intérêt économique ou associés d'une société en participation régie par le
-titre II de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales
-soumises à un statut législatif ou réglementaire ou dont le titre est protégé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cite_:
-
-  - Loi n°90-1258 1990-12-31
-
-_Modifié par_:
-
-  - Loi n°90-1259 du 31 décembre 1990 - art. 61 () JORF 5 janvier 1991 en vigueur le 1er janvier 1992
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R821-2-1 (Ab)
-
-_Anciens textes_:
-
-  - Code de commerce - art. 624 (Ab)
-
-
-###### Article L821-2
-
-Les greffiers des tribunaux de commerce sont soumis, dans leur activité professionnelle, à des inspections sous l'autorité du
-garde des sceaux, ministre de la justice, dans des conditions prévues par décret en Conseil d'Etat. Au cours de ces
-inspections, ils sont tenus de fournir tous renseignements et documents utiles sans pouvoir opposer le secret professionnel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 du 16 juillet 1987 - art. 21 (V)
-
-_Modifié par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L821-3
-
-Les règles d'accès à la profession, les conditions d'exercice de celle-ci et les émoluments des greffiers des tribunaux de
-commerce sont fixés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code de commerce - art. 624 (Ab)
-
-
-###### Article L821-4
-
-La profession de greffier des tribunaux de commerce est représentée auprès des pouvoirs publics par un Conseil national des
-greffiers des tribunaux de commerce, doté de la personnalité morale et chargé d'assurer la défense de ses intérêts
-collectifs.
-
-Les modes d'élection et de fonctionnement du Conseil national sont fixés par décret en Conseil d'Etat.
-
-Le conseil fixe son budget.
-
-Il peut assurer le financement de services d'intérêt collectif dans les domaines fixés par décret.
-
-A cette fin, le conseil national appelle une cotisation versée annuellement par chaque titulaire d'un office de greffier de
-tribunal de commerce. Le montant de cette cotisation résulte d'un barème progressif fixé par décret après avis du conseil
-national, en fonction de l'activité de l'office et, le cas échéant, du nombre d'associés.
-
-Le produit de cette cotisation ne peut excéder une quotité déterminée par le conseil national, dans la limite de 2% du total
-des produits hors taxes comptabilisées par l'ensemble des offices au titre de l'année précédente.
-
-A défaut de paiement de cette cotisation dans un délai d'un mois à compter d'une mise en demeure, le conseil national
-délivre, à l'encontre du redevable, un acte assimilé à une décision au sens du 6° de l'article 3 de la loi n° 91-650 du 9
-juillet 1991 portant réforme des procédures civiles d'exécution.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cite_:
-
-  - Loi n°91-650 1991-07-09 art. 3
-
-_Modifié par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 187 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce.<a id=109></a>
-
-###### Article L822-1
-
-Tout manquement d'un greffier de tribunal de commerce à l'honneur, à la probité, à la dignité et aux devoirs de sa charge
-constitue une faute disciplinaire.
-
-L'acceptation de la démission d'un greffier ne fait pas obstacle au prononcé d'une peine disciplinaire, si les faits qui lui
-ont été reprochés ont été commis pendant l'exercice de ses fonctions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L822-2
-
-Les peines disciplinaires sont :
-
-1° Le rappel à l'ordre ;
-
-2° L'avertissement ;
-
-3° Le blâme ;
-
-4° L'interdiction temporaire ;
-
-5° La destitution ou le retrait de l'honorariat.
-
-Les peines mentionnées aux 1° à 4° peuvent être assorties de la peine complémentaire de l'inéligibilité temporaire au Conseil
-national des greffiers des tribunaux de commerce. La durée maximale de cette peine complémentaire est de cinq ans pour les
-peines mentionnées aux 1° à 3°, et de dix ans à compter de la cessation de la mesure d'interdiction pour la peine mentionnée
-au 4°.
-
-**Nota:**
-
-NOTA : Loi 2004-130 2004-02-11 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures engagées
-postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 36 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-3-1 (Ab)
-
-
-###### Article L822-3
-
-L'action disciplinaire à l'encontre du greffier d'un tribunal de commerce est exercée soit devant la formation disciplinaire
-du Conseil national des greffiers des tribunaux de commerce, soit devant le tribunal de grande instance dans le ressort
-duquel le tribunal de commerce a son siège ou, si le greffier est titulaire de plusieurs greffes, devant le tribunal de
-grande instance désigné par le premier président de la cour d'appel, dans les conditions prévues par le présent chapitre.
-
-L'action disciplinaire se prescrit par dix ans.
-
-**Nota:**
-
-NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
-engagées postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 37 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-6 (M)
-
-
-###### Article L822-3-1
-
-La formation disciplinaire du Conseil national des greffiers des tribunaux de commerce comprend cinq membres désignés par le
-conseil national en son sein ; cinq suppléants sont désignés dans les mêmes conditions. Elle élit son président.
-
-Le président du conseil national ne peut pas être membre de la formation disciplinaire.
-
-La formation disciplinaire du conseil national ne peut prononcer que l'une des peines mentionnées aux 1° à 3° de l'article L.
-822-2.
-
-**Nota:**
-
-NOTA : Loi 2004-130 du 11 février 2004 ar. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
-engagées postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 37 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-2 (M)
-
-
-###### Article L822-3-2
-
-L'action disciplinaire est exercée par le procureur de la République. Elle peut également être exercée par le président du
-Conseil national des greffiers des tribunaux de commerce. Dans ce cas, notification en est faite au procureur de la
-République, qui peut citer le greffier devant le tribunal de grande instance statuant disciplinairement. Notification de la
-citation est faite au président de la formation disciplinaire du conseil national.
-
-La formation disciplinaire du conseil national est dessaisie à compter de la notification effectuée par le procureur de la
-République.
-
-**Nota:**
-
-NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
-engagées postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 37 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L822-4
-
-Le greffier du tribunal de commerce qui fait l'objet d'une poursuite pénale ou disciplinaire peut être suspendu
-provisoirement de l'exercice de ses fonctions par le tribunal de grande instance, saisi à la requête du procureur de la
-République.
-
-En cas d'urgence, la suspension provisoire peut être prononcée par le tribunal de grande instance avant même l'exercice de
-poursuites pénales ou disciplinaires.
-
-Le tribunal de grande instance peut mettre fin à la suspension provisoire à la requête du procureur de la République ou du
-greffier.
-
-La suspension cesse de plein droit dès que les actions pénale ou disciplinaire sont éteintes. Elle cesse également de plein
-droit, dans le cas prévu au deuxième alinéa, si, à l'expiration d'un délai d'un mois à compter de son prononcé, aucune
-poursuite pénale ou disciplinaire n'a été engagée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 5 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-15 (Ab)
-
-
-###### Article L822-5
-
-Les décisions de la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce peuvent être déférées
-à la cour d'appel de Paris par le procureur de la République compétent pour exercer l'action disciplinaire, par le président
-du conseil national lorsque les poursuites ont été engagées à son initiative, ou par le greffier.
-
-Les décisions du tribunal de grande instance statuant en matière disciplinaire peuvent être déférées à la cour d'appel
-territorialement compétente par le procureur de la République, par le président du Conseil national des greffiers des
-tribunaux de commerce lorsque les poursuites ont été engagées à son initiative, ou par le greffier.
-
-**Nota:**
-
-NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
-engagées postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 38 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L822-6
-
-Le greffier suspendu, interdit ou destitué doit s'abstenir de tout acte professionnel. Les actes accomplis au mépris de cette
-prohibition peuvent être déclarés nuls, à la requête de tout intéressé ou du procureur de la République, par le tribunal de
-grande instance. La décision est exécutoire à l'égard de toute personne.
-
-Toute infraction aux dispositions du premier alinéa sera punie des peines prévues à l'article 433-17 du code pénal.
-
-**Nota:**
-
-NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
-engagées postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 39 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code pénal - art. 433-17 (M)
-
-
-###### Article L822-7
-
-Le tribunal de grande instance qui prononce la suspension, l'interdiction ou la destitution nomme un ou plusieurs
-administrateurs provisoires.
-
-**Nota:**
-
-NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
-engagées postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 41 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R822-8 (Ab)
-
-
-###### Article L822-8
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
-
-**Nota:**
-
-NOTA : Loi 2004-130 du 11 février 2004 art. 78 : Les dispositions du titre V de la loi 2004-130 s'appliquent aux procédures
-engagées postérieurement à son entrée en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°2004-130 du 11 février 2004 - art. 41 () JORF 12 février 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-### Titre III : Le secrétariat-greffe du conseil de prud'hommes.<a id=110></a>
-
-###### Article L831-1
-
-Ainsi qu'il est dit à l'article L. 512-14 du code du travail,
-
-"Le service des secrétariats-greffes des conseils de prud'hommes est assuré par des fonctionnaires de l'Etat."
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Décret n°79-1022 1979-11-23 art. 9 JORF 2 décembre 1979
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L123-1 (V)
-
-_Cite_:
-
-  - Code du travail - art. L512-14 (AbD)
-
-
-### Titre VII : Dispositions particulières au greffe des juridictions des mineurs.<a id=111></a>
-
-###### Article L871-1
-
-Ainsi qu'il est dit à l'alinéa 4 de l'article 20 de l'ordonnance n° 45-174 du 2 février 1945, "le greffier de la cour
-d'assises exerce les fonctions de greffier de la cour d'assises des mineurs".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-174 1945-02-02 art. 20 al. 4
-
-_Anciens textes_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (M)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
+### Titre VII : Dispositions particulières au greffe des juridictions des mineurs.<a id=192></a>
 
 ###### Article L871-2
 
@@ -8510,308 +11364,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R253-1 (V)
 
 
-### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=112></a>
+## Livre IX : Dispositions particulières<a id=193></a>
 
-#### Chapitre Ier : Les greffes des juridictions pénales de droit commun.<a id=113></a>
+### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=194></a>
 
-###### Article L881-1
-
-Conformément à l'article 92 du Code de procédure pénale, le juge d'instruction est assisté d'un greffier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 92 (M)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 92 (M)
-
-
-###### Article L881-2
-
-Conformément à l'article 192 du Code de procédure pénale, les fonctions du greffe auprès de la chambre de l'instruction sont
-exercées par un greffier de la cour d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 192 (M)
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 192 (M)
-
-
-###### Article L881-3
-
-Ainsi qu'il est dit à l'article 242 du code de procédure pénale, "la cour d'assises est, à l'audience, assistée d'un
-greffier.
-
-"A Paris et dans les départements où siège une cour d'appel, les fonctions du greffe sont exercées par le greffier en chef ou
-un greffier de la cour d'appel.
-
-"Dans les autres départements, elles le sont par le greffier en chef ou un greffier du tribunal de grande instance."
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 242 (V)
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 242 (V)
-
-
-###### Article L881-4
-
-Conformément à l'article 398-2 du Code de procédure pénale, les fonctions du greffe près le tribunal correctionnel sont
-exercées par un greffier du tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 398-2 (M)
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 398-2 (M)
-
-
-###### Article L881-5
-
-Conformément à l'article 523 du Code de procédure pénale, le tribunal de police est assisté d'un greffier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 523 (M)
-
-_Anciens textes_:
-
-  - CODE DE PROCEDURE PENALE - art. 523 (M)
-
-
-#### Chapitre II : Les greffes des juridictions pénales spécialisées.<a id=114></a>
-
-###### Article L882-1
-
-Les règles relatives aux greffes des juridictions des forces armées sont fixées par le code de justice militaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°63-23 1963-01-15 art. 7
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-###### Article L882-2
-
-Les règles relatives aux greffes du tribunal maritime commercial sont fixées par le code disciplinaire et pénal de la marine
-marchande.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Loi n°91-1258 du 17 décembre 1991 - art. 2 () JORF 19 décembre 1991
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (M)
-
-
-## Livre IX : Dispositions particulières<a id=115></a>
-
-### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=116></a>
-
-#### Chapitre Ier : Le tribunal d'instance.<a id=117></a>
-
-###### Article L911-1
-
-Le tribunal d'instance est seul compétent pour tout litige en matière patrimoniale ou en matière commerciale dont
-l'importance pécuniaire [*montant maximum*] ne dépasse pas un taux fixé par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°1924-06-01 du 1 juin 1924 - art. 29 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°58-1284 1958-12-22 art. 18
-  - Loi n°1924-06-01 art. 29
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-1 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L913-3 (M)
-
-
-###### Article L911-2
-
-Les commandements de payer sont décernés par les tribunaux d'instance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code local de procédure civile 688
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L911-3
-
-Le tribunal d'instance est le tribunal de l'exécution forcée en matière immobilière.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-2 (VT)
-
-_Anciens textes_:
-
-  - Code local de procédure civile 764 et s
-  - Loi n°1924-06-01 art. 141
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°91-650 du 9 juillet 1991 - art. 90 () JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L911-4
-
-Le service du livre foncier est assuré par le tribunal d'instance selon les règles fixées par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1924-11-18 art. 65
-  - Loi n°1924-06-01 du 1 juin 1924 - art. 37 (VD)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-4 (VT)
-
-
-#### Chapitre II : Le tribunal de grande instance<a id=118></a>
+#### Chapitre II : Le tribunal de grande instance<a id=195></a>
 
 ###### Article L912-1
 
@@ -8842,439 +11399,9 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=119></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon *DOM*<a id=196></a>
 
-###### Article L913-1
-
-Il y a, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, des chambres commerciales du tribunal de grande
-instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L913-2
-
-La compétence de la chambre commerciale est celle des tribunaux de commerce, à l'exception des affaires qui relèvent de la
-compétence du tribunal d'instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L913-3
-
-La chambre commerciale est composée d'un membre du tribunal de grande instance, président, de deux assesseurs élus et d'un
-greffier. Les assesseurs sont élus dans les conditions fixées aux articles L. 413-1 à L. 413-11.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L413-1 à L413-11
-
-
-###### Article L913-4
-
-Les autres dispositions du titre premier du livre IV relatives aux tribunaux de commerce sont applicables à la chambre
-commerciale, à l'exception des articles L. 411-1 à L. 411-3, L. 412-3, L. 412-11 à L. 412-13 et du second alinéa de l'article
-L. 413-4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°87-550 du 16 juillet 1987 - art. 21 (V)
-
-_Créé par_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 3 () JORF 19 juillet 1987 en vigueur le 1er janvier 1988
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-4 (M)
-  - Code de l'organisation judiciaire L411-1 à L411-3, L412-3, L412-11 à L412-13, L413-4
-
-
-#### Chapitre IV : Les conseils de prud'hommes.<a id=120></a>
-
-###### Article L914-1
-
-Les règles relatives à l'organisation et au fonctionnement des conseils de prud'hommes industriels sont régies par la loi
-locale du 30 juin 1901.
-
-Celles qui sont relatives aux conseils de prud'hommes commerciaux le sont par la loi locale du 6 juillet 1904.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cite_:
-
-  - Loi n°1901-06-30 Loi 1904-07-06
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code du travail - art. L51-11-1 (M)
-
-
-###### Article L914-2
-
-Ainsi qu'il est dit à l'article L. 51-11-1 du code du travail, "sans préjudice des dispositions particulières aux
-départements du Bas-rhin, du Haut-rhin et de la Moselle concernant les conseils de prud'hommes industriels et les conseils de
-prud'hommes commerciaux, les articles L. 512-5 et L. 512-6, L. 513-2 à L. 513-9, L. 514-1 à L. 514-10 et L. 51-10-2 sont
-applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle".
-
-Les assesseurs des conseils de prud'hommes existant dans ces départements ont la qualité des conseillers prud'hommes au sens
-du présent titre.
-
-**Nota:**
-
-NOTA : Loi n° 82-372 du 6 mai 1982 art. 42 : L'article L. 51-11-1 du code du travail est abrogé à compter du 15 janvier 1983.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cite_:
-
-  - Loi n°82-372 1982-05-06 art. 42, art. 40 à 47
-  - Loi n°82-372 du 6 mai 1982 - art. 42 (V)
-  - Code de l'organisation judiciaire L512-5, L512-6, L513-2 à L513-9, L514-1 à L514-10, L51-10-2
-  - Code du travail - art. L51-11-1 (M)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - Code du travail - art. L51-11-1 (M)
-
-
-### Titre II : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=121></a>
-
-#### Chapitre Ier : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=122></a>
-
-###### Article L921-1
-
-Les textes législatifs relatifs à l'organisation judiciaire en France métropolitaine sont applicables dans les départements
-de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sous réserve des prescriptions du présent article et des
-articles suivants.
-
-Les modalités d'application à ces départements des dispositions concernant le tribunal de grande instance et le tribunal
-d'instance sont fixées par des décrets en Conseil d'Etat. Ces décrets peuvent, conformément à l'article 17 de l'ordonnance n°
-58-1273 du 22 décembre 1958, apporter à ces dispositions des adaptations jugées nécessaires.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 17
-
-_Anciens textes_:
-
-  - Ordonnance 58-1273 1958-12-22 art. 17 Décret 62-138 1962-02-02 art. 1
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-##### Section III : Le tribunal mixte de commerce<a id=123></a>
-
-###### Article L921-5
-
-Les tribunaux mixtes de commerce sont créés par décret en Conseil d'Etat, qui fixe leur siège et leur ressort.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L921-6
-
-Dans les circonscriptions où il n'est pas établi de tribunal mixte de commerce, le tribunal de grande instance connaît des
-matières attribuées aux tribunaux mixtes de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L921-7
-
-Les jugements des tribunaux mixtes de commerce sont rendus, sauf dispositions qui prévoient un juge unique, par une formation
-comprenant, outre le président, trois juges élus ou désignés dans les conditions prévues par l'article L. 921-9. En cas de
-partage égal des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-9 (M)
-
-
-###### Article L921-8
-
-Les dispositions du titre Ier du livre IV relatives aux tribunaux de commerce sont applicables au tribunal mixte de commerce,
-à l'exception des articles L. 411-1, L. 411-2, L. 412-1, L. 412-3, L. 412-11 à L. 412-13 et du second alinéa de l'article L.
-413-4.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-3 (Ab)
-  - Code de l'organisation judiciaire L411-1, L412-1, L412-3, L412-11 à L412-13 et 413-4 al. 2
-
-
-###### Article L921-9
-
-A la liste des candidats déclarés élus, la commission prévue par l'article L. 413-10 annexe une liste complémentaire
-comprenant les nom, qualité et domicile des candidats non élus en mentionnant le nombre de voix qu'ils ont obtenues. Le
-premier président de la cour d'appel, après avis du président du tribunal mixte de commerce, établit à partir de cette liste
-complémentaire une liste de quinze personnes au plus qui, ayant leur résidence dans la ville, sont en mesure de compléter le
-tribunal mixte. Si le nombre des juges se révèle insuffisant en cours d'année à l'occasion d'une audience, le président du
-tribunal mixte procède au tirage au sort en séance publique entre tous les noms de la liste arrêtée par le premier président.
-Les personnes dont le nom a été tiré au sort prêtent serment devant le président du tribunal mixte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L921-7 (Ab)
-
-
-##### Section IV : Les juridictions pénales<a id=124></a>
-
-###### Article L921-11
-
-Conformément à l'article 36 bis de la loi du 17 décembre 1926 portant code disciplinaire et pénal de la marine marchande, les
-contraventions ou délits prévus par les articles 39 à 43, 45, 54 à 57, 59, 62 à 67, 80 à 85, 87 et 87 bis de cette loi, qui
-en France métropolitaine sont de la connaissance des tribunaux maritimes commerciaux, relèvent dans les départements de la
-Guadeloupe, de la Guyane, de la Martinique et de la Réunion de la compétence du tribunal correctionnel.
-
-Les dispositions des alinéas 2 et 4 de l'article 36 de ladite loi leur sont alors applicables.
-
-Toutefois, les mineurs de dix-huit ans sont déférés aux juridictions pour enfants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L924-22 (Ab)
-
-_Cite_:
-
-  - Loi n°1926-12-17 art. 36 al. 2 et al. 4, art. 36 bis, art. 39 à 43, art. 45, art. 54 à 57, art. 59, art. 62, art. 80 à 85, art. 87 et art. 87 bis
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-### Titre II : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre-et-Miquelon *DOM*<a id=125></a>
-
-#### Chapitre Ier : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=126></a>
-
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=127></a>
-
-###### Article L921-3
-
-En cas de maladie, absence ou autre empêchement du juge d'instance, ses fonctions sont remplies par un suppléant.
-
-A cet effet, il peut être désigné auprès de chaque tribunal d'instance un ou plusieurs suppléants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-##### Section III : Le tribunal mixte de commerce<a id=128></a>
-
-###### Article L921-4
-
-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, il y a des tribunaux mixtes de
-commerce.
-
-Leur compétence est déterminée par le code de commerce et les lois particulières. Ces juridictions du premier degré sont
-composées du président du tribunal de grande instance, président, de juges élus, sous réserve des dispositions de l'article
-L. 921-9, et d'un greffier. Les juges sont élus dans les conditions fixées aux articles L. 413-1 à 413-11.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°96-609 1996-07-05 art. 11 JORF 9 juillet 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L413-1 à L413-11 et L921-9
-
-
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=129></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=197></a>
 
 ###### Article L922-1
 
@@ -9337,52 +11464,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-25 (VT)
 
 
-### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie<a id=130></a>
+### Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie<a id=198></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=131></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=199></a>
 
-###### Article L931-1
-
-Pour l'application des dispositions étendues par le présent titre à la Nouvelle-Calédonie, dans les territoires de la
-Polynésie française et des îles Wallis-et-Futuna, il y a lieu de lire :
-
-1° " Tribunal de première instance " à la place de " tribunal de grande instance " et de " tribunal d'instance " ;
-
-2° " Tribunal mixte de commerce " à la place de " tribunal de commerce " ;
-
-3° " Tribunal du travail " à la place de " conseil de prud'hommes " ;
-
-4° " Haut commissaire de la République ", pour ce qui concerne la Nouvelle-Calédonie et le territoire de la Polynésie
-française, et " administrateur supérieur ", pour ce qui concerne le territoire des îles Wallis-et-Futuna, à la place de "
-commissaire de la République " et de " préfet ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L551-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L561-2 (V)
-
-
-##### Section I : La cour d'appel.<a id=132></a>
+##### Section I : La cour d'appel.<a id=200></a>
 
 ###### Article L931-2
 
@@ -9435,139 +11521,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-3 (M)
 
 
-###### Article L931-3
-
-L'article L. 213-2 applicable en Nouvelle-Calédonie et dans les territoires visés au présent chapitre est ainsi rédigé :
-
-" Art. L. 213-2. - Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les conseillers pour compléter la
-cour d'appel. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-11 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-26 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L213-2
-
-
-###### Article L931-4
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la chambre des appels correctionnels et de la
-chambre de l'instruction ainsi que celles relatives au ministère public près ces juridictions sont fixées par les
-dispositions du présent titre et par les dispositions de procédure pénale applicables localement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-27 (V)
-
-
-##### Section II : Le tribunal de première instance<a id=133></a>
-
-###### Article L931-5
-
-Il y a dans le ressort de chaque cour d'appel une ou plusieurs juridictions du premier degré dénommées tribunaux de première
-instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-1 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-1 (V)
-
-
-###### Article L931-6
-
-Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-5 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-5 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-5 (V)
-
+##### Section II : Le tribunal de première instance<a id=201></a>
 
 ###### Article L931-7
 
@@ -9700,89 +11654,6 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-2 (Ab)
 
 
-###### Article L931-9
-
-Le procureur de la République représente, en sa personne ou par ses substituts, le ministère public devant le tribunal de
-première instance et toutes les juridictions du premier degré établies dans son ressort.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L931-10
-
-Lorsqu'il statue en matière délictuelle, le tribunal de première instance est dénommé tribunal correctionnel.
-
-Lorsqu'il statue en matière contraventionnelle, il est dénommé tribunal de police.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L931-11
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal correctionnel et du tribunal de police
-ainsi que celles relatives au ministère public près ces juridictions sont fixées par les dispositions du présent titre et par
-les dispositions de procédure pénale applicables localement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-3 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-3 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-3 (V)
-
-
 ###### Article L931-12
 
 Pour le jugement des affaires civiles, correctionnelles et de police, le premier président de la cour d'appel peut autoriser
@@ -9827,103 +11698,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-2 (V)
 
 
-##### Section III : Les juridictions des mineurs.<a id=134></a>
-
-###### Article L931-13
-
-Les dispositions du livre V (partie Législative) relatives aux juridictions des mineurs sont applicables en Nouvelle-
-Calédonie et dans les territoires visés au présent chapitre, sous réserve des adaptations prévues au présent titre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-25 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-19 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-35 (M)
-
-
-##### Section IV : La cour d'assises.<a id=135></a>
-
-###### Article L931-14
-
-Il est tenu des assises à Nouméa, à Papeete et à Mata-Utu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-27 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-20 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-36 (V)
-
-
-###### Article L931-15
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la cour d'assises ainsi que celles relatives au
-ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables localement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-28 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-21 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-37 (V)
-
-
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=136></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=202></a>
 
 ###### Article L931-16
 
@@ -9973,35 +11748,7 @@ _Cite_:
   - Code de l'organisation judiciaire L710-1, L731-1 à L731-3, L781-1
 
 
-##### Section VI : Les secrétariats-greffes des juridictions.<a id=137></a>
-
-###### Article L931-17
-
-Le service des secrétariats-greffes de la cour d'appel, du tribunal de première instance et de la juridiction de proximité
-est assuré par des fonctionnaires de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des
-fonctionnaires des cadres territoriaux ou des agents territoriaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L533-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L553-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L563-1 (V)
-
+##### Section VI : Les secrétariats-greffes des juridictions.<a id=203></a>
 
 ###### Article L931-18
 
@@ -10042,9 +11789,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R563-2 (V)
 
 
-#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=138></a>
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=204></a>
 
-##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=139></a>
+##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=205></a>
 
 ###### Article L932-1
 
@@ -10088,36 +11835,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8 (M)
-
-
-###### Article L932-2
-
-Les avocats peuvent être appelés, dans l'ordre du tableau, à suppléer les juges pour compléter le tribunal de première
-instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-8 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-8 (V)
 
 
 ###### Article L932-3
@@ -10373,86 +12090,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-25 (V)
 
 
-###### Article L932-9
+##### Section 2 : Le tribunal du travail<a id=206></a>
 
-Il y a au tribunal de première instance un ou plusieurs juges d'instruction. Les règles concernant les conditions de
-nomination et les attributions du juge d'instruction sont fixées par les dispositions de procédure pénale applicables
-localement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-9 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-18 (V)
-
-
-##### Section I bis : La juridiction de proximité<a id=140></a>
-
-###### Article L932-9-1
-
-Les articles L. 331-1, L. 331-2 à l'exception de son dernier alinéa, les articles L. 331-4 à L. 331-9 sont applicables en
-Nouvelle-Calédonie et en Polynésie française.
-
-Pour leur application dans ces collectivités, la somme de "1 500 euros" prévue à l'article L. 331-2 est remplacée par sa
-contrepartie en monnaie locale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
-  - Code de l'organisation judiciaire L331-1, L331-2, L331-4 à L331-9
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-13 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-14 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-15 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-16 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-17 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L552-18 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-29 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-30 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-31 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-32 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-33 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-34 (VT)
-
-
-##### Section 2 : Le tribunal du travail<a id=141></a>
-
-##### Sous-section 1 : Institution et compétence<a id=142></a>
+##### Sous-section 1 : Institution et compétence<a id=207></a>
 
 ###### Article L932-10
 
@@ -10526,7 +12166,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=143></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=208></a>
 
 ###### Article L932-11
 
@@ -10646,7 +12286,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
-##### Sous-section 3 : Statut des assesseurs<a id=144></a>
+##### Sous-section 3 : Statut des assesseurs<a id=209></a>
 
 ###### Article L932-14
 
@@ -11023,63 +12663,9 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 
 
-##### Section III : Le tribunal mixte de commerce<a id=145></a>
+##### Section III : Le tribunal mixte de commerce<a id=210></a>
 
-##### Sous-section I : Institution et compétence.<a id=146></a>
-
-###### Article L932-23
-
-En Nouvelle-Calédonie et dans les territoires visés au présent chapitre, le tribunal mixte de commerce exerce les compétences
-dévolues en métropole au tribunal de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L932-24
-
-Le tribunal mixte de commerce est composé du président du tribunal de première instance, président, de juges élus, sous
-réserve des dispositions de l'article L. 932-39, et d'un greffier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-39 (M)
-
+##### Sous-section I : Institution et compétence.<a id=211></a>
 
 ###### Article L932-25
 
@@ -11119,57 +12705,7 @@ _Cite_:
   - Code de l'organisation judiciaire L411-1
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=147></a>
-
-###### Article L932-26
-
-Les jugements des tribunaux mixtes de commerce sont rendus, sauf dispositions qui prévoient un juge unique, par une formation
-comprenant, outre le président, trois juges élus ou désignés dans les conditions prévues à l'article L. 932-39. En cas de
-partage égal des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-39 (M)
-
-
-###### Article L932-27
-
-Les juges des tribunaux mixtes de commerce sont élus pour quatre ans. Ils sont rééligibles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
+##### Sous-section II : Organisation et fonctionnement.<a id=212></a>
 
 ###### Article L932-28
 
@@ -11210,234 +12746,9 @@ _Cite_:
   - Code de l'organisation judiciaire L412-7, L412-11 à L412-13
 
 
-##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=148></a>
+##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=213></a>
 
-##### I : Electorat.<a id=149></a>
-
-###### Article L932-29
-
-Les juges des tribunaux mixtes de commerce sont élus dans le ressort de chacune de ces juridictions par un collège composé
-des personnes énumérées à l'article L. 713-4 du code de commerce susvisé et remplissant les conditions fixées aux articles L.
-713-1 à L. 713-4 dudit code, la référence au registre du commerce et des sociétés contenue à l'article L. 713-1 étant
-remplacée, pour ce qui concerne la Nouvelle-Calédonie, par une référence au registre du commerce de la Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de commerce. - art. L713-1 (M)
-  - Code de commerce. - art. L713-4 (T)
-
-
-###### Article L932-30
-
-La liste électorale pour les élections aux tribunaux mixtes de commerce est établie par une commission présidée par un
-magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel.
-
-Les dispositions du premier alinéa de l'article L. 25 et des articles L. 27, L. 34 et L. 35 du code électoral sont
-applicables en cas de contestation portant sur la liste électorale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code électoral - art. L27 (V)
-  - Code électoral - art. L34 (V)
-  - Code électoral - art. L35 (V)
-  - Code de l'organisation judiciaire L25
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-31 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-14 (Ab)
-
-
-##### II : Eligibilité.<a id=150></a>
-
-###### Article L932-31
-
-Sous réserve des dispositions de l'article L. 932-32, sont éligibles aux fonctions de juge d'un tribunal mixte de commerce
-les personnes âgées de trente ans au moins inscrites sur la liste électorale dressée en application de l'article L. 932-30 et
-justifiant soit d'une immatriculation depuis cinq ans au moins au registre du commerce et des sociétés ou, pour ce qui
-concerne la Nouvelle-Calédonie, au registre du commerce de la Nouvelle-Calédonie, soit, pendant le même délai, de l'exercice
-de l'une des qualités énumérées au premier alinéa de l'article L. 713-3 du code de commerce.
-
-Est inéligible aux fonctions de juge d'un tribunal mixte de commerce tout candidat à l'égard duquel est ouverte une procédure
-de redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une des qualités
-mentionnées au premier alinéa de l'article L. 713-3 du code de commerce, lorsque la société ou l'établissement public auquel
-il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de commerce. - art. L713-3 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-32 (M)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-17 (Ab)
-
-
-###### Article L932-32
-
-Après douze années de fonctions judiciaires ininterrompues dans un même tribunal mixte de commerce, les juges des tribunaux
-mixtes de commerce ne sont plus éligibles dans ce tribunal pendant un an.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-31 (Ab)
-
-
-###### Article L932-33
-
-Un juge d'un tribunal mixte de commerce ne peut être simultanément assesseur d'un tribunal du travail ou juge d'un autre
-tribunal mixte de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-##### III : Scrutin et opérations électorales.<a id=151></a>
-
-###### Article L932-34
-
-Chaque électeur ne dispose que d'une voix dans le ressort d'un même tribunal mixte de commerce.
-
-Le droit de vote peut être exercé par procuration ou par correspondance dans des conditions fixées par décret en Conseil
-d'Etat. Chaque électeur ne peut disposer que d'une procuration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L932-35
-
-Les élections des juges des tribunaux mixtes de commerce ont lieu au scrutin plurinominal majoritaire à un tour. Si plusieurs
-candidats obtiennent le même nombre de voix, le plus âgé est proclamé élu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
+##### III : Scrutin et opérations électorales.<a id=214></a>
 
 ###### Article L932-36
 
@@ -11481,179 +12792,6 @@ _Nouveaux textes_:
   - Code de commerce. - art. R947-3 (V)
 
 
-###### Article L932-37
-
-Les dispositions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117 du code électoral s'appliquent aux opérations
-électorales organisées en vue de la désignation des juges des tribunaux mixtes de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code électoral - art. L49 (M)
-  - Code électoral - art. L50 (V)
-  - Code électoral L49, L50, L58 à L67, L86 à L117
-
-
-###### Article L932-38
-
-Une commission présidée par un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel est
-chargée de veiller à la régularité du scrutin et de proclamer les résultats.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-39 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-19 (Ab)
-
-
-###### Article L932-39
-
-A la liste des candidats déclarés élus, la commission prévue par l'article L. 932-38 annexe une liste complémentaire
-comprenant les nom, qualité et domicile des candidats non élus. Ces candidats sont classés dans l'ordre décroissant du nombre
-de voix qu'ils ont obtenues. A égalité de voix, ils sont classés dans l'ordre décroissant de leur âge.
-
-Les candidats figurant sur la liste complémentaire dressée en application du premier alinéa du présent article sont appelés à
-remplacer les juges dont le siège deviendrait vacant pour quelque cause que ce soit. Ils sont désignés, en suivant l'ordre de
-la liste complémentaire, par le président du tribunal mixte de commerce. Avant d'entrer en fonctions, il prêtent serment dans
-les conditions prévues pour les juges des tribunaux mixtes de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-24 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-26 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-40 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-41 (Ab)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-38 (M)
-  - Code de l'organisation judiciaire L932-38, annexe
-
-
-###### Article L932-40
-
-Si les sièges vacants ne peuvent être pourvus en application de l'article L. 932-39 et si le nombre des vacances dépasse le
-tiers des effectifs du tribunal, il est procédé à des élections complémentaires.
-
-Il en est de même en cas d'augmentation des effectifs d'un tribunal mixte de commerce.
-
-Toutefois, il n'y a pas lieu de procéder à des élections complémentaires dans les douze mois précédant l'élection générale
-prévue à l'article L. 932-36.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-36 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-39 (M)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-41 (Ab)
-
-
-###### Article L932-41
-
-Le mandat des juges désignés ou élus en application des articles L. 932-39 et L. 932-40 prend fin en même temps que celui des
-autres juges des tribunaux mixtes de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-39 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-40 (M)
-
-
 ###### Article L932-42
 
 Les contestations relatives à l'électorat, à l'éligibilité et aux opérations électorales organisées en vue de la désignation
@@ -11693,34 +12831,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R947-9 (V)
 
 
-##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=152></a>
-
-###### Article L932-43
-
-Les dispositions du chapitre IV du titre Ier du livre IV (partie Législative) relatives à la discipline des membres des
-tribunaux de commerce sont applicables aux juges des tribunaux mixtes de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-##### Section IV : Les juridictions des mineurs.<a id=153></a>
+##### Section IV : Les juridictions des mineurs.<a id=215></a>
 
 ###### Article L932-44
 
@@ -11841,83 +12952,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-39 (V)
 
 
-#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=154></a>
-
-###### Article L933-1
-
-En matière correctionnelle, lorsqu'ils statuent en formation collégiale, le tribunal de première instance et les sections
-détachées de ce tribunal sont complétés par deux assesseurs ayant voix délibérative.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-9 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-11 (Ab)
-
-
-###### Article L933-2
-
-Les assesseurs titulaires et suppléants sont choisis, pour une durée de deux ans, parmi les personnes de nationalité
-française, âgées de plus de vingt-trois ans, présentant des garanties de compétences et d'impartialité et n'ayant fait
-l'objet d'aucune condamnation, incapacité ou déchéance prévue par les articles L. 5 et L. 6 du code électoral.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code électoral - art. L5 (M)
-  - Code électoral - art. L6 (M)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-10 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-4 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R933-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R933-5 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 832 (V)
-
+#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=216></a>
 
 ###### Article L933-3
 
@@ -11966,46 +13001,6 @@ _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-5 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-6 (V)
-
-
-###### Article L933-4
-
-Si le nombre des candidats remplissant les conditions fixées à l'article L. 933-2 n'est pas suffisant pour établir la liste
-des assesseurs titulaires et suppléants appelés à compléter le tribunal de première instance et les sections détachées de ce
-tribunal, le garde des sceaux, ministre de la justice, n'arrête pas de liste. En ce cas, le tribunal de première instance et
-les sections détachées de ce tribunal statuent sans assesseur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-10 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-12 (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-8 (Ab)
 
 
 ###### Article L933-5
@@ -12098,172 +13093,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-20 (V)
 
 
-###### Article L933-7
+#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=217></a>
 
-Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent devant la cour d'appel le serment prévu à
-l'article 6 de l'ordonnance du 22 décembre 1958 susvisée portant loi organique relative au statut de la magistrature.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-14 (V)
-
-
-###### Article L933-8
-
-Sous réserve de l'application de l'article L. 933-4, les assesseurs restent en fonctions jusqu'à l'installation de leurs
-successeurs. Toutefois, la prorogation des fonctions d'un assesseur ne peut en aucun cas excéder une période de deux mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-13 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-15 (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-4 (M)
-
-
-###### Article L933-9
-
-Les dispositions du titre VII du livre quatrième du code de procédure pénale relatives à la récusation des juges sont
-applicables aux assesseurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L933-10
-
-Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
-successives peuvent, à la demande du président du tribunal de première instance ou du ministère public, après avoir été
-convoqués et mis en mesure de présenter leurs observations, être déclarés démissionnaires par la cour d'appel statuant en
-chambre du conseil.
-
-En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-14 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-16 (V)
-
-
-###### Article L933-11
-
-Lorsque, du fait de l'absence ou de l'empêchement d'un assesseur titulaire et de ses suppléants, la formation normalement
-compétente ne peut être légalement composée et que le cours de la justice s'en trouve interrompu, la cour d'appel, sur
-requête présentée par le procureur général, constate l'impossibilité pour la formation de se réunir dans la composition
-prévue à l'article L. 933-1 et renvoie la connaissance de l'affaire à la formation statuant sans assesseur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-209 du 19 mars 1999 - art. 222 ()
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-15 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-17 (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-1 (M)
-
-
-#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=155></a>
-
-##### Section I : La cour d'appel.<a id=156></a>
+##### Section I : La cour d'appel.<a id=218></a>
 
 ###### Article L934-1
 
@@ -12298,66 +13130,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D532-1 (V)
 
 
-##### Section II : Le tribunal de première instance.<a id=157></a>
-
-###### Article L934-2
-
-Le tribunal de première instance exerce les compétences dévolues en métropole au tribunal de commerce, dans les conditions
-prévues à l'article L. 931-8.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-6 (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8 (M)
-
-
-###### Article L934-3
-
-Lorsqu'il statue en formation collégiale, le tribunal de première instance est composé du président du tribunal et de deux
-assesseurs choisis, pour une durée de deux ans, parmi les personnes remplissant les conditions prévues à l'article L. 933-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-8 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-12 (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (M)
-
+##### Section II : Le tribunal de première instance.<a id=219></a>
 
 ###### Article L934-4
 
@@ -12444,157 +13217,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-20 (V)
 
 
-###### Article L934-6
-
-Les dispositions de l'article L. 731-1 sont applicables aux assesseurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
-
-
-###### Article L934-7
-
-Le président du tribunal de première instance exerce les fonctions de juge d'instruction dans les conditions prévues par les
-dispositions de procédure pénale applicables localement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-16 (V)
-
-
-###### Article L934-8
-
-En cas d'empêchement ou lorsque, en matière pénale, il a participé à l'instruction de l'affaire, le président du tribunal de
-première instance est remplacé, par ordonnance du premier président, par un magistrat du siège appartenant au ressort de la
-cour d'appel.
-
-En cas d'empêchement, le procureur de la République est remplacé par un magistrat du parquet appartenant au ressort de la
-cour d'appel et désigné par le procureur général.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-17 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-18 (V)
-
-
-##### Section II bis : La juridiction de proximité<a id=158></a>
-
-###### Article L934-8-1
-
-Les articles L. 331-1, L. 331-2 à l'exception de son dernier alinéa, les articles L. 331-4 à L. 331-9 sont applicables dans
-les îles Wallis et Futuna.
-
-Pour leur application dans cette collectivité, la somme de "1 500 euros" prévue à l'article L. 331-2 est remplacée par sa
-contrepartie en monnaie locale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°2003-918 du 26 septembre 2003 - art. 9 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
-  - Code de l'organisation judiciaire L331-1, L331-2, L331-4 à L331-9
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-19 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-20 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-21 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-22 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-23 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-24 (VT)
-
-
-##### Section III : Les juridictions des mineurs.<a id=159></a>
-
-###### Article L934-9
-
-Par dérogation à l'article L. 532-1, les fonctions de juge des enfants sont exercées par le président du tribunal de première
-instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-26 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L532-1
-
-
-#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=160></a>
+#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=220></a>
 
 ###### Article L935-1
 
@@ -12634,43 +13257,9 @@ _Cité par_:
   - Code de l'environnement - art. L713-8 (V)
 
 
-### Titre IV : Dispositions particulières à Mayotte<a id=161></a>
+### Titre IV : Dispositions particulières à Mayotte<a id=221></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=162></a>
-
-###### Article L941-1
-
-Pour l'application des dispositions étendues par le présent titre à Mayotte, il y a lieu de lire :
-
-1° "Tribunal supérieur d'appel" à la place de "cour d'appel" ;
-
-2° "Tribunal de première instance" à la place de "tribunal de grande instance" et de "tribunal d'instance" ;
-
-3° "Président du tribunal supérieur d'appel" à la place de "premier président de la cour d'appel" ;
-
-4° "Procureur de la République près le tribunal supérieur d'appel" à la place de "procureur général" ;
-
-5° "Procureur de la République près le tribunal de première instance" à la place de : "procureur de la République".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 3 () JORF 21 décembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L521-2 (VT)
-
+#### Chapitre Ier : Dispositions générales.<a id=222></a>
 
 ###### Article L941-2
 
@@ -12713,52 +13302,7 @@ _Cite_:
   - Code de l'organisation judiciaire L710-1, L7-10-1-1, L731-1 à L731-3, L781-1
 
 
-#### Chapitre II : Le tribunal supérieur d'appel.<a id=163></a>
-
-###### Article L942-1
-
-Il y a à Mayotte un tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-11 (VT)
-
-
-###### Article L942-2
-
-Le tribunal supérieur d'appel connaît de l'appel des jugements rendus en application du droit commun par les juridictions du
-premier degré instituées à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
+#### Chapitre II : Le tribunal supérieur d'appel.<a id=223></a>
 
 ###### Article L942-3
 
@@ -12829,48 +13373,6 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-11 (Ab)
 
 
-###### Article L942-5
-
-Le procureur de la République près le tribunal supérieur d'appel représente en personne ou par ses substituts le ministère
-public devant le tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 5 () JORF 21 décembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-###### Article L942-6
-
-Le procureur de la République près le tribunal de première instance représente en personne ou par ses substituts le ministère
-public devant le tribunal de première instance et toutes les juridictions du premier degré établies dans son ressort.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 6 () JORF 21 décembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
 ###### Article L942-7
 
 Les dispositions des chapitres Ier, III et VI du titre II du livre II relatives aux pouvoirs des chefs de cour concernant le
@@ -12914,85 +13416,6 @@ _Cite_:
   - Code de l'organisation judiciaire L223-2
 
 
-###### Article L942-8
-
-Le tribunal supérieur d'appel exerce les compétences dévolues en métropole à la chambre des appels correctionnels et à la
-chambre de l'instruction dans les conditions prévues par les dispositions de procédure pénale applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-16 (VT)
-
-
-###### Article L942-9
-
-En cas d'absence ou d'empêchement, le président du tribunal supérieur d'appel est remplacé, pour les besoins du service, par
-un magistrat du siège du tribunal supérieur d'appel ou, à défaut, par le président du tribunal de première instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-17 (VT)
-
-
-###### Article L942-10
-
-En cas d'absence ou d'empêchement, les magistrats du siège du tribunal supérieur d'appel, à l'exception du président de cette
-juridiction, sont remplacés, pour les besoins du service, par des magistrats du siège du tribunal de première instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-18 (VT)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-11 (V)
-
-
 ###### Article L942-11
 
 Lorsque le tribunal supérieur d'appel ne peut être composé conformément aux articles L. 942-4 et L. 942-10, il est complété
@@ -13033,47 +13456,6 @@ _Cite_:
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-14 (V)
-
-
-###### Article L942-12
-
-Les assesseurs titulaires et suppléants sont choisis, pour une durée de deux ans, parmi les personnes de nationalité
-française, âgées de plus de vingt-trois ans, présentant des garanties de compétence et d'impartialité et n'ayant fait l'objet
-d'aucune condamnation, incapacité ou déchéance prévue par les articles L. 5 et L. 6 du code électoral.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
-
-_Cité par_:
-
-  - Ordonnance n°92-1141 du 12 octobre 1992 - art. 2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-7 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R942-12 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code électoral - art. L5 (M)
-  - Code électoral - art. L6 (M)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-20 (VT)
 
 
 ###### Article L942-13
@@ -13164,39 +13546,6 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-13 (M)
 
 
-###### Article L942-15
-
-Lorsqu'un assesseur titulaire est absent ou empêché, il est remplacé par l'un de ses suppléants appelés dans l'ordre de la
-liste d'assesseurs prévue à l'article L. 942-13.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-23 (VT)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-13 (M)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L943-7 (V)
-
-
 ###### Article L942-16
 
 Lorsque, en cours d'année, il y a lieu, pour quelque cause que ce soit, de compléter la liste d'assesseurs, il est pourvu,
@@ -13236,227 +13585,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-18 (Ab)
 
 
-###### Article L942-17
-
-Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent devant le tribunal supérieur d'appel le serment
-prévu à l'article 6 de l'ordonnance du 22 décembre 1958 susvisée portant loi organique relative au statut de la magistrature.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
-
-_Cité par_:
-
-  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-24 (VT)
-
-
-###### Article L942-18
-
-Les assesseurs restent en fonctions jusqu'à l'installation de leurs successeurs. Toutefois, la prorogation de leurs fonctions
-ne peut excéder une période de deux mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-25 (VT)
-
-
-###### Article L942-19
-
-Les dispositions de l'article L. 731-1 relatives à la récusation des juges sont applicables aux assesseurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
-
-
-###### Article L942-20
-
-Les assesseurs titulaires ou suppléants qui, sans motif légitime, se sont abstenus de déférer à plusieurs convocations
-successives peuvent, à la demande du président du tribunal supérieur d'appel ou du ministère public, après avoir été
-convoqués et mis en mesure de présenter leurs observations, être déclarés démissionnaires par le garde des sceaux, ministre
-de la justice.
-
-En cas de faute grave entachant l'honneur ou la probité, leur déchéance est prononcée dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-26 (VT)
-
-
-###### Article L942-21
-
-Les fonctions d'assesseur au tribunal supérieur d'appel sont incompatibles avec celles d'assesseur au tribunal de première
-instance ou au tribunal pour enfants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
-
-_Cité par_:
-
-  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-27 (VT)
-
-
-#### Chapitre III : Le tribunal de première instance.<a id=164></a>
-
-###### Article L943-1
-
-Il y a à Mayotte une juridiction du premier degré dénommée tribunal de première instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-1 (VT)
-
-
-###### Article L943-2
-
-Le tribunal de première instance a compétence exclusive dans les matières déterminées par les lois et règlements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-3 (V)
-
-
-###### Article L943-3
-
-Le tribunal de première instance exerce les compétences dévolues en métropole au tribunal de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-4 (VT)
-
+#### Chapitre III : Le tribunal de première instance.<a id=224></a>
 
 ###### Article L943-4
 
@@ -13622,357 +13751,7 @@ _Cite_:
   - Code de l'organisation judiciaire L942-12, L942-13, L942-15 à L942-20, L942-15
 
 
-###### Article L943-8
-
-En cas d'absence ou d'empêchement, les magistrats du siège du tribunal de première instance peuvent être remplacés par un
-assesseur titulaire désigné, dans l'ordre de la liste, par ordonnance du président du tribunal de première instance ou, à
-défaut d'une telle désignation, par l'assesseur titulaire non empêché le plus âgé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-8 (VT)
-
-
-###### Article L943-9
-
-Les fonctions d'assesseur au tribunal de première instance sont incompatibles avec celles d'assesseur au tribunal supérieur
-d'appel ou au tribunal pour enfants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
-
-_Cité par_:
-
-  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-9 (VT)
-
-
-###### Article L943-10
-
-Il y a au tribunal de première instance un ou plusieurs juges d'instruction. Les règles concernant les conditions de
-nomination et les attributions du juge d'instruction sont fixées par les dispositions de procédure pénale applicables à
-Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-10 (VT)
-
-
-###### Article L943-11
-
-Lorsqu'il statue en matière délictuelle, le tribunal de première instance est dénommé tribunal correctionnel.
-
-Lorsqu'il statue en matière contraventionnelle, il est dénommé tribunal de police.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-10 (VT)
-
-
-###### Article L943-12
-
-Les règles concernant la compétence, l'organisation et le fonctionnement du tribunal correctionnel et du tribunal de police
-ainsi que celles relatives au ministère public près ces juridictions sont fixées par les dispositions de procédure pénale
-applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-10 (VT)
-
-
-#### Chapitre III bis : La juridiction de proximité<a id=165></a>
-
-###### Article L943-12-1
-
-Les articles L. 331-1 à L. 331-9 sont applicables à Mayotte.
-
-Pour leur application à Mayotte, la somme de "4 000 euros" prévue à l'article L. 331-2 est remplacée par la somme de "250
-euros".
-
-**Nota:**
-
-NOTA : Loi n° 2005-47, article 11 : Ces dispositions entrent en vigueur le premier jour du troisième mois suivant sa
-publication. Toutefois, les affaires dont le tribunal de police ou la juridiction de proximité sont régulièrement saisis à
-cette date demeurent de la compétence de ces juridictions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2005-47 du 26 janvier 2005 - art. 9 () JORF 27 janvier 2005 en vigueur le 1er avril 2005
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-2 (M)
-  - Code de l'organisation judiciaire L331-1 à L331-9, L331-2
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-28 (VT)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-29-1 (VT)
-
-
-#### Chapitre IV : Les juridictions des mineurs.<a id=166></a>
-
-###### Article L944-1
-
-Les dispositions du livre V (partie législative) relatives aux juridictions des mineurs applicables en métropole le 14 août
-1992 sont applicables à Mayotte, sous réserve des dispositions de l'article L. 944-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 92-1141 1992-10-12 art. 2
-
-_Cité par_:
-
-  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L944-2 (M)
-
-
-###### Article L944-2
-
-L'article L. 532-1 est applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 7 () JORF 21 décembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L944-1 (Ab)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L532-1
-
-
-###### Article L944-3
-
-Les fonctions d'assesseur au tribunal pour enfants sont incompatibles avec celles d'assesseur au tribunal supérieur d'appel
-ou au tribunal de première instance.
-
-sont applicables à la désignation des assesseurs au tribunal supérieur d'appel, au tribunal de première instance et au
-tribunal pour enfants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Cité par_:
-
-  - Ordonnance no 92-1141 du 12 octobre 1992 relative  - art. 2 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-34 (VT)
-
-
-#### Chapitre V : La cour criminelle.<a id=167></a>
-
-###### Article L945-1
-
-Il y a à Mayotte une cour criminelle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-35 (VT)
-
-
-###### Article L945-2
-
-Les règles concernant la compétence, l'organisation et le fonctionnement de la cour criminelle ainsi que celles relatives au
-ministère public près cette juridiction sont fixées par les dispositions de procédure pénale applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-36 (VT)
-
-
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=168></a>
-
-###### Article L946-1
-
-Le service des secrétariats-greffes du tribunal supérieur d'appel et du tribunal de première instance est assuré par des
-fonctionnaires de l'Etat ou, lorsque des dispositions législatives ou réglementaires l'autorisent, par des fonctionnaires des
-cadres territoriaux ou des agents territoriaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L523-1 (VT)
-
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=225></a>
 
 ###### Article L946-2
 
@@ -14011,78 +13790,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R523-1 (Ab)
 
 
-### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=169></a>
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=226></a>
 
-#### Chapitre Ier : Des fonctions judiciaires<a id=170></a>
-
-###### Article L951-1
-
-Les fonctions judiciaires dans la collectivité territoriale de Saint-Pierre-et-Miquelon sont exercées :
-
-1° Par les magistrats du corps judiciaire ;
-
-2° Par des assesseurs au tribunal supérieur d'appel et au tribunal criminel ;
-
-3° Par des suppléants du procureur de la République.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-1 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-2 (Ab)
-
-
-###### Article L951-2
-
-Les personnes appelées à exercer l'une des fonctions judiciaires mentionnées aux 2° et 3° de l'article L. 951-1 sont choisies
-parmi les personnes de nationalité française, âgées de plus de vingt-trois ans, jouissant des droits politiques, civils et de
-famille et présentant des garanties de compétence et d'impartialité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-2 (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-1 (Ab)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R951-1 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 913 (V)
-
+#### Chapitre Ier : Des fonctions judiciaires<a id=227></a>
 
 ###### Article L951-3
 
@@ -14197,173 +13907,11 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3 (V)
 
 
-#### Chapitre II : Des juridictions<a id=171></a>
+#### Chapitre II : Des juridictions<a id=228></a>
 
-##### Section I : Dispositions communes<a id=172></a>
+##### Section II : Le tribunal de première instance<a id=229></a>
 
-###### Article L952-1
-
-Pour l'application à la collectivité territoriale de Saint-Pierre-et-Miquelon du présent code (partie Législative), il y a
-lieu de lire :
-
-"tribunal supérieur d'appel" à la place de : "cour d'appel" ;
-
-"tribunal de première instance" à la place de : "tribunal de grande instance" ;
-
-"président du tribunal supérieur d'appel" à la place de : "premier président de la cour d'appel".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L511-1 (V)
-
-
-###### Article L952-2
-
-Le procureur de la République près le tribunal supérieur d'appel peut, en toutes matières, exercer le ministère public devant
-toutes juridictions du premier degré établies dans son ressort.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-10 (V)
-
-
-###### Article L952-3
-
-En ce qui concerne les institutions de la justice pénale, les mesures d'adaptation nécessitées par l'application à la
-collectivité territoriale de Saint-Pierre-et-Miquelon des dispositions du code de procédure pénale sont énoncées au titre
-troisième du livre VI de ce même code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-
-##### Section II : Le tribunal de première instance<a id=173></a>
-
-##### Sous-section I : Compétence.<a id=174></a>
-
-###### Article L952-4
-
-Le tribunal de première instance connaît de toutes les affaires dont la connaissance n'est pas expressément attribuée à une
-autre juridiction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-1 (V)
-
-
-##### Sous-section II : Organisation et fonctionnement<a id=175></a>
-
-###### Article L952-5
-
-Le tribunal de première instance statue à juge unique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-2 (V)
-
-
-###### Article L952-6
-
-En cas de vacance des postes de magistrat au tribunal de première instance, d'absence, d'empêchement ou d'incompatibilité
-légale, les fonctions de magistrat dans cette juridiction sont exercées par le président du tribunal supérieur d'appel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-3 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-7 (V)
-  - CODE DE PROCEDURE PENALE - art. 924 (V)
-  - CODE DE PROCEDURE PENALE - art. 931 (V)
-
+##### Sous-section II : Organisation et fonctionnement<a id=230></a>
 
 ###### Article L952-7
 
@@ -14423,38 +13971,9 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 931 (V)
 
 
-###### Article L952-8
+##### Section III : Le tribunal supérieur d'appel<a id=231></a>
 
-Par dérogation aux dispositions de l'article L. 532-1, le président du tribunal de première instance exerce les fonctions de
-juge des enfants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-5 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L532-1
-
-
-##### Section III : Le tribunal supérieur d'appel<a id=176></a>
-
-##### Sous-section II : Organisation et fonctionnement.<a id=177></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=232></a>
 
 ###### Article L952-9
 
@@ -14495,36 +14014,6 @@ _Cite_:
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (V)
-
-
-###### Article L952-10
-
-En cas de vacance du poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président du tribunal
-supérieur d'appel sont exercées par le président du tribunal de première instance ou, à défaut, par un juge de ce tribunal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-7 (V)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-11 (V)
-  - CODE DE PROCEDURE PENALE - art. 928 (V)
 
 
 ###### Article L952-11
@@ -14590,94 +14079,11 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 928 (V)
 
 
-###### Article L952-12
+# Partie réglementaire ancienne - Décrets en Conseil d'Etat<a id=233></a>
 
-Par dérogation aux dispositions de l'article L. 223-2, le président du tribunal supérieur d'appel exerce les fonctions de
-délégué à la protection de l'enfance.
+## Livre Ier : La Cour de cassation<a id=234></a>
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-9 (V)
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. 907 (V)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire L223-2
-
-
-###### Article L952-13
-
-Les fonctions du ministère public près le tribunal supérieur d'appel sont exercées par le procureur de la République.
-
-Ses attributions sont alors celles des procureurs généraux près les cours d'appel de métropole.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L511-1 (V)
-
-
-###### Article L952-14
-
-En cas d'empêchement, qu'elle qu'en soit la cause, le procureur de la République est remplacé par l'un de ses suppléants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-329 1978-03-16
-  - Loi n°91-1258 1991-12-17
-
-_Créé par_:
-
-  - Ordonnance n°98-729 du 20 août 1998 - art. 1 () JORF 22 août 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-11 (V)
-
-
-# Partie réglementaire ancienne - Décrets en Conseil d'Etat<a id=178></a>
-
-## Livre Ier : La Cour de cassation<a id=179></a>
-
-### Titre II : Organisation<a id=180></a>
+### Titre II : Organisation<a id=235></a>
 
 ###### Article R*121-1
 
@@ -14860,9 +14266,9 @@ _Modifié par_:
   - Décret n°2004-1463 du 23 décembre 2004 - art. 35 () JORF 30 décembre 2004
 
 
-### Titre III : Fonctionnement<a id=181></a>
+### Titre III : Fonctionnement<a id=236></a>
 
-#### Chapitre Ier : Le service des chambres de la Cour<a id=182></a>
+#### Chapitre Ier : Le service des chambres de la Cour<a id=237></a>
 
 ###### Article R*131-1
 
@@ -15518,7 +14924,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-8 (V)
 
 
-#### Chapitre II : Le ministère public<a id=183></a>
+#### Chapitre II : Le ministère public<a id=238></a>
 
 ###### Article R*132-1
 
@@ -15628,9 +15034,9 @@ _Anciens textes_:
   - Ordonnance 1826-01-15 art. 29
 
 
-### Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation<a id=184></a>
+### Titre IV : Commissions juridictionnelles fonctionnant auprès de la Cour de cassation<a id=239></a>
 
-#### Chapitre Ier : La commission nationale d'indemnisation en matière de détention provisoire<a id=185></a>
+#### Chapitre Ier : La commission nationale d'indemnisation en matière de détention provisoire<a id=240></a>
 
 ###### Article R*141-1
 
@@ -15659,7 +15065,7 @@ _Cite_:
   - Code de procédure pénale - art. 149-1
 
 
-#### Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale<a id=186></a>
+#### Chapitre II : La commission prévue par l'article 16-2 du code de procédure pénale<a id=241></a>
 
 ###### Article R142-1
 
@@ -15688,7 +15094,7 @@ _Cite_:
   - Code de procédure pénale - art. 16-2
 
 
-### Titre V : Saisine pour avis de la Cour de cassation.<a id=187></a>
+### Titre V : Saisine pour avis de la Cour de cassation.<a id=242></a>
 
 ###### Article R151-1
 
@@ -15706,11 +15112,11 @@ _Créé par_:
   - Décret n°92-228 du 12 mars 1992 - art. 2 () JORF 14 mars 1992
 
 
-## Livre II : La cour d'appel<a id=188></a>
+## Livre II : La cour d'appel<a id=243></a>
 
-### Titre Ier : Dispositions générales<a id=189></a>
+### Titre Ier : Dispositions générales<a id=244></a>
 
-#### Chapitre Ier : Institution et compétence<a id=190></a>
+#### Chapitre Ier : Institution et compétence<a id=245></a>
 
 ###### Article R*211-1
 
@@ -15774,7 +15180,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Organisation<a id=191></a>
+#### Chapitre II : Organisation<a id=246></a>
 
 ###### Article R*212-1
 
@@ -16000,9 +15406,9 @@ _Anciens textes_:
   - Nouveau code de procédure civile 910 et 940
 
 
-#### Chapitre III : Fonctionnement<a id=192></a>
+#### Chapitre III : Fonctionnement<a id=247></a>
 
-##### Section I : Dispositions générales relatives au service des chambres de la cour<a id=193></a>
+##### Section I : Dispositions générales relatives au service des chambres de la cour<a id=248></a>
 
 ###### Article R*213-2
 
@@ -16291,7 +15697,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section II : Dispositions relatives aux assemblées générales<a id=194></a>
+##### Section II : Dispositions relatives aux assemblées générales<a id=249></a>
 
 ###### Article R*213-13
 
@@ -16325,7 +15731,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le ministère public<a id=195></a>
+##### Section III : Le ministère public<a id=250></a>
 
 ###### Article R*213-21
 
@@ -16483,7 +15889,7 @@ _Anciens textes_:
   - Décret n°1810-07-06 art. 36
 
 
-##### Section IV : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort<a id=196></a>
+##### Section IV : Les pouvoirs des chefs de cour concernant le fonctionnement des juridictions du ressort<a id=251></a>
 
 ###### Article R*213-29
 
@@ -16537,9 +15943,9 @@ _Créé par_:
   - Décret n°2004-435 du 24 mai 2004 - art. 1 () JORF 25 mai 2004 en vigueur le 1er janvier 2006
 
 
-### Titre II : Dispositions particulières à certaines matières<a id=197></a>
+### Titre II : Dispositions particulières à certaines matières<a id=252></a>
 
-#### Chapitre Ier : Dispositions particulières en matière sociale<a id=198></a>
+#### Chapitre Ier : Dispositions particulières en matière sociale<a id=253></a>
 
 ###### Article R*221-1
 
@@ -16570,7 +15976,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-6 (V)
 
 
-#### Chapitre II : Dispositions particulières en matière d'expropriation<a id=199></a>
+#### Chapitre II : Dispositions particulières en matière d'expropriation<a id=254></a>
 
 ###### Article R222-1
 
@@ -16614,9 +16020,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. R13-5
 
 
-#### Chapitre V : Dispositions particulières aux professions juridiques et judiciaires<a id=200></a>
+#### Chapitre V : Dispositions particulières aux professions juridiques et judiciaires<a id=255></a>
 
-##### Section I : Dispositions particulières aux avocats<a id=201></a>
+##### Section I : Dispositions particulières aux avocats<a id=256></a>
 
 ###### Article R225-1
 
@@ -16648,7 +16054,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-10 (V)
 
 
-##### Section II : Dispositions particulières aux experts judiciaires<a id=202></a>
+##### Section II : Dispositions particulières aux experts judiciaires<a id=257></a>
 
 ###### Article R*225-2
 
@@ -16698,7 +16104,7 @@ _Modifié par_:
   - Décret n°2004-1463 du 23 décembre 2004 - art. 37 () JORF 30 décembre 2004
 
 
-##### Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires<a id=203></a>
+##### Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires<a id=258></a>
 
 ###### Article R225-4
 
@@ -16719,7 +16125,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre VI : Dispositions particulières relatives à l'application des peines<a id=204></a>
+#### Chapitre VI : Dispositions particulières relatives à l'application des peines<a id=259></a>
 
 ###### Article R*226-1
 
@@ -16748,7 +16154,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-42 (V)
 
 
-### Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels<a id=205></a>
+### Titre III : Commission juridictionnelle fonctionnant auprès de la cour d'appel : la commission d'indemnisation de certains dommages corporels<a id=260></a>
 
 ###### Article R*231-1
 
@@ -16776,13 +16182,13 @@ _Cite_:
   - Code de procédure pénale
 
 
-## Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité<a id=206></a>
+## Livre III : Le tribunal de grande instance, le tribunal d'instance et la juridiction de proximité<a id=261></a>
 
-### Titre Ier : Le tribunal de grande instance<a id=207></a>
+### Titre Ier : Le tribunal de grande instance<a id=262></a>
 
-#### Chapitre Ier : Dispositions générales<a id=208></a>
+#### Chapitre Ier : Dispositions générales<a id=263></a>
 
-##### Section I : Institution et compétence<a id=209></a>
+##### Section I : Institution et compétence<a id=264></a>
 
 ###### Article R*311-1
 
@@ -16944,7 +16350,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 42 et s.
 
 
-##### Section II : Organisation<a id=210></a>
+##### Section II : Organisation<a id=265></a>
 
 ###### Article R*311-7
 
@@ -17139,9 +16545,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-3 (M)
 
 
-##### Section III : Fonctionnement<a id=211></a>
+##### Section III : Fonctionnement<a id=266></a>
 
-##### Sous-section I : Dispositions relatives au service des chambres du tribunal<a id=212></a>
+##### Sous-section I : Dispositions relatives au service des chambres du tribunal<a id=267></a>
 
 ###### Article R*311-14
 
@@ -17577,7 +16983,7 @@ _Anciens textes_:
   - Décret n°1808-03-30 art. 48
 
 
-##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état, au juge de l'exécution et au juge aux affaires familiales.<a id=213></a>
+##### Sous-section II : Dispositions relatives au juge unique, au juge de la mise en état, au juge de l'exécution et au juge aux affaires familiales.<a id=268></a>
 
 ###### Article R311-29-1
 
@@ -17678,7 +17084,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-19 (Ab)
 
 
-##### Sous-section III : Dispositions relatives aux assemblées générales<a id=214></a>
+##### Sous-section III : Dispositions relatives aux assemblées générales<a id=269></a>
 
 ###### Article R311-30
 
@@ -17708,7 +17114,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Sous-section IV : Le ministère public<a id=215></a>
+##### Sous-section IV : Le ministère public<a id=270></a>
 
 ###### Article R*311-34
 
@@ -17838,7 +17244,7 @@ _Anciens textes_:
   - Décret n°1810-08-18 art. 28
 
 
-##### Sous-section V : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des tribunaux d'instance de leur ressort<a id=216></a>
+##### Sous-section V : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des tribunaux d'instance de leur ressort<a id=271></a>
 
 ###### Article R*311-38
 
@@ -17873,7 +17279,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-58 (V)
 
 
-##### Sous-section VI : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des juridictions de proximité de leur ressort<a id=217></a>
+##### Sous-section VI : Les pouvoirs des chefs du tribunal de grande instance concernant le fonctionnement des juridictions de proximité de leur ressort<a id=272></a>
 
 ###### Article R*311-38-1
 
@@ -17904,7 +17310,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-58 (V)
 
 
-##### Section IV : Dispositions relatives à la présidence et au service des chambres détachées des tribunaux de grande instance<a id=218></a>
+##### Section IV : Dispositions relatives à la présidence et au service des chambres détachées des tribunaux de grande instance<a id=273></a>
 
 ###### Article R*311-39
 
@@ -18015,9 +17421,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L710-1
 
 
-#### Chapitre II : Dispositions particulières à certaines matières<a id=219></a>
+#### Chapitre II : Dispositions particulières à certaines matières<a id=274></a>
 
-##### Section I : Dispositions particulières en matière familiale.<a id=220></a>
+##### Section I : Dispositions particulières en matière familiale.<a id=275></a>
 
 ###### Article R312-1
 
@@ -18080,7 +17486,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales.<a id=221></a>
+##### Section II : Dispositions particulières en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales.<a id=276></a>
 
 ###### Article R*312-2
 
@@ -18149,7 +17555,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D211-6 (V)
 
 
-##### Section III : Dispositions particulières en matière de baux commerciaux<a id=222></a>
+##### Section III : Dispositions particulières en matière de baux commerciaux<a id=277></a>
 
 ###### Article R*312-3
 
@@ -18189,7 +17595,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-41 (VT)
 
 
-##### Section IV : Dispositions particulières relatives à l'informatique, aux fichiers et aux libertés.<a id=223></a>
+##### Section IV : Dispositions particulières relatives à l'informatique, aux fichiers et aux libertés.<a id=278></a>
 
 ###### Article R*312-4
 
@@ -18214,7 +17620,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R935-3 (Ab)
 
 
-##### Section V : Dispositions particulières en matière commerciale<a id=224></a>
+##### Section V : Dispositions particulières en matière commerciale<a id=279></a>
 
 ###### Article R*312-5
 
@@ -18244,7 +17650,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-5 (M)
 
 
-##### Section VI : Dispositions particulières à la saisie immobilière<a id=225></a>
+##### Section VI : Dispositions particulières à la saisie immobilière<a id=280></a>
 
 ###### Article R312-6
 
@@ -18269,7 +17675,7 @@ _Cité par_:
   - Décret n°2006-936 du 27 juillet 2006 - art. 166 (Ab)
 
 
-##### Section VII : Dispositions particulières à l'application des peines<a id=226></a>
+##### Section VII : Dispositions particulières à l'application des peines<a id=281></a>
 
 ###### Article R*312-7
 
@@ -18322,7 +17728,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R212-44 (V)
 
 
-##### Section VIII : Dispositions particulières en matière de nationalité.<a id=227></a>
+##### Section VIII : Dispositions particulières en matière de nationalité.<a id=282></a>
 
 ###### Article R*312-9
 
@@ -18355,7 +17761,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-12 (VT)
 
 
-##### Section IX : Dispositions particulières en matière de marque communautaire<a id=228></a>
+##### Section IX : Dispositions particulières en matière de marque communautaire<a id=283></a>
 
 ###### Article R*312-10
 
@@ -18386,7 +17792,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R211-7 (V)
 
 
-##### Section X : Dispositions particulières en matière de pollution des eaux de mer par les rejets des navires<a id=229></a>
+##### Section X : Dispositions particulières en matière de pollution des eaux de mer par les rejets des navires<a id=284></a>
 
 ###### Article R*312-11
 
@@ -18414,13 +17820,13 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre II : Le tribunal d'instance<a id=230></a>
+### Titre II : Le tribunal d'instance<a id=285></a>
 
-#### Chapitre Ier : Dispositions générales<a id=231></a>
+#### Chapitre Ier : Dispositions générales<a id=286></a>
 
-##### Section I : Institution et compétence<a id=232></a>
+##### Section I : Institution et compétence<a id=287></a>
 
-##### Sous-section I : Compétence d'attribution<a id=233></a>
+##### Sous-section I : Compétence d'attribution<a id=288></a>
 
 ###### Article R*321-3
 
@@ -19136,7 +18542,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Compétence territoriale<a id=234></a>
+##### Sous-section II : Compétence territoriale<a id=289></a>
 
 ###### Article R*321-24
 
@@ -19357,7 +18763,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-52 (V)
 
 
-##### Section II : Organisation<a id=235></a>
+##### Section II : Organisation<a id=290></a>
 
 ###### Article R*321-31
 
@@ -19406,7 +18812,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-2 (V)
 
 
-##### Section III : Fonctionnement<a id=236></a>
+##### Section III : Fonctionnement<a id=291></a>
 
 ###### Article R*321-33
 
@@ -19731,7 +19137,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions particulières à la tutelle<a id=237></a>
+#### Chapitre II : Dispositions particulières à la tutelle<a id=292></a>
 
 ###### Article R*322-1
 
@@ -19765,7 +19171,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-2 (VT)
 
 
-#### Chapitre III : Attributions non juridictionnelles<a id=238></a>
+#### Chapitre III : Attributions non juridictionnelles<a id=293></a>
 
 ###### Article R*323-3
 
@@ -19862,13 +19268,13 @@ _Anciens textes_:
   - Décret-loi 1926-11-05 art. 2
 
 
-### Titre III : La juridiction de proximité<a id=239></a>
+### Titre III : La juridiction de proximité<a id=294></a>
 
-#### Chapitre unique : Dispositions générales<a id=240></a>
+#### Chapitre unique : Dispositions générales<a id=295></a>
 
-##### Section I : Institution et compétence<a id=241></a>
+##### Section I : Institution et compétence<a id=296></a>
 
-##### Sous-section I : Compétence d'attribution<a id=242></a>
+##### Sous-section I : Compétence d'attribution<a id=297></a>
 
 ###### Article R*331-1
 
@@ -19935,7 +19341,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-5 (M)
 
 
-##### Sous-section II : Compétence territoriale<a id=243></a>
+##### Sous-section II : Compétence territoriale<a id=298></a>
 
 ###### Article R*331-3
 
@@ -19961,7 +19367,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R231-6 (VT)
 
 
-##### Section II : Organisation<a id=244></a>
+##### Section II : Organisation<a id=299></a>
 
 ###### Article R*331-4
 
@@ -20053,11 +19459,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-2 (VT)
 
 
-## Livre IV : Les juridictions spécialisées non pénales<a id=245></a>
+## Livre IV : Les juridictions spécialisées non pénales<a id=300></a>
 
-### Titre I : Le tribunal de commerce<a id=246></a>
+### Titre I : Le tribunal de commerce<a id=301></a>
 
-#### Chapitre I : Institution et compétence<a id=247></a>
+#### Chapitre I : Institution et compétence<a id=302></a>
 
 ###### Article R*411-1
 
@@ -20180,7 +19586,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R721-6 (V)
 
 
-#### Chapitre II : Organisation et fonctionnement.<a id=248></a>
+#### Chapitre II : Organisation et fonctionnement.<a id=303></a>
 
 ###### Article R412-1
 
@@ -20843,9 +20249,9 @@ _Nouveaux textes_:
   - Code de commerce. - art. R722-21 (M)
 
 
-#### Chapitre III : Election des juges des tribunaux de commerce<a id=249></a>
+#### Chapitre III : Election des juges des tribunaux de commerce<a id=304></a>
 
-##### Section I : Electorat.<a id=250></a>
+##### Section I : Electorat.<a id=305></a>
 
 ###### Article R413-1
 
@@ -20990,9 +20396,9 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-2 (M)
 
 
-##### Section III : Scrutin et opérations électorales.<a id=251></a>
+##### Section III : Scrutin et opérations électorales.<a id=306></a>
 
-##### Sous-section I : Candidatures<a id=252></a>
+##### Sous-section I : Candidatures<a id=307></a>
 
 ###### Article R413-5
 
@@ -21049,7 +20455,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-9 (Ab)
 
 
-##### Sous-section II : Opérations préalables au scrutin<a id=253></a>
+##### Sous-section II : Opérations préalables au scrutin<a id=308></a>
 
 ###### Article R413-6
 
@@ -21116,7 +20522,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (M)
 
 
-##### Sous-section III : Vote par correspondance<a id=254></a>
+##### Sous-section III : Vote par correspondance<a id=309></a>
 
 ###### Article R413-8
 
@@ -21254,7 +20660,7 @@ _Cite_:
   - Code de l'organisation judiciaire R49, R52, R54, R59, R62, R63, R68, L413-10
 
 
-##### Sous-section IV : Vote électronique<a id=255></a>
+##### Sous-section IV : Vote électronique<a id=310></a>
 
 ###### Article R413-11
 
@@ -21399,7 +20805,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-22 (Ab)
 
 
-##### Sous-section V : Fichiers<a id=256></a>
+##### Sous-section V : Fichiers<a id=311></a>
 
 ###### Article R413-14
 
@@ -21475,7 +20881,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-10 (Ab)
 
 
-##### Sous-section VI : Proclamation des résultats et contentieux de l'élection des juges consulaires<a id=257></a>
+##### Sous-section VI : Proclamation des résultats et contentieux de l'élection des juges consulaires<a id=312></a>
 
 ###### Article R413-16
 
@@ -21741,7 +21147,7 @@ _Cite_:
   - Nouveau code de procédure civile 640 à 647
 
 
-#### Chapitre IV : Discipline des membres des tribunaux de commerce.<a id=258></a>
+#### Chapitre IV : Discipline des membres des tribunaux de commerce.<a id=313></a>
 
 ###### Article R414-1
 
@@ -22348,9 +21754,9 @@ _Cite_:
   - Nouveau code de procédure civile 641 à 647
 
 
-### Titre II : Le conseil de prud'hommes<a id=259></a>
+### Titre II : Le conseil de prud'hommes<a id=314></a>
 
-#### Chapitre Ier : Attributions et institution<a id=260></a>
+#### Chapitre Ier : Attributions et institution<a id=315></a>
 
 ###### Article R421-1
 
@@ -22408,7 +21814,7 @@ _Anciens textes_:
   - Code du travail R511-1 à R511-3
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=261></a>
+#### Chapitre II : Organisation et fonctionnement<a id=316></a>
 
 ###### Article R422-1
 
@@ -22696,7 +22102,7 @@ _Anciens textes_:
   - Code du travail R512-1 à R512-7, R512-11, R512-12
 
 
-#### Chapitre III : Election des conseillers prud'hommes<a id=262></a>
+#### Chapitre III : Election des conseillers prud'hommes<a id=317></a>
 
 ###### Article R423-1
 
@@ -23936,7 +23342,7 @@ _Anciens textes_:
   - Code du travail R513-1 à R513-119
 
 
-#### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé<a id=263></a>
+#### Chapitre IV : Bureau de conciliation - Bureau de jugement - Formation de référé<a id=318></a>
 
 ###### Article R424-1
 
@@ -24013,9 +23419,9 @@ _Anciens textes_:
   - Code du travail R515-1 à R515-4
 
 
-### Titre III : Le juge de l'expropriation<a id=264></a>
+### Titre III : Le juge de l'expropriation<a id=319></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=265></a>
+#### Chapitre II : Organisation et fonctionnement<a id=320></a>
 
 ###### Article R432-1
 
@@ -24079,9 +23485,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique
 
 
-### Titre IV : Le tribunal paritaire des baux ruraux<a id=266></a>
+### Titre IV : Le tribunal paritaire des baux ruraux<a id=321></a>
 
-#### Chapitre II : Constitution des tribunaux paritaires.<a id=267></a>
+#### Chapitre II : Constitution des tribunaux paritaires.<a id=322></a>
 
 ###### Article R442-1
 
@@ -24111,7 +23517,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L442-1
 
 
-### Titre V : Les juridictions de sécurité sociale<a id=268></a>
+### Titre V : Les juridictions de sécurité sociale<a id=323></a>
 
 ###### Article R*450-1
 
@@ -24133,7 +23539,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre VI : Les prud'hommes pêcheurs<a id=269></a>
+### Titre VI : Les prud'hommes pêcheurs<a id=324></a>
 
 ###### Article R*461-1
 
@@ -24159,11 +23565,11 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre V : Les juridictions des mineurs<a id=270></a>
+## Livre V : Les juridictions des mineurs<a id=325></a>
 
-### Titre II : Le tribunal pour enfants<a id=271></a>
+### Titre II : Le tribunal pour enfants<a id=326></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=272></a>
+#### Chapitre II : Organisation et fonctionnement<a id=327></a>
 
 ###### Article R*522-2
 
@@ -24478,9 +23884,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D251-1 (V)
 
 
-### Titre III : Le juge des enfants<a id=273></a>
+### Titre III : Le juge des enfants<a id=328></a>
 
-#### Chapitre Ier : Institution et compétence<a id=274></a>
+#### Chapitre Ier : Institution et compétence<a id=329></a>
 
 ###### Article R531-1
 
@@ -24506,11 +23912,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R252-2 (V)
 
 
-## Livre VI : Les juridictions pénales<a id=275></a>
+## Livre VI : Les juridictions pénales<a id=330></a>
 
-### Titre Ier : Les juridictions d'instruction de droit commun<a id=276></a>
+### Titre Ier : Les juridictions d'instruction de droit commun<a id=331></a>
 
-#### Chapitre Ier : Le juge d'instruction<a id=277></a>
+#### Chapitre Ier : Le juge d'instruction<a id=332></a>
 
 ###### Article R611-1
 
@@ -24535,7 +23941,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-#### Chapitre II : La chambre de l'instruction<a id=278></a>
+#### Chapitre II : La chambre de l'instruction<a id=333></a>
 
 ###### Article R612-1
 
@@ -24569,9 +23975,9 @@ _Cite_:
   - Code de procédure pénale - art. D43
 
 
-### Titre II : Les juridictions de jugement de droit commun<a id=279></a>
+### Titre II : Les juridictions de jugement de droit commun<a id=334></a>
 
-#### Chapitre Ier : La cour d'assises<a id=280></a>
+#### Chapitre Ier : La cour d'assises<a id=335></a>
 
 ###### Article R621-1
 
@@ -24603,7 +24009,7 @@ _Anciens textes_:
   - Code de procédure pénale 232 et 234
 
 
-#### Chapitre III : Le tribunal de police<a id=281></a>
+#### Chapitre III : Le tribunal de police<a id=336></a>
 
 ###### Article R*623-1
 
@@ -24633,11 +24039,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. D221-1 (V)
 
 
-### Titre III : Les juridictions pénales spécialisées<a id=282></a>
+### Titre III : Les juridictions pénales spécialisées<a id=337></a>
 
-#### Chapitre II : Les juridictions des forces armées<a id=283></a>
+#### Chapitre II : Les juridictions des forces armées<a id=338></a>
 
-##### Section I : Des tribunaux territoriaux des forces armées<a id=284></a>
+##### Section I : Des tribunaux territoriaux des forces armées<a id=339></a>
 
 ###### Article R632-1
 
@@ -24668,7 +24074,7 @@ _Cite_:
   - Code de justice militaire - art. 26
 
 
-##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées<a id=285></a>
+##### Section II : Des tribunaux aux armées et des tribunaux militaires aux armées<a id=340></a>
 
 ###### Article R632-2
 
@@ -24702,7 +24108,7 @@ _Cite_:
   - Code de justice militaire - art. 50
 
 
-##### Section III : Des tribunaux prévôtaux<a id=286></a>
+##### Section III : Des tribunaux prévôtaux<a id=341></a>
 
 ###### Article R632-3
 
@@ -24727,7 +24133,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Le tribunal maritime commercial<a id=287></a>
+#### Chapitre III : Le tribunal maritime commercial<a id=342></a>
 
 ###### Article R633-1
 
@@ -24754,9 +24160,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre VII : Dispositions communes à plusieurs juridictions<a id=288></a>
+## Livre VII : Dispositions communes à plusieurs juridictions<a id=343></a>
 
-### Titre Ier : L'année judiciaire<a id=289></a>
+### Titre Ier : L'année judiciaire<a id=344></a>
 
 ###### Article R*711-1
 
@@ -24819,7 +24225,7 @@ _Cité par_:
   - Code du travail - art. R1423-13 (VD)
 
 
-### Titre II : Incompatibilités<a id=290></a>
+### Titre II : Incompatibilités<a id=345></a>
 
 ###### Article R*721-1
 
@@ -24948,7 +24354,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre III : Récusation et renvoi<a id=291></a>
+### Titre III : Récusation et renvoi<a id=346></a>
 
 ###### Article R731-1
 
@@ -24971,7 +24377,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 342 à 366
 
 
-### Titre IV : Rangs, costumes et insignes<a id=292></a>
+### Titre IV : Rangs, costumes et insignes<a id=347></a>
 
 ###### Article R*741-1
 
@@ -25142,7 +24548,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre V : Dispositions générales relatives au ministère public<a id=293></a>
+### Titre V : Dispositions générales relatives au ministère public<a id=348></a>
 
 ###### Article R*751-1
 
@@ -25168,9 +24574,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-1 (V)
 
 
-### Titre VI : Assemblées générales<a id=294></a>
+### Titre VI : Assemblées générales<a id=349></a>
 
-#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=295></a>
+#### Chapitre Ier : Dispositions relatives aux assemblées générales de la cour d'appel et du tribunal de grande instance<a id=350></a>
 
 ###### Article R*761-1
 
@@ -25208,7 +24614,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=296></a>
+##### Section I : Dispositions communes aux différentes formations de l'assemblée générale<a id=351></a>
 
 ###### Article R*761-2
 
@@ -25647,7 +25053,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-38 (V)
 
 
-##### Section II : L'assemblée des magistrats<a id=297></a>
+##### Section II : L'assemblée des magistrats<a id=352></a>
 
 ###### Article R*761-15
 
@@ -25683,7 +25089,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-27 (V)
 
 
-##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=298></a>
+##### Sous-section I : L'assemblée des magistrats du siège et du parquet<a id=353></a>
 
 ###### Article R*761-16
 
@@ -25865,7 +25271,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-26 (VT)
 
 
-##### Sous-section II : L'assemblée des magistrats du siège<a id=299></a>
+##### Sous-section II : L'assemblée des magistrats du siège<a id=354></a>
 
 ###### Article R*761-21
 
@@ -26071,7 +25477,7 @@ _Modifié par_:
   - Décret n°2005-460 du 13 mai 2005 - art. 24 () JORF 14 mai 2005
 
 
-##### Sous-section III : L'assemblée des magistrats du parquet<a id=300></a>
+##### Sous-section III : L'assemblée des magistrats du parquet<a id=355></a>
 
 ###### Article R*761-25
 
@@ -26142,7 +25548,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-47 (V)
 
 
-##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=301></a>
+##### Section III : L'assemblée des fonctionnaires du secrétariat-greffe<a id=356></a>
 
 ###### Article R*761-27
 
@@ -26374,7 +25780,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-55 (V)
 
 
-##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=302></a>
+##### Section IV : L'assemblée plénière des magistrats et des fonctionnaires<a id=357></a>
 
 ###### Article R*761-34
 
@@ -26489,9 +25895,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section V : Les commissions<a id=303></a>
+##### Section V : Les commissions<a id=358></a>
 
-##### Sous-section I : La commission permanente<a id=304></a>
+##### Sous-section I : La commission permanente<a id=359></a>
 
 ###### Article R*761-38
 
@@ -26728,7 +26134,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-61 (V)
 
 
-##### Sous-section II : Les commissions restreintes<a id=305></a>
+##### Sous-section II : Les commissions restreintes<a id=360></a>
 
 ###### Article R*761-46
 
@@ -26883,9 +26289,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité<a id=306></a>
+#### Chapitre II : Dispositions relatives aux assemblées générales du tribunal d'instance et de la juridiction de proximité<a id=361></a>
 
-##### Section I : Le tribunal d'instance<a id=307></a>
+##### Section I : Le tribunal d'instance<a id=362></a>
 
 ###### Article R*762-1
 
@@ -27152,7 +26558,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-21 (VT)
 
 
-##### Section II : La juridiction de proximité<a id=308></a>
+##### Section II : La juridiction de proximité<a id=363></a>
 
 ###### Article R*762-9
 
@@ -27259,7 +26665,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre III : Consultation des juridictions<a id=309></a>
+#### Chapitre III : Consultation des juridictions<a id=364></a>
 
 ###### Article R*763-1
 
@@ -27292,7 +26698,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R435-2 (V)
 
 
-### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=310></a>
+### Titre VII : Fonctions pouvant être confiées à des magistrats honoraires<a id=365></a>
 
 ###### Article R*771-1
 
@@ -27336,7 +26742,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre IX : Participation aux commissions non juridictionnelles<a id=311></a>
+### Titre IX : Participation aux commissions non juridictionnelles<a id=366></a>
 
 ###### Article R*791-1
 
@@ -27359,7 +26765,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-5 (V)
 
 
-### Titre X : Audiences foraines et transfert provisoire du siège<a id=312></a>
+### Titre X : Audiences foraines et transfert provisoire du siège<a id=367></a>
 
 ###### Article R*7-10-1-1
 
@@ -27440,7 +26846,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-1 (V)
 
 
-### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=313></a>
+### Titre XI : Assistance du juge par le secrétaire de la juridiction<a id=368></a>
 
 ###### Article R*7-11-1-1
 
@@ -27466,7 +26872,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-13 (V)
 
 
-### Titre XII : Maisons de justice et du droit<a id=314></a>
+### Titre XII : Maisons de justice et du droit<a id=369></a>
 
 ###### Article R*7-12-1-1
 
@@ -27779,11 +27185,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R131-11 (M)
 
 
-## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=315></a>
+## Livre VIII : Les secrétariats-greffes, greffes et secrétariats<a id=370></a>
 
-### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=316></a>
+### Titre Ier : Dispositions applicables aux juridictions civiles, aux juridictions des mineurs, aux juridictions pénales de droit commun<a id=371></a>
 
-#### Chapitre Ier : Organisation<a id=317></a>
+#### Chapitre Ier : Organisation<a id=372></a>
 
 ###### Article R*811-1
 
@@ -27983,7 +27389,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R232-4 (VT)
 
 
-#### Chapitre II : Fonctionnement<a id=318></a>
+#### Chapitre II : Fonctionnement<a id=373></a>
 
 ###### Article R*812-1
 
@@ -28572,7 +27978,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Etats et statistiques<a id=319></a>
+#### Chapitre III : Etats et statistiques<a id=374></a>
 
 ###### Article R*813-1
 
@@ -28677,7 +28083,7 @@ _Anciens textes_:
   - Ordonnance 1826-04-15 art. 79
 
 
-#### Chapitre IV : Régime financier<a id=320></a>
+#### Chapitre IV : Régime financier<a id=375></a>
 
 ###### Article R*814-1
 
@@ -28889,9 +28295,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-### Titre II : Le greffe du tribunal de commerce<a id=321></a>
+### Titre II : Le greffe du tribunal de commerce<a id=376></a>
 
-#### Chapitre I : Dispositions générales.<a id=322></a>
+#### Chapitre I : Dispositions générales.<a id=377></a>
 
 ###### Article R821-1
 
@@ -29776,11 +29182,11 @@ _Nouveaux textes_:
   - Code de commerce. - art. R741-23 (M)
 
 
-#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce<a id=323></a>
+#### Chapitre II : Dispositions relatives à la discipline des greffiers des tribunaux de commerce<a id=378></a>
 
-##### Section I : La procédure disciplinaire<a id=324></a>
+##### Section I : La procédure disciplinaire<a id=379></a>
 
-##### Sous-section I : L'enquête disciplinaire.<a id=325></a>
+##### Sous-section I : L'enquête disciplinaire.<a id=380></a>
 
 ###### Article R822-1
 
@@ -29849,7 +29255,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-7 (V)
 
 
-##### Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce.<a id=326></a>
+##### Sous-section II : Procédure devant la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce.<a id=381></a>
 
 ###### Article R822-2
 
@@ -29989,7 +29395,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-11 (V)
 
 
-##### Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement.<a id=327></a>
+##### Sous-section III : Procédure devant le tribunal de grande instance statuant disciplinairement.<a id=382></a>
 
 ###### Article R822-6
 
@@ -30117,7 +29523,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-15 (V)
 
 
-##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.<a id=328></a>
+##### Section II : L'exécution des peines disciplinaires ; l'administration provisoire.<a id=383></a>
 
 ###### Article R822-7
 
@@ -30311,7 +29717,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-21 (V)
 
 
-##### Section III : La suspension provisoire.<a id=329></a>
+##### Section III : La suspension provisoire.<a id=384></a>
 
 ###### Article R822-13
 
@@ -30409,7 +29815,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-4 (Ab)
 
 
-##### Section IV : Les voies de recours.<a id=330></a>
+##### Section IV : Les voies de recours.<a id=385></a>
 
 ###### Article R822-16
 
@@ -30507,7 +29913,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-28 (V)
 
 
-##### Section V : Dispositions communes.<a id=331></a>
+##### Section V : Dispositions communes.<a id=386></a>
 
 ###### Article R822-19
 
@@ -30533,7 +29939,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R743-5 (V)
 
 
-### Titre III : Le secrétariat-greffe du conseil de prud'hommes<a id=332></a>
+### Titre III : Le secrétariat-greffe du conseil de prud'hommes<a id=387></a>
 
 ###### Article R*831-1
 
@@ -30688,7 +30094,7 @@ _Anciens textes_:
   - Code du travail - art. R512-9 (M)
 
 
-### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=333></a>
+### Titre IV : Le secrétariat des juridictions de l'expropriation<a id=388></a>
 
 ###### Article R841-1
 
@@ -30743,7 +30149,7 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité publique - art. R13-11
 
 
-### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=334></a>
+### Titre VI : Le secrétariat des juridictions de sécurité sociale<a id=389></a>
 
 ###### Article R861-1
 
@@ -30771,9 +30177,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=335></a>
+### Titre VIII : Dispositions particulières aux greffes des juridictions pénales<a id=390></a>
 
-#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=336></a>
+#### Chapitre II : Les greffes des juridictions pénales spécialisées<a id=391></a>
 
 ###### Article R882-2
 
@@ -30800,13 +30206,13 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-## Livre IX : Dispositions particulières<a id=337></a>
+## Livre IX : Dispositions particulières<a id=392></a>
 
-### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=338></a>
+### Titre Ier : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=393></a>
 
-#### Chapitre Ier : Le tribunal d'instance<a id=339></a>
+#### Chapitre Ier : Le tribunal d'instance<a id=394></a>
 
-##### Section I : Dispositions générales<a id=340></a>
+##### Section I : Dispositions générales<a id=395></a>
 
 ###### Article R*911-1
 
@@ -30920,7 +30326,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 33
 
 
-##### Section II : Dispositions particulières au service du livre foncier<a id=341></a>
+##### Section II : Dispositions particulières au service du livre foncier<a id=396></a>
 
 ###### Article R*911-13
 
@@ -31145,7 +30551,7 @@ _Anciens textes_:
   - Décret n°1937-04-15 art. 1 et art. 2
 
 
-#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=342></a>
+#### Chapitre III : La chambre commerciale du tribunal de grande instance.<a id=397></a>
 
 ###### Article R*913-1
 
@@ -31291,7 +30697,7 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. 28 al. 2
 
 
-#### Chapitre V : Les secrétariats-greffes<a id=343></a>
+#### Chapitre V : Les secrétariats-greffes<a id=398></a>
 
 ###### Article R*915-1
 
@@ -31424,11 +30830,11 @@ _Anciens textes_:
   - Loi n°1924-06-01 art. art. 35 al. 3
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=344></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer *DOM*<a id=399></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=345></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=400></a>
 
-##### Section I : La cour d'appel<a id=346></a>
+##### Section I : La cour d'appel<a id=401></a>
 
 ###### Article R*921-2
 
@@ -31486,7 +30892,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
 
 
-##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=347></a>
+##### Section II : Le tribunal de grande instance et le tribunal d'instance<a id=402></a>
 
 ###### Article R*921-4
 
@@ -31586,7 +30992,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R600-4 (V)
 
 
-##### Section V : Les secrétariats-greffes et secrétariats<a id=348></a>
+##### Section V : Les secrétariats-greffes et secrétariats<a id=403></a>
 
 ###### Article R*921-12
 
@@ -31675,7 +31081,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R732-6 (V)
 
 
-#### Chapitre II : Dispositions particulières au département de la Guyane<a id=349></a>
+#### Chapitre II : Dispositions particulières au département de la Guyane<a id=404></a>
 
 ###### Article R*922-3
 
@@ -31717,7 +31123,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre III : Dispositions particulières au département de la Réunion<a id=350></a>
+#### Chapitre III : Dispositions particulières au département de la Réunion<a id=405></a>
 
 ###### Article R*923-1
 
@@ -31780,11 +31186,11 @@ _Cite_:
   - Code de la sécurité sociale. - art. R752-14
 
 
-### Titre II : Dispositions particulières aux départements d'outre-mer<a id=351></a>
+### Titre II : Dispositions particulières aux départements d'outre-mer<a id=406></a>
 
-#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=352></a>
+#### Chapitre I : Dispositions applicables dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=407></a>
 
-##### Section III : Le tribunal mixte de commerce<a id=353></a>
+##### Section III : Le tribunal mixte de commerce<a id=408></a>
 
 ###### Article R*921-6
 
@@ -31949,9 +31355,9 @@ _Cite_:
   - Code de l'organisation judiciaire R411-4
 
 
-### Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer<a id=354></a>
+### Titre III : Dispositions particulières à la Nouvelle-Calédonie et aux collectivités d'outre-mer<a id=409></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=355></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie et aux territoires de la Polynésie française et des îles Wallis-et-Futuna<a id=410></a>
 
 ###### Article R931-1
 
@@ -31989,7 +31395,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R561-2 (V)
 
 
-##### Section I : La cour d'appel.<a id=356></a>
+##### Section I : La cour d'appel.<a id=411></a>
 
 ###### Article R931-2
 
@@ -32185,9 +31591,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 
-##### Section II : Le tribunal de première instance<a id=357></a>
+##### Section II : Le tribunal de première instance<a id=412></a>
 
-##### Sous-section I : Institution et compétence.<a id=358></a>
+##### Sous-section I : Institution et compétence.<a id=413></a>
 
 ###### Article R931-8
 
@@ -32400,7 +31806,7 @@ _Créé par_:
   - Décret n°2005-1309 du 20 octobre 2005 - art. 95 (T)
 
 
-##### Sous-section II : Organisation.<a id=359></a>
+##### Sous-section II : Organisation.<a id=414></a>
 
 ###### Article R931-11
 
@@ -32529,7 +31935,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-5 (V)
 
 
-##### Section III : Les juridictions des mineurs.<a id=360></a>
+##### Section III : Les juridictions des mineurs.<a id=415></a>
 
 ###### Article R931-15
 
@@ -32570,7 +31976,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=361></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=416></a>
 
 ###### Article R931-16
 
@@ -32600,7 +32006,7 @@ _Modifié par_:
   - Décret n°2004-211 du 9 mars 2004 - art. 3 () JORF 12 mars 2004
 
 
-##### Section VI : Les secrétariats-greffes des juridictions.<a id=362></a>
+##### Section VI : Les secrétariats-greffes des juridictions.<a id=417></a>
 
 ###### Article R931-17
 
@@ -32775,9 +32181,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=363></a>
+#### Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française<a id=418></a>
 
-##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=364></a>
+##### Section I : Le tribunal de première instance et les sections détachées du tribunal de première instance.<a id=419></a>
 
 ###### Article R932-1
 
@@ -33105,7 +32511,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R932-6
 
 
-##### Section II : Le tribunal du travail.<a id=365></a>
+##### Section II : Le tribunal du travail.<a id=420></a>
 
 ###### Article R932-10
 
@@ -33140,9 +32546,9 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-40 (V)
 
 
-##### Section III : Le tribunal mixte de commerce<a id=366></a>
+##### Section III : Le tribunal mixte de commerce<a id=421></a>
 
-##### Sous-section I : Institution et compétence.<a id=367></a>
+##### Sous-section I : Institution et compétence.<a id=422></a>
 
 ###### Article R932-11
 
@@ -33221,7 +32627,7 @@ _Abrogé par_:
   - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=368></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=423></a>
 
 ###### Article R932-13
 
@@ -33254,9 +32660,9 @@ _Cite_:
   - Code de l'organisation judiciaire R412-1, R412-4, R412-17 à R412-19
 
 
-##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=369></a>
+##### Sous-section III : Election des juges des tribunaux mixtes de commerce<a id=424></a>
 
-##### I : Electorat.<a id=370></a>
+##### I : Electorat.<a id=425></a>
 
 ###### Article R932-14
 
@@ -33372,7 +32778,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-22 (Ab)
 
 
-##### III : Scrutin et opérations électorales.<a id=371></a>
+##### III : Scrutin et opérations électorales.<a id=426></a>
 
 ###### Article R932-17
 
@@ -33690,7 +33096,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R947-8 (V)
 
 
-##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=372></a>
+##### Sous-section IV : Discipline des juges des tribunaux mixtes de commerce.<a id=427></a>
 
 ###### Article R932-25
 
@@ -33713,7 +33119,7 @@ _Abrogé par_:
   - Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007
 
 
-##### Section IV : Les juridictions des mineurs.<a id=373></a>
+##### Section IV : Les juridictions des mineurs.<a id=428></a>
 
 ###### Article R932-26
 
@@ -33746,7 +33152,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section V : Dispositions communes à plusieurs juridictions.<a id=374></a>
+##### Section V : Dispositions communes à plusieurs juridictions.<a id=429></a>
 
 ###### Article R932-27
 
@@ -33777,7 +33183,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
 
 
-#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=375></a>
+#### Chapitre III : Dispositions particulières applicables en Nouvelle-Calédonie.<a id=430></a>
 
 ###### Article R933-1
 
@@ -34015,9 +33421,9 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=376></a>
+#### Chapitre IV : Dispositions particulières applicables dans le territoire des îles Wallis-et-Futuna<a id=431></a>
 
-##### Section II : Le tribunal de première instance.<a id=377></a>
+##### Section II : Le tribunal de première instance.<a id=432></a>
 
 ###### Article R934-1
 
@@ -34211,7 +33617,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=378></a>
+#### Chapitre V : Dispositions applicables dans le territoire des Terres australes et antarctiques françaises.<a id=433></a>
 
 ###### Article R935-1
 
@@ -34282,9 +33688,9 @@ _Créé par_:
   - Décret n°2005-1309 du 20 octobre 2005 - art. 96 (T)
 
 
-### Titre IV : Dispositions particulières à Mayotte<a id=379></a>
+### Titre IV : Dispositions particulières à Mayotte<a id=434></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=380></a>
+#### Chapitre Ier : Dispositions générales.<a id=435></a>
 
 ###### Article R941-1
 
@@ -34349,9 +33755,9 @@ _Modifié par_:
   - Décret n°2005-1468 du 28 novembre 2005 - art. 3 () JORF 30 novembre 2005
 
 
-#### Chapitre II : Le tribunal supérieur d'appel<a id=381></a>
+#### Chapitre II : Le tribunal supérieur d'appel<a id=436></a>
 
-##### Section I : Organisation.<a id=382></a>
+##### Section I : Organisation.<a id=437></a>
 
 ###### Article R942-1
 
@@ -34422,9 +33828,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section II : Fonctionnement<a id=383></a>
+##### Section II : Fonctionnement<a id=438></a>
 
-##### Sous-section I : Dispositions générales.<a id=384></a>
+##### Sous-section I : Dispositions générales.<a id=439></a>
 
 ###### Article R942-4
 
@@ -34521,7 +33927,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Le ministère public.<a id=385></a>
+##### Sous-section II : Le ministère public.<a id=440></a>
 
 ###### Article R942-8
 
@@ -34548,7 +33954,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R213-26
 
 
-##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=386></a>
+##### Sous-section III : Les assesseurs du tribunal supérieur d'appel.<a id=441></a>
 
 ###### Article R942-12
 
@@ -34832,7 +34238,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-19 (Ab)
 
 
-##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=387></a>
+##### Sous-section IV : Les pouvoirs des chefs du tribunal supérieur d'appel concernant le fonctionnement des juridictions de Mayotte.<a id=442></a>
 
 ###### Article R942-20
 
@@ -34860,9 +34266,9 @@ _Cite_:
   - Code de l'organisation judiciaire R213-29, R213-30
 
 
-#### Chapitre III : Le tribunal de première instance<a id=388></a>
+#### Chapitre III : Le tribunal de première instance<a id=443></a>
 
-##### Section I : Institution et compétence.<a id=389></a>
+##### Section I : Institution et compétence.<a id=444></a>
 
 ###### Article R943-1
 
@@ -34999,7 +34405,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section II : Organisation.<a id=390></a>
+##### Section II : Organisation.<a id=445></a>
 
 ###### Article R943-4
 
@@ -35076,9 +34482,9 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Section III : Fonctionnement<a id=391></a>
+##### Section III : Fonctionnement<a id=446></a>
 
-##### Sous-section I : Dispositions générales.<a id=392></a>
+##### Sous-section I : Dispositions générales.<a id=447></a>
 
 ###### Article R943-7
 
@@ -35326,7 +34732,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=393></a>
+##### Sous-section II : Les assesseurs du tribunal de première instance.<a id=448></a>
 
 ###### Article R943-16
 
@@ -35426,7 +34832,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R522-7 (Ab)
 
 
-##### Sous-section III : Dispositions particulières à certaines matières.<a id=394></a>
+##### Sous-section III : Dispositions particulières à certaines matières.<a id=449></a>
 
 ###### Article R943-18
 
@@ -35506,7 +34912,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R311-29-3
 
 
-##### Sous-section IV : Le ministère public<a id=395></a>
+##### Sous-section IV : Le ministère public<a id=450></a>
 
 ###### Article R943-20
 
@@ -35532,7 +34938,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre IV : Les juridictions des mineurs.<a id=396></a>
+#### Chapitre IV : Les juridictions des mineurs.<a id=451></a>
 
 ###### Article R944-1
 
@@ -35563,7 +34969,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-#### Chapitre V : La cour criminelle.<a id=397></a>
+#### Chapitre V : La cour criminelle.<a id=452></a>
 
 ###### Article R945-1
 
@@ -35585,7 +34991,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=398></a>
+#### Chapitre VI : Les secrétariats-greffes des juridictions.<a id=453></a>
 
 ###### Article R946-1
 
@@ -35751,9 +35157,9 @@ _Cite_:
   - Code de procédure pénale - art. R93
 
 
-### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=399></a>
+### Titre V : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=454></a>
 
-#### Chapitre Ier : Des fonctions judiciaires.<a id=400></a>
+#### Chapitre Ier : Des fonctions judiciaires.<a id=455></a>
 
 ###### Article R951-1
 
@@ -35936,11 +35342,11 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R512-7 (V)
 
 
-#### Chapitre II : Des juridictions<a id=401></a>
+#### Chapitre II : Des juridictions<a id=456></a>
 
-##### Section I : Dispositions communes<a id=402></a>
+##### Section I : Dispositions communes<a id=457></a>
 
-##### Sous-section I : Dispositions générales.<a id=403></a>
+##### Sous-section I : Dispositions générales.<a id=458></a>
 
 ###### Article R952-1
 
@@ -35976,7 +35382,7 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R511-1 (V)
 
 
-##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=404></a>
+##### Sous-section II : Utilisation de moyens de communication audiovisuelle pour la tenue des audiences.<a id=459></a>
 
 ###### Article R952-2
 
@@ -36074,9 +35480,9 @@ _Cite_:
   - Loi n°1881-07-29 art. 38 ter
 
 
-##### Section II : Le tribunal de première instance<a id=405></a>
+##### Section II : Le tribunal de première instance<a id=460></a>
 
-##### Sous-section I : Compétence.<a id=406></a>
+##### Sous-section I : Compétence.<a id=461></a>
 
 ###### Article R952-5
 
@@ -36170,7 +35576,7 @@ _Abrogé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
 
 
-##### Sous-section II : Organisation et fonctionnement.<a id=407></a>
+##### Sous-section II : Organisation et fonctionnement.<a id=462></a>
 
 ###### Article R952-7
 
@@ -36232,7 +35638,7 @@ _Cite_:
   - Code de l'organisation judiciaire
 
 
-##### Section III : Le tribunal supérieur d'appel.<a id=408></a>
+##### Section III : Le tribunal supérieur d'appel.<a id=463></a>
 
 ###### Article R952-9
 
@@ -36291,7 +35697,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L951-3
 
 
-# Annexes<a id=409></a>
+# Annexes<a id=464></a>
 
 ###### Article Annexe Tableau des costumes
 
