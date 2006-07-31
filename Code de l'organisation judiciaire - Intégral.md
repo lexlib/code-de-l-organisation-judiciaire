@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-07-07
+Version Consolidée au 2006-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-2)](#2)
@@ -21759,7 +21759,7 @@ leur radiation".
 
 "Art. R. 513-2 :
 
-Les conditions pour être électeur s'apprécient à une date de l'élection générale fixée par décret". 
+Les conditions pour être électeur s'apprécient à une date de l'année de l'élection générale fixée par décret". 
 
 "Art. R. 513-3 :
 
@@ -21828,8 +21828,8 @@ dont un salarié au moins relève de ladite section".
 "Art. R. 513-10 :
 
 Sont électeurs au titre de la section des activités diverses les salariés mentionnés au septième alinéa de l'article L. 512-2
-[*les ouvriers et employés dont les employeurs n'exercent pas une activité industrielle, commerciale ou agricole, ainsi que
-les employés de maison, concierges et gardiens d'immeubles à usage d'habitation*].
+*les ouvriers et employés dont les employeurs n'exercent pas une activité industrielle, commerciale ou agricole, ainsi que
+les employés de maison, concierges et gardiens d'immeubles à usage d'habitation*.
 
 Sont électeurs au titre de la même section les employeurs qui ne relèvent pas des autres sections".
 
@@ -22253,7 +22253,7 @@ consultative".
 La commission de propagande reçoit du préfet les enveloppes nécessaires à l'expédition des circulaires et des bulletins de
 vote. Elle fait préparer le libellé de ces enveloppes.
 
-Elle est chargée [*mission*] :
+Elle est chargée *mission* :
 
 - d'adresser au plus tard douze jours avant le scrutin, dans une même enveloppe fermée, d'une part, à tous les électeurs, une
 enveloppe électorale destinée à recevoir le bulletin de vote ainsi qu'une enveloppe d'envoi portant la mention : " Election
@@ -22560,11 +22560,11 @@ article sont installées deux jours avant le jour du scrutin".
 
 Chaque commission de contrôle des opérations de vote comprend :
 
-- un magistrat en activité ou honoraire de l'ordre judiciaire ou de l'ordre administratif, désigné selon les cas par le
-premier président de la cour d'appel, ou par le président du tribunal administratif, président ;
+- un magistrat en activité ou honoraire de l'ordre judiciaire, désigné par le premier président de la cour d'appel,
+président ;
 
-- un membre désigné par la même autorité parmi les anciens magistrats de l'ordre judiciaire ou de l'ordre administratif ou
-les auxiliaires de justice du département ;
+- un membre désigné par la même autorité parmi les anciens magistrats de l'ordre judiciaire ou les auxiliaires de justice du
+département ;
 
 - un fonctionnaire, désigné par le préfet, qui assure le secrétariat de la commission.
 
@@ -22601,7 +22601,7 @@ se déplacer en raison de leur état de santé".
 "Art. R. 513-78 :
 
 Tout électeur qui veut voter par correspondance doit remplir une déclaration sur l'honneur jointe à sa carte électorale
-attestant qu'il remplit l'une des conditions prévues à l'article R. 513-77".<rl :="" <br="" "art.="" 513-80="" r.="">
+attestant qu'il remplit l'une des conditions prévues à l'article R. 513-77".<rl 513-80="" :="" <br="" r.="" "art.="">
 
 L'électeur place son bulletin de vote dans l'enveloppe électorale qu'il a reçue de la commission de propagande sans la
 cacheter. Il insère cette enveloppe et la carte électorale accompagnée de la déclaration sur l'honneur mentionnée à l'article
@@ -22614,7 +22614,7 @@ Les plis de type officiel portant la mention "Vote par correspondance" sont cons
 jour du scrutin.
 
 Le jour du scrutin, les plis sont remis par les agents des postes aux présidents des bureaux de vote, qui leur en donnent
-décharge".<rl "art.="" <br="" r.="" :="" 513-85="">
+décharge".<rl :="" r.="" 513-85="" "art.="" <br="">
 
 Immédiatement après la clôture du scrutin et préalablement au dépouillement, le président du bureau de vote ouvre chaque pli
 et vérifie que l'enveloppe contenant le bulletin de vote est accompagnée de la carte électorale prud'homale et de la
@@ -22869,7 +22869,7 @@ Le recours est porté à la connaissance du procureur de la République par le g
 "Art. R. 513-111 :
 
 Dans les dix jours du recours, le tribunal d'instance statue sans formalité, sans frais et sur simple avertissement donné
-trois jours à l'avance à toutes les parties mentionnées à l'article R. 513-110".<rl r.="" 513-112="" <br="" "art.="" :="">
+trois jours à l'avance à toutes les parties mentionnées à l'article R. 513-110".<rl :="" "art.="" 513-112="" r.="" <br="">
 
 La décision prise par le tribunal d'instance est notifiée dans les trois jours par le secrétariat-greffe aux parties par
 lettre recommandée avec demande d'avis de réception. Le secrétariat-greffe en donne avis au préfet et au procureur de la
@@ -22949,6 +22949,7 @@ directement adressées par les employeurs et les salariés involontairement priv
 
 _Cite_:
 
+  - Code rural 1144
   - Décret n°73-314 1973-03-14
   - Loi n°78-17 du 6 janvier 1978 - art. 15 (M)
   - Code électoral - art. L113 (M)
@@ -22960,7 +22961,6 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-8 (V)
   - Code de l'organisation judiciaire R513-8, R513-9, R513-2, annexe I, annexe II, L513-1, L512-2, L513-3, R513-11, R513-12, R513-14, R513-17, R513-21-1, R513-22, R513-23, R513-24, R513-21-2, R513-21, L513-3-1, L513-2, R513-55, R513-20, R513-50, R513-44,
   - Code du travail R513-1 à R513-119
-  - Code rural 1144
   - Nouveau code de procédure civile 640, 641, 642
 
 _Codifié par_:
@@ -22973,7 +22973,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2006-665 du 7 juin 2006 - art. 51 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 _Anciens textes_:
 
