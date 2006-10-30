@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-08-02
+Version Consolidée au 2006-10-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-2)](#2)
@@ -13949,7 +13949,7 @@ _Nouveaux textes_:
 ###### Article R*121-7
 
 La Cour de cassation connaît des recours formés contre les décisions prises par les autorités chargées de l'établissement des
-listes d'experts dans les conditions prévues aux articles 20, 29 et 31 du décret n° 2004-1464 du 23 décembre 2004.
+listes d'experts dans les conditions prévues aux articles 20, 29 et 31 du décret n° 2004-1463 du 23 décembre 2004.
 
 **Liens relatifs à cet article**
 
@@ -13963,11 +13963,19 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-1464 2004-12-23 art. 20, art. 29, art. 31
+  - Décret n°2004-1463 du 23 décembre 2004
 
 _Modifié par_:
 
-  - Décret n°2004-1463 du 23 décembre 2004 - art. 35 () JORF 30 décembre 2004
+  - Décret n°2006-1319 du 30 octobre 2006 - art. 4 () JORF 31 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R411-5 (V)
 
 
 ### Titre III : Fonctionnement<a id=229></a>
@@ -15770,7 +15778,7 @@ _Nouveaux textes_:
 ###### Article R*225-2
 
 L'assemblée générale des magistrats du siège dresse la liste des experts de la cour d'appel dans les conditions prévues par
-les articles 6 à 16 du décret n° 2004-1464 du 23 décembre 2004.
+les articles 6 à 16 du décret n° 2004-1463 du 23 décembre 2004.
 
 **Liens relatifs à cet article**
 
@@ -15784,17 +15792,25 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-1464 2004-12-23 art. 6 à 16
+  - Décret n°2004-1463 du 23 décembre 2004
 
 _Modifié par_:
 
-  - Décret n°2004-1463 du 23 décembre 2004 - art. 36 () JORF 30 décembre 2004
+  - Décret n°2006-1319 du 30 octobre 2006 - art. 4 () JORF 31 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-43 (V)
 
 
 ###### Article R*225-3
 
 La première chambre de la cour d'appel connaît des recours formés contre les décisions prises par les autorités chargées de
-l'établissement des listes dans les conditions prévues par les articles 29 et 31 du décret n° 2004-1464 du 23 décembre 2004.
+l'établissement des listes dans les conditions prévues par les articles 29 et 31 du décret n° 2004-1463 du 23 décembre 2004.
 
 **Liens relatifs à cet article**
 
@@ -15808,11 +15824,19 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-1464 2004-12-23 art. 29, art. 31
+  - Décret n°2004-1463 du 23 décembre 2004
 
 _Modifié par_:
 
-  - Décret n°2004-1463 du 23 décembre 2004 - art. 37 () JORF 30 décembre 2004
+  - Décret n°2006-1319 du 30 octobre 2006 - art. 4 () JORF 31 octobre 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-12 (V)
 
 
 ##### Section III : Dispositions particulières aux syndics et aux administrateurs judiciaires<a id=251></a>
