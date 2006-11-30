@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2006-10-31
+Version Consolidée au 2006-12-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-2)](#2)
@@ -18873,7 +18873,7 @@ Les juges des tribunaux d'instance peuvent concurremment avec le tribunal de gra
 
 Des agents et préposés de l'administration des eaux et forêts ;
 
-De tous gardes champêtres et particuliers ;
+De tous gardes champêtres ;
 
 Des gardes-pêche ;
 
@@ -18891,7 +18891,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-542 du 23 juin 2003 - art. 9 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+  - Décret n°2006-1100 du 30 août 2006 - art. 7 () JORF 31 août 2006 en vigueur le 1er décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2008-522 du 2 juin 2008 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-44 (V)
 
 _Anciens textes_:
 
