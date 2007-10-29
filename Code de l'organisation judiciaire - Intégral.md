@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-10-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-2)](#2)
@@ -1225,9 +1225,10 @@ _Anciens textes_:
 
 ###### Article L211-10
 
-Des tribunaux de grande instance spécialement désignés connaissent des actions en matière de brevets d'invention, de
-certificats d'utilité, de certificats complémentaires de protection, de topographie de produits semi-conducteurs et
-d'obtentions végétales, dans les cas et conditions prévus par le code de la propriété intellectuelle.
+Des tribunaux de grande instance spécialement désignés connaissent des actions en matière de propriété littéraire et
+artistique, de dessins et modèles, de brevets d'invention, de certificats d'utilité, de certificats complémentaires de
+protection, de topographie de produits semi-conducteurs, d'obtentions végétales et de marques, dans les cas et conditions
+prévus par le code de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
@@ -1235,9 +1236,13 @@ _Codifié par_:
 
   - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 7 () JORF 30 octobre 2007
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (Ab)
 
 _Cité par_:
 
@@ -1268,6 +1273,22 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de l'organisation judiciaire - art. L522-4-1 (VT)
+
+
+###### Article L211-11-1
+
+Des tribunaux de grande instance spécialement désignés connaissent des actions et demandes en matière de dessins ou modèles
+communautaires, dans les cas et conditions prévus par le code de la propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 7 () JORF 30 octobre 2007
 
 
 ###### Article L211-12
