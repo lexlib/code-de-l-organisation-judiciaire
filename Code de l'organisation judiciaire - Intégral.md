@@ -1,10 +1,10 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2007-11-01
+Version Consolidée au 2007-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
-    - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-2)](#2)
-      - [TITRE Ier : PRINCIPES GÉNÉRAUX (art. L111-1 à L111-11)](#3)
-        - [Chapitre unique (art. L111-1 à L111-11)](#4)
+    - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
+      - [TITRE Ier : PRINCIPES GÉNÉRAUX (art. L111-1 à L111-12)](#3)
+        - [Chapitre unique (art. L111-1 à L111-12)](#4)
       - [TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT (art. L121-1 à L123-2)](#5)
         - [Chapitre Ier : Les juges (art. L121-1 à L121-4)](#6)
           - [Section 1 : Composition des juridictions (art. L121-1 à L121-2)](#7)
@@ -13,8 +13,8 @@ Version Consolidée au 2007-11-01
           - [Section 1 : Organisation (art. L122-1 à L122-3)](#10)
           - [Section 2 : Fonctionnement (art. L122-4)](#11)
         - [Chapitre III : Le greffe (art. L123-1 à L123-2)](#12)
-      - [TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE (art. L141-1 à L141-2)](#13)
-        - [Chapitre unique (art. L141-1 à L141-2)](#14)
+      - [TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE (art. L141-1 à L141-3)](#13)
+        - [Chapitre unique (art. L141-1 à L141-3)](#14)
     - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#15)
       - [TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE (art. L211-1 à L215-2)](#16)
         - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-12)](#17)
@@ -33,7 +33,7 @@ Version Consolidée au 2007-11-01
           - [Section 2 : Fonctions particulières exercées en matière pénale (art. L213-9 à L213-11)](#30)
         - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. L214-1 à L214-2)](#31)
         - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L215-1 à L215-2)](#32)
-      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. L221-1 à L223-7)](#33)
+      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. L221-1 à L223-8)](#33)
         - [Chapitre Ier : Institution et compétence (art. L221-1 à L221-10)](#34)
           - [Section 1 : Compétence matérielle (art. L221-4 à L221-10)](#35)
             - [Sous-section 1 : Compétence civile du tribunal d'instance (art. L221-4 à L221-5)](#36)
@@ -43,7 +43,7 @@ Version Consolidée au 2007-11-01
         - [Chapitre II : Organisation et fonctionnement (art. L222-1 à L222-3)](#40)
           - [Section 1 : Le service juridictionnel (art. L222-1 à L222-2)](#41)
           - [Section 2 : Le ministère public (art. L222-3)](#42)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L223-1 à L223-7)](#43)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L223-1 à L223-8)](#43)
       - [TITRE III : LA JURIDICTION DE PROXIMITÉ (art. L231-1 à L232-3)](#44)
         - [Chapitre Ier : Institution et compétence (art. L231-1 à L231-6)](#45)
           - [Section 1 : Compétence civile (art. L231-3 à L231-5)](#46)
@@ -665,6 +665,43 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L111-6 (V)
 
 
+###### Article L111-12
+
+Les audiences devant les juridictions judiciaires, sans préjudice des dispositions particulières du code de procédure pénale
+et du code de l'entrée et du séjour des étrangers et du droit d'asile, peuvent, par décision du président de la formation de
+jugement, d'office ou à la demande d'une partie, et avec le consentement de l'ensemble des parties, se dérouler dans
+plusieurs salles d'audience reliées directement par un moyen de télécommunication audiovisuelle garantissant la
+confidentialité de la transmission.
+
+L'une ou plusieurs de ces salles d'audience peuvent se trouver en dehors du ressort de la juridiction saisie. 
+
+Pour la tenue des débats en audience publique, chacune des salles d'audience est ouverte au public. Pour la tenue des débats
+en chambre du conseil, il est procédé hors la présence du public dans chacune des salles d'audience. 
+
+Les prises de vue et les prises de son ne peuvent faire l'objet d'aucun enregistrement ni d'aucune fixation, hors le cas
+prévu par les articles L. 221-1 et suivants du code du patrimoine. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 25
+
+_Cité par_:
+
+  - Arrêté du 8 septembre 2008 - art. 1 (Ab)
+  - Arrêté du 5 décembre 2008 (V)
+  - Arrêté du 5 décembre 2008 - art. 1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R111-7 (V)
+  - Code de la santé publique - art. L3211-12-2 (VD)
+
+_Cite_:
+
+  - Code du patrimoine. - art. L221-1 (V)
+
+
 ### TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT<a id=5></a>
 
 #### Chapitre Ier : Les juges<a id=6></a>
@@ -988,30 +1025,53 @@ La responsabilité des juges, à raison de leur faute personnelle, est régie :
 
 - s'agissant des magistrats du corps judiciaire, par le statut de la magistrature ;
 
-- s'agissant des autres juges, par des lois spéciales ou, à défaut, par les articles 505 et suivants du code de procédure
-civile.
-
-L'Etat garantit les victimes des dommages causés par les fautes personnelles des juges et autres magistrats, sauf son recours
-contre ces derniers.
+- s'agissant des autres juges, par des lois spéciales ou, à défaut, par la prise à partie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26
 
-_Créé par_:
+_Anciens textes_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - Code de procédure civile - art. 505 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1, alinéa 2 (Ab)
 
 _Cité par_:
 
   - Code de procédure pénale - art. 149 (V)
   - Code du travail - art. D1442-23 (VD)
+
+
+###### Article L141-3
+
+Les juges peuvent être pris à partie dans les cas suivants : 
+
+1° S'il y a dol, fraude, concussion ou faute lourde, commis soit dans le cours de l'instruction, soit lors des jugements ; 
+
+2° S'il y a déni de justice. 
+
+Il y a déni de justice lorsque les juges refusent de répondre aux requêtes ou négligent de juger les affaires en état et en
+tour d'être jugées. 
+
+L'Etat est civilement responsable des condamnations en dommages et intérêts qui sont prononcées à raison de ces faits contre
+les juges, sauf son recours contre ces derniers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26
+
+_Cité par_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+  - Code de justice militaire. - art. L212-173 (V)
+  - Code du travail - art. D1442-23 (VD)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1, alinéas 3 et 4 (Ab)
 
 
 ## LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ<a id=15></a>
@@ -1142,27 +1202,23 @@ _Cité par_:
 ###### Article L211-6
 
 Le tribunal de grande instance connaît des demandes relatives aux frais, émoluments et débours des auxiliaires de justice et
-des officiers publics ou ministériels dans les cas prévus par l'article 52 du nouveau code de procédure civile, sans
-préjudice des dispositions particulières en matière d'honoraires d'avocats énoncées à l'article L. 311-7 du présent code et à
-l'article 179 du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat, et d'honoraires d'avoués énoncées
-par l'article 5 de la loi n° 57-1420 du 31 décembre 1957 sur le recouvrement des honoraires des avocats.
+des officiers publics ou ministériels dans les cas prévus par l'article 52 du code de procédure civile, sans préjudice des
+dispositions particulières en matière d'honoraires d'avocats énoncées à l'article L. 311-7 du présent code et à l'article 179
+du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat, et d'honoraires d'avoués énoncées par l'article 5
+de la loi n° 57-1420 du 31 décembre 1957 sur le recouvrement des honoraires des avocats.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°57-1420 du 31 décembre 1957 - art. 5 (V)
-  - Décret n°91-1197 1991-11-27 art. 179
-  - Nouveau code de procédure civile 52
-  - Code de l'organisation judiciaire L311-7
+  - Décret n°91-1197 du 27 novembre 1991 - art. 179 (V)
+  - Code de procédure civile - art. 52 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-7 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ###### Article L211-7
@@ -2466,6 +2522,22 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*911-4 (Ab)
 
 
+###### Article L223-8
+
+Le greffe du tribunal d'instance, sous le contrôle du juge, tient les registres de publicité légale tenus au greffe du
+tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+
 ### TITRE III : LA JURIDICTION DE PROXIMITÉ<a id=44></a>
 
 #### Chapitre Ier : Institution et compétence<a id=45></a>
@@ -3344,26 +3416,22 @@ _Créé par_:
 ###### Article L311-7
 
 Le premier président a compétence dans les matières suivantes, sans préjudice des autres compétences qui lui sont attribuées
-par la loi ou le règlement :
+par la loi ou le règlement : 
 
-1° L'arrêt ou l'octroi de l'exécution provisoire en cas d'appel, conformément au nouveau code de procédure civile ;
+1° L'arrêt ou l'octroi de l'exécution provisoire en cas d'appel, conformément au    code de procédure civile ; 
 
-2° Le recours contre la décision du bâtonnier prise sur contestation des honoraires d'avocat ;
+2° Le recours contre la décision du bâtonnier prise sur contestation des honoraires d'avocat ; 
 
-3° La réparation à raison d'une détention provisoire, conformément au code de procédure pénale ;
+3° La réparation à raison d'une détention provisoire, conformément au code de procédure pénale ; 
 
 4° L'appel des ordonnances du juge des libertés et de la détention en cas de prolongation du maintien en zone d'attente et de
 la rétention, conformément au code de l'entrée et du séjour des étrangers et du droit d'asile.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 _Anciens textes_:
 
@@ -4636,19 +4704,17 @@ Les fonctions judiciaires à Saint-Pierre-et-Miquelon sont exercées :
 
 1° Par des magistrats du corps judiciaire ;
 
-2° Par des assesseurs au tribunal supérieur d'appel et au tribunal criminel ;
-
-3° Par des suppléants du procureur de la République.
+2° Par des assesseurs au tribunal supérieur d'appel et au tribunal criminel.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
-_Créé par_:
+_Anciens textes_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-1 (Ab)
 
 _Cité par_:
 
@@ -4657,98 +4723,81 @@ _Cité par_:
 
 ###### Article L512-2
 
-Les personnes appelées à exercer l'une des fonctions judiciaires mentionnées aux 2° et 3° de l'article L. 512-1 sont choisies
-parmi les personnes de nationalité française, âgées de plus de vingt-trois ans, jouissant des droits civiques, civils et de
-famille et présentant des garanties de compétence et d'impartialité.
+Les personnes appelées à exercer                     les fonctions d'assesseurs au tribunal supérieur d'appel et au tribunal
+criminel sont choisies parmi les personnes de nationalité française, âgées de plus de vingt-trois ans, jouissant des droits
+civiques, civils et de famille et présentant des garanties de compétence et d'impartialité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L513-6 (V)
 
-_Cite_:
+_Anciens textes_:
 
-  - Code de l'organisation judiciaire L512-1
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-2 (Ab)
 
 
 ###### Article L512-3
 
-Les assesseurs au tribunal supérieur d'appel et les suppléants du procureur de la République sont désignés pour deux ans par
-le garde des sceaux, ministre de la justice.
+Les assesseurs au tribunal supérieur d'appel sont désignés pour deux ans par le garde des sceaux, ministre de la justice. 
 
 Les assesseurs sont désignés sur proposition du président du tribunal supérieur d'appel, après avis du procureur de la
-République.
+République. 
 
-Les suppléants sont désignés sur proposition du procureur de la République, après avis du président du tribunal supérieur
-d'appel.
-
-Avant d'entrer en fonctions, les assesseurs et les suppléants du procureur de la République prêtent devant le tribunal
-supérieur d'appel le serment prévu à l'article 6 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique
-relative au statut de la magistrature.
+Avant d'entrer en fonctions, les assesseurs prêtent devant le tribunal supérieur d'appel le serment prévu à l'article 6 de
+l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 6 (V)
+  - Ordonnance n°58-1270 du 22 décembre 1958 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-4 (V)
 
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3, ecqc désignation assesseurs (Ab)
+
 
 ###### Article L512-4
 
-Les assesseurs au tribunal supérieur d'appel et les suppléants du procureur de la République peuvent, avant l'expiration de
-la période de deux ans prévue à l'article L. 512-3, être relevés de leurs fonctions, par arrêté du garde des sceaux, ministre
-de la justice, sur leur demande.
+Les assesseurs au tribunal supérieur d'appel peuvent, avant l'expiration de la période de deux ans prévue à l'article L.
+512-3, être relevés de leurs fonctions, par arrêté du garde des sceaux, ministre de la justice, sur leur demande. 
 
 Les assesseurs au tribunal supérieur d'appel peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
 de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 512-3, par décision du premier
 président de la cour d'appel de Paris, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils
 peuvent, selon les mêmes formes, à la demande du président du tribunal supérieur d'appel, être déclarés démissionnaires
-lorsque, sans motif légitime, ils se sont abstenus de déférer à plus de deux convocations successives.
-
-Les suppléants du procureur de la République peuvent, en cas de faute grave entachant l'honneur ou la probité, être relevés
-de leurs fonctions, avant l'expiration de la période de deux ans prévue à l'article L. 512-3, par arrêté du garde des sceaux,
-ministre de la justice, après avoir été convoqués et mis en demeure de présenter leurs observations. Ils peuvent, selon les
-mêmes formes, à la demande du procureur de la République, être déclarés démissionnaires lorsque, sans motif légitime, ils se
-sont abstenus de déférer à plus de deux convocations successives. Dans les mêmes conditions et selon les mêmes formes, il
-peut également être mis fin à leurs fonctions pour les nécessités du service.
+lorsque, sans motif légitime, ils se sont abstenus de déférer à plus de deux convocations successives. 
 
 Dans tous les cas, l'avis du président du tribunal supérieur d'appel et celui du procureur de la République sont nécessaires
 lorsque la décision n'intervient pas sur leur demande.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
 _Cite_:
 
-  - Code de l'organisation judiciaire L512-3
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-3 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-4 (Ab)
 
 
 #### Chapitre III : Des juridictions<a id=97></a>
@@ -5022,23 +5071,33 @@ _Anciens textes_:
 
 ###### Article L513-11
 
-En cas d'empêchement, quelle qu'en soit la cause, le procureur de la République est remplacé par l'un de ses suppléants.
+I. – En cas d'empêchement du procureur de la République, quelle qu'en soit la cause, les fonctions de ce magistrat sont alors
+assurées par un magistrat du parquet général désigné par le procureur général près la cour d'appel de Paris sur une liste
+arrêtée par lui pour chaque année civile.
+
+II. – Lorsque la venue de ce magistrat n'est pas matériellement possible soit dans les délais prescrits par la loi, soit dans
+les délais exigés par la nature de l'affaire, celui-ci exerce ses fonctions depuis un autre point du territoire de la
+République par téléphone et par télécopie et, en cas de défèrement ou d'audience, par un moyen de communication audiovisuelle
+qui le relie directement au tribunal de première instance ou au tribunal supérieur d'appel.
+
+Les modalités d'application des dispositions prévues au premier alinéa du présent II sont fixées par décret en Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
 _Cité par_:
 
   - Arrêté du 22 décembre 2008 - art. 1 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-11 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R513-5 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-14 (Ab)
 
 
 ### TITRE II : DISPOSITIONS APPLICABLES À MAYOTTE<a id=100></a>
@@ -6471,25 +6530,33 @@ _Anciens textes_:
 
 ###### Article L532-17
 
-En cas d'empêchement ou lorsque, en matière pénale, il a participé à l'instruction de l'affaire, le président du tribunal de
-première instance est remplacé, par ordonnance du premier président, par un magistrat du siège appartenant au ressort de la
-cour d'appel.
+I. – En cas de vacance de poste du président du tribunal de première instance de Mata-Utu, d'absence, d'empêchement ou
+d'incompatibilité légale, les fonctions de ce magistrat sont exercées par un magistrat du siège désigné par le premier
+président de la cour d'appel de Nouméa sur une liste arrêtée par lui pour chaque année civile.
+
+II. – Lorsque la venue du magistrat assurant le remplacement n'est pas matériellement possible soit dans les délais prescrits
+par la loi, soit dans les délais exigés par la nature de l'affaire, l'audience est présidée par ce magistrat depuis un autre
+point du territoire de la République, ce dernier se trouvant relié directement à la salle d'audience par un moyen de
+communication audiovisuelle.
+
+Les modalités d'application des dispositions prévues au premier alinéa du présent II sont fixées par décret en Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
 _Cité par_:
 
   - Arrêté du 22 décembre 2008 - art. 1 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L561-1 (V)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R532-22 (V)
+
+_Anciens textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8, alinéa 1 (Ab)
 
 
 ###### Article L532-18
@@ -7502,17 +7569,17 @@ _Anciens textes_:
 
 ###### Article L561-1
 
-Le livre premier du présent code est applicable en Nouvelle-Calédonie.
+Le livre premier et l'article L. 532-17 du présent code est applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 30 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L532-17 (V)
 
 _Anciens textes_:
 
