@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2008-11-06
+Version Consolidée au 2008-11-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -3387,7 +3387,7 @@ _Créé par_:
 
 Une cour d'appel spécialement désignée connaît des recours contre :
 
-1° Les décisions du Conseil de la concurrence, dans les cas et conditions prévus par le code de commerce ;
+1° Les décisions de l'Autorité de la concurrence, dans les cas et conditions prévus par le code de commerce ;
 
 2° Les décisions de portée individuelle de l'Autorité des marchés financiers, dans les cas et conditions prévus par le code
 monétaire et financier ;
@@ -3397,13 +3397,9 @@ propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 
 ###### Article L311-12
@@ -15529,7 +15525,7 @@ _Cité par_:
 
 La cour d'appel de Paris est compétente pour connaître des recours contre :
 
-1° Les décisions du Conseil de la concurrence, dans les cas et conditions prévus par le code de commerce ;
+1° Les décisions de l'Autorité de la concurrence, dans les cas et conditions prévus par le code de commerce ;
 
 2° Les décisions de portée individuelle de l'Autorité des marchés financiers, dans les cas et conditions prévus par le code
 monétaire et financier ;
@@ -15542,9 +15538,9 @@ conditions prévus par le code des postes et des communications électroniques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
 
 
 ###### Article D311-10
