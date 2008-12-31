@@ -355,7 +355,7 @@ Alpes, Seyne, Sisteron, Turriers et Volonne. (4)]
       <td valign="top" width="333">
 
 Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est, Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-
-Orgues et Valensole. (3)] 
+Orgues et Valensole. (7)] 
 
 </td>
     </tr>
@@ -368,7 +368,7 @@ Orgues et Valensole. (3)]
       <td valign="top" width="333">
 
 Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est, Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-
-Orgues et Valensole. (4)] 
+Orgues et Valensole. (8)] 
 
 </td>
     </tr>
@@ -1885,7 +1885,7 @@ Charente
 </td>
     </tr>
     <tr>
-      <td rowspan="7" valign="top" width="154">
+      <td rowspan="5" valign="top" width="154">
 
 Angoulême 
 
@@ -1913,31 +1913,6 @@ Rochefoucauld, Montbron, Rouillac, Ruelle-sur-Touvre, Saint-Amant de-Boixe, Soya
 Cantons d'Aigre, Angoulême-Est, Angoulême-Nord, Angoulême Ouest, Blanzac-Porcheresse, Chabanais, Champagne-Mouton, Confolens-
 Nord, Confolens-Sud, Gond-Pontouvre, Hiersac, La Couronne, La Rochefoucauld, Mansle, Montbron, Montemboeuf, Rouillac, Ruelle-
 sur-Touvre, Ruffec, Saint-Amant-de-Boixe, Saint-Claud, Soyaux, Villebois-Lavalette et Villefagnan. (4)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Barbezieux-Saint-Hilaire 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons d'Aubeterre-sur-Dronne, Baignes-Sainte-Radegonde, Barbezieux-Saint-Hilaire, Brossac, Chalais et Montrnoreau-Saint-
-Cybard. (1)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Cognac 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Châteauneuf-sur-Charente, Cognac-Nord, Cognac-Sud, Jarnac et Segonzac. (1)] 
 
 </td>
     </tr>
@@ -2161,7 +2136,7 @@ Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon. (4)]
 </td>
       <td valign="top" width="333">
 
-Cantons de La Réole, Monségur, Pcllcgruc, Saint-Macaire, Sauveterre-de-Guyenne et Targon. (3)] 
+Cantons de La Réole, Monségur, Pellegrue, Saint-Macaire, Sauveterre-de-Guyenne et Targon. (3)] 
 
 </td>
     </tr>
@@ -3508,8 +3483,8 @@ Cantons d'Autun-Nord, Autun-Sud, Épinac, Issy-l'Évêque, Lucenay l'Évêque et
 </td>
       <td valign="top" width="333">
 
-Cantons de Buxy, Chagny, Chalon-sur-S aône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud,
-Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)] 
+Cantons de Buxy, Chagny, Chalon-sur-Saône-Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest, Chalon-sur-Saône-Sud, Givry,
+Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdun-sur-le-Doubs. (3)] 
 
 </td>
     </tr>
@@ -4037,7 +4012,7 @@ Cayenne
 </td>
       <td valign="top" width="333">
 
-Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e
 canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury,
 Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
 
@@ -4485,24 +4460,11 @@ Creuse
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td rowspan="2" valign="top" width="154">
 
 Guéret 
 
 </td>
-      <td valign="top" width="109">
-
-[Aubusson 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons d'Aubusson, Auzances, Bellegarde-en-Marche, Chambon sur-Voueize, Chénérailles, Crocq, Évaux-les-Bains, Felletin,
-Gentioux-Pigerolles, La Courtine et Saint-Sulpice-les-Champs. (3)] 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="109">
 
 [Bourganeuf 
@@ -4522,23 +4484,10 @@ Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière.
 </td>
       <td valign="top" width="333">
 
-Cantons d'Ahun, Bonnat, Boussac, Châtelus-Malvaleix, Dun-le-Palestel, Guéret-Nord, Guéret-Sud-Est, Guéret-Sud-Ouest,
-Jarnages, La Souterraine, Le Grand-Bourg et Saint-Vaury. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Guéret 
-
-</td>
-      <td valign="top" width="333">
-
 Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-
 Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-
-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-
-Vassivière, Saint-Sulpice-les Champs et Saint-Vaury. (4)] 
+Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et
+Saint-Vaury. (2 et 3)] 
 
 </td>
     </tr>
@@ -4643,7 +4592,7 @@ Ain
     <tr>
       <td valign="top" width="154">
 
-[Belley (5)] 
+[Belley (9)] 
 
 </td>
       <td valign="top" width="109">
@@ -4680,7 +4629,7 @@ Viriat.
     <tr>
       <td valign="top" width="109">
 
-[Belley (6)] 
+[Belley (10)] 
 
 </td>
       <td valign="top" width="333">
@@ -5154,7 +5103,7 @@ Aveyron
     <tr>
       <td rowspan="3" valign="top" width="154">
 
-[Millau (5)] 
+[Millau (9)] 
 
 </td>
       <td valign="top" width="109">
@@ -5215,7 +5164,7 @@ Sainte Geneviève-sur-Argence et Saint-Geniez-d'Olt. (3)]
     <tr>
       <td valign="top" width="109">
 
-[Millau (6)] 
+[Millau (10)] 
 
 </td>
       <td valign="top" width="333">
@@ -5633,29 +5582,22 @@ Vosges
 </td>
     </tr>
     <tr>
-      <td rowspan="6" valign="top" width="154">
+      <td rowspan="5" valign="top" width="154">
 
 Epinal 
 
 </td>
-      <td valign="top" width="109">
-
-[Epinal 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Bains-les-Bains, Bruyères, Châtel-sur-Moselle, Épinal-Est, Épinal-Ouest, Rambervillers et Xertigny. (3)] 
-
-</td>
+      <td>[EpinalCantons</td>
+      <td> de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest,
+Lamarche, Neufchâteau, Rambervilliers et Xertigny. (2 et 3)] </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td valign="top">
 
 [Epinal 
 
 </td>
-      <td valign="top" width="333">
+      <td>
 
 Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Charmes, Châtel-sur-Moselle, Châtenois, Coussey, Darney, Dompaire, Épinal-
 Est, Épinal-Ouest, Lamarche, Le Thillot, Mirecourt, Monthureux-sur-Saône, Neufchâteau, Plombières-les-Bains, Rambervillers,
@@ -5672,18 +5614,6 @@ Remiremont, Saulxures-sur-Moselotte, Vittel et Xertigny. (4)]
       <td valign="top" width="333">
 
 Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Neufchâteau 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Bulgnéville, Châtenois, Coussey, Larnarche et Neufchâteau. (3)] 
 
 </td>
     </tr>
@@ -6177,7 +6107,7 @@ Ferrières-en-Gâtinais, Gien, Lorris, Montargis, Ouzouer-sur-Loire et Sully-sur
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" width="154">
 
 Orléans 
 
@@ -6189,37 +6119,10 @@ Orléans
 </td>
       <td valign="top" width="333">
 
-Cantons d'Artenay, Beaugency, Châteauneuf-sur-Loire, Chécy, Cléry Saint-André, Fleury-les-Aubrais, Ingré, Jargeau, La Ferté-
-Saint-Aubin, Meung-sur-Loire, Neuville-aux-Bois, Olivet, Orléans-Bannier, Orléans-Bourgogne, Orléans-Carmes, Orléans-La
-Source, Orléans Saint-Marc-Argonne, Orléans-Saint-Marceau, Patay, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-
-le-Blanc. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Orléans 
-
-</td>
-      <td valign="top" width="333">
-
 Cantons d'Artenay, Beaugency, Beaune-la-Rolande, Châteauneuf-sur-Loire, Chécy, Cléry-Saint-André, Fleury-les-Aubrais, Ingré,
 Jargeau, La Ferté-Saint-Aubin, Malesherbes, Meung-sur-Loire, Neuville-aux Bois, Olivet, Orléans-Bannier, Orléans-Bourgogne,
 Orléans-Carmes, Orléans-La Source, Orléans-Saint-Marc-Argonne, Orléans-Saint-Marceau, Outarville, Patay, Pithiviers,
-Puiseaux, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-le-Blanc. (4)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Pithiviers 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Beaune-la-Rolande, Malesherbes, Outarville, Pithiviers et Puiseaux. (3)] 
+Puiseaux, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-le-Blanc. (2)] 
 
 </td>
     </tr>
@@ -6284,7 +6187,7 @@ Salbris et Selles-sur-Cher. (3)]
 </td>
       <td valign="top" width="333">
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t
 canton et Vendôme 2e canton. (3)] 
 
 </td>
@@ -7226,8 +7129,8 @@ Mont-de-Marsan
 </td>
       <td valign="top" width="333">
 
-Cantons de Gabarret, Grenade-sur-l'Adour, Labrit, Mimizan, Mont de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-
-Born, Pissos, Roquefort, Sabres, Sore et Villeneuve-de-Marsan. (3)] 
+Cantons de Gabarret, Grenade-sur-l'Adour, Labrit, Mimizan, Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-
+Born, Pissos, Roquefort, Sabres, Sore et Villeneuve-de-Marsan. (7)] 
 
 </td>
     </tr>
@@ -7241,7 +7144,7 @@ Born, Pissos, Roquefort, Sabres, Sore et Villeneuve-de-Marsan. (3)]
 
 Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Gabarret, Geaune, Grenade-sur-l'Adour, Hagetmau,
 Labrit, Mimizan, Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-Born, Pissos, Roquefort, Sabres, Saint-Sever,
-Sore et Villeneuve-de-Marsan. (4)] 
+Sore et Villeneuve-de-Marsan. (8)] 
 
 </td>
     </tr>
@@ -7253,7 +7156,7 @@ Sore et Villeneuve-de-Marsan. (4)]
 </td>
       <td valign="top" width="333">
 
-Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Geaune, Hagetmau, Saint-Sever. (3)] 
+Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Geaune, Hagetmau, Saint-Sever. (7)] 
 
 </td>
     </tr>
@@ -9625,24 +9528,11 @@ Tarn-et-Garonne
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td valign="top" width="154">
 
 Montauban 
 
 </td>
-      <td valign="top" width="109">
-
-[Castelsarrasin 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Beaumont-de-Lomagne, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles, Lavit, Montech, Saint-
-Nicolas-de-la-Grave et Verdun-sur-Garonne. (3)] 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="109">
 
 [Castelsarrasin 
@@ -9652,35 +9542,20 @@ Nicolas-de-la-Grave et Verdun-sur-Garonne. (3)]
 
 Cantons d'Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles,
 Lauzerte, Lavit, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy, Montech, Saint-Nicolas-de-la-Grave, Valence et
-Verdun-sur-Garonne. (4)] 
+Verdun-sur-Garonne. (2)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
-
-[Moissac 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons d'Auvillar, Bourg-de-Visa, Lauzerte, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy et Valence. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-Montauban 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban 1er canton, Montauban 2e canton, Montauban
-3e canton, Montauban 4e canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-
-Noble Val et Villebrumier. 
-
-</td>
+      <td>
+      </td><td>
+        _MontaubanCantons_
+      </td>
+      <td>
+        _ de Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e canton,
+Montauban 3ème canton, Montauban 4ème canton, Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse,
+Saint-Antonin-Noble-Val et Villebrumier. (nota) _
+      </td>
     </tr>
     <tr>
       <td colspan="3" valign="top" width="596">
@@ -10322,8 +10197,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
   </tbody>
 </table>
 
-(1) applicable jusqu'au 31 décembre 2008. 
-
 (2) applicable à compter du 1er janvier 2009. 
 
 (3) applicable jusqu'au 31 décembre 2009. 
@@ -10332,18 +10205,25 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 (5) applicable jusqu'au 31 décembre 2010. 
 
-(6) applicable à compter du 1er janvier 2011.
+(6) applicable à compter du 1er janvier 2011. 
+
+(7) applicable jusqu'au 31 janvier 2009. 
+
+(8) applicable à compter du 1er février 2009. 
+
+(9) applicable jusqu'au 30 septembre 2009. 
+
+(10) applicable à compter du 1er octobre 2009.
 
 **Nota:**
+
+Par décision n° 322407 du 19 février 2010, le Conseil d'Etat a annulé le décret n° 2008-1482 du 22 décembre 2008 en tant
+qu'il supprime le tribunal d'instance de Montauban.
 
 Par décision n° 322407 du 19 février 2010, le Conseil d'Etat a annulé le décret n° 2008-1110 du 30 octobre 2008 en tant qu'il
 supprime le tribunal de grande instance de Moulins et rattache son ressort au tribunal de grande instance de Cusset.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-1110 du 30 octobre 2008 - art.
 
 _Cité par_:
 
@@ -10354,3 +10234,11 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. D552-1 (V)
   - Code de l'organisation judiciaire - art. D552-17 (V)
   - Code de l'organisation judiciaire - art. D562-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2008-1482 du 22 décembre 2008 - art.
+
+**Liens**:
+
+  - RECTIFICATION: Décret n°2008-1482  du 22 décembre 2008, v. init (rectificatif)
