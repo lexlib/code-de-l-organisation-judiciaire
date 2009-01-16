@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -187,7 +187,7 @@ Version Consolidée au 2009-01-01
         - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#184)
           - [Section 1 : Compétence matérielle (art. R221-3 à R221-45)](#185)
             - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#186)
-              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22)](#187)
+              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#187)
               - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#188)
               - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39)](#189)
               - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#190)
@@ -12750,6 +12750,33 @@ _Abrogé par_:
   - Décret n°2009-1693 du 29 décembre 2009 - art. 8
 
 
+###### Article R221-22-1
+
+Le tribunal d'instance connaît des contestations relatives à l'application des I et II de l'article 1er de la loi n° 66-457
+du 2 juillet 1966 relative à l'installation d'antennes réceptrices de radiodiffusion et des décrets n° 67-1171 du 28 décembre
+1967 et n° 2009-53 du 15 janvier 2009 pris en application de cette loi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°66-457 du 2 juillet 1966 - art. 1
+  - Décret n°67-1171 du 22 décembre 1967
+  - Décret n°2009-53 du 15 janvier 2009
+
+_Créé par_:
+
+  - Décret n°2009-53 du 15 janvier 2009 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 21
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R221-48 (VT)
+
+
 ##### Paragraphe 2 : Compétence en dernier ressort<a id=188></a>
 
 ###### Article R221-23
@@ -13317,14 +13344,14 @@ _Cite_:
 ###### Article R221-48
 
 Dans les cas prévus aux articles R. 221-5 et R. 221-12, aux 1°, 2° et 6° de l'article R. 221-14, aux 1° à 4° de l'article R.
-221-16, aux 1° à 3° de l'article R. 221-17 et aux articles R. 221-19, R. 221-35 et R. 221-38, la demande est portée devant le
-tribunal dans le ressort duquel sont situés les biens.
+221-16, aux 1° à 3° de l'article R. 221-17 et aux articles R. 221-19, R. 221-22-1, R. 221-35 et R. 221-38, la demande est
+portée devant le tribunal dans le ressort duquel sont situés les biens.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2009-53 du 15 janvier 2009 - art. 3
 
 _Anciens textes_:
 
@@ -13332,14 +13359,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-14 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-16 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-17 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-19 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-35 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-38 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-5 (V)
+  - Code de l'organisation judiciaire - art. R221-12
+  - Code de l'organisation judiciaire - art. R221-14
+  - Code de l'organisation judiciaire - art. R221-16
+  - Code de l'organisation judiciaire - art. R221-17
+  - Code de l'organisation judiciaire - art. R221-19
+  - Code de l'organisation judiciaire - art. R221-22-1
+  - Code de l'organisation judiciaire - art. R221-35
+  - Code de l'organisation judiciaire - art. R221-38
+  - Code de l'organisation judiciaire - art. R221-5
 
 
 ###### Article R221-49
