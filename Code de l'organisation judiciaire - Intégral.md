@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-01-17
+Version Consolidée au 2009-01-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -1511,25 +1511,21 @@ _Créé par_:
 ###### Article L213-3
 
 Dans chaque tribunal de grande instance, un ou plusieurs magistrats du siège sont délégués dans les fonctions de juge aux
-affaires familiales.
+affaires familiales. 
 
-Le juge aux affaires familiales connaît :
+Le juge aux affaires familiales connaît : 
 
 1° Du divorce, de la séparation de corps et de leurs conséquences, sous réserve des compétences attribuées au tribunal de
-grande instance ;
+grande instance ; 
 
 2° Des actions liées à la fixation de l'obligation alimentaire, de la contribution aux charges du mariage et de l'obligation
-d'entretien, à l'exercice de l'autorité parentale, à la modification du nom de l'enfant naturel et aux prénoms.
+d'entretien, à l'exercice de l'autorité parentale, à la modification        des prénoms.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2009-61 du 16 janvier 2009 - art. 2
 
 _Anciens textes_:
 
