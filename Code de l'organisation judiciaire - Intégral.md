@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-02-26
+Version Consolidée au 2009-03-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -16887,20 +16887,24 @@ _Cité par_:
 
 ###### Article R312-43
 
-L'assemblée des magistrats du siège de la cour d'appel dresse la liste des experts près la cour d'appel dans les conditions
-prévues par les articles 6 à 16 du décret n° 2004-1463 du 23 décembre 2004 relatif aux experts judiciaires.
+L'assemblée des magistrats du siège de la cour d'appel dresse : 
+
+1° La liste des experts près la cour d'appel dans les conditions prévues par les articles 6 à 16 du décret n° 2004-1463 du 23
+décembre 2004 relatif aux experts judiciaires ; 
+
+2° La liste des enquêteurs sociaux près la cour d'appel dans les conditions prévues par les articles 4 et 5 du décret n°
+2009-285 du 12 mars 2009.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2004-1463 du 23 décembre 2004 - art. 6
+  - Décret n°2009-285 du 12 mars 2009 - art. 4
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L225-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*225-2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-23 al 5 (Ab)
+  - Décret n°2009-285 du 12 mars 2009 - art. 11
 
 
 ###### Article R312-44
