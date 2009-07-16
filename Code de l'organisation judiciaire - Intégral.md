@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-06-25
+Version Consolidée au 2009-07-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -17,10 +17,10 @@ Version Consolidée au 2009-06-25
         - [Chapitre unique (art. L141-1 à L141-3)](#14)
     - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#15)
       - [TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE (art. L211-1 à L215-2)](#16)
-        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-13)](#17)
-          - [Section 1 : Compétence matérielle (art. L211-3 à L211-13)](#18)
+        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-14)](#17)
+          - [Section 1 : Compétence matérielle (art. L211-3 à L211-14)](#18)
             - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. L211-3 à L211-9)](#19)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. L211-10 à L211-13)](#20)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. L211-10 à L211-14)](#20)
         - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-6)](#21)
           - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5)](#22)
           - [Section 2 : Le parquet (art. L212-6)](#23)
@@ -1321,6 +1321,34 @@ fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque l
 _Créé par_:
 
   - Loi n°2009-526 du 12 mai 2009 - art. 17 (V)
+
+
+###### Article L211-14
+
+Des tribunaux de grande instance spécialement désignés connaissent des contestations relatives aux obligations de publicité
+et de mise en concurrence auxquelles est soumise la passation des contrats de droit privé relevant de la commande publique
+dans les cas et conditions prévus par les articles 2 à 20 de l'ordonnance n° 2009-515 du 7 mai 2009 relative aux procédures
+de recours applicables aux contrats de la commande publique.
+
+**Nota:**
+
+Le présent article a été crée par l'ordonnance n° 2009-515 du 7 mai 2009 sous le numéro L211-13. Comme il existait déjà un
+article portant ce numéro, l'ordonnance n° 2009-864 du 15 juillet 2009 a recréé implicitement cet article sous sa nouvelle
+numérotation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2009-515 du 7 mai 2009 - art. 2
+
+_Créé par_:
+
+  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 25
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R213-5-1 (V)
 
 
 #### Chapitre II : Organisation et fonctionnement<a id=21></a>
