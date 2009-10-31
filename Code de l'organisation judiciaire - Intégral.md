@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-10-01
+Version Consolidée au 2009-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -10191,16 +10191,16 @@ _Cité par_:
 
 ###### Article D211-6
 
-Le siège et le ressort des tribunaux de grande instance compétents pour connaître des actions en matière de brevets
-d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-
-conducteurs, dans les cas et conditions prévus par le code de la propriété intellectuelle, sont fixés conformément au tableau
-VI annexé au présent code.
+Le tribunal de grande instance ayant compétence exclusive pour connaître des actions en matière de brevets d'invention, de
+certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs, dans les
+cas et conditions prévus par le code de la propriété intellectuelle, est celui de Paris.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2009-1205 du 9 octobre 2009 - art. 2
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 _Anciens textes_:
 
@@ -10210,6 +10210,35 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la propriété intellectuelle - art. D631-2 (VD)
+
+
+###### Article D211-6-1
+
+Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de
+propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques, dans les cas et
+conditions prévus par le code de la propriété intellectuelle, sont fixés conformément au tableau VI annexé au présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1205 du 9 octobre 2009 - art. 3
+
+_Modifié par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. Annexe Tableau VI (VD)
+  - Code de la propriété intellectuelle - art. D331-1-1 (VD)
+  - Code de la propriété intellectuelle - art. D521-6 (VD)
+  - Code de la propriété intellectuelle - art. D716-12 (VD)
+  - Code de la propriété intellectuelle - art. D722-6 (VD)
 
 
 ###### Article D211-8
@@ -16176,15 +16205,20 @@ _Anciens textes_:
 
 ###### Article D311-8
 
-Le siège et le ressort des cours d'appel compétentes pour connaître des recours contre les décisions du directeur de
-l'Institut national de la propriété industrielle, dans les cas et conditions prévus par le code de la propriété
-intellectuelle, sont fixés conformément au tableau XVI annexé au présent code.
+Le siège et le ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes
+pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
+industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques sont fixés conformément au
+tableau XVI annexé au présent code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2009-1205 du 9 octobre 2009 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R411-19
 
 _Anciens textes_:
 
@@ -41452,162 +41486,105 @@ _Cité par_:
 
 ###### Article Annexe Tableau VI
 
-Siège et ressort des tribunaux de grande instance compétents pour connaître des actions en matière de brevets d'invention, de
-certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs (annexe
-de l'article D. 211-6)
+Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
+en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques (annexe de
+l'article D. 211-6-1) 
 
-<table align="center" width="720" border="1" cellpadding="0">
+<table width="720" border="1" align="center">
   <tbody>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
-SIÈGE
-
-</td>
-      <td>
-
-RESSORT
+SIÈGE 
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      <td valign="top" align="left">
 
-Cour d'appel d'Aix-en-Provence
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Marseille
-
-</td>
-      <td>
-
-Ressort des cours d'appel d'Aix-en-Provence, Bastia et Nîmes.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
-Cour d'appel de Bordeaux
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Bordeaux
-
-</td>
-      <td>
-
-Ressort des cours d'appel d'Agen, Bordeaux, Limoges et Poitiers.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
-Cour d'appel de Colmar
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Strasbourg
-
-</td>
-      <td>
-
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
-Cour d'appel de Douai
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lille
-
-</td>
-      <td>
-
-Ressort des cours d'appel d'Amiens et Douai.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
-Cour d'appel de Lyon
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lyon
-
-</td>
-      <td>
-
-Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
-Cour d'appel de Paris
+RESSORT 
 
 </td>
     </tr>
     <tr>
       <td valign="top" align="left">
 
-Paris
+Bordeaux </td>
+      <td align="left" valign="top">
 
-</td>
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. </td>
+    </tr>
+    <tr>
       <td valign="top" align="left">
 
-Ressort des cours d'appel d'Angers, Basse-Terre, Bourges, Caen, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims,
-Rennes, Rouen, Saint-Denis et Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Lille </td>
+      <td valign="top" align="left">
 
-</td>
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td align="left" valign="top">
 
-Cour d'appel de Toulouse
+Lyon </td>
+      <td align="left" valign="top">
 
-</td>
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
-Toulouse
+Marseille </td>
+      <td valign="top" align="left">
 
-</td>
-      <td>
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
-Ressort des cours d'appel de Montpellier, Pau et Toulouse.
+Nanterre </td>
+      <td align="left" valign="top">
 
-</td>
+Ressort de la cour d'appel de Versailles. </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Nancy </td>
+      <td valign="top" align="left">
+
+Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. </td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Paris </td>
+      <td align="left" valign="top">
+
+Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de
+Mamoudzou et Saint-Pierre. </td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Rennes </td>
+      <td align="left" valign="top">
+
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. </td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Fort-de-France </td>
+      <td valign="top" align="left">
+
+Ressort des cours d'appel de Basse-terre et Fort-de-France.</td>
     </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1205 du 9 octobre 2009 - art. 3
 
 _Cité par_:
 
@@ -49849,9 +49826,10 @@ _Cité par_:
 
 ###### Article Annexe Tableau XVI
 
-Siège et ressort des cours d'appel compétentes pour connaître des recours contre les décisions
-
-du directeur de l'Institut national de la propriété industrielle (annexe de l'article D. 311-8) 
+Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour
+connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
+industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D.
+311-8) 
 
 <table border="1" width="720" align="center">
   <tbody>
@@ -49861,130 +49839,118 @@ du directeur de l'Institut national de la propriété industrielle (annexe de l'
 SIÈGE
 
 </td>
-      <td colspan="2">
+      <td>
 
-RESSORT
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Aix-en-Provence.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel d'Aix-en-Provence, Bastia et Nîmes.
+RESSORT 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Bordeaux.
+Aix-en-Provence 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel d'Agen, Bordeaux et Poitiers.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Colmar.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel de Colmar et Metz.
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Douai.
+Bordeaux 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel d'Amiens et Douai.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Limoges.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel de Bourges, Limoges et Riom.
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Lyon.
+Douai 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Chambéry, Grenoble et Lyon.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Nancy.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel de Besançon, Dijon et Nancy.
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Paris.
+Fort-de-France 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-Terre, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et
-Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Rennes.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel d'Angers, Caen et Rennes.
+Ressort des cours d'appel de Basse-terre et Fort-de-France. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Toulouse.
+Lyon 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Montpellier, Pau et Toulouse.
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nancy 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Paris 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de
+Mamoudzou et Saint-Pierre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rennes 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Versailles 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Versailles.
 
 </td>
     </tr>
@@ -49992,6 +49958,14 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 </table>
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1205 du 9 octobre 2009 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R411-19
 
 _Cité par_:
 
