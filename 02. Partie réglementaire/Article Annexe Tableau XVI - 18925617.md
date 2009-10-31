@@ -1,10 +1,11 @@
 # Article Annexe Tableau XVI
 
-Siège et ressort des cours d'appel compétentes pour connaître des recours contre les décisions
+Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour
+connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
+industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D.
+311-8) 
 
-du directeur de l'Institut national de la propriété industrielle (annexe de l'article D. 311-8) 
-
-<table border="1" align="center" width="720">
+<table align="center" border="1" width="720">
   <tbody>
     <tr>
       <td>
@@ -12,130 +13,118 @@ du directeur de l'Institut national de la propriété industrielle (annexe de l'
 SIÈGE
 
 </td>
-      <td colspan="2">
+      <td>
 
-RESSORT
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Aix-en-Provence.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel d'Aix-en-Provence, Bastia et Nîmes.
+RESSORT 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Bordeaux.
+Aix-en-Provence 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel d'Agen, Bordeaux et Poitiers.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Colmar.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel de Colmar et Metz.
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Douai.
+Bordeaux 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel d'Amiens et Douai.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Limoges.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel de Bourges, Limoges et Riom.
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Lyon.
+Douai 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Chambéry, Grenoble et Lyon.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Nancy.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel de Besançon, Dijon et Nancy.
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Paris.
+Fort-de-France 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-Terre, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et
-Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Rennes.
-
-</td>
-      <td align="center">
-
-Ressort des cours d'appel d'Angers, Caen et Rennes.
+Ressort des cours d'appel de Basse-terre et Fort-de-France. 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Toulouse.
+Lyon 
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Montpellier, Pau et Toulouse.
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nancy 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Paris 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de
+Mamoudzou et Saint-Pierre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rennes 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Versailles 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Versailles.
 
 </td>
     </tr>
@@ -143,6 +132,14 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 </table>
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1205 du 9 octobre 2009 - art. 4
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. R411-19
 
 _Cité par_:
 
