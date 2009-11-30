@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2009-11-16
+Version Consolidée au 2009-12-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -10173,6 +10173,53 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. D562-7 (VD)
 
 
+###### Article D211-10-1
+
+Le siège et le ressort des tribunaux de grande instance compétents pour connaître des actions aux fins d'adoption ainsi que
+des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque l'enfant résidant habituellement
+à l'étranger a été, est ou doit être déplacé vers la France, sont fixés conformément au tableau VIII-I annexé au présent
+code. 
+
+Il n'existe qu'un tribunal compétent par cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1455 du 27 novembre 2009 - art. 2
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. Annexe Tableau VIII-I (V)
+
+_Anciens textes_:
+
+  - Code de l'organisation judiciaire - art. D211-11 (MMN)
+
+
+###### Article D211-10-2
+
+Le siège et le ressort des tribunaux de grande instance compétents pour connaître des contestations relatives aux obligations
+de publicité et de mise en concurrence auxquelles est soumise la passation des contrats de droit privé relevant de la
+commande publique dans les cas et conditions prévus par les articles 2 à 18 de l'ordonnance n° 2009-515 du 7 mai 2009
+relative aux procédures de recours applicables aux contrats de la commande publique sont fixés conformément au tableau VIII-
+II annexé au présent code
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2009-515 du 7 mai 2009 - art. 2
+
+_Créé par_:
+
+  - Décret n°2009-1455 du 27 novembre 2009 - art. 3.
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. Annexe Tableau VIII-II (VD)
+
+
 ###### Article R211-7
 
 Le tribunal de grande instance compétent pour connaître des actions en matière de marques, dessins et modèles communautaires,
@@ -11882,6 +11929,25 @@ _Créé par_:
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-5 (Ab)
+
+
+###### Article R213-5-1
+
+Le président du tribunal de grande instance compétent en application de l'article L. 211-14 connaît des contestations
+relatives aux obligations de publicité et de mise en concurrence auxquelles est soumise la passation des contrats de droit
+privé relevant de la commande publique dans les cas et conditions prévus par les articles 2 à 20 de l'ordonnance n° 2009-515
+du 7 mai 2009 relative aux procédures de recours applicables aux contrats de la commande publique.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°2009-515 du 7 mai 2009 - art. 2 (V)
+  - Code de l'organisation judiciaire - art. L211-14 (V)
+
+_Créé par_:
+
+  - Décret n°2009-1456 du 27 novembre 2009 - art. 2
 
 
 ###### Article R213-6
@@ -44334,6 +44400,183 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°2009-1384 du 11 novembre 2009 - art. 5
+
+
+###### Article Annexe Tableau VIII-II
+
+Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des recours
+en matière de contrats de la commande publique (annexe de l'article D. 211-10-2) 
+
+<table width="720" border="1" align="center">
+  <tbody>
+    <tr>
+      <td>
+
+<font size="1">SIÈGE </font>
+
+</td>
+      <td>
+
+<font size="1">RESSORT </font>
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bordeaux 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lille 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lyon 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Marseille 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nanterre 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Versailles. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nancy 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Paris 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Bourges, Paris et Orléans. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rennes 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Fort-de-France 
+
+</td>
+      <td align="center">
+
+Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Denis 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Saint-Denis. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Pierre-et-Miquelon 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal supérieur d'appel de Saint-Pierre. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Mamoudzou 
+
+</td>
+      <td align="center">
+
+Ressort du tribunal supérieur d'appel de Mamoudzou.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1455 du 27 novembre 2009 - art. 4
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. D211-10-2 (V)
 
 
 ###### Article Annexe Tableau X
