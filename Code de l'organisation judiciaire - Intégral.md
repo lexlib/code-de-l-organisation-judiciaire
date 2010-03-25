@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-03-20
+Version Consolidée au 2010-03-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -13440,14 +13440,18 @@ _Anciens textes_:
 
 ###### Article R221-31
 
-Le tribunal d'instance connaît des contestations relatives à l'électorat des administrateurs des centres régionaux de la
+Le tribunal d'instance connaît des contestations relatives à l'électorat des conseillers des centres régionaux de la
 propriété forestière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2010-326 du 22 mars 2010 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 21
 
 
 ###### Article R221-32
