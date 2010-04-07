@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-03-26
+Version Consolidée au 2010-04-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -24249,7 +24249,9 @@ MAISONS DE JUSTICE ET DU DROIT
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel d'Aix-en-Provence </td>
+Cour d'appel d'Aix-en-Provence 
+
+</td>
     </tr>
     <tr>
       <td colspan="2">
@@ -24302,7 +24304,7 @@ Aubagne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Var
 
@@ -24371,7 +24373,7 @@ Creil.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Somme
 
@@ -24390,7 +24392,7 @@ Amiens.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Angers 
 
@@ -24411,7 +24413,7 @@ Angers.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Sarthe
 
@@ -24489,7 +24491,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bourges 
 
@@ -24510,7 +24512,7 @@ Vierzon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Caen 
 
@@ -24552,7 +24554,7 @@ Annemasse.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Savoie
 
@@ -24604,7 +24606,7 @@ Strasbourg.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haut-Rhin
 
@@ -24687,7 +24689,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Douai 
 
@@ -24732,7 +24734,7 @@ Roubaix, Tourcoing.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Pas-de-Calais
 
@@ -24815,7 +24817,7 @@ Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Grenoble 
 
@@ -24836,7 +24838,7 @@ Romans-sur-Isère.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Isère
 
@@ -24888,7 +24890,7 @@ Brive-la-Gaillarde.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Vienne
 
@@ -24980,7 +24982,7 @@ Forbach.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Montpellier 
 
@@ -25048,7 +25050,7 @@ Nancy
 </td>
       <td align="center">
 
-Haut-du-Lièvre, Tomblaine, Vandœuvre-lès-Nancy.
+Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.
 
 </td>
     </tr>
@@ -25074,7 +25076,7 @@ Bagnols-sur-Cèze, Nîmes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Orléans 
 
@@ -25114,7 +25116,7 @@ Blois.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loiret
 
@@ -25133,7 +25135,7 @@ Orléans.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Paris 
 
@@ -25173,7 +25175,7 @@ Paris (10e), Paris (14e), Paris (17e).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-et-Marne
 
@@ -25223,7 +25225,7 @@ Aubervilliers, Clichy-sous-Bois - Montfermeil, Epinay-sur-Seine, La Courneuve, L
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-de-Marne
 
@@ -25284,7 +25286,7 @@ Charleville-Mézières, Sedan.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Aube
 
@@ -25355,7 +25357,7 @@ Lannion (4).]
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loire-Atlantique
 
@@ -25374,7 +25376,7 @@ Châteaubriant.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Riom 
 
@@ -25440,7 +25442,7 @@ Evreux, Louviers, Pont-Audemer, Vernon (4).]
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-Maritime
 
@@ -25471,7 +25473,7 @@ Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Toulouse 
 
@@ -25492,7 +25494,7 @@ Toulouse, Toulouse-Nord, Toulouse-Ouest.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Tarn
 
@@ -25511,7 +25513,7 @@ Mazamet.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Versailles 
 
@@ -25604,7 +25606,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 9 février 2010 - art.
+  - Arrêté du 22 mars 2010 - art.
 
 _Cité par_:
 
