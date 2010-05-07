@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-04-08
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -3144,7 +3144,7 @@ de l'expropriation ;
 
 5° Au code de procédure pénale en ce qui concerne le tribunal d'application des peines ;
 
-6° Au code rural en ce qui concerne le tribunal paritaire des baux ruraux ;
+6° Au code rural et de la pêche maritime en ce qui concerne le tribunal paritaire des baux ruraux ;
 
 7° Au code de la sécurité sociale en ce qui concerne le tribunal des affaires de sécurité sociale, le tribunal du contentieux
 de l'incapacité et la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail ;
@@ -3156,31 +3156,15 @@ concerne les prud'homies de pêche.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L123-2 (V)
   - Code de l'organisation judiciaire - art. L551-1 (VD)
   - Code de l'organisation judiciaire - art. L561-1 (VD)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L420-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L431-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L450-1, ecqc TASS et TCI (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L461-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L630-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L630-2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L630-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L882-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L882-2 (Ab)
 
 
 ## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=61></a>
@@ -11968,13 +11952,14 @@ _Cite_:
 ###### Article R213-3
 
 Le président du tribunal de grande instance connaît du règlement amiable, du redressement et de la liquidation judiciaires
-des exploitations agricoles dans les cas et conditions prévus par les articles L. 351-2 à L. 351-8 du code rural.
+des exploitations agricoles dans les cas et conditions prévus par les articles L. 351-2 à L. 351-8 du code rural et de la
+pêche maritime.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -12641,7 +12626,8 @@ agricoles, que ces dommages résultent du fait de l'homme, des animaux domestiqu
 2° Des actions pour dommages causés aux cultures et récoltes par le gibier ;
 
 3° Des demandes relatives aux vices rédhibitoires et aux maladies contagieuses des animaux domestiques, fondées sur les
-dispositions du code rural ou sur la convention des parties, quel qu'ait été le mode d'acquisition des animaux ;
+dispositions du code rural et de la pêche maritime ou sur la convention des parties, quel qu'ait été le mode d'acquisition
+des animaux ;
 
 4° Des actions en rescision, réduction de prix ou dommages-intérêts pour lésion dans les ventes d'engrais, amendements,
 semences et plants destinés à l'agriculture, et de substances destinées à l'alimentation du bétail ;
@@ -12653,14 +12639,9 @@ d'exploitation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-7 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r321-7 (Ab)
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -12706,7 +12687,8 @@ plantations ou l'élagage d'arbres ou de haies ;
 moulins ; 
 
 4° Des contestations relatives à l'établissement et à l'exercice des servitudes instituées par les articles L. 152-14 à L.
-152-23 du code rural, 640 et 641 du code civil ainsi qu'aux indemnités dues à raison de ces servitudes ; 
+152-23 du code ruralet de la pêche maritime, 640 et 641 du code civil ainsi qu'aux indemnités dues à raison de ces
+servitudes ; 
 
 5° Des contestations relatives aux servitudes établies au profit des associations syndicales prévues par l'ordonnance n°
 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires.
@@ -12719,14 +12701,9 @@ _Cite_:
   - Code civil - art. 640 (V)
   - Code rural - art. L152-14 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 al 1, 3 à 6 et 14 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r321-9 al 1, 3 à 6 et 14 (Ab)
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -12746,13 +12723,13 @@ l'environnement, l'élargissement ou l'ouverture du nouveau lit des cours d'eau 
 3° Des contestations relatives aux indemnités dues à raison des servitudes prévues par l'article L. 171-10 du code de la
 voirie routière ; 
 
-4° Des actions mentionnées aux articles L. 211-1 et L. 211-20 du code rural.
+4° Des actions mentionnées aux articles L. 211-1 et L. 211-20 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -12761,12 +12738,6 @@ _Cite_:
   - Code rural - art. L211-20 (V)
   - Code de l'environnement - art. L215-5 (Ab)
   - Code de l'aviation civile - art. D243-1 (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-10 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 al 7 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r321-9 al 7 et r 321-10 (Ab)
 
 _Cité par_:
 
@@ -12824,13 +12795,13 @@ _Cité par_:
 
 Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît en matière de contrat de
 fourniture de produits des demandes présentées par les organisations professionnelles agricoles en application de l'article
-L. 632-7 du code rural.
+L. 632-7 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -13109,7 +13080,8 @@ _Anciens textes_:
 Le tribunal d'instance connaît : 
 
 1° Des contestations des décisions de la commission départementale et des réclamations relatives à la formation de la liste
-pour l'élection des membres des chambres d'agriculture dans les conditions prévues à l'article R. 511-23 du code rural ; 
+pour l'élection des membres des chambres d'agriculture dans les conditions prévues à l'article R. 511-23 du code rural et de
+la pêche maritime ; 
 
 2° Des contestations des décisions du président de la chambre de métiers relatives à la formation et à la révision des listes
 pour l'élection des membres des chambres de métiers dans les conditions prévues à l'article 14 du décret n° 99-433 du 27 mai
@@ -13122,13 +13094,9 @@ _Cite_:
   - Décret n°99-433 du 27 mai 1999 - art. 14 (V)
   - Code rural - art. R511-23 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-20 al 1, 3 et 4 (Ab)
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article R221-35
