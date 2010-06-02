@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-05-29
+Version Consolidée au 2010-06-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -13347,17 +13347,24 @@ l'article 1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratis
 7° Des représentants du personnel aux conseils d'administration des caisses primaires d'assurance maladie, des caisses
 générales de sécurité sociale et des caisses d'allocations familiales ; 
 
-8° Des représentants des assujettis aux assemblées générales des caisses de mutualité sociale agricole.
+8° Des représentants des assujettis aux assemblées générales des caisses de mutualité sociale agricole ;
+
+9° Des représentants des professionnels de la santé exerçant à titre libéral sous le régime des conventions nationales
+mentionnées au titre VI du livre Ier du code de la sécurité sociale, dans les unions régionales des professionnels de santé.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°83-675 du 26 juillet 1983 - art. 1 (V)
+  - Loi n°83-675 du 26 juillet 1983 - art. 1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2010-585 du 2 juin 2010 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 21
 
 _Anciens textes_:
 
