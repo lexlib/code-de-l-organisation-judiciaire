@@ -843,7 +843,7 @@ Nîmes
 </td>
       <td align="center">
 
-Bagnols-sur-Cèze, Nîmes.
+Bagnols-sur-Cèze, Nîmes, Vauvert.
 
 </td>
     </tr>
@@ -1378,7 +1378,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 27 mai 2010 - art.
+  - Arrêté du 16 juin 2010 - art.
 
 _Cité par_:
 
