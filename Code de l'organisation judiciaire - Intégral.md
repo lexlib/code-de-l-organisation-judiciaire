@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-06-27
+Version Consolidée au 2010-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -1544,40 +1544,44 @@ _Créé par_:
 ###### Article L213-3
 
 Dans chaque tribunal de grande instance, un ou plusieurs magistrats du siège sont délégués dans les fonctions de juge aux
-affaires familiales. 
+affaires familiales.
 
 Le juge aux affaires familiales connaît :
 
 1° De l'homologation judiciaire du changement de régime matrimonial, des demandes relatives au fonctionnement des régimes
 matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins, de la séparation
 de biens judiciaire, sous réserve des compétences du président du tribunal de grande instance et du juge des tutelles des
-majeurs ; 
+majeurs ;
 
 2° Du divorce, de la séparation de corps et de leurs conséquences, de la liquidation et du partage des intérêts patrimoniaux
 des époux, des personnes liées par un pacte civil de solidarité et des concubins, sauf en cas de décès ou de déclaration
-d'absence ; 
+d'absence ;
 
-3° Des actions liées : 
+3° Des actions liées :
 
 a) A la fixation de l'obligation alimentaire, de la contribution aux charges du mariage ou du pacte civil de solidarité et de
-la contribution à l'entretien et à l'éducation des enfants ; 
+la contribution à l'entretien et à l'éducation des enfants ;
 
-b) A l'exercice de l'autorité parentale ; 
+b) A l'exercice de l'autorité parentale ;
 
-c) A la révision de la prestation compensatoire ou de ses modalités de paiement ; 
+c) A la révision de la prestation compensatoire ou de ses modalités de paiement ;
 
-d) Au changement de prénom.
+d) Au changement de prénom ;
+
+e) A la protection à l'encontre du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin violent ou
+d'un ancien conjoint, partenaire lié par un pacte civil de solidarité ou concubin violent ;
+
+f) A la protection de la personne majeure menacée de mariage forcé.
 
 **Nota:**
 
-Conformément à l'article 14-IV de la loi n° 2009-526 du 12 mai 2009, les I et II sont applicables aux demandes en justice
-formées à compter du 1er janvier 2010.
+
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
+  - Loi n°2010-769 du 9 juillet 2010 - art. 17
 
 _Anciens textes_:
 
