@@ -4292,7 +4292,7 @@ Isère
     <tr>
       <td valign="top" width="154">
 
-[Bourgoin-Jallieu (5)] 
+[Bourgoin-Jallieu (19)] 
 
 </td>
       <td valign="top" width="109">
@@ -4368,11 +4368,11 @@ Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs, Saint-
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="154">
+      <td rowspan="3" valign="top" width="154">
 
-Vienne (*) 
+[Vienne (19)] 
 
-(*) Siège provisoire dans l'attente de la nouvelle localisation du TGI 
+[Villefontaine (20)] 
 
 </td>
       <td valign="top" width="109">
@@ -4390,13 +4390,29 @@ de-Bournay, Vienne-Nord et Vienne-Sud.
     <tr>
       <td valign="top" width="109">
 
-[Bourgoin-Jallieu (6)] 
+[Bourgoin-Jallieu] 
 
 </td>
       <td valign="top" width="333">
 
 Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin,
 Morestel, Saint-Geoire-en-Valdaine et Virieu. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+[Vienne 
+
+</td>
+      <td align="left" valign="top">
+
+Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, 
+
+La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, 
+
+Saint-Jean-de-Bournay, Vienne-Nord et Vienne-Sud. 
 
 </td>
     </tr>
@@ -4530,12 +4546,12 @@ Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 [Guéret 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, 
 
@@ -5676,12 +5692,12 @@ Remiremont, Saulxures-sur-Moselotte, Vittel et Xertigny. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 [Epinal 
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Cantons de Bains-les-Bains, Bruyères, Bulgnéville, 
 
@@ -7928,7 +7944,7 @@ Grande. (3)]
 [Troyes 
 
 </td>
-      <td valign="top">
+      <td>
 
 Cantons d'Aix-en-Othe, Arcis-sur-Aube, Bar-sur-Aube, Bar-sur-Seine, Bouilly, Brienne-le-Château, Chaource, Chavanges, Ervy-
 le-Châtel, Essoyes, Estissac, La Chapelle-Saint-Luc, Les Riceys, Lusigny-sur-Barse, Marcilly-le-Hayer, Méry-sur-Seine, Mussy-
@@ -9629,7 +9645,9 @@ Verdun-sur-Garonne. (2)]
     </tr>
     <tr>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
 
 Montauban 
 
@@ -9640,7 +9658,7 @@ Cantons de Caussade, Caylus, Lafrançaise, Molières,
 
 Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e 
 
-canton, Montauban 3ème canton, Montauban 4ème canton, 
+canton, Montauban 3ème canton, Montauban 4e canton, 
 
 Montauban 5e canton, Montauban 6e canton, Montpezat-
 
@@ -10320,7 +10338,11 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 (17) Applicable jusqu'au 5 septembre 2010. 
 
-(18) Applicable à compter du 6 septembre 2010.
+(18) Applicable à compter du 6 septembre 2010. 
+
+(19) Applicable jusqu'au 30 juin 2014. 
+
+(20) Applicable à compter du 1er juillet 2014.
 
 **Liens relatifs à cet article**
 
@@ -10336,11 +10358,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-925 du 3 août 2010 - art.
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2010-925 du 3 août 2010 - art., v. init.
+  - Décret n°2010-1077 du 13 septembre 2010 - art.
 
 _Cite_:
 
