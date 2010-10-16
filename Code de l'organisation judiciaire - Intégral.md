@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-10-08
+Version Consolidée au 2010-10-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -259,7 +259,7 @@ Version Consolidée au 2010-10-08
             - [Sous-Section 2 : Organisation et fonctionnement (art. R312-71 à R312-76)](#256)
             - [Sous-Section 3 : Assemblée des membres du service administratif régional (art. R312-77 à R312-82)](#257)
         - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. D313-1 à R313-3)](#258)
-    - [LIVRE IV : LA COUR DE CASSATION (art. R411-1 à R*461-5)](#259)
+    - [LIVRE IV : LA COUR DE CASSATION (art. R411-1 à R*461-1)](#259)
       - [TITRE IER : INSTITUTION ET COMPETENCE (art. R411-1 à R411-7)](#260)
         - [Chapitre unique (art. R411-1 à R411-7)](#261)
       - [TITRE II : ORGANISATION (art. R421-1 à R421-10)](#262)
@@ -274,7 +274,7 @@ Version Consolidée au 2010-10-08
         - [Chapitre V : Les assemblées générales (art. R435-1 à R435-3)](#271)
       - [TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE  POUR AVIS DE LA COUR DE CASSATION (art. R441-1)](#272)
         - [Chapitre unique (art. R441-1)](#273)
-      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. R*461-1 à R*461-5)](#274)
+      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. R*461-1)](#274)
     - [LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON, A MAYOTTE, A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE (art. R511-1 à R563-4)](#275)
       - [TITRE IER : DISPOSITIONS PARTICULIERES  A SAINT-PIERRE-ET-MIQUELON (art. R511-1 à R513-12)](#276)
         - [Chapitre Ier : Dispositions générales (art. R511-1)](#277)
@@ -19040,100 +19040,22 @@ _Anciens textes_:
 
 ###### Article R*461-1
 
-La formation statuant sur le renvoi de la question prioritaire de constitutionnalité est constituée conformément aux
-dispositions de l'article 23-6 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
-constitutionnel et aux dispositions du présent titre.
+Dès réception d'une question prioritaire de constitutionnalité transmise par une juridiction, l'affaire est distribuée à la
+chambre qui connaît des pourvois dans la matière considérée.
+
+La question peut être examinée par la formation prévue au premier alinéa de l'article L. 431-1 du présent code ou à l'article
+567-1-1 du code de procédure pénale lorsque la solution paraît s'imposer.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-6
-
-_Créé par_:
-
-  - Décret n°2010-148 du 16 février 2010 - art. 5
-
-
-###### Article R*461-2
-
-Le premier président désigne, conformément à l'article R. 431-3, sur proposition de chacun des présidents de chambre, parmi
-les conseillers de chaque chambre, celui qui sera appelé à siéger dans la formation statuant sur le renvoi de la question
-prioritaire de constitutionnalité en application de l'article 23-6 de l'ordonnance du 7 novembre 1958 susmentionnée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-6
-  - Code de l'organisation judiciaire - art. R431-3
-
-_Créé par_:
-
-  - Décret n°2010-148 du 16 février 2010 - art. 5
-
-_Abrogé par_:
-
-  - Décret n°2010-1216 du 15 octobre 2010 - art. 1
-
-_Cité par_:
-
-  - Code de l'organisation judiciaire - art. R*461-4 (Ab)
-
-
-###### Article R*461-3
-
-Pour chaque affaire, le premier président détermine chaque chambre spécialement concernée par la question prioritaire de
-constitutionnalité.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-148 du 16 février 2010 - art. 5
-
-_Abrogé par_:
-
-  - Décret n°2010-1216 du 15 octobre 2010 - art. 1
-
-
-###### Article R*461-4
-
-Lorsque la formation statuant sur le renvoi de la question prioritaire de constitutionnalité est composée de deux conseillers
-de chaque chambre spécialement concernée, le premier président désigne, en sus du conseiller désigné en application de
-l'article R. * 461-2, sur proposition de chaque président de chambre concernée, un conseiller choisi parmi ceux appartenant à
-la section compétente de la chambre concernée. Toutefois, lorsqu'un conseiller a été nommé rapporteur pour le pourvoi à
-l'occasion duquel une question prioritaire de constitutionnalité est transmise, il est désigné pour siéger dans la formation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-148 du 16 février 2010 - art. 5
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2010-1216 du 15 octobre 2010 - art. 1
 
 _Cite_:
 
-  - Code de l'organisation judiciaire - art. R*461-2
-
-
-###### Article R*461-5
-
-Lorsqu'un conseiller désigné en application du présent titre est absent ou empêché, le premier président, sur proposition du
-président de la chambre spécialement concernée, désigne pour le remplacer un autre conseiller de la chambre.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-148 du 16 février 2010 - art. 5
-
-_Abrogé par_:
-
-  - Décret n°2010-1216 du 15 octobre 2010 - art. 1
+  - Code de procédure pénale - art. 567-1-1
+  - Code de l'organisation judiciaire - art. L431-1
 
 
 ## LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON, A MAYOTTE, A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE<a id=275></a>
