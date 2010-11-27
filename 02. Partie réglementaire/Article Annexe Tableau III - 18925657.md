@@ -7,16 +7,16 @@ Liste des maisons de justice et du droit
 <table border="1">
   <tbody>
     <tr>
-      <th>
+      <td>
 
 TRIBUNAUX DE GRANDE INSTANCE
 
-</th>
-      <th>
+</td>
+      <td>
 
 MAISONS DE JUSTICE ET DU DROIT
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -81,11 +81,7 @@ Aubagne.
 Tarascon
 
 </td>
-      <td align="center">
-
-Arles
-
-</td>
+      <td align="center">Arles</td>
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -696,6 +692,25 @@ Limoges.
       <td align="center" colspan="2">
 
 Cour d'appel de Lyon 
+
+Ain
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Bourg-en-Bresse
+
+</td>
+      <td>
+
+Bourg-en-Bresse
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
 
 Loire
 
@@ -1390,7 +1405,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 18 novembre 2010 - art.
+  - Arrêté du 22 novembre 2010 - art.
 
 _Cité par_:
 
