@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2010-12-09
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -253,7 +253,7 @@ Version Consolidée au 2010-12-09
             - [Sous-Section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R312-56 à R312-57)](#250)
             - [Sous-Section 7 : La commission permanente (art. R312-58 à R312-61)](#251)
             - [Sous-Section 8 : La commission restreinte (art. R312-62 à R312-64)](#252)
-          - [Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel (art. R312-65 à R312-69)](#253)
+          - [Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel (art. R*312-66 à R312-69)](#253)
           - [Section 7 : Le service administratif régional (art. R312-70 à R312-82)](#254)
             - [Sous-Section 1 : Missions (art. R312-70)](#255)
             - [Sous-Section 2 : Organisation et fonctionnement (art. R312-71 à R312-76)](#256)
@@ -13152,17 +13152,13 @@ Le tribunal d'instance connaît des contestations des décisions prises par la c
 
 1° Des délégués consulaires ;
 
-2° Des membres des chambres de commerce et d'industrie.
+2° Des membres des chambres de commerce et d'industrie territoriales.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-17 al 3 (Ab)
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 
 ###### Article R221-27
@@ -17645,6 +17641,34 @@ _Anciens textes_:
 
 ##### Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel<a id=253></a>
 
+###### Article R*312-66
+
+Le premier président de la cour d'appel et le procureur général près cette cour sont institués conjointement ordonnateurs
+secondaires des dépenses et des recettes des juridictions de leur ressort relatives au personnel, au fonctionnement et aux
+interventions.
+
+S'agissant des investissements et des études qui leur sont afférentes, ils sont ordonnateurs secondaires :
+
+1° Pour les dépenses et les recettes se rapportant aux opérations mobilières ;
+
+2° En matière immobilière, pour les dépenses et les recettes se rapportant aux opérations d'investissement dont le montant
+est inférieur à un seuil fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du
+budget.
+
+Ils peuvent déléguer conjointement leur signature, sous leur responsabilité, aux magistrats ou agents en fonction dans le
+ressort de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1612 du 23 décembre 2010 - art. 1
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-73 (V)
+
+
 ###### Article R312-65
 
 Par délégation du garde des sceaux, ministre de la justice, le premier président de la cour d'appel et le procureur général
@@ -17660,38 +17684,6 @@ _Créé par_:
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*213-29-1 (Ab)
-
-
-###### Article R312-66
-
-Le premier président de la cour d'appel et le procureur général près cette cour sont institués conjointement ordonnateurs
-secondaires des dépenses et des recettes des juridictions de leur ressort relatives au personnel, au fonctionnement et aux
-interventions.
-
-S'agissant des investissements et des études qui leur sont afférentes, ils sont ordonnateurs secondaires :
-
-1° Pour les dépenses et les recettes se rapportant aux opérations mobilières ;
-
-2° En matière immobilière, pour les dépenses et les recettes se rapportant aux opérations d'investissement dont le montant
-est inférieur à un seuil fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du
-budget.
-
-Ils peuvent déléguer conjointement leur signature, sous leur responsabilité, à un même magistrat ou fonctionnaire de
-catégorie A de la cour d'appel.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*213-30 (Ab)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-73 (V)
 
 
 ###### Article R312-67
@@ -50565,9 +50557,9 @@ _Cité par_:
 Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour
 connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
 industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D.
-311-8) 
+311-8) : 
 
-<table width="720" border="1" align="center">
+<table align="center" border="1" width="720">
   <tbody>
     <tr>
       <td>
@@ -50608,6 +50600,18 @@ Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
     <tr>
       <td align="center">
 
+Colmar 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Colmar. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 Douai 
 
 </td>
@@ -50625,7 +50629,7 @@ Fort-de-France
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
 
 </td>
     </tr>
@@ -50649,7 +50653,7 @@ Nancy
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
 
 </td>
     </tr>
@@ -50697,11 +50701,11 @@ Ressort de la cour d'appel de Versailles.
 
 _Modifié par_:
 
-  - Décret n°2009-1205 du 9 octobre 2009 - art. 4
+  - Décret n°2010-1665 du 28 décembre 2010 - art.
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R411-19
+  - Code de la propriété intellectuelle - art. R411-19 (V)
 
 _Cité par_:
 
