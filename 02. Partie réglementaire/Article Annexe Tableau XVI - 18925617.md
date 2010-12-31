@@ -3,7 +3,7 @@
 Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour
 connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
 industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D.
-311-8) 
+311-8) : 
 
 <table width="720" align="center" border="1">
   <tbody>
@@ -46,6 +46,18 @@ Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
     <tr>
       <td align="center">
 
+Colmar 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Colmar. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 Douai 
 
 </td>
@@ -63,7 +75,7 @@ Fort-de-France
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
 
 </td>
     </tr>
@@ -87,7 +99,7 @@ Nancy
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
 
 </td>
     </tr>
@@ -135,11 +147,11 @@ Ressort de la cour d'appel de Versailles.
 
 _Modifié par_:
 
-  - Décret n°2009-1205 du 9 octobre 2009 - art. 4
+  - Décret n°2010-1665 du 28 décembre 2010 - art.
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R411-19
+  - Code de la propriété intellectuelle - art. R411-19 (V)
 
 _Cité par_:
 
