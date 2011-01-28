@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -253,7 +253,7 @@ Version Consolidée au 2011-01-01
             - [Sous-Section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R312-56 à R312-57)](#250)
             - [Sous-Section 7 : La commission permanente (art. R312-58 à R312-61)](#251)
             - [Sous-Section 8 : La commission restreinte (art. R312-62 à R312-64)](#252)
-          - [Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel (art. R*312-66 à R312-69)](#253)
+          - [Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel (art. D312-66 à R312-69)](#253)
           - [Section 7 : Le service administratif régional (art. R312-70 à R312-82)](#254)
             - [Sous-Section 1 : Missions (art. R312-70)](#255)
             - [Sous-Section 2 : Organisation et fonctionnement (art. R312-71 à R312-76)](#256)
@@ -17527,7 +17527,7 @@ _Anciens textes_:
 
 ##### Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel<a id=253></a>
 
-###### Article R*312-66
+###### Article D312-66
 
 Le premier président de la cour d'appel et le procureur général près cette cour sont institués conjointement ordonnateurs
 secondaires des dépenses et des recettes des juridictions de leur ressort relatives au personnel, au fonctionnement et aux
@@ -17548,7 +17548,7 @@ ressort de la cour d'appel.
 
 _Modifié par_:
 
-  - Décret n°2010-1612 du 23 décembre 2010 - art. 1
+  - Décret n°2011-107 du 27 janvier 2011 - art. 2
 
 _Cité par_:
 
