@@ -4,7 +4,7 @@ Siège et ressort des tribunaux de grande instance compétents pour connaître d
 
 en matière d'obtentions végétales (annexe de l'article D. 211-5)
 
-<table cellpadding="0" border="1" align="center" width="720">
+<table border="1" width="720" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -166,8 +166,8 @@ Paris
 </td>
       <td>
 
-Ressort des cours d'appel de Basse-Terre, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et
-Versailles, et des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis
+et Versailles, et du tribunal supérieur d'appel de Saint-Pierre. 
 
 </td>
     </tr>
@@ -213,6 +213,10 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 </table>
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cité par_:
 
