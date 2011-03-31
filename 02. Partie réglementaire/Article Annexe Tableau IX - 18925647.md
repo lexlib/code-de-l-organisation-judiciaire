@@ -4,7 +4,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 recevoir et enregistrer les déclarations de nationalité française et délivrer les certificats de nationalité française
 (annexe de l'article D. 221-1)
 
-<table align="center" width="720" cellspacing="0" border="1" cellpadding="0">
+<table cellpadding="0" cellspacing="0" border="1" align="center" width="720">
   <tbody>
     <tr>
       <td width="300">
@@ -57,7 +57,7 @@ Ressort des tribunaux d'instance d'Auch et Condom. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Lot 
 
@@ -88,7 +88,7 @@ Ressort des tribunaux d'instance de Cahors et Figeac. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Lot-et-Garonne 
 
@@ -119,7 +119,7 @@ Ressort des tribunaux d'instance d'Agen, Marmande et Villeneuve-sur-Lot. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel d'Aix-en-Provence 
 
@@ -188,7 +188,7 @@ Ressort des tribunaux d'instance de Menton et Nice.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Bouches-du-Rhône 
 
@@ -243,7 +243,7 @@ Ressort des tribunaux d'instance d'Aubagne et Marseille.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Var 
 
@@ -293,7 +293,7 @@ Cour d'appel d'Amiens
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Aisne 
 
@@ -348,7 +348,7 @@ Ressort du tribunal d'instance de Soissons. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Oise 
 
@@ -391,7 +391,7 @@ Ressort des tribunaux d'instance de Compiègne et Senlis.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Somme 
 
@@ -422,14 +422,14 @@ Ressort des tribunaux d'instance d'Abbeville, Amiens et Péronne. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel d'Angers 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Maine-et-Loire 
 
@@ -460,7 +460,7 @@ Ressort des tribunaux d'instance d'Angers, Cholet et Saumur. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Mayenne 
 
@@ -479,7 +479,7 @@ Ressort des tribunaux d'instance de Château-Gontier et Laval. (12 et 3)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Sarthe 
 
@@ -572,7 +572,7 @@ Ressort du tribunal d'instance de Pointe-à-Pitre.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Bastia 
 
@@ -691,7 +691,7 @@ Ressort du tribunal d'instance de Montbéliard.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Haute-Saône 
 
@@ -722,7 +722,7 @@ Ressort des tribunaux d'instance de Lure et Vesoul. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Jura 
 
@@ -772,14 +772,14 @@ Ressort du tribunal d'instance de Belfort.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Bordeaux 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Charente 
 
@@ -910,7 +910,7 @@ Ressort des tribunaux d'instance de Bourges, Saint-Amand-Montrond et Sancerre. (
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Indre 
 
@@ -941,7 +941,7 @@ Ressort du tribunal d'instance de Châteauroux. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Nièvre 
 
@@ -979,7 +979,7 @@ Cour d'appel de Caen
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Calvados 
 
@@ -1010,7 +1010,7 @@ Ressort des tribunaux d'instance de Bayeux, Caen, Lisieux, Pont-l'Evêque et Vir
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Manche 
 
@@ -1096,14 +1096,14 @@ Ressort des tribunaux d'instance d'Alençon, Argentan et Flers. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Chambéry 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Haute-Savoie 
 
@@ -1178,7 +1178,7 @@ Ressort des tribunaux d'instance d'Albertville et Chambéry. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Colmar 
 
@@ -1252,7 +1252,7 @@ Ressort des tribunaux d'instance de Schiltigheim et Strasbourg.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Haut-Rhin 
 
@@ -1319,14 +1319,14 @@ Ressort du tribunal d'instance de Thann.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Dijon 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Côte-d'Or 
 
@@ -1388,7 +1388,7 @@ Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (10)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Saône-et-Loire 
 
@@ -1474,7 +1474,7 @@ Cour d'appel de Douai
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Nord 
 
@@ -1620,7 +1620,7 @@ Ressort des tribunaux d'instance de Boulogne-sur-Mer, Calais, Montreuil et Saint
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Fort-de-France 
 
@@ -1646,7 +1646,7 @@ Ressort du tribunal d'instance de Cayenne.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Martinique 
 
@@ -1677,14 +1677,14 @@ Ressort du tribunal d'instance de Fort-de-France. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Grenoble 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Drôme 
 
@@ -1844,7 +1844,7 @@ Cour d'appel de Limoges
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Corrèze 
 
@@ -1906,7 +1906,7 @@ Ressort du tribunal d'instance de Guéret. (10)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Haute-Vienne 
 
@@ -1937,7 +1937,7 @@ Ressort du tribunal d'instance de Limoges. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Lyon 
 
@@ -1963,7 +1963,7 @@ Ressort des tribunaux d'instance de Belley, Bourg-en-Bresse, Nantua et Trévoux.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Loire 
 
@@ -2056,7 +2056,7 @@ Cour d'appel de Metz
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Moselle 
 
@@ -2173,7 +2173,7 @@ Ressort des tribunaux d'instance de Carcassonne, Limoux et Narbonne. (10 et 3)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Aveyron 
 
@@ -2314,14 +2314,14 @@ Ressort du tribunal d'instance de Perpignan. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Nancy 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Meurthe-et-Moselle 
 
@@ -2407,7 +2407,7 @@ Ressort des tribunaux d'instance de Bar-le-Duc et Verdun. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Vosges 
 
@@ -2445,7 +2445,7 @@ Cour d'appel de Nîmes
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Ardèche 
 
@@ -2710,14 +2710,14 @@ Ressort du tribunal de Première instance de Mata-Utu.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel d'Orléans 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Indre-et-Loire 
 
@@ -2822,14 +2822,14 @@ Ressort du tribunal d'instance de Blois. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Papeete 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Polynésie française 
 
@@ -3366,7 +3366,7 @@ Ressort du tribunal d'instance de Dax.
 </td>
     </tr>
     <tr>
-      <td>[Mont-de-Marsan 
+      <td>[Mont-de-Marsan  
 
 </td>
       <td>Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)]  
@@ -3448,7 +3448,7 @@ Cour d'appel de Poitiers
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Charente-Maritime 
 
@@ -3503,7 +3503,7 @@ Ressort des tribunaux d'instance de Jonzac et Saintes. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Deux-Sèvres 
 
@@ -3558,7 +3558,7 @@ Ressort du tribunal d'instance de Niort. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Vendée 
 
@@ -3577,7 +3577,7 @@ Ressort des tribunaux d'instance de Fontenay-le-Comte, La Roche-sur-Yon et Les S
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Vienne 
 
@@ -3608,14 +3608,14 @@ Ressort des tribunaux d'instance de Châtellerault et Poitiers. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Reims 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Ardennes 
 
@@ -3646,7 +3646,7 @@ Ressort des tribunaux d'instance de Charleville-Mézières, Rethel, Rocroi et Se
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Aube 
 
@@ -3720,14 +3720,14 @@ Ressort du tribunal d'instance de Reims.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Rennes 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Côtes-d'Armor 
 
@@ -3813,7 +3813,7 @@ Ressort du tribunal d'instance de Quimper. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Ille-et-Vilaine 
 
@@ -3856,7 +3856,7 @@ Ressort des tribunaux d'instance de Dinan, Redon, Rennes et Saint-Malo. (6)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Loire-Atlantique 
 
@@ -4004,7 +4004,7 @@ Ressort du tribunal d'instance de Vichy. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cantal 
 
@@ -4059,7 +4059,7 @@ Ressort du tribunal d'instance de Saint-Flour. (12)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Haute-Loire 
 
@@ -4090,7 +4090,7 @@ Ressort du tribunal d'instance du Puy-en-Velay. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Puy-de-Dôme 
 
@@ -4152,7 +4152,7 @@ Cour d'appel de Rouen
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Eure 
 
@@ -4257,19 +4257,36 @@ Cour d'appel de Saint-Denis
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
-Réunion 
+Mayotte 
 
 </td>
     </tr>
     <tr>
-      <td width="300">
+      <td width="300">Mamoudzou 
+
+</td>
+      <td width="314">
+
+Ressort du tribunal d'instance de Mamoudzou 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Réunion
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 Saint-Benoît 
 
 </td>
-      <td width="314">
+      <td>
 
 Ressort du tribunal d'instance de Saint-Benoît. 
 
@@ -4312,7 +4329,7 @@ Ressort du tribunal d'instance de Saint-Pierre.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Toulouse 
 
@@ -4350,7 +4367,7 @@ Ressort des tribunaux d'instance de Foix et Saint-Girons. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Haute-Garonne 
 
@@ -4405,7 +4422,7 @@ Ressort du tribunal d'instance de Toulouse. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Tarn 
 
@@ -4455,7 +4472,7 @@ Ressort des tribunaux d'instance de Castelsarrasin et Montauban. (2)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Versailles 
 
@@ -4505,7 +4522,7 @@ Ressort du tribunal d'instance de Dreux.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Hauts-de-Seine 
 
@@ -4620,7 +4637,7 @@ Ressort du tribunal d'instance de Vanves.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Val-d'Oise 
 
@@ -4687,7 +4704,7 @@ Ressort du tribunal d'instance de Sannois.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Yvelines 
 
@@ -4754,14 +4771,14 @@ Ressort du tribunal d'instance de Versailles.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Tribunal supérieur d'appel de Saint-Pierre 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Saint-Pierre-et-Miquelon 
 
@@ -4776,32 +4793,6 @@ Saint-Pierre
       <td width="314">
 
 Ressort du tribunal de Première instance de Saint-Pierre. 
-
-</td>
-    </tr>
-    <tr>
-      <td width="614" colspan="2">
-
-Tribunal supérieur d'appel de Mamoudzou 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="614">
-
-Mayotte 
-
-</td>
-    </tr>
-    <tr>
-      <td width="300">
-
-Mamoudzou 
-
-</td>
-      <td width="314">
-
-Ressort du tribunal de Première instance de Mamoudzou. 
 
 </td>
     </tr>
@@ -4849,4 +4840,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1152 du 29 septembre 2009 - art.
+  - Décret n°2011-338 du 29 mars 2011 - art.
