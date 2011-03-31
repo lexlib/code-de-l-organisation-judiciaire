@@ -3,9 +3,9 @@
 Siège et ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes pour
 connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
 industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques (annexe de l'article D.
-311-8) : 
+311-8) :
 
-<table align="center" width="720" border="1">
+<table border="1" align="center" width="720">
   <tbody>
     <tr>
       <td>
@@ -15,7 +15,7 @@ SIÈGE
 </td>
       <td>
 
-RESSORT 
+RESSORT
 
 </td>
     </tr>
@@ -111,8 +111,8 @@ Paris
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de
-Mamoudzou et Saint-Pierre. 
+Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
+Pierre.
 
 </td>
     </tr>
@@ -147,11 +147,11 @@ Ressort de la cour d'appel de Versailles.
 
 _Modifié par_:
 
-  - Décret n°2010-1665 du 28 décembre 2010 - art.
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. R411-19 (V)
+  - Code de la propriété intellectuelle - art. R411-19
 
 _Cité par_:
 
