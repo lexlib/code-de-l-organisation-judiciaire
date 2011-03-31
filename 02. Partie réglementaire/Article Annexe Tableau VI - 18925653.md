@@ -1,142 +1,140 @@
 # Article Annexe Tableau VI
 
-**
-
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
 en matière de propriété littéraire et artistique, de dessins et modèles, de marques et d'indications géographiques
 
 (annexe de l'article D. 211-6-1)
 
-<table align="center" border="1" width="720">
+<table cellpadding="0" border="1" cellspacing="3" width="720" align="center">
   <tbody>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
 SIÈGE
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 RESSORT
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Bordeaux. 
+Bordeaux.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Lille. 
+Lille.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Lyon. 
+Lyon.
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Marseille. 
+Marseille.
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Nanterre. 
+Nanterre.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Ressort de la cour d'appel de Versailles. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Nancy. 
+Nancy.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Paris. 
+Paris.
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
-Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et des tribunaux supérieurs d'appel de
-Mamoudzou et Saint-Pierre. 
+Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
+Pierre. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Rennes. 
+Rennes.
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
 Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
-Strasbourg. 
+Strasbourg.
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Ressort de la cour d'appel de Colmar. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td>
 
-Fort-de-France. 
+Fort-de-France.
 
 </td>
-      <td valign="top" align="left">
+      <td>
 
 Ressort des cours d'appel de Basse-Terre et Fort-de-France.
 
@@ -144,8 +142,6 @@ Ressort des cours d'appel de Basse-Terre et Fort-de-France.
     </tr>
   </tbody>
 </table>
-
-**
 
 **Nota:**
 
@@ -157,7 +153,7 @@ vigueur dudit décret.
 
 _Modifié par_:
 
-  - Décret n°2010-1369 du 12 novembre 2010 - art.
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cité par_:
 
