@@ -4,7 +4,7 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement illicite
 international d'enfants (annexe de l'article D. 211-9) 
 
-<table align="center" width="720" cellpadding="0" border="1">
+<table width="720" border="1" align="center" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -691,25 +691,6 @@ Ressort de la cour d'appel de Versailles.
     <tr>
       <td colspan="2">
 
-Tribunal supérieur d'appel de Mamoudzou 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Mamoudzou 
-
-</td>
-      <td>
-
-Ressort du tribunal supérieur d'appel de Mamoudzou. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
 Tribunal supérieur d'appel de Saint-Pierre 
 
 </td>
@@ -731,6 +712,10 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2011-338 du 29 mars 2011 - art.
+
 _Cite_:
 
-  - Code de l'organisation judiciaire - art. D211-9 (V)
+  - Code de l'organisation judiciaire - art. D211-9
