@@ -1191,14 +1191,10 @@ Roë. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top">
-
-[Laval 
-
-</td>
-      <td>Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland,
-Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-
-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine,
+      <td>[LavalCantons</td>
+      <td> d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-
+Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est,
+Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine,
 Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] </td>
     </tr>
     <tr>
@@ -2258,7 +2254,7 @@ canton et Vierzon 2e canton. (12 et 3)]
 </td>
     </tr>
     <tr>
-      <td>Saint-Amand-MontrondCantons</td>
+      <td>saint-Amand-MontrondCantons</td>
       <td>
 
 de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières,
@@ -4051,7 +4047,7 @@ Cayenne
 </td>
       <td valign="top" width="333">
 
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e
+Cantons d'Approuague-Kaw, Cayenne 1, r canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e
 canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury,
 Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
 
@@ -9354,6 +9350,36 @@ Pierre 2e canton, Saint-Pierre 3e canton et Saint-Pierre 4e canton.
 
 </td>
     </tr>
+    <tr align="center">
+      <td colspan="3">
+
+Mayotte 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Mamoudzou 
+
+</td>
+      <td align="left" valign="top">
+
+Mamoudzou 
+
+</td>
+      <td align="left" valign="top">
+
+Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi, 
+
+Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou, 
+
+Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro, 
+
+M'Tsangamouji, Ouangani, Pamandzi, Sada, Tsingoni. 
+
+</td>
+    </tr>
     <tr>
       <td colspan="3" valign="top" width="596">
 
@@ -10254,32 +10280,6 @@ Ressort
     <tr>
       <td colspan="2" width="614">
 
-Tribunal supérieur d'appel de Mamoudzou 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="614">
-
-Mayotte 
-
-</td>
-    </tr>
-    <tr>
-      <td width="312">
-
-Mamoudzou 
-
-</td>
-      <td width="302">
-
-Collectivité départementale de Mayotte. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="614">
-
 Tribunal supérieur d'appel de Saint-Pierre 
 
 </td>
@@ -10358,7 +10358,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1077 du 13 septembre 2010 - art.
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cite_:
 
