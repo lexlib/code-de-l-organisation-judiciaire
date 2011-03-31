@@ -4,19 +4,19 @@ Siège et ressort des tribunaux de grande instance et des tribunaux de première
 aux fins d'adoption ainsi que des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque
 l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France 
 
-(annexe de l'article D. 211-11) 
+(annexe de l'article D. 211-10-1) 
 
 <table width="720" align="center" border="1">
   <tbody>
     <tr>
       <td>
 
-SIÈGE
+SIÈGE 
 
 </td>
       <td colspan="6">
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
@@ -30,7 +30,7 @@ Cour d'appel d'Agen
     <tr>
       <td align="center">
 
-Agen
+Agen 
 
 </td>
       <td align="center">
@@ -49,17 +49,17 @@ Cour d'appel d'Aix-en-Provence
     <tr>
       <td align="center">
 
-Marseille
+Marseille 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Aix-en-Provence.
+Ressort de la cour d'appel d'Aix-en-Provence. 
 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Amiens 
 
@@ -68,12 +68,12 @@ Cour d'appel d'Amiens
     <tr>
       <td align="center">
 
-Amiens
+Amiens 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Amiens.
+Ressort de la cour d'appel d'Amiens. 
 
 </td>
     </tr>
@@ -87,12 +87,12 @@ Cour d'appel d'Angers
     <tr>
       <td align="center">
 
-Angers
+Angers 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Angers.
+Ressort de la cour d'appel d'Angers. 
 
 </td>
     </tr>
@@ -106,17 +106,17 @@ Cour d'appel de Basse-Terre
     <tr>
       <td align="center">
 
-Basse-Terre
+Basse-Terre 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Basse-Terre.
+Ressort de la cour d'appel de Basse-Terre. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Bastia 
 
@@ -125,12 +125,12 @@ Cour d'appel de Bastia
     <tr>
       <td align="center">
 
-Bastia
+Bastia 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Bastia.
+Ressort de la cour d'appel de Bastia. 
 
 </td>
     </tr>
@@ -144,12 +144,12 @@ Cour d'appel de Besançon
     <tr>
       <td align="center">
 
-Besançon
+Besançon 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Besançon.
+Ressort de la cour d'appel de Besançon. 
 
 </td>
     </tr>
@@ -163,12 +163,12 @@ Cour d'appel de Bordeaux
     <tr>
       <td align="center">
 
-Bordeaux
+Bordeaux 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Bordeaux.
+Ressort de la cour d'appel de Bordeaux. 
 
 </td>
     </tr>
@@ -182,17 +182,17 @@ Cour d'appel de Bourges
     <tr>
       <td align="center">
 
-Bourges
+Bourges 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Bourges.
+Ressort de la cour d'appel de Bourges. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Caen 
 
@@ -211,7 +211,7 @@ Ressort de la cour d'appel de Caen.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Chambéry 
 
@@ -249,7 +249,7 @@ Ressort de la cour d'appel de Colmar.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Dijon 
 
@@ -270,7 +270,7 @@ Ressort de la cour d'appel de Dijon.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Douai 
+Cour d'appel de Douai
 
 </td>
     </tr>
@@ -287,9 +287,9 @@ Ressort de la cour d'appel de Douai.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Fort-de-France
 
 </td>
     </tr>
@@ -306,9 +306,9 @@ Ressort de la cour d'appel de Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Grenoble 
+Cour d'appel de Grenoble
 
 </td>
     </tr>
@@ -327,45 +327,45 @@ Ressort de la cour d'appel de Grenoble.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Limoges 
+Cour d'appel de Limoges
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Limoges
+Limoges 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Limoges.
+Ressort de la cour d'appel de Limoges. 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Lyon 
+Cour d'appel de Lyon
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Lyon
+Lyon 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Lyon.
+Ressort de la cour d'appel de Lyon. 
 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Metz 
+Cour d'appel de Metz
 
 </td>
     </tr>
@@ -377,344 +377,325 @@ Metz
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Metz.
+Ressort de la cour d'appel de Metz. 
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Montpellier 
+Cour d'appel de Montpellier
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Montpellier
+Montpellier 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Montpellier.
+Ressort de la cour d'appel de Montpellier. 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Nancy 
+Cour d'appel de Nancy
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Nancy
+Nancy 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nancy.
+Ressort de la cour d'appel de Nancy. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Nîmes
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nîmes 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Nîmes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Nouméa
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nouméa 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Nouméa. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Orléans
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Orléans 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Orléans. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Papeete
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Papeete 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Papeete. 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Nîmes 
+Cour d'appel de Paris
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Nîmes
+Paris 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nîmes.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-
-Cour d'appel de Nouméa 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Nouméa
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Nouméa.
+Ressort de la cour d'appel de Paris. 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel d'Orléans 
+Cour d'appel de Pau
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Orléans
+Pau 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Orléans.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Papeete 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Papeete
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Papeete.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Paris 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Paris
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Paris.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Pau 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Pau
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Pau.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Poitiers 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Poitiers
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Poitiers.
+Ressort de la cour d'appel de Pau. 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Reims 
+Cour d'appel de Poitiers
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Reims
+Poitiers 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Reims.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Rennes 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Nantes
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Rennes.
+Ressort de la cour d'appel de Poitiers. 
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Riom 
+Cour d'appel de Reims
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Clermont-Ferrand
+Reims 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Riom.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Rouen 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Rouen
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Rouen.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Saint-Denis 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Saint-Denis
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Saint-Denis.
+Ressort de la cour d'appel de Reims. 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Toulouse 
+Cour d'appel de Rennes
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Toulouse
+Nantes 
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Toulouse.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Versailles 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Nanterre
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Versailles.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Tribunal supérieur d'appel de Mamoudzou 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Mamoudzou
-
-</td>
-      <td align="center">
-
-Ressort du tribunal supérieur d'appel de Mamoudzou.
+Ressort de la cour d'appel de Rennes. 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Tribunal supérieur d'appel de Saint-Pierre 
+Cour d'appel de Riom
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Saint-Pierre
+Clermont-Ferrand 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Riom. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Rouen
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rouen 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Rouen. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Saint-Denis
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Denis 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Saint-Denis. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Toulouse
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Toulouse 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Toulouse. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Versailles
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Nanterre 
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Versailles. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Tribunal supérieur d'appel de Saint-Pierre
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Saint-Pierre 
 
 </td>
       <td align="center">
@@ -727,6 +708,10 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 </table>
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cité par_:
 
