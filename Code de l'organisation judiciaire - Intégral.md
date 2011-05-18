@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-04-24
+Version Consolidée au 2011-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -3105,15 +3105,18 @@ _Anciens textes_:
 
 Il y a au moins un juge des enfants au siège de chaque tribunal pour enfants.
 
+Le juge des enfants peut être suppléé, en cas d'absence ou d'empêchement, ou remplacé provisoirement par un magistrat du
+siège désigné par le président du tribunal de grande instance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-525 du 17 mai 2011 - art. 85
 
 _Anciens textes_:
 
