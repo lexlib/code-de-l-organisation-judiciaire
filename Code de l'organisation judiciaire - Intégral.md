@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-06-27
+Version Consolidée au 2011-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -585,11 +585,11 @@ _Cite_:
 
 ###### Article L111-12
 
-Les audiences devant les juridictions judiciaires, sans préjudice des dispositions particulières du code de procédure pénale
-et du code de l'entrée et du séjour des étrangers et du droit d'asile, peuvent, par décision du président de la formation de
-jugement, d'office ou à la demande d'une partie, et avec le consentement de l'ensemble des parties, se dérouler dans
-plusieurs salles d'audience reliées directement par un moyen de télécommunication audiovisuelle garantissant la
-confidentialité de la transmission.
+Les audiences devant les juridictions judiciaires, sans préjudice des dispositions particulières du code de la santé publique
+du code de procédure pénale et du code de l'entrée et du séjour des étrangers et du droit d'asile, peuvent, par décision du
+président de la formation de jugement, d'office ou à la demande d'une partie, et avec le consentement de l'ensemble des
+parties, se dérouler dans plusieurs salles d'audience reliées directement par un moyen de télécommunication audiovisuelle
+garantissant la confidentialité de la transmission.
 
 L'une ou plusieurs de ces salles d'audience peuvent se trouver en dehors du ressort de la juridiction saisie. 
 
@@ -603,10 +603,6 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 25
-
 _Cité par_:
 
   - Arrêté du 8 septembre 2008 - art. 1 (Ab)
@@ -615,9 +611,13 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R111-7 (V)
   - Code de la santé publique - art. L3211-12-2 (VD)
 
+_Modifié par_:
+
+  - Loi n°2011-803 du 5 juillet 2011 - art. 1
+
 _Cite_:
 
-  - Code du patrimoine. - art. L221-1 (V)
+  - Code du patrimoine - art. L221-1
 
 
 ### TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT<a id=5></a>
