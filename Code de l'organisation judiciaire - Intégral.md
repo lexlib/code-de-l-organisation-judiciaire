@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-08-01
+Version Consolidée au 2011-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -38,7 +38,7 @@ Version Consolidée au 2011-08-01
         - [Chapitre Ier : Institution et compétence (art. L221-1 à L221-10)](#35)
           - [Section 1 : Compétence matérielle (art. L221-4 à L221-10)](#36)
             - [Sous-section 1 : Compétence civile du tribunal d'instance (art. L221-4 à L221-5)](#37)
-            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. L221-6 à L221-8)](#38)
+            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. L221-6 à L221-8-1)](#38)
             - [Sous-section 3 : Compétence du juge des tutelles (art. L221-9)](#39)
             - [Sous-section 4 : Compétence du tribunal de police (art. L221-10)](#40)
         - [Chapitre II : Organisation et fonctionnement (art. L222-1 à L222-3)](#41)
@@ -1692,33 +1692,25 @@ oeuvre.
 
 Le juge de l'exécution connaît, sous la même réserve, de la procédure de saisie immobilière, des contestations qui s'élèvent
 à l'occasion de celle-ci et des demandes nées de cette procédure ou s'y rapportant directement, même si elles portent sur le
-fond du droit ainsi que de la procédure de distribution qui en découle (1).
+fond du droit ainsi que de la procédure de distribution qui en découle.
 
 Il connaît, sous la même réserve, des demandes en réparation fondées sur l'exécution ou l'inexécution dommageables des
 mesures d'exécution forcée ou des mesures conservatoires.
 
-Il connaît des mesures de traitement des situations de surendettement des particuliers et de la procédure de rétablissement
-personnel.
-
 **Nota:**
 
-Alinéa ajouté par l'ordonnance 2006-461 du 21 avril 2006. La codification à droit constant peut entraîner un décalage entre
-le moment où le code paraît et des modifications antérieures mais entrant en vigueur à une date différée. C'est le cas pour
-ce troisième alinéa.
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 12 () JORF 22 avril 2006 en vigueur le 1er janvier 2007
-
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
 
 _Anciens textes_:
 
@@ -2177,23 +2169,29 @@ _Anciens textes_:
 
 ###### Article L221-8
 
-Par dérogation aux dispositions de l'article L. 213-6, le juge du tribunal d'instance est compétent en matière de saisies des
-rémunérations et exerce les pouvoirs du juge de l'exécution conformément à l'article L. 145-5 du code du travail.
+Par dérogation aux dispositions de l'article L. 213-6, le juge du tribunal d'instance connaît de la saisie des rémunérations,
+à l'exception des demandes ou moyens de défense échappant à la compétence des juridictions de l'ordre judiciaire. 
+
+Il exerce les pouvoirs du juge de l'exécution.
+
+**Nota:**
+
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-6 (V)
-  - Code du travail - art. L145-5 (Ab)
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
 
 _Cité par_:
 
@@ -2201,6 +2199,38 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L121-1 (VD)
   - Code du travail - art. L3252-6 (VD)
   - Code du travail - art. R3252-11 (VD)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L213-6
+
+
+###### Article L221-8-1
+
+Le juge du tribunal d'instance connaît des mesures de traitement des situations de surendettement des particuliers et de la
+procédure de rétablissement personnel. Un décret peut désigner, dans le ressort de chaque tribunal de grande instance, un ou
+plusieurs tribunaux d'instance dont les juges seront seuls compétents pour connaître de ces mesures et de cette procédure.
+
+**Nota:**
+
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. D221-1 (VD)
+  - Code de la consommation - art. R331-9 (Ab)
+  - Code de la consommation - art. R713-1 (V)
 
 
 ##### Sous-section 3 : Compétence du juge des tutelles<a id=39></a>
@@ -5382,6 +5412,26 @@ _Créé par_:
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-2 (Ab)
+
+
+###### Article L532-6-1
+
+Les articles L. 213-5 à L. 213-7 sont applicables à Wallis-et-Futuna.
+
+**Nota:**
+
+Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
+par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L213-5
 
 
 ###### Article L532-7
@@ -11757,20 +11807,20 @@ _Abrogé par_:
 
 ###### Article D221-1
 
-Le siège et le ressort des tribunaux d'instance sont fixés conformément au tableau IV annexé au présent code.
+Le siège et le ressort des tribunaux d'instance sont fixés conformément au tableau IV annexé au présent code. 
 
 Le siège et le ressort des tribunaux d'instance appelés à recevoir et à enregistrer la déclaration de la nationalité
 française et à délivrer les certificats de nationalité française, dans les cas et conditions prévus par le code civil, sont
-fixés conformément au tableau IX annexé au présent code.
+fixés conformément au tableau IX annexé au présent code. 
+
+Pour l'application de l'article L. 221-8-1, le siège et le ressort des tribunaux d'instance compétents, dans le ressort de
+certains tribunaux de grande instance, pour connaître des mesures de traitement des situations de surendettement des
+particuliers et des procédures de rétablissement personnel sont fixés conformément au tableau IX-I annexé au présent code. 
 
 Le siège et le ressort des tribunaux d'instance ayant compétence exclusive en matière pénale sont fixés conformément au
 tableau X annexé au présent code.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 _Cité par_:
 
@@ -11778,12 +11828,13 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Annexe Tableau IM (V)
   - Code de l'organisation judiciaire - art. Annexe Tableau IX (VD)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*623-1 (Ab)
+  - Décret n°2011-981 du 23 août 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L221-8-1
 
 
 ###### Article R221-2
@@ -39537,6 +39588,420 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°2011-338 du 29 mars 2011 - art.
+
+
+###### Article Annexe Tableau IX-1
+
+SIÈGE ET RESSORT DES TRIBUNAUX D'INSTANCE COMPÉTENTS, DANS LE RESSORT DE CERTAINS TRIBUNAUX DE GRANDE INSTANCE, POUR
+CONNAÎTRE DES MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT DES PARTICULIERS ET DES PROCÉDURES DE RÉTABLISSEMENT
+PERSONNEL (ANNEXE DE L'ARTICLE D. 221-1)
+
+<table border="1" cellspacing="0" width="720" align="center" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="151">
+
+SIÈGE DU TRIBUNAL
+
+de grande instance
+
+</td>
+      <td width="151">
+
+SIÈGE DU TRIBUNAL d'instance
+
+</td>
+      <td width="378">
+
+RESSORT
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Cour d'appel d'Aix-en-Provence
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Alpes-Maritimes
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Nice 
+
+</td>
+      <td width="151" valign="top">
+
+Nice 
+
+</td>
+      <td valign="top" width="378">
+
+Ressort des tribunaux d'instance de Nice et Menton 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Bouches-du-Rhône
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Aix-en-Provence 
+
+</td>
+      <td valign="top" width="151">
+
+Aix-en-Provence 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence 
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Marseille 
+
+</td>
+      <td width="151" valign="top">
+
+Marseille 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance d'Aubagne et Marseille 
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Cour d'appel d'Angers
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Maine-et-Loire
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Angers 
+
+</td>
+      <td valign="top" width="151">
+
+Angers 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance d'Angers, Cholet et Saumur 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Sarthe
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Le Mans 
+
+</td>
+      <td valign="top" width="151">
+
+Le Mans 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance de La Flèche et Le Mans 
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Cour d'appel de Paris
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Paris
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Paris 
+
+</td>
+      <td valign="top" width="151">
+
+Paris 19e arrondissement 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e
+arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e
+arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris
+14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement,
+Paris 19e arrondissement et Paris 20e arrondissement 
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Seine-Saint-Denis
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Bobigny 
+
+</td>
+      <td width="151" valign="top">
+
+Bobigny 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance d'Aubervilliers, Aulnay-sous-Bois, Bobigny, Le Raincy, Montreuil, Pantin, Saint-Denis et
+Saint-Ouen 
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Val-de-Marne
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Créteil 
+
+</td>
+      <td width="151" valign="top">
+
+Villejuif 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance de Boissy-Saint-Léger, Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-
+Fossés et Villejuif 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Cour d'appel de Reims
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Ardennes
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Charleville-Mézières 
+
+</td>
+      <td width="151" valign="top">
+
+Charleville-Mézières 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance de Charleville-Mézières et Sedan 
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Cour d'appel de Toulouse
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Ariège
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Foix 
+
+</td>
+      <td valign="top" width="151">
+
+Foix 
+
+</td>
+      <td valign="top" width="378">
+
+Ressort des tribunaux d'instance de Foix et Saint-Girons 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Tarn-et-Garonne
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Montauban 
+
+</td>
+      <td valign="top" width="151">
+
+Montauban 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance de Castelsarrasin et Montauban 
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Cour d'appel de Versailles
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Hauts-de-Seine
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Nanterre 
+
+</td>
+      <td valign="top" width="151">
+
+Asnières-sur-Seine 
+
+</td>
+      <td valign="top" width="378">
+
+Ressort des tribunaux d'instance d'Antony, Asnières-sur-Seine, Boulogne-Billancourt, Colombes, Courbevoie, Puteaux et Vanves 
+
+</td>
+    </tr>
+    <tr>
+      <td width="680" colspan="3">
+
+Val-d'Oise
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Pontoise 
+
+</td>
+      <td valign="top" width="151">
+
+Pontoise 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance de Gonesse, Montmorency, Pontoise et Sannois 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="680">
+
+Yvelines
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Versailles 
+
+</td>
+      <td valign="top" width="151">
+
+Versailles 
+
+</td>
+      <td width="378" valign="top">
+
+Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Versailles
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-981 du 23 août 2011 - art. 2
 
 
 ###### Article Annexe Tableau V
