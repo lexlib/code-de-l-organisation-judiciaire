@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-09-01
+Version Consolidée au 2011-09-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -8763,7 +8763,7 @@ Les régisseurs encaissent les recettes suivantes :
 3° Les sommes provenant des saisies des rémunérations prévues aux articles R. 145-1 à R. 145-39 et R. 145-43 du code du
 travail ; 
 
-4° Les consignations de parties civiles prévues aux articles 88, 88-1, 392-1 et R. 15-41 du code de procédure pénale ; 
+4° Les consignations de parties civiles prévues aux articles 88,88-1,392-1 et R. 15-41 du code de procédure pénale ; 
 
 5° Les provisions pour expertise ; 
 
@@ -8771,30 +8771,30 @@ travail ;
 
 7° Le produit des ventes d'ouvrages et publications vendus dans les greffes ; 
 
-8° Les sommes dues au titre des publicités au Bulletin des annonces civiles et commerciales prévues aux articles 788, 790 et
+8° Les sommes dues au titre des publicités au Bulletin des annonces civiles et commerciales prévues aux articles 788,790 et
 794 du code civil et à l'article 1337 du code de procédure civile. 
 
-En outre, les régisseurs des greffes des tribunaux d'instance enregistrent dans leur comptabilité les sommes trouvées lors de
-l'apposition des scellés et celles qui leur sont remises en dépôt par le directeur de greffe, sauf en matière pénale.
+En outre, les régisseurs des greffes des tribunaux d'instance enregistrent dans leur comptabilité les sommes          qui
+leur sont remises en dépôt par le directeur de greffe, sauf en matière pénale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2011-1043 du 1er septembre 2011 - art. 6
 
 _Cite_:
 
-  - Code de procédure civile - art. 1337 (V)
-  - Code civil - art. 788 (V)
-  - Code civil - art. 790 (V)
-  - Code civil - art. 794 (V)
-  - Code de procédure pénale - art. 392-1 (V)
-  - Code de procédure pénale - art. 88 (V)
-  - Code de procédure pénale - art. R15-41 (V)
-  - Code de procédure pénale - art. R19 (V)
-  - Code du travail - art. R145-1 (Ab)
-  - Code du travail - art. R145-43 (Ab)
+  - Code de procédure civile - art. 1337
+  - Code civil - art. 788
+  - Code civil - art. 790
+  - Code civil - art. 794
+  - Code de procédure pénale - art. 392-1
+  - Code de procédure pénale - art. 88
+  - Code de procédure pénale - art. R15-41
+  - Code de procédure pénale - art. R19
+  - Code du travail - art. R145-1
+  - Code du travail - art. R145-43
 
 _Anciens textes_:
 
@@ -18402,18 +18402,14 @@ _Anciens textes_:
 
 ###### Article R512-4
 
-Le garde des sceaux, ministre de la justice, arrête une liste comprenant deux assesseurs titulaires et quatre assesseurs
+Le garde des sceaux, ministre de la justice, arrête une liste comprenant quatre assesseurs titulaires et six assesseurs
 suppléants au tribunal supérieur d'appel.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-3, alinéas 1 à 3, ecqc liste GDS (Ab)
+  - Décret n°2011-1042 du 31 août 2011 - art. 1
 
 
 ###### Article R512-5
