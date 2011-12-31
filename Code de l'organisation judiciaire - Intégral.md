@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-09-26
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -58,187 +58,187 @@ Version Consolidée au 2011-09-26
         - [Chapitre Ier : Le tribunal pour enfants (art. L251-1 à L251-6)](#55)
           - [Section 1 : Institution et compétence (art. L251-1 à L251-2)](#56)
           - [Section 2 : Organisation et fonctionnement (art. L251-3 à L251-6)](#57)
-        - [Chapitre II : Le juge des enfants (art. L252-1 à L252-5)](#58)
-        - [Chapitre IV : La cour d'assises des mineurs (art. L254-1)](#59)
-      - [TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION (art. L261-1)](#60)
-        - [Chapitre unique (art. L261-1)](#61)
-    - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ (art. L311-1 à L331-1)](#62)
-      - [TITRE Ier : LA COUR D'APPEL (art. L311-1 à L314-2)](#63)
-        - [Chapitre Ier : Compétence (art. L311-1 à L311-14)](#64)
-          - [Section 1 : Dispositions générales (art. L311-1)](#65)
-          - [Section 2 : Dispositions particulières (art. L311-2 à L311-6)](#66)
-          - [Section 3 : Dispositions relatives au premier président (art. L311-7 à L311-7-1)](#67)
-          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. L311-8 à L311-9)](#68)
-          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. L311-10 à L311-14)](#69)
-        - [Chapitre II : Organisation et fonctionnement (art. L312-1 à L312-7)](#70)
-          - [Section 1 : Les formations de la cour d'appel (art. L312-1 à L312-6-1)](#71)
-            - [Sous-section 1 : Dispositions générales (art. L312-1 à L312-3)](#72)
-            - [Sous-section 2 : Dispositions particulières à certaines formations (art. L312-4 à L312-6-1)](#73)
-          - [Section 2 : Le parquet général (art. L312-7)](#74)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L313-1 à L313-2)](#75)
-        - [Chapitre IV : Dispositions particulières au Département de Mayotte (art. L314-1 à L314-2)](#76)
-      - [TITRE II : LA COUR D'ASSISES STATUANT EN APPEL (art. L321-1)](#77)
-        - [Chapitre unique (art. L321-1)](#78)
-      - [TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL (art. L331-1)](#79)
-        - [Chapitre unique (art. L331-1)](#80)
-    - [LIVRE IV : LA COUR DE CASSATION (art. L411-1 à LO461-2)](#81)
-      - [TITRE Ier : INSTITUTION ET COMPÉTENCE (art. L411-1 à L411-4)](#82)
-        - [Chapitre unique (art. L411-1 à L411-4)](#83)
-      - [TITRE II : ORGANISATION (art. L421-1 à L421-8)](#84)
-        - [Chapitre unique (art. L421-1 à L421-8)](#85)
-      - [TITRE III : FONCTIONNEMENT (art. L431-1 à L432-5)](#86)
-        - [Chapitre Ier : Les chambres de la cour (art. L431-1 à L431-10)](#87)
-          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#88)
-          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. L431-5 à L431-10)](#89)
-        - [Chapitre II : Le parquet général (art. L432-1 à L432-5)](#90)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION (art. L441-1 à L441-4)](#91)
-        - [Chapitre unique (art. L441-1 à L441-4)](#92)
-      - [TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION (art. L451-1 à L451-2)](#93)
-        - [Chapitre unique (art. L451-1 à L451-2)](#94)
-      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. LO461-1 à LO461-2)](#95)
-    - [LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE (art. L511-1 à L563-1)](#96)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L511-1 à L513-11)](#97)
-        - [Chapitre Ier : Dispositions générales (art. L511-1)](#98)
-        - [Chapitre II : Des fonctions judiciaires (art. L512-1 à L512-4)](#99)
-        - [Chapitre III : Des juridictions (art. L513-1 à L513-11)](#100)
-          - [Section 1 : Le tribunal de première instance (art. L513-1 à L513-5-1)](#101)
-          - [Section 2 : Le tribunal supérieur d'appel (art. L513-6 à L513-11)](#102)
-      - [TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA (art. L531-1 à L533-1)](#103)
-        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#104)
-        - [Chapitre II : Des juridictions (art. L532-1 à L532-28)](#105)
-          - [Section 1 : Le tribunal de première instance (art. L532-1 à L532-18)](#106)
-          - [Section 2 : La juridiction de proximité (art. L532-19 à L532-24)](#107)
-          - [Section 3 : Les juridictions des mineurs (art. L532-25 à L532-26)](#108)
-          - [Section 4 : La cour d'assises (art. L532-27 à L532-28)](#109)
-        - [Chapitre III : Du greffe (art. L533-1)](#110)
-      - [TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE (art. L551-1 à L553-1)](#111)
-        - [Chapitre Ier : Dispositions générales (art. L551-1 à L551-2)](#112)
-        - [Chapitre II : Des juridictions (art. L552-1 à L552-21)](#113)
-          - [Section 1 : Le tribunal de première instance (art. L552-1 à L552-9)](#114)
-          - [Section 2 : La cour d'appel (art. L552-10 à L552-12)](#115)
-          - [Section 3 : La juridiction de proximité (art. L552-13 à L552-18)](#116)
-          - [Section 4 : Les juridictions des mineurs (art. L552-19)](#117)
-          - [Section 5 : La cour d'assises (art. L552-20 à L552-21)](#118)
-        - [Chapitre III : Du greffe (art. L553-1)](#119)
-      - [TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE (art. L561-1 à L563-1)](#120)
-        - [Chapitre Ier : Dispositions générales (art. L561-1 à L561-2)](#121)
-        - [Chapitre II : Des juridictions (art. L562-1 à L562-37)](#122)
-          - [Section 1 : Le tribunal de première instance (art. L562-1 à L562-24-1)](#123)
-          - [Section 2 : La cour d'appel (art. L562-25 à L562-28)](#124)
-          - [Section 3 : La juridiction de proximité (art. L562-29 à L562-34)](#125)
-          - [Section 4 : Les juridictions des mineurs (art. L562-35)](#126)
-          - [Section 5 : La cour d'assises (art. L562-36 à L562-37)](#127)
-        - [Chapitre III : Du greffe (art. L563-1)](#128)
-  - [Partie réglementaire (art. R111-1 à Annexe Tableau XVII)](#129)
-    - [LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES (art. R111-1 à R131-11)](#130)
-      - [TITRE IER : PRINCIPES GENERAUX (art. R111-1 à R111-8)](#131)
-        - [Chapitre unique (art. R111-1 à R111-8)](#132)
-      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-2)](#133)
-        - [Chapitre Ier : Les juges (art. R121-1 à R121-5)](#134)
-          - [Section 2 : Le service juridictionnel (art. R121-1 à R121-5)](#135)
-        - [Chapitre II : Le ministère public (art. R122-1 à R122-5)](#136)
-          - [Section 1 : Organisation (art. R122-1)](#137)
-          - [Section 2 : Fonctionnement (art. R122-2 à R122-5)](#138)
-        - [Chapitre III : Le greffe (art. R123-1 à R123-25)](#139)
-          - [Section 1 : Organisation (art. R123-1 à R123-2)](#140)
-          - [Section 2 : Fonctionnement (art. R123-3 à R123-19)](#141)
-          - [Section 3 : Régies (art. R123-20 à R123-25)](#142)
-        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-2)](#143)
-      - [TITRE III : MAISONS DE JUSTICE ET DU DROIT (art. R131-1 à R131-11)](#144)
-        - [Chapitre unique (art. R131-1 à R131-11)](#145)
-    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRE (art. D211-1 à R253-1)](#146)
-      - [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE (art. D211-1 à R216-1)](#147)
-        - [Chapitre Ier : Institution et compétence (art. D211-1 à R211-13)](#148)
-          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7)](#149)
-            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. R211-3 à R211-4)](#150)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7)](#151)
-          - [Section 2 : Compétence territoriale (art. R211-11 à R211-13)](#152)
-        - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-59)](#153)
-          - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#154)
-          - [Section 2 : Le parquet (art. R212-12 à R212-15)](#155)
-          - [Section 3 : Le greffe (art. R212-16 à R212-17)](#156)
-          - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#157)
-          - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#158)
-            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#159)
-            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R212-34 à R212-37)](#160)
-            - [Sous-section 3 : L'assemblée des magistrats du parquet (art. R212-38 à R212-40)](#161)
-            - [Sous-section 4 : L'assemblée des magistrats du siège et du parquet (art. R212-41 à R212-44)](#162)
-            - [Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome (art. R212-45 à R212-48)](#163)
-            - [Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R212-49 à R212-50)](#164)
-            - [Sous-section 7 : La commission permanente (art. R212-51 à R212-54)](#165)
-            - [Sous-section 8 : La commission restreinte (art. R212-55 à R212-57)](#166)
-          - [Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance (art. R212-58 à R212-59)](#167)
-        - [Chapitre III : Fonctions particulières (art. R213-1 à R213-13)](#168)
-          - [Section 1 : Fonctions particulières exercées en matière civile (art. R213-1 à R213-12)](#169)
-            - [Sous-section 1 : Le président du tribunal de grande instance (art. R213-1 à R213-6)](#170)
-            - [Sous-section 2 : Le juge de la mise en état (art. R213-7)](#171)
-            - [Sous-section 3 : Le juge aux affaires familiales (art. R213-8 à R213-9)](#172)
-            - [Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes (art. R213-9-1)](#173)
-            - [Sous-section 4 : Le juge de l'exécution (art. R213-10 à R213-12)](#174)
-          - [Section 2 : Fonctions particulières exercées en matière pénale (art. R213-13)](#175)
-        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. D214-5 à R214-6)](#176)
-        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R215-1 à R215-2)](#177)
-        - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. R216-1)](#178)
-      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. D221-1 à R224-1)](#179)
-        - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#180)
-          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45)](#181)
-            - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#182)
-              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#183)
-              - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#184)
-              - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39-1)](#185)
-              - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#186)
-            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45)](#187)
-          - [Section 2 : Compétence territoriale (art. R221-46 à R221-52)](#188)
-        - [Chapitre II : Organisation et fonctionnement (art. R222-1 à R222-38)](#189)
-          - [Section 1 : Le service juridictionnel (art. R222-1 à R222-4)](#190)
-          - [Section 3 : Le greffe (art. D222-7 à R222-9)](#191)
-          - [Section 4 : Les assemblées générales (art. R222-10 à R222-38)](#192)
-            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R222-11 à R222-21)](#193)
-            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R222-22 à R222-23)](#194)
-            - [Sous-section 3 : L'assemblée des magistrats du siège et du parquet (art. R222-24 à R222-27)](#195)
-            - [Sous-section 4 : L'assemblée des fonctionnaires du greffe (art. R222-28 à R222-29)](#196)
-            - [Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires (art. R222-30 à R222-31)](#197)
-            - [Sous-section 6 : La commission permanente (art. R222-32 à R222-35)](#198)
-            - [Sous-section 7 : La commission restreinte (art. R222-36 à R222-38)](#199)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle (art. D223-2 à R223-13)](#200)
-          - [Section 1 : Institution et compétence (art. D223-2 à R223-1)](#201)
-          - [Section 2 : Organisation et fonctionnement (art. D223-3 à R223-13)](#202)
-            - [Sous-Section 1 : Le livre foncier (art. D223-3 à R223-7)](#203)
-            - [Sous-Section 2 : Le greffe (art. R223-10 à R223-13)](#204)
-        - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. R224-1)](#205)
-      - [TITRE III : LA JURIDICTION DE PROXIMITE (art. D231-1 à R232-10)](#206)
-        - [Chapitre Ier : Institution et compétence (art. D231-1 à R231-6)](#207)
-          - [Section 1 : Compétence matérielle (art. R231-3 à R231-5)](#208)
-            - [Sous-Section 1 : Compétence civile (art. R231-3 à R231-5)](#209)
-          - [Section 2 : Compétence territoriale (art. R231-6)](#210)
-        - [Chapitre II : Organisation et fonctionnement (art. R232-1 à R232-10)](#211)
-          - [Section 1 : Le service juridictionnel (art. R232-3)](#212)
-          - [Section 3 : Le greffe (art. R232-4)](#213)
-          - [Section 4 : Les assemblées générales (art. R232-5 à R232-10)](#214)
-            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R232-6)](#215)
-            - [Sous-Section 2 : L'assemblée des juges de proximité (art. R232-7 à R232-8)](#216)
-            - [Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet (art. R232-9 à R232-10)](#217)
-      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. D251-1 à R253-1)](#218)
-        - [Chapitre Ier : Le tribunal pour enfants (art. D251-1 à R251-13)](#219)
-          - [Section 1 : Institution et compétence (art. D251-1)](#220)
-          - [Section 2 : Organisation et fonctionnement (art. D251-2 à R251-13)](#221)
-        - [Chapitre II : Le juge des enfants (art. R252-1 à R252-2)](#222)
-          - [Section 1 : Institution et compétence (art. R252-1 à R252-2)](#223)
-        - [Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants (art. R253-1)](#224)
-    - [LIVRE III : JURIDICTIONS DU SECOND DEGRE (art. D311-1 à R314-7)](#225)
-      - [TITRE IER : LA COUR D'APPEL (art. D311-1 à R314-7)](#226)
-        - [Chapitre Ier : Compétence (art. D311-1 à D311-11)](#227)
-          - [Section 1 : Dispositions générales (art. D311-1 à R311-3)](#228)
-          - [Section 3 : Dispositions relatives au premier président (art. R311-4 à R311-5)](#229)
-          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. R311-6 à R311-7)](#230)
-          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. D311-8 à D311-11)](#231)
-        - [Chapitre II : Organisation et fonctionnement (art. R312-1 à R312-82)](#232)
-          - [Section 1 : Les formations de la cour d'appel (art. R312-1 à R312-13-2)](#233)
-            - [Sous-Section 1 : Dispositions générales (art. R312-1 à R312-8)](#234)
-            - [Sous-Section 2 : Dispositions particulières à certaines formations (art. R312-9 à R312-13-2)](#235)
-          - [Section 2 : Le parquet général (art. R312-14 à R312-18)](#236)
-          - [Section 3 : Le greffe (art. R312-19)](#237)
-          - [Section 4 : La chambre détachée de Cayenne (art. D312-20 à R312-26)](#238)
+        - [Chapitre Ier bis : Le tribunal correctionnel pour mineurs (art. L251-7 à L251-8)](#58)
+        - [Chapitre II : Le juge des enfants (art. L252-1 à L252-5)](#59)
+        - [Chapitre IV : La cour d'assises des mineurs (art. L254-1)](#60)
+      - [TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION (art. L261-1)](#61)
+        - [Chapitre unique (art. L261-1)](#62)
+    - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ (art. L311-1 à L331-1)](#63)
+      - [TITRE Ier : LA COUR D'APPEL (art. L311-1 à L314-2)](#64)
+        - [Chapitre Ier : Compétence (art. L311-1 à L311-14)](#65)
+          - [Section 1 : Dispositions générales (art. L311-1)](#66)
+          - [Section 2 : Dispositions particulières (art. L311-2 à L311-6)](#67)
+          - [Section 3 : Dispositions relatives au premier président (art. L311-7 à L311-7-1)](#68)
+          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. L311-8 à L311-9)](#69)
+          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. L311-10 à L311-14)](#70)
+        - [Chapitre II : Organisation et fonctionnement (art. L312-1 à L312-7)](#71)
+          - [Section 1 : Les formations de la cour d'appel (art. L312-1 à L312-6-1)](#72)
+            - [Sous-section 1 : Dispositions générales (art. L312-1 à L312-3)](#73)
+            - [Sous-section 2 : Dispositions particulières à certaines formations (art. L312-4 à L312-6-1)](#74)
+          - [Section 2 : Le parquet général (art. L312-7)](#75)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L313-1 à L313-2)](#76)
+        - [Chapitre IV : Dispositions particulières au Département de Mayotte (art. L314-1 à L314-2)](#77)
+      - [TITRE II : LA COUR D'ASSISES STATUANT EN APPEL (art. L321-1)](#78)
+        - [Chapitre unique (art. L321-1)](#79)
+      - [TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL (art. L331-1)](#80)
+        - [Chapitre unique (art. L331-1)](#81)
+    - [LIVRE IV : LA COUR DE CASSATION (art. L411-1 à LO461-2)](#82)
+      - [TITRE Ier : INSTITUTION ET COMPÉTENCE (art. L411-1 à L411-4)](#83)
+        - [Chapitre unique (art. L411-1 à L411-4)](#84)
+      - [TITRE II : ORGANISATION (art. L421-1 à L421-8)](#85)
+        - [Chapitre unique (art. L421-1 à L421-8)](#86)
+      - [TITRE III : FONCTIONNEMENT (art. L431-1 à L432-5)](#87)
+        - [Chapitre Ier : Les chambres de la cour (art. L431-1 à L431-10)](#88)
+          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#89)
+          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. L431-5 à L431-10)](#90)
+        - [Chapitre II : Le parquet général (art. L432-1 à L432-5)](#91)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION (art. L441-1 à L441-4)](#92)
+        - [Chapitre unique (art. L441-1 à L441-4)](#93)
+      - [TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION (art. L451-1 à L451-2)](#94)
+        - [Chapitre unique (art. L451-1 à L451-2)](#95)
+      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. LO461-1 à LO461-2)](#96)
+    - [LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE (art. L511-1 à L563-1)](#97)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L511-1 à L513-11)](#98)
+        - [Chapitre Ier : Dispositions générales (art. L511-1)](#99)
+        - [Chapitre II : Des fonctions judiciaires (art. L512-1 à L512-4)](#100)
+        - [Chapitre III : Des juridictions (art. L513-1 à L513-11)](#101)
+          - [Section 1 : Le tribunal de première instance (art. L513-1 à L513-5-1)](#102)
+          - [Section 2 : Le tribunal supérieur d'appel (art. L513-6 à L513-11)](#103)
+      - [TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA (art. L531-1 à L533-1)](#104)
+        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#105)
+        - [Chapitre II : Des juridictions (art. L532-1 à L532-28)](#106)
+          - [Section 1 : Le tribunal de première instance (art. L532-1 à L532-18)](#107)
+          - [Section 2 : La juridiction de proximité (art. L532-19 à L532-24)](#108)
+          - [Section 3 : Les juridictions des mineurs (art. L532-25 à L532-26)](#109)
+          - [Section 4 : La cour d'assises (art. L532-27 à L532-28)](#110)
+        - [Chapitre III : Du greffe (art. L533-1)](#111)
+      - [TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE (art. L551-1 à L553-1)](#112)
+        - [Chapitre Ier : Dispositions générales (art. L551-1 à L551-2)](#113)
+        - [Chapitre II : Des juridictions (art. L552-1 à L552-21)](#114)
+          - [Section 1 : Le tribunal de première instance (art. L552-1 à L552-9)](#115)
+          - [Section 2 : La cour d'appel (art. L552-10 à L552-12)](#116)
+          - [Section 3 : La juridiction de proximité (art. L552-13 à L552-18)](#117)
+          - [Section 4 : Les juridictions des mineurs (art. L552-19)](#118)
+          - [Section 5 : La cour d'assises (art. L552-20 à L552-21)](#119)
+        - [Chapitre III : Du greffe (art. L553-1)](#120)
+      - [TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE (art. L561-1 à L563-1)](#121)
+        - [Chapitre Ier : Dispositions générales (art. L561-1 à L561-2)](#122)
+        - [Chapitre II : Des juridictions (art. L562-1 à L562-37)](#123)
+          - [Section 1 : Le tribunal de première instance (art. L562-1 à L562-24-1)](#124)
+          - [Section 2 : La cour d'appel (art. L562-25 à L562-28)](#125)
+          - [Section 3 : La juridiction de proximité (art. L562-29 à L562-34)](#126)
+          - [Section 4 : Les juridictions des mineurs (art. L562-35)](#127)
+          - [Section 5 : La cour d'assises (art. L562-36 à L562-37)](#128)
+        - [Chapitre III : Du greffe (art. L563-1)](#129)
+  - [Partie réglementaire (art. R111-1 à Annexe Tableau XVII)](#130)
+    - [LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES (art. R111-1 à R131-11)](#131)
+      - [TITRE IER : PRINCIPES GENERAUX (art. R111-1 à R111-8)](#132)
+        - [Chapitre unique (art. R111-1 à R111-8)](#133)
+      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-2)](#134)
+        - [Chapitre Ier : Les juges (art. R121-1 à R121-5)](#135)
+          - [Section 2 : Le service juridictionnel (art. R121-1 à R121-5)](#136)
+        - [Chapitre II : Le ministère public (art. R122-1 à R122-5)](#137)
+          - [Section 1 : Organisation (art. R122-1)](#138)
+          - [Section 2 : Fonctionnement (art. R122-2 à R122-5)](#139)
+        - [Chapitre III : Le greffe (art. R123-1 à R123-25)](#140)
+          - [Section 1 : Organisation (art. R123-1 à R123-2)](#141)
+          - [Section 2 : Fonctionnement (art. R123-3 à R123-19)](#142)
+          - [Section 3 : Régies (art. R123-20 à R123-25)](#143)
+        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-2)](#144)
+      - [TITRE III : MAISONS DE JUSTICE ET DU DROIT (art. R131-1 à R131-11)](#145)
+        - [Chapitre unique (art. R131-1 à R131-11)](#146)
+    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRE (art. D211-1 à R253-1)](#147)
+      - [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE (art. D211-1 à R216-1)](#148)
+        - [Chapitre Ier : Institution et compétence (art. D211-1 à R211-13)](#149)
+          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7)](#150)
+            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. R211-3 à R211-4)](#151)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7)](#152)
+          - [Section 2 : Compétence territoriale (art. R211-11 à R211-13)](#153)
+        - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-59)](#154)
+          - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#155)
+          - [Section 2 : Le parquet (art. R212-12 à R212-15)](#156)
+          - [Section 3 : Le greffe (art. R212-16 à R212-17)](#157)
+          - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#158)
+          - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#159)
+            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#160)
+            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R212-34 à R212-37)](#161)
+            - [Sous-section 3 : L'assemblée des magistrats du parquet (art. R212-38 à R212-40)](#162)
+            - [Sous-section 4 : L'assemblée des magistrats du siège et du parquet (art. R212-41 à R212-44)](#163)
+            - [Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome (art. R212-45 à R212-48)](#164)
+            - [Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R212-49 à R212-50)](#165)
+            - [Sous-section 7 : La commission permanente (art. R212-51 à R212-54)](#166)
+            - [Sous-section 8 : La commission restreinte (art. R212-55 à R212-57)](#167)
+          - [Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance (art. R212-58 à R212-59)](#168)
+        - [Chapitre III : Fonctions particulières (art. R213-1 à R213-13)](#169)
+          - [Section 1 : Fonctions particulières exercées en matière civile (art. R213-1 à R213-12)](#170)
+            - [Sous-section 1 : Le président du tribunal de grande instance (art. R213-1 à R213-6)](#171)
+            - [Sous-section 2 : Le juge de la mise en état (art. R213-7)](#172)
+            - [Sous-section 3 : Le juge aux affaires familiales (art. R213-8 à R213-9)](#173)
+            - [Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes (art. R213-9-1)](#174)
+            - [Sous-section 4 : Le juge de l'exécution (art. R213-10 à R213-12)](#175)
+          - [Section 2 : Fonctions particulières exercées en matière pénale (art. R213-13)](#176)
+        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. D214-5 à R214-6)](#177)
+        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R215-1 à R215-2)](#178)
+        - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. R216-1)](#179)
+      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. D221-1 à R224-1)](#180)
+        - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#181)
+          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45)](#182)
+            - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#183)
+              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#184)
+              - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#185)
+              - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39-1)](#186)
+              - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#187)
+            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45)](#188)
+          - [Section 2 : Compétence territoriale (art. R221-46 à R221-52)](#189)
+        - [Chapitre II : Organisation et fonctionnement (art. R222-1 à R222-38)](#190)
+          - [Section 1 : Le service juridictionnel (art. R222-1 à R222-4)](#191)
+          - [Section 3 : Le greffe (art. D222-7 à R222-9)](#192)
+          - [Section 4 : Les assemblées générales (art. R222-10 à R222-38)](#193)
+            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R222-11 à R222-21)](#194)
+            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R222-22 à R222-23)](#195)
+            - [Sous-section 3 : L'assemblée des magistrats du siège et du parquet (art. R222-24 à R222-27)](#196)
+            - [Sous-section 4 : L'assemblée des fonctionnaires du greffe (art. R222-28 à R222-29)](#197)
+            - [Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires (art. R222-30 à R222-31)](#198)
+            - [Sous-section 6 : La commission permanente (art. R222-32 à R222-35)](#199)
+            - [Sous-section 7 : La commission restreinte (art. R222-36 à R222-38)](#200)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle (art. D223-2 à R223-13)](#201)
+          - [Section 1 : Institution et compétence (art. D223-2 à R223-1)](#202)
+          - [Section 2 : Organisation et fonctionnement (art. D223-3 à R223-13)](#203)
+            - [Sous-Section 1 : Le livre foncier (art. D223-3 à R223-7)](#204)
+            - [Sous-Section 2 : Le greffe (art. R223-10 à R223-13)](#205)
+        - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. R224-1)](#206)
+      - [TITRE III : LA JURIDICTION DE PROXIMITE (art. D231-1 à R232-10)](#207)
+        - [Chapitre Ier : Institution et compétence (art. D231-1 à R231-6)](#208)
+          - [Section 1 : Compétence matérielle (art. R231-3 à R231-5)](#209)
+            - [Sous-Section 1 : Compétence civile (art. R231-3 à R231-5)](#210)
+          - [Section 2 : Compétence territoriale (art. R231-6)](#211)
+        - [Chapitre II : Organisation et fonctionnement (art. R232-1 à R232-10)](#212)
+          - [Section 1 : Le service juridictionnel (art. R232-3)](#213)
+          - [Section 3 : Le greffe (art. R232-4)](#214)
+          - [Section 4 : Les assemblées générales (art. R232-5 à R232-10)](#215)
+            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R232-6)](#216)
+            - [Sous-Section 2 : L'assemblée des juges de proximité (art. R232-7 à R232-8)](#217)
+            - [Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet (art. R232-9 à R232-10)](#218)
+      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. D251-1 à R253-1)](#219)
+        - [Chapitre Ier : Le tribunal pour enfants (art. D251-1 à R251-13)](#220)
+          - [Section 1 : Institution et compétence (art. D251-1)](#221)
+          - [Section 2 : Organisation et fonctionnement (art. D251-2 à R251-13)](#222)
+        - [Chapitre II : Le juge des enfants (art. R252-1 à R252-2)](#223)
+          - [Section 1 : Institution et compétence (art. R252-1 à R252-2)](#224)
+        - [Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants (art. R253-1)](#225)
+    - [LIVRE III : JURIDICTIONS DU SECOND DEGRE (art. D311-1 à R314-7)](#226)
+      - [TITRE IER : LA COUR D'APPEL (art. D311-1 à R314-7)](#227)
+        - [Chapitre Ier : Compétence (art. D311-1 à D311-11)](#228)
+          - [Section 1 : Dispositions générales (art. D311-1 à R311-3)](#229)
+          - [Section 3 : Dispositions relatives au premier président (art. R311-4 à R311-5)](#230)
+          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. R311-6 à R311-7)](#231)
+          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. D311-8 à D311-11)](#232)
+        - [Chapitre II : Organisation et fonctionnement (art. R312-1 à R312-82)](#233)
+          - [Section 1 : Les formations de la cour d'appel (art. R312-1 à R312-13-2)](#234)
+            - [Sous-Section 1 : Dispositions générales (art. R312-1 à R312-8)](#235)
+            - [Sous-Section 2 : Dispositions particulières à certaines formations (art. R312-9 à R312-13-2)](#236)
+          - [Section 2 : Le parquet général (art. R312-14 à R312-18)](#237)
+          - [Section 3 : Le greffe (art. R312-19)](#238)
           - [Section 5 : Les assemblées générales (art. R312-27 à R312-64)](#239)
             - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R312-28 à R312-38)](#240)
             - [Sous-Section 2 : L'assemblée des magistrats du siège (art. R312-39 à R312-44)](#241)
@@ -1105,21 +1105,19 @@ _Cité par_:
 Le tribunal de grande instance connaît des demandes relatives aux frais, émoluments et débours des auxiliaires de justice et
 des officiers publics ou ministériels dans les cas prévus par l'article 52 du code de procédure civile, sans préjudice des
 dispositions particulières en matière d'honoraires d'avocats énoncées à l'article L. 311-7 du présent code et à l'article 179
-du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat, et d'honoraires d'avoués énoncées par l'article 5
-de la loi n° 57-1420 du 31 décembre 1957 sur le recouvrement des honoraires des avocats.
+du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°57-1420 du 31 décembre 1957 - art. 5 (V)
-  - Décret n°91-1197 du 27 novembre 1991 - art. 179 (V)
-  - Code de procédure civile - art. 52 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-7 (V)
+  - Décret n°91-1197 du 27 novembre 1991 - art. 179
+  - Code de procédure civile - art. 52
+  - Code de l'organisation judiciaire - art. L311-7
 
 _Modifié par_:
 
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
 ###### Article L211-7
@@ -1144,27 +1142,23 @@ _Créé par_:
 
 ###### Article L211-8
 
-Le tribunal de grande instance est la juridiction disciplinaire des avoués, des commissaires-priseurs judiciaires, des
-huissiers de justice et des notaires dans les cas et conditions prévus par l'ordonnance n° 45-1418 du 28 juin 1945 relative à
-la discipline des notaires et de certains officiers ministériels.
+Le tribunal de grande instance est la juridiction disciplinaire   des commissaires-priseurs judiciaires, des huissiers de
+justice et des notaires dans les cas et conditions prévus par l'ordonnance n° 45-1418 du 28 juin 1945 relative à la
+discipline des notaires et de certains officiers ministériels.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-1418 du 28 juin 1945 (V)
+  - Ordonnance n°45-1418 du 28 juin 1945
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-3 (Ab)
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
 ###### Article L211-9
@@ -3030,7 +3024,46 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-5 (Ab)
 
 
-#### Chapitre II : Le juge des enfants<a id=58></a>
+#### Chapitre Ier bis : Le tribunal correctionnel pour mineurs<a id=58></a>
+
+###### Article L251-7
+
+Le tribunal correctionnel pour mineurs constitue une formation spécialisée du tribunal correctionnel.
+
+Les règles concernant la compétence, la composition et le fonctionnement sont fixées par l'ordonnance n° 45-174 du 2 février
+1945 relative à l'enfance délinquante.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945
+
+_Créé par_:
+
+  - Loi n°2011-939 du 10 août 2011 - art. 51
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 29 (V)
+
+
+###### Article L251-8
+
+Il y a un tribunal correctionnel pour mineurs dans chaque tribunal de grande instance où se trouve un tribunal pour enfants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-939 du 10 août 2011 - art. 51
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 29 (V)
+
+
+#### Chapitre II : Le juge des enfants<a id=59></a>
 
 ###### Article L252-1
 
@@ -3124,7 +3157,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-2 (Ab)
 
 
-#### Chapitre IV : La cour d'assises des mineurs<a id=59></a>
+#### Chapitre IV : La cour d'assises des mineurs<a id=60></a>
 
 ###### Article L254-1
 
@@ -3156,9 +3189,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-3 (Ab)
 
 
-### TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION<a id=60></a>
+### TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION<a id=61></a>
 
-#### Chapitre unique<a id=61></a>
+#### Chapitre unique<a id=62></a>
 
 ###### Article L261-1
 
@@ -3199,13 +3232,13 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L561-1 (VD)
 
 
-## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=62></a>
+## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=63></a>
 
-### TITRE Ier : LA COUR D'APPEL<a id=63></a>
+### TITRE Ier : LA COUR D'APPEL<a id=64></a>
 
-#### Chapitre Ier : Compétence<a id=64></a>
+#### Chapitre Ier : Compétence<a id=65></a>
 
-##### Section 1 : Dispositions générales<a id=65></a>
+##### Section 1 : Dispositions générales<a id=66></a>
 
 ###### Article L311-1
 
@@ -3235,7 +3268,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
 
 
-##### Section 2 : Dispositions particulières<a id=66></a>
+##### Section 2 : Dispositions particulières<a id=67></a>
 
 ###### Article L311-2
 
@@ -3296,7 +3329,7 @@ _Cité par_:
 
 La cour d'appel connaît :
 
-1° En ce qui concerne le stage des avoués, des recours contre les décisions de la chambre de la compagnie des avoués ;
+1° (Abrogé)
 
 2° En ce qui concerne le stage des huissiers de justice, des recours contre les décisions de la chambre départementale des
 huissiers de justice ;
@@ -3308,46 +3341,46 @@ formation professionnelle des notaires.
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-94 du 25 janvier 2011 - art. 33 (V)
 
 
 ###### Article L311-5
 
-La cour d'appel connaît, en ce qui concerne la discipline des avoués, des commissaires-priseurs judiciaires, des huissiers de
-justice et des notaires, des recours contre les décisions de la chambre de discipline.
+La cour d'appel connaît, en ce qui concerne la discipline   des commissaires-priseurs judiciaires, des huissiers de justice
+et des notaires, des recours contre les décisions de la chambre de discipline.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
 ###### Article L311-6
 
 La cour d'appel connaît des contestations relatives à la régularité des élections des membres des organismes professionnels
-des avoués, des commissaires-priseurs judiciaires, des huissiers de justice et des notaires.
+des commissaires-priseurs judiciaires, des huissiers de justice et des notaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
-##### Section 3 : Dispositions relatives au premier président<a id=67></a>
+##### Section 3 : Dispositions relatives au premier président<a id=68></a>
 
 ###### Article L311-7
 
@@ -3391,7 +3424,7 @@ _Créé par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
-##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=68></a>
+##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=69></a>
 
 ###### Article L311-8
 
@@ -3443,7 +3476,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
 
 
-##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=69></a>
+##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=70></a>
 
 ###### Article L311-10
 
@@ -3545,11 +3578,11 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=70></a>
+#### Chapitre II : Organisation et fonctionnement<a id=71></a>
 
-##### Section 1 : Les formations de la cour d'appel<a id=71></a>
+##### Section 1 : Les formations de la cour d'appel<a id=72></a>
 
-##### Sous-section 1 : Dispositions générales<a id=72></a>
+##### Sous-section 1 : Dispositions générales<a id=73></a>
 
 ###### Article L312-1
 
@@ -3597,8 +3630,7 @@ _Cité par_:
 
 ###### Article L312-3
 
-Les avocats dans l'ordre du tableau et, après eux, les avoués selon la date de leur réception, peuvent être appelés à
-suppléer les conseillers pour compléter la cour d'appel.
+Les avocats dans l'ordre du tableau peuvent être appelés à suppléer les conseillers pour compléter la cour d'appel.
 
 Toutefois, la formation de jugement de la cour d'appel ne peut comprendre, en matière pénale, une majorité de juges non
 professionnels.
@@ -3607,18 +3639,14 @@ professionnels.
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-2 (Ab)
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
-##### Sous-section 2 : Dispositions particulières à certaines formations<a id=73></a>
+##### Sous-section 2 : Dispositions particulières à certaines formations<a id=74></a>
 
 ###### Article L312-4
 
@@ -3724,7 +3752,7 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
-##### Section 2 : Le parquet général<a id=74></a>
+##### Section 2 : Le parquet général<a id=75></a>
 
 ###### Article L312-7
 
@@ -3750,7 +3778,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=75></a>
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=76></a>
 
 ###### Article L313-1
 
@@ -3802,7 +3830,7 @@ _Cité par_:
   - Code des transports - art. L4262-4 (V)
 
 
-#### Chapitre IV : Dispositions particulières au Département de Mayotte<a id=76></a>
+#### Chapitre IV : Dispositions particulières au Département de Mayotte<a id=77></a>
 
 ###### Article L314-1
 
@@ -3842,9 +3870,9 @@ _Abrogé par_:
   - Ordonnance n°2014-464 du 7 mai 2014 - art. 21
 
 
-### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL<a id=77></a>
+### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL<a id=78></a>
 
-#### Chapitre unique<a id=78></a>
+#### Chapitre unique<a id=79></a>
 
 ###### Article L321-1
 
@@ -3862,9 +3890,9 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL<a id=79></a>
+### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL<a id=80></a>
 
-#### Chapitre unique<a id=80></a>
+#### Chapitre unique<a id=81></a>
 
 ###### Article L331-1
 
@@ -3890,11 +3918,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L450-1, ecqc CNITAAT (Ab)
 
 
-## LIVRE IV : LA COUR DE CASSATION<a id=81></a>
+## LIVRE IV : LA COUR DE CASSATION<a id=82></a>
 
-### TITRE Ier : INSTITUTION ET COMPÉTENCE<a id=82></a>
+### TITRE Ier : INSTITUTION ET COMPÉTENCE<a id=83></a>
 
-#### Chapitre unique<a id=83></a>
+#### Chapitre unique<a id=84></a>
 
 ###### Article L411-1
 
@@ -3992,9 +4020,9 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE II : ORGANISATION<a id=84></a>
+### TITRE II : ORGANISATION<a id=85></a>
 
-#### Chapitre unique<a id=85></a>
+#### Chapitre unique<a id=86></a>
 
 ###### Article L421-1
 
@@ -4161,11 +4189,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 2 (Ab)
 
 
-### TITRE III : FONCTIONNEMENT<a id=86></a>
+### TITRE III : FONCTIONNEMENT<a id=87></a>
 
-#### Chapitre Ier : Les chambres de la cour<a id=87></a>
+#### Chapitre Ier : Les chambres de la cour<a id=88></a>
 
-##### Section 1 : Dispositions générales<a id=88></a>
+##### Section 1 : Dispositions générales<a id=89></a>
 
 ###### Article L431-1
 
@@ -4277,7 +4305,7 @@ _Cité par_:
   - Code de procédure civile - art. 626 (V)
 
 
-##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=89></a>
+##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=90></a>
 
 ###### Article L431-5
 
@@ -4408,7 +4436,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et chambres (Ab)
 
 
-#### Chapitre II : Le parquet général<a id=90></a>
+#### Chapitre II : Le parquet général<a id=91></a>
 
 ###### Article L432-1
 
@@ -4509,9 +4537,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et parquet général (Ab)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION<a id=91></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION<a id=92></a>
 
-#### Chapitre unique<a id=92></a>
+#### Chapitre unique<a id=93></a>
 
 ###### Article L441-1
 
@@ -4601,9 +4629,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-3 (Ab)
 
 
-### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION<a id=93></a>
+### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION<a id=94></a>
 
-#### Chapitre unique<a id=94></a>
+#### Chapitre unique<a id=95></a>
 
 ###### Article L451-1
 
@@ -4646,7 +4674,7 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=95></a>
+### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=96></a>
 
 ###### Article LO461-1
 
@@ -4681,11 +4709,11 @@ _Créé par_:
   - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
 
 
-## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE<a id=96></a>
+## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE<a id=97></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=97></a>
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=98></a>
 
-#### Chapitre Ier : Dispositions générales<a id=98></a>
+#### Chapitre Ier : Dispositions générales<a id=99></a>
 
 ###### Article L511-1
 
@@ -4718,7 +4746,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-13 (Ab)
 
 
-#### Chapitre II : Des fonctions judiciaires<a id=99></a>
+#### Chapitre II : Des fonctions judiciaires<a id=100></a>
 
 ###### Article L512-1
 
@@ -4822,9 +4850,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-4 (Ab)
 
 
-#### Chapitre III : Des juridictions<a id=100></a>
+#### Chapitre III : Des juridictions<a id=101></a>
 
-##### Section 1 : Le tribunal de première instance<a id=101></a>
+##### Section 1 : Le tribunal de première instance<a id=102></a>
 
 ###### Article L513-1
 
@@ -4974,7 +5002,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L214-2 (V)
 
 
-##### Section 2 : Le tribunal supérieur d'appel<a id=102></a>
+##### Section 2 : Le tribunal supérieur d'appel<a id=103></a>
 
 ###### Article L513-6
 
@@ -5141,9 +5169,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-14 (Ab)
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA<a id=103></a>
+### TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA<a id=104></a>
 
-#### Chapitre Ier : Dispositions générales<a id=104></a>
+#### Chapitre Ier : Dispositions générales<a id=105></a>
 
 ###### Article L531-1
 
@@ -5184,9 +5212,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc WF (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=105></a>
+#### Chapitre II : Des juridictions<a id=106></a>
 
-##### Section 1 : Le tribunal de première instance<a id=106></a>
+##### Section 1 : Le tribunal de première instance<a id=107></a>
 
 ###### Article L532-1
 
@@ -5664,7 +5692,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8, alinéa 2 (Ab)
 
 
-##### Section 2 : La juridiction de proximité<a id=107></a>
+##### Section 2 : La juridiction de proximité<a id=108></a>
 
 ###### Article L532-19
 
@@ -5899,7 +5927,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-9 (Ab)
 
 
-##### Section 3 : Les juridictions des mineurs<a id=108></a>
+##### Section 3 : Les juridictions des mineurs<a id=109></a>
 
 ###### Article L532-25
 
@@ -5940,7 +5968,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-9 (Ab)
 
 
-##### Section 4 : La cour d'assises<a id=109></a>
+##### Section 4 : La cour d'assises<a id=110></a>
 
 ###### Article L532-27
 
@@ -5981,7 +6009,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc WF (Ab)
 
 
-#### Chapitre III : Du greffe<a id=110></a>
+#### Chapitre III : Du greffe<a id=111></a>
 
 ###### Article L533-1
 
@@ -6004,9 +6032,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc WF (Ab)
 
 
-### TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE<a id=111></a>
+### TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE<a id=112></a>
 
-#### Chapitre Ier : Dispositions générales<a id=112></a>
+#### Chapitre Ier : Dispositions générales<a id=113></a>
 
 ###### Article L551-1
 
@@ -6047,9 +6075,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc PF (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=113></a>
+#### Chapitre II : Des juridictions<a id=114></a>
 
-##### Section 1 : Le tribunal de première instance<a id=114></a>
+##### Section 1 : Le tribunal de première instance<a id=115></a>
 
 ###### Article L552-1
 
@@ -6258,7 +6286,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9, ecqc PF (Ab)
 
 
-##### Section 2 : La cour d'appel<a id=115></a>
+##### Section 2 : La cour d'appel<a id=116></a>
 
 ###### Article L552-10
 
@@ -6334,7 +6362,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-4, ecqc PF (Ab)
 
 
-##### Section 3 : La juridiction de proximité<a id=116></a>
+##### Section 3 : La juridiction de proximité<a id=117></a>
 
 ###### Article L552-13
 
@@ -6569,7 +6597,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-9 (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=117></a>
+##### Section 4 : Les juridictions des mineurs<a id=118></a>
 
 ###### Article L552-19
 
@@ -6591,7 +6619,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc PF (Ab)
 
 
-##### Section 5 : La cour d'assises<a id=118></a>
+##### Section 5 : La cour d'assises<a id=119></a>
 
 ###### Article L552-20
 
@@ -6633,7 +6661,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc PF (Ab)
 
 
-#### Chapitre III : Du greffe<a id=119></a>
+#### Chapitre III : Du greffe<a id=120></a>
 
 ###### Article L553-1
 
@@ -6656,9 +6684,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc PF (Ab)
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE<a id=120></a>
+### TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE<a id=121></a>
 
-#### Chapitre Ier : Dispositions générales<a id=121></a>
+#### Chapitre Ier : Dispositions générales<a id=122></a>
 
 ###### Article L561-1
 
@@ -6699,9 +6727,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc NC (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=122></a>
+#### Chapitre II : Des juridictions<a id=123></a>
 
-##### Section 1 : Le tribunal de première instance<a id=123></a>
+##### Section 1 : Le tribunal de première instance<a id=124></a>
 
 ###### Article L562-1
 
@@ -7304,7 +7332,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L213-3
 
 
-##### Section 2 : La cour d'appel<a id=124></a>
+##### Section 2 : La cour d'appel<a id=125></a>
 
 ###### Article L562-25
 
@@ -7407,7 +7435,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L562-20 (V)
 
 
-##### Section 3 : La juridiction de proximité<a id=125></a>
+##### Section 3 : La juridiction de proximité<a id=126></a>
 
 ###### Article L562-29
 
@@ -7642,7 +7670,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-9 (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=126></a>
+##### Section 4 : Les juridictions des mineurs<a id=127></a>
 
 ###### Article L562-35
 
@@ -7664,7 +7692,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc NC (Ab)
 
 
-##### Section 5 : La cour d'assises<a id=127></a>
+##### Section 5 : La cour d'assises<a id=128></a>
 
 ###### Article L562-36
 
@@ -7706,7 +7734,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc NC (Ab)
 
 
-#### Chapitre III : Du greffe<a id=128></a>
+#### Chapitre III : Du greffe<a id=129></a>
 
 ###### Article L563-1
 
@@ -7729,13 +7757,13 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc NC (Ab)
 
 
-# Partie réglementaire<a id=129></a>
+# Partie réglementaire<a id=130></a>
 
-## LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES<a id=130></a>
+## LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES<a id=131></a>
 
-### TITRE IER : PRINCIPES GENERAUX<a id=131></a>
+### TITRE IER : PRINCIPES GENERAUX<a id=132></a>
 
-#### Chapitre unique<a id=132></a>
+#### Chapitre unique<a id=133></a>
 
 ###### Article R111-1
 
@@ -7912,11 +7940,11 @@ _Créé par_:
   - Décret n°2010-1234 du 20 octobre 2010 - art. 2
 
 
-### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT<a id=133></a>
+### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT<a id=134></a>
 
-#### Chapitre Ier : Les juges<a id=134></a>
+#### Chapitre Ier : Les juges<a id=135></a>
 
-##### Section 2 : Le service juridictionnel<a id=135></a>
+##### Section 2 : Le service juridictionnel<a id=136></a>
 
 ###### Article R121-1
 
@@ -8040,9 +8068,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*791-1 (Ab)
 
 
-#### Chapitre II : Le ministère public<a id=136></a>
+#### Chapitre II : Le ministère public<a id=137></a>
 
-##### Section 1 : Organisation<a id=137></a>
+##### Section 1 : Organisation<a id=138></a>
 
 ###### Article R122-1
 
@@ -8059,7 +8087,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*751-1 (Ab)
 
 
-##### Section 2 : Fonctionnement<a id=138></a>
+##### Section 2 : Fonctionnement<a id=139></a>
 
 ###### Article R122-2
 
@@ -8169,9 +8197,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R217-1 (V)
 
 
-#### Chapitre III : Le greffe<a id=139></a>
+#### Chapitre III : Le greffe<a id=140></a>
 
-##### Section 1 : Organisation<a id=140></a>
+##### Section 1 : Organisation<a id=141></a>
 
 ###### Article R123-1
 
@@ -8217,7 +8245,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-##### Section 2 : Fonctionnement<a id=141></a>
+##### Section 2 : Fonctionnement<a id=142></a>
 
 ###### Article R123-3
 
@@ -8651,7 +8679,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-##### Section 3 : Régies<a id=142></a>
+##### Section 3 : Régies<a id=143></a>
 
 ###### Article R123-20
 
@@ -8814,7 +8842,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-24 (V)
 
 
-#### Chapitre IV : Siège et ressort des juridictions<a id=143></a>
+#### Chapitre IV : Siège et ressort des juridictions<a id=144></a>
 
 ###### Article R124-1
 
@@ -8882,9 +8910,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-### TITRE III : MAISONS DE JUSTICE ET DU DROIT<a id=144></a>
+### TITRE III : MAISONS DE JUSTICE ET DU DROIT<a id=145></a>
 
-#### Chapitre unique<a id=145></a>
+#### Chapitre unique<a id=146></a>
 
 ###### Article R131-1
 
@@ -9166,11 +9194,11 @@ _Cite_:
   - Code de l'organisation judiciaire - art. Annexe Tableau III (V)
 
 
-## LIVRE II : JURIDICTIONS DU PREMIER DEGRE<a id=146></a>
+## LIVRE II : JURIDICTIONS DU PREMIER DEGRE<a id=147></a>
 
-### TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE<a id=147></a>
+### TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE<a id=148></a>
 
-#### Chapitre Ier : Institution et compétence<a id=148></a>
+#### Chapitre Ier : Institution et compétence<a id=149></a>
 
 ###### Article D211-1
 
@@ -9240,9 +9268,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-7 (Ab)
 
 
-##### Section 1 : Compétence matérielle<a id=149></a>
+##### Section 1 : Compétence matérielle<a id=150></a>
 
-##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=150></a>
+##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=151></a>
 
 ###### Article R211-3
 
@@ -9312,7 +9340,7 @@ _Modifié par_:
   - Décret n°2009-1693 du 29 décembre 2009 - art. 1
 
 
-##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=151></a>
+##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=152></a>
 
 ###### Article D211-5
 
@@ -9517,7 +9545,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R717-11 (V)
 
 
-##### Section 2 : Compétence territoriale<a id=152></a>
+##### Section 2 : Compétence territoriale<a id=153></a>
 
 ###### Article R211-11
 
@@ -9570,7 +9598,7 @@ _Créé par_:
   - Décret n°2009-1693 du 29 décembre 2009 - art. 2
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=153></a>
+#### Chapitre II : Organisation et fonctionnement<a id=154></a>
 
 ###### Article R212-1
 
@@ -9610,7 +9638,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-10 (Ab)
 
 
-##### Section 1 : Le service juridictionnel<a id=154></a>
+##### Section 1 : Le service juridictionnel<a id=155></a>
 
 ###### Article R212-3
 
@@ -9877,7 +9905,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-9 (V)
 
 
-##### Section 2 : Le parquet<a id=155></a>
+##### Section 2 : Le parquet<a id=156></a>
 
 ###### Article R212-12
 
@@ -9986,7 +10014,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-23 (V)
 
 
-##### Section 3 : Le greffe<a id=156></a>
+##### Section 3 : Le greffe<a id=157></a>
 
 ###### Article R212-16
 
@@ -10036,7 +10064,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-8 (V)
 
 
-##### Section 4 : Les chambres détachées<a id=157></a>
+##### Section 4 : Les chambres détachées<a id=158></a>
 
 ###### Article D212-19
 
@@ -10143,7 +10171,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R522-8 (Ab)
 
 
-##### Section 5 : Les assemblées générales<a id=158></a>
+##### Section 5 : Les assemblées générales<a id=159></a>
 
 ###### Article R212-22
 
@@ -10179,7 +10207,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-46 ecqc TGI (Ab)
 
 
-##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=159></a>
+##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=160></a>
 
 ###### Article R212-23
 
@@ -10425,7 +10453,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-14 ecqc TGI (Ab)
 
 
-##### Sous-section 2 : L'assemblée des magistrats du siège<a id=160></a>
+##### Sous-section 2 : L'assemblée des magistrats du siège<a id=161></a>
 
 ###### Article R212-34
 
@@ -10558,7 +10586,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-30 (M)
 
 
-##### Sous-section 3 : L'assemblée des magistrats du parquet<a id=161></a>
+##### Sous-section 3 : L'assemblée des magistrats du parquet<a id=162></a>
 
 ###### Article R212-38
 
@@ -10633,7 +10661,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-26 ecqc TGI (Ab)
 
 
-##### Sous-section 4 : L'assemblée des magistrats du siège et du parquet<a id=162></a>
+##### Sous-section 4 : L'assemblée des magistrats du siège et du parquet<a id=163></a>
 
 ###### Article R212-41
 
@@ -10762,7 +10790,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R217-1 (V)
 
 
-##### Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome<a id=163></a>
+##### Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome<a id=164></a>
 
 ###### Article R212-45
 
@@ -10863,7 +10891,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-33 al 2 ecqc TGI (Ab)
 
 
-##### Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=164></a>
+##### Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=165></a>
 
 ###### Article R212-49
 
@@ -10916,7 +10944,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-37 ecqc TGI (Ab)
 
 
-##### Sous-section 7 : La commission permanente<a id=165></a>
+##### Sous-section 7 : La commission permanente<a id=166></a>
 
 ###### Article R212-51
 
@@ -11021,7 +11049,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-45 ecqc TGI (Ab)
 
 
-##### Sous-section 8 : La commission restreinte<a id=166></a>
+##### Sous-section 8 : La commission restreinte<a id=167></a>
 
 ###### Article R212-55
 
@@ -11091,7 +11119,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-50 ecqc TGI (Ab)
 
 
-##### Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance<a id=167></a>
+##### Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance<a id=168></a>
 
 ###### Article R212-58
 
@@ -11141,11 +11169,11 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-31 (VD)
 
 
-#### Chapitre III : Fonctions particulières<a id=168></a>
+#### Chapitre III : Fonctions particulières<a id=169></a>
 
-##### Section 1 : Fonctions particulières exercées en matière civile<a id=169></a>
+##### Section 1 : Fonctions particulières exercées en matière civile<a id=170></a>
 
-##### Sous-section 1 : Le président du tribunal de grande instance<a id=170></a>
+##### Sous-section 1 : Le président du tribunal de grande instance<a id=171></a>
 
 ###### Article R213-1
 
@@ -11277,7 +11305,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
 
 
-##### Sous-section 2 : Le juge de la mise en état<a id=171></a>
+##### Sous-section 2 : Le juge de la mise en état<a id=172></a>
 
 ###### Article R213-7
 
@@ -11303,7 +11331,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
 
 
-##### Sous-section 3 : Le juge aux affaires familiales<a id=172></a>
+##### Sous-section 3 : Le juge aux affaires familiales<a id=173></a>
 
 ###### Article R213-8
 
@@ -11346,7 +11374,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1, alinéa 5, phrase 2 (Ab)
 
 
-##### Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes<a id=173></a>
+##### Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes<a id=174></a>
 
 ###### Article R213-9-1
 
@@ -11373,7 +11401,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-10 (V)
 
 
-##### Sous-section 4 : Le juge de l'exécution<a id=174></a>
+##### Sous-section 4 : Le juge de l'exécution<a id=175></a>
 
 ###### Article R213-10
 
@@ -11437,7 +11465,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13, ecqc JEX (Ab)
 
 
-##### Section 2 : Fonctions particulières exercées en matière pénale<a id=175></a>
+##### Section 2 : Fonctions particulières exercées en matière pénale<a id=176></a>
 
 ###### Article R213-13
 
@@ -11455,7 +11483,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-6, ecqc juge d'instruction (Ab)
 
 
-#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=176></a>
+#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=177></a>
 
 ###### Article D214-5
 
@@ -11614,7 +11642,7 @@ _Anciens textes_:
   - CODE DE PROCEDURE PENALE - art. R50-6 (Ab)
 
 
-#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=177></a>
+#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=178></a>
 
 ###### Article R215-1
 
@@ -11654,7 +11682,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*915-3 al 1 (Ab)
 
 
-#### Chapitre VI : Dispositions particulières au Département de Mayotte<a id=178></a>
+#### Chapitre VI : Dispositions particulières au Département de Mayotte<a id=179></a>
 
 ###### Article R216-1
 
@@ -11679,9 +11707,9 @@ _Abrogé par_:
   - Décret n°2014-527 du 23 mai 2014 - art. 14
 
 
-### TITRE II : LE TRIBUNAL D'INSTANCE<a id=179></a>
+### TITRE II : LE TRIBUNAL D'INSTANCE<a id=180></a>
 
-#### Chapitre Ier : Institution et compétence<a id=180></a>
+#### Chapitre Ier : Institution et compétence<a id=181></a>
 
 ###### Article D221-1
 
@@ -11763,11 +11791,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 al 3 et 4 (Ab)
 
 
-##### Section 1 : Compétence matérielle<a id=181></a>
+##### Section 1 : Compétence matérielle<a id=182></a>
 
-##### Sous-section 1 : Compétence civile du  tribunal d'instance<a id=182></a>
+##### Sous-section 1 : Compétence civile du  tribunal d'instance<a id=183></a>
 
-##### Paragraphe 1 : Compétence à charge d'appel<a id=183></a>
+##### Paragraphe 1 : Compétence à charge d'appel<a id=184></a>
 
 ###### Article R221-3
 
@@ -12150,7 +12178,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-48 (V)
 
 
-##### Paragraphe 2 : Compétence en dernier ressort<a id=184></a>
+##### Paragraphe 2 : Compétence en dernier ressort<a id=185></a>
 
 ###### Article R221-23
 
@@ -12442,7 +12470,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-##### Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande<a id=185></a>
+##### Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande<a id=186></a>
 
 ###### Article R221-37
 
@@ -12517,7 +12545,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-51-1 (V)
 
 
-##### Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense<a id=186></a>
+##### Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense<a id=187></a>
 
 ###### Article R221-40
 
@@ -12538,7 +12566,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-22 (Ab)
 
 
-##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=187></a>
+##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=188></a>
 
 ###### Article R221-41
 
@@ -12638,7 +12666,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R323-2 (Ab)
 
 
-##### Section 2 : Compétence territoriale<a id=188></a>
+##### Section 2 : Compétence territoriale<a id=189></a>
 
 ###### Article R221-46
 
@@ -12843,9 +12871,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-30-1 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=189></a>
+#### Chapitre II : Organisation et fonctionnement<a id=190></a>
 
-##### Section 1 : Le service juridictionnel<a id=190></a>
+##### Section 1 : Le service juridictionnel<a id=191></a>
 
 ###### Article R222-1
 
@@ -12941,7 +12969,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*323-3 (Ab)
 
 
-##### Section 3 : Le greffe<a id=191></a>
+##### Section 3 : Le greffe<a id=192></a>
 
 ###### Article D222-7
 
@@ -13047,7 +13075,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-3 ecqc TI (Ab)
 
 
-##### Section 4 : Les assemblées générales<a id=192></a>
+##### Section 4 : Les assemblées générales<a id=193></a>
 
 ###### Article R222-10
 
@@ -13085,7 +13113,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc principe (Ab)
 
 
-##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=193></a>
+##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=194></a>
 
 ###### Article R222-11
 
@@ -13333,7 +13361,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-8 (Ab)
 
 
-##### Sous-section 2 : L'assemblée des magistrats du siège<a id=194></a>
+##### Sous-section 2 : L'assemblée des magistrats du siège<a id=195></a>
 
 ###### Article R222-22
 
@@ -13378,7 +13406,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-4 al 2  (Ab)
 
 
-##### Sous-section 3 : L'assemblée des magistrats du siège et du parquet<a id=195></a>
+##### Sous-section 3 : L'assemblée des magistrats du siège et du parquet<a id=196></a>
 
 ###### Article R222-24
 
@@ -13485,7 +13513,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-3 al 3 (Ab)
 
 
-##### Sous-section 4 : L'assemblée des fonctionnaires du greffe<a id=196></a>
+##### Sous-section 4 : L'assemblée des fonctionnaires du greffe<a id=197></a>
 
 ###### Article R222-28
 
@@ -13560,7 +13588,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R222-31 (VD)
 
 
-##### Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires<a id=197></a>
+##### Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires<a id=198></a>
 
 ###### Article R222-30
 
@@ -13619,7 +13647,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-29 (V)
 
 
-##### Sous-section 6 : La commission permanente<a id=198></a>
+##### Sous-section 6 : La commission permanente<a id=199></a>
 
 ###### Article R222-32
 
@@ -13728,7 +13756,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc r 761-45 (Ab)
 
 
-##### Sous-section 7 : La commission restreinte<a id=199></a>
+##### Sous-section 7 : La commission restreinte<a id=200></a>
 
 ###### Article R222-36
 
@@ -13801,9 +13829,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc r761-50 (Ab)
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle<a id=200></a>
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle<a id=201></a>
 
-##### Section 1 : Institution et compétence<a id=201></a>
+##### Section 1 : Institution et compétence<a id=202></a>
 
 ###### Article D223-2
 
@@ -13851,9 +13879,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*911-3 ecqc appel (Ab)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=202></a>
+##### Section 2 : Organisation et fonctionnement<a id=203></a>
 
-##### Sous-Section 1 : Le livre foncier<a id=203></a>
+##### Sous-Section 1 : Le livre foncier<a id=204></a>
 
 ###### Article D223-3
 
@@ -13982,7 +14010,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-8 ecqc plusieurs livres (Ab)
 
 
-##### Sous-Section 2 : Le greffe<a id=204></a>
+##### Sous-Section 2 : Le greffe<a id=205></a>
 
 ###### Article R223-10
 
@@ -14073,7 +14101,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*915-4 (Ab)
 
 
-#### Chapitre IV : Dispositions particulières aux départements d'outre-mer<a id=205></a>
+#### Chapitre IV : Dispositions particulières aux départements d'outre-mer<a id=206></a>
 
 ###### Article R224-1
 
@@ -14092,9 +14120,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-5 al 2 (Ab)
 
 
-### TITRE III : LA JURIDICTION DE PROXIMITE<a id=206></a>
+### TITRE III : LA JURIDICTION DE PROXIMITE<a id=207></a>
 
-#### Chapitre Ier : Institution et compétence<a id=207></a>
+#### Chapitre Ier : Institution et compétence<a id=208></a>
 
 ###### Article D231-1
 
@@ -14156,9 +14184,9 @@ _Abrogé par_:
   - Décret n°2017-683 du 28 avril 2017 - art. 1
 
 
-##### Section 1 : Compétence matérielle<a id=208></a>
+##### Section 1 : Compétence matérielle<a id=209></a>
 
-##### Sous-Section 1 : Compétence civile<a id=209></a>
+##### Sous-Section 1 : Compétence civile<a id=210></a>
 
 ###### Article R231-3
 
@@ -14238,7 +14266,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-2 (Ab)
 
 
-##### Section 2 : Compétence territoriale<a id=210></a>
+##### Section 2 : Compétence territoriale<a id=211></a>
 
 ###### Article R231-6
 
@@ -14260,7 +14288,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-3 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=211></a>
+#### Chapitre II : Organisation et fonctionnement<a id=212></a>
 
 ###### Article R232-1
 
@@ -14302,7 +14330,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-6 (Ab)
 
 
-##### Section 1 : Le service juridictionnel<a id=212></a>
+##### Section 1 : Le service juridictionnel<a id=213></a>
 
 ###### Article R232-3
 
@@ -14337,7 +14365,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L121-3
 
 
-##### Section 3 : Le greffe<a id=213></a>
+##### Section 3 : Le greffe<a id=214></a>
 
 ###### Article R232-4
 
@@ -14358,7 +14386,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*811-7 (Ab)
 
 
-##### Section 4 : Les assemblées générales<a id=214></a>
+##### Section 4 : Les assemblées générales<a id=215></a>
 
 ###### Article R232-5
 
@@ -14385,7 +14413,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 (Ab)
 
 
-##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=215></a>
+##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=216></a>
 
 ###### Article R232-6
 
@@ -14407,7 +14435,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-11 al 2 (Ab)
 
 
-##### Sous-Section 2 : L'assemblée des juges de proximité<a id=216></a>
+##### Sous-Section 2 : L'assemblée des juges de proximité<a id=217></a>
 
 ###### Article R232-7
 
@@ -14451,7 +14479,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-10 phrase 3 (Ab)
 
 
-##### Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet<a id=217></a>
+##### Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet<a id=218></a>
 
 ###### Article R232-9
 
@@ -14510,11 +14538,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 al 2 à 6 (Ab)
 
 
-### TITRE V : LES JURIDICTIONS DES MINEURS<a id=218></a>
+### TITRE V : LES JURIDICTIONS DES MINEURS<a id=219></a>
 
-#### Chapitre Ier : Le tribunal pour enfants<a id=219></a>
+#### Chapitre Ier : Le tribunal pour enfants<a id=220></a>
 
-##### Section 1 : Institution et compétence<a id=220></a>
+##### Section 1 : Institution et compétence<a id=221></a>
 
 ###### Article D251-1
 
@@ -14536,7 +14564,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Annexe Tableau XIV (V)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=221></a>
+##### Section 2 : Organisation et fonctionnement<a id=222></a>
 
 ###### Article D251-2
 
@@ -14826,9 +14854,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*522-10 (Ab)
 
 
-#### Chapitre II : Le juge des enfants<a id=222></a>
+#### Chapitre II : Le juge des enfants<a id=223></a>
 
-##### Section 1 : Institution et compétence<a id=223></a>
+##### Section 1 : Institution et compétence<a id=224></a>
 
 ###### Article R252-1
 
@@ -14858,7 +14886,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-1 (Ab)
 
 
-#### Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants<a id=224></a>
+#### Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants<a id=225></a>
 
 ###### Article R253-1
 
@@ -14876,13 +14904,13 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L871-2 (Ab)
 
 
-## LIVRE III : JURIDICTIONS DU SECOND DEGRE<a id=225></a>
+## LIVRE III : JURIDICTIONS DU SECOND DEGRE<a id=226></a>
 
-### TITRE IER : LA COUR D'APPEL<a id=226></a>
+### TITRE IER : LA COUR D'APPEL<a id=227></a>
 
-#### Chapitre Ier : Compétence<a id=227></a>
+#### Chapitre Ier : Compétence<a id=228></a>
 
-##### Section 1 : Dispositions générales<a id=228></a>
+##### Section 1 : Dispositions générales<a id=229></a>
 
 ###### Article D311-1
 
@@ -14953,7 +14981,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*212-2 (Ab)
 
 
-##### Section 3 : Dispositions relatives au premier président<a id=229></a>
+##### Section 3 : Dispositions relatives au premier président<a id=230></a>
 
 ###### Article R311-4
 
@@ -14986,7 +15014,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=230></a>
+##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=231></a>
 
 ###### Article R311-6
 
@@ -15006,22 +15034,19 @@ _Anciens textes_:
 
 ###### Article R311-7
 
-La chambre spéciale des mineurs connaît de l'appel des décisions du juge des enfants et du tribunal pour enfants.
+La chambre spéciale des mineurs connaît de l'appel des décisions du juge des enfants, du tribunal pour enfants et du tribunal
+correctionnel pour mineurs.
 
 Elle statue dans les mêmes conditions qu'en première instance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-1 (Ab)
+  - Décret n°2011-2022 du 28 décembre 2011 - art. 2
 
 
-##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=231></a>
+##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=232></a>
 
 ###### Article D311-8
 
@@ -15104,11 +15129,11 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=232></a>
+#### Chapitre II : Organisation et fonctionnement<a id=233></a>
 
-##### Section 1 : Les formations de la cour d'appel<a id=233></a>
+##### Section 1 : Les formations de la cour d'appel<a id=234></a>
 
-##### Sous-Section 1 : Dispositions générales<a id=234></a>
+##### Sous-Section 1 : Dispositions générales<a id=235></a>
 
 ###### Article R312-1
 
@@ -15298,7 +15323,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-4 (V)
 
 
-##### Sous-Section 2 : Dispositions particulières à certaines formations<a id=235></a>
+##### Sous-Section 2 : Dispositions particulières à certaines formations<a id=236></a>
 
 ###### Article R312-9
 
@@ -15455,7 +15480,7 @@ _Créé par_:
   - Décret n°2010-1395 du 12 novembre 2010 - art. 7
 
 
-##### Section 2 : Le parquet général<a id=236></a>
+##### Section 2 : Le parquet général<a id=237></a>
 
 ###### Article R312-14
 
@@ -15566,7 +15591,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-26 (Ab)
 
 
-##### Section 3 : Le greffe<a id=237></a>
+##### Section 3 : Le greffe<a id=238></a>
 
 ###### Article R312-19
 
@@ -15589,163 +15614,6 @@ _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-1 ecqc CA (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-3 ecqc CA (Ab)
-
-
-##### Section 4 : La chambre détachée de Cayenne<a id=238></a>
-
-###### Article D312-20
-
-Une chambre détachée de la cour d'appel de Fort-de-France siège à Cayenne pour connaître en appel des décisions rendues par
-les juridictions du premier degré du département de la Guyane.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 1 (Ab)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-24 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
-
-
-###### Article R312-21
-
-La chambre détachée exerce les compétences dévolues à la chambre de l'instruction ainsi qu'aux autres chambres spécialisées
-de la cour d'appel.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 2 (Ab)
-
-
-###### Article R312-22
-
-La chambre détachée est composée de magistrats du siège de la cour d'appel de Fort-de-France.
-
-Le président de la chambre détachée exerce de plein droit les fonctions de président de la chambre de l'instruction.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéas 3 à 5 (Ab)
-
-
-###### Article R312-23
-
-En cas d'absence ou d'empêchement, les magistrats appelés à composer la chambre détachée sont suppléés, pour le service des
-audiences, par des magistrats du siège de la cour d'appel de Fort-de-France désignés à cet effet par ordonnance du premier
-président de la cour d'appel, après avis de l'assemblée générale des magistrats du siège de la cour.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 6 (Ab)
-
-
-###### Article R312-24
-
-Le procureur général peut déléguer ses fonctions auprès de la chambre détachée soit à un magistrat du parquet général près la
-cour d'appel de Fort-de-France, soit à un magistrat du parquet près le tribunal de grande instance de Cayenne.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 7 (Ab)
-
-
-###### Article R312-25
-
-Le pouvoir d'inspection des juridictions du premier degré comprises dans le ressort de la chambre détachée peut être délégué
-par le premier président de la cour d'appel de Fort-de-France au président de la chambre détachée ou à un magistrat du siège
-de cette cour et par le procureur général près cette cour au procureur de la République près le tribunal de grande instance
-de Cayenne ou à un magistrat du parquet près cette cour.
-
-Ils peuvent déléguer, dans les mêmes conditions, leurs pouvoirs de gestion administrative de la chambre détachée et des
-juridictions du premier degré comprises dans le ressort de celle-ci.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 8 (Ab)
-
-
-###### Article R312-26
-
-La cour d'appel de Fort-de-France est pourvue d'un greffe à Cayenne.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*922-3 (Ab)
-
-_Cité par_:
-
-  - Code de l'organisation judiciaire - art. R552-24 (VD)
 
 
 ##### Section 5 : Les assemblées générales<a id=239></a>
@@ -19920,30 +19788,21 @@ _Anciens textes_:
 
 Les dispositions du chapitre II du titre Ier du livre III du présent code (partie Réglementaire), relatives à l'organisation
 et au fonctionnement de la cour d'appel, sont applicables en Polynésie française, à l'exception des articles R. 312-4, R.
-312-12, R. 312-17, D. 312-20 à R. 312-26.
+312-12, R. 312-17
+ .
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D312-20 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-26 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-4 (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc PF ecqc organisation et fonctionnement (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-21, alinéa 1, ecqc PF ecqc statistiques (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-3 ecqc PF ecqc organisation et fonctionnement (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-4 ecqc PF  (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-7 ecqc PF ecqc r226-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-27, ecqc PF ecqc CA (Ab)
+  - Code de l'organisation judiciaire - art. R312-12
+  - Code de l'organisation judiciaire - art. R312-17
+  - Code de l'organisation judiciaire - art. R312-26
+  - Code de l'organisation judiciaire - art. R312-4
 
 
 ###### Article R552-25
@@ -20936,29 +20795,19 @@ _Anciens textes_:
 
 Les dispositions du chapitre II du titre Ier du livre III du présent code (partie Réglementaire), relatives à l'organisation
 et au fonctionnement de la cour d'appel, sont applicables en Nouvelle-Calédonie, à l'exception des articles R. 312-4, R.
-312-12, R. 312-17, D. 312-20 à R. 312-26.
+312-12, R. 312-17            .
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D312-20 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-4 (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc NC ecqc organisation et fonctionnement (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-21, alinéa 1, ecqc NC ecqc statistiques (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-3 ecqc NC ecqc organisation et fonctionnement (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-4 ecqc NC (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-7 ecqc NC ecqc r226-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-27, ecqc NC ecqc CA (Ab)
+  - Code de l'organisation judiciaire - art. R312-12
+  - Code de l'organisation judiciaire - art. R312-17
+  - Code de l'organisation judiciaire - art. R312-4
 
 
 ###### Article R562-34
@@ -22852,7 +22701,7 @@ MAISONS DE JUSTICE ET DU DROIT
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Aix-en-Provence
 
@@ -22911,7 +22760,7 @@ Arles
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Var</td>
     </tr>
@@ -22928,7 +22777,7 @@ La Seyne-sur-Mer, Toulon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Amiens</td>
     </tr>
@@ -22991,7 +22840,7 @@ Amiens.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Angers
 
@@ -23050,7 +22899,7 @@ Porto-Vecchio.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Bordeaux
 
@@ -23126,7 +22975,7 @@ Vierzon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Caen
 
@@ -23147,7 +22996,28 @@ Hérouville-Saint-Clair.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2">
+
+Cour d'appel de Cayenne
+
+Guyane
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Saint-Laurent-du-Maroni.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
 
 Cour d'appel de Chambéry
 
@@ -23197,7 +23067,7 @@ Aix-les-Bains, Chambéry.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Colmar
 
@@ -23218,7 +23088,7 @@ Strasbourg.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haut-Rhin</td>
     </tr>
@@ -23297,7 +23167,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Douai
 
@@ -23387,26 +23257,9 @@ Calais.
 
 Cour d'appel de Fort-de-France
 
-Guyane
+Martinique
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cayenne
-
-</td>
-      <td align="center">
-
-Saint-Laurent-du-Maroni.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-
-Martinique</td>
     </tr>
     <tr>
       <td align="center">
@@ -23421,7 +23274,7 @@ Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Grenoble
 
@@ -23490,7 +23343,7 @@ Villefontaine.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Limoges
 
@@ -23568,7 +23421,7 @@ Saint-Etienne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Rhône</td>
     </tr>
@@ -23585,7 +23438,7 @@ Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Metz
 
@@ -23668,7 +23521,7 @@ Lodève, Lunel, Montpellier (La Paillade).
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Nancy
 
@@ -23731,7 +23584,7 @@ Joué-lès-Tours.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loir-et-Cher</td>
     </tr>
@@ -23748,7 +23601,7 @@ Blois.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loiret</td>
     </tr>
@@ -23765,7 +23618,7 @@ Orléans.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Paris
 
@@ -23786,7 +23639,7 @@ Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Paris</td>
     </tr>
@@ -23803,7 +23656,7 @@ Paris (10e), Paris (14e), Paris (17e).
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Seine-et-Marne</td>
     </tr>
@@ -23849,7 +23702,7 @@ Aubervilliers, Clichy-sous-Bois-Montfermeil, Epinay-sur-Seine, La Courneuve, Le 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-de-Marne</td>
     </tr>
@@ -23866,7 +23719,7 @@ Champigny-sur-Marne, Val de Bièvre.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Poitiers
 
@@ -23887,7 +23740,7 @@ La Rochelle.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Reims
 
@@ -23908,7 +23761,7 @@ Charleville-Mézières, Sedan.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Aube</td>
     </tr>
@@ -23975,7 +23828,7 @@ Lannion (4).]
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loire-Atlantique</td>
     </tr>
@@ -23992,7 +23845,7 @@ Châteaubriant.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Riom
 
@@ -24108,7 +23961,7 @@ Toulouse, Toulouse-Nord, Toulouse-Ouest.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Tarn</td>
     </tr>
@@ -24125,7 +23978,7 @@ Mazamet.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Versailles
 
@@ -24163,7 +24016,7 @@ Bagneux, Châtenay-Malabry, Gennevilliers.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Val-d'Oise</td>
     </tr>
@@ -24212,7 +24065,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 21 juin 2011 - art.
+  - Décret n°2011-1877 du 14 décembre 2011 - art.
 
 _Cité par_:
 
@@ -24226,7 +24079,7 @@ INSTANCE, DES CHAMBRES DÉTACHÉES DES TRIBUNAUX DE GRANDE INSTANCE, DES SECTION
 DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 221-1, D. 231-1, D. 311-1, D.
 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26) 
 
-<table cellpadding="0" align="center" border="1" cellspacing="0">
+<table align="center" cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td width="154">
@@ -24256,7 +24109,7 @@ Ressort
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td valign="top" colspan="3" width="596">
 
 Cour d'appel d'Agen 
 
@@ -24270,7 +24123,7 @@ Gers
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="6" width="154">
+      <td rowspan="6" width="154" valign="top">
 
 Auch 
 
@@ -24314,12 +24167,12 @@ Cantons de Cazaubon, Condom, Eauze, Montréal, Nogaro et Valence-sur-Baïse. (3)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Condom 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cazaubon, Condom, Eauze, Fleurante, Lectoure, Mauvezin, Miradoux, Montréal, Nogaro, Saint-Clar et Valence-sur-
 Baïse. (4)] 
@@ -24327,7 +24180,7 @@ Baïse. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Lectoure 
 
@@ -24339,7 +24192,7 @@ Cantons de Fleurance, Lectoure, Mauvezin, Miradoux et Saint-Clar. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Mirande 
 
@@ -24352,14 +24205,14 @@ Montesquiou, Plaisance et Riscle. (3)]
 </td>
     </tr>
     <tr>
-      <td width="596" valign="top" colspan="3">
+      <td valign="top" width="596" colspan="3">
 
 Lot 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="154">
+      <td valign="top" width="154" rowspan="4">
 
 Cahors 
 
@@ -24369,7 +24222,7 @@ Cahors
 [Cahors 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cahors-Nord-Est, Cahors-Nord-Ouest, Cahors-Sud, Castelnau-Montratier, Catus, Cazals, Lalbenque, Lauzès, Limogne-
 en-Quercy, Luzech, Montcuq, Puy-l'Évêque et Saint-Géry. (3)] 
@@ -24422,7 +24275,7 @@ Lot-et-Garonne
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="5">
+      <td valign="top" rowspan="5" width="154">
 
 Agen 
 
@@ -24440,7 +24293,7 @@ Port Sainte-Marie, Prayssas et Puymirol. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Agen 
 
@@ -24453,19 +24306,19 @@ Timbaut, Lavardac, Mézin, Nérac, Port-Sainte-Marie, Prayssas et Puymirol. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Nérac 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Francescas, Lavardac, Mézin et Nérac. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Villeneuve-sur-Lot 
 
@@ -24478,12 +24331,12 @@ Villeneuve-sur-Lot-Nord, Villeneuve-sur-Lot-Sud et Villeréal.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Marmande (6)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est,
 Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins. 
@@ -24496,12 +24349,12 @@ Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins.
 [Marmande (5)] 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Marmande 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Dainazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est,
 Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins. 
@@ -24509,14 +24362,14 @@ Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" colspan="3" width="596">
 
 Cour d'appel d'Aix-en-Provence 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" colspan="3" width="596">
 
 Alpes-de-Haute-Provence 
 
@@ -24528,12 +24381,12 @@ Alpes-de-Haute-Provence
 Digne-les-Bains 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Barcelonnette 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Barcelonnette, Le Lauzet-Ubaye et Seyne. (3)] 
 
@@ -24554,12 +24407,12 @@ et Volonne. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Digne-les-Bains 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Allos-Colmars, Annot, Barcelonnette, Barrême, Castellane, Digne-les-Bains-Est, Digne-les-Bains-Ouest, Entrevaux, La
 Javie, La Motte-du-Caire, Le Lauzet-Ubaye, Les Mécs, Mézcl, Moustiers Sainte-Marie, Noyers-sur-Jabron, Riez, Saint-André-les-
@@ -24568,7 +24421,7 @@ Alpes, Seyne, Sisteron, Turriers et Volonne. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Forcalquier 
 
@@ -24581,12 +24434,12 @@ Orgues et Valensole. (7)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Manosque 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Banon, Forcalquier, Manosque-Nord, Manosque-Sud-Est, Manosque-Sud-Ouest, Peyruis, Reillanne, Saint-Étienne-les-
 Orgues et Valensole. (8)] 
@@ -24594,19 +24447,19 @@ Orgues et Valensole. (8)]
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Alpes-Maritimes 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="4">
+      <td valign="top" rowspan="4" width="154">
 
 Grasse 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Antibes 
 
@@ -24631,7 +24484,7 @@ Vence.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Cannes 
 
@@ -24655,7 +24508,7 @@ Cantons de Grasse-Nord, Grasse-Sud, Le Bar-sur-Loup, Saint-Auban et Saint-Vallie
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="2">
+      <td rowspan="2" valign="top" width="154">
 
 Nice 
 
@@ -24687,14 +24540,14 @@ Martin-Vésubie, Saint-Sauveur-sur-Tinée et Villars-sur-Var.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Bouches-du-Rhône 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td rowspan="3" width="154" valign="top">
 
 Aix-en-Provence 
 
@@ -24704,7 +24557,7 @@ Aix-en-Provence
 Aix-en-Provence 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aix-en-Provence-Centre, Aix-en-Provence-Nord-Est, Aix-en-Provence-Sud-Ouest, Gardanne, Les Pennes-Mirabeau,
 Peyrolles-en-Provence et Trets. 
@@ -24717,7 +24570,7 @@ Peyrolles-en-Provence et Trets.
 Martigues 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Berre-l'Étang, Châteauneuf-Côte-Bleue, Istres-Nord, Istres-Sud, Marignane, Martigues-Est, Martigues-Ouest et
 Vitrolles. 
@@ -24742,7 +24595,7 @@ Cantons de Lambesc, Pélissanne et Salon-de-Provence.
 Marseille 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Aubagne 
 
@@ -24754,13 +24607,13 @@ Cantons d'Aubagne-Est, Aubaune-Ouest, La Ciotat et Roquevaire.
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-      </td><td valign="top" width="109">
+      <td valign="top" width="154">
+      </td><td width="109" valign="top">
 
 Marseille 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Allauch, Marseille-Notre-Dame-du-Mont, Marseille-Notre-Dame-Limite, Marseille-Saint-Barthélemy, Marseille-Sainte
 Marguerite, Marseille-Saint-Giniez, Marseille-Saint-Just, Marseille-Saint-Lambert, Marseille-Saint-Marcel, Marseille-Saint-
@@ -24772,7 +24625,7 @@ Verduron.
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td width="154" valign="top" rowspan="3">
 
 Tarascon 
 
@@ -24789,24 +24642,24 @@ Cantons d'Arles-Est, Arles-Ouest, Port-Saint-Louis-du-Rhône et Saintes-Maries-d
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Tarascon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Châteaurenard, Eyguières, Orgon, Saint-Rémy-de-Provence et Tarascon. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Tarascon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Arles-Est, Arles-Ouest, Châteaurenard, Eyguières, Orgon, Port-Saint-Louis-du-Rhône, Saintes-Maries-de-la-Mer,
 Saint-Rémy-de-Provence et Tarascon. (4)] 
@@ -24814,14 +24667,14 @@ Saint-Rémy-de-Provence et Tarascon. (4)]
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Var 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="3">
+      <td rowspan="3" valign="top" width="154">
 
 Draguignan 
 
@@ -24839,7 +24692,7 @@ Tavernes.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Draguignan 
 
@@ -24851,7 +24704,7 @@ Cantons d'Aups, Callas, Comps-sur-Artuby, Draguignan, Fayence, Le Luc, Lorgues e
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Fréjus 
 
@@ -24863,7 +24716,7 @@ Cantons de Fréjus, Grimaud, Le Muy, Saint-Raphaël et Saint-Tropez.
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="3">
+      <td width="154" rowspan="3" valign="top">
 
 Toulon 
 
@@ -24880,12 +24733,12 @@ Cantons de Collobrières, Hyères-Est, Hyères-Ouest et La Crau. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Toulon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cuers, La Garde, La Seyne-sur-Mer, La Valette-du-Var, Le Beausset, Ollioules, Saint-Mandrier-sur-Mer, Six-Fours-
 les-Plages, Solliès-Pont, Toulon 1er canton, Toulon 2e canton, Toulon 3e canton, Toulon 4e canton, Toulon 5e canton, Toulon
@@ -24894,7 +24747,7 @@ les-Plages, Solliès-Pont, Toulon 1er canton, Toulon 2e canton, Toulon 3e canton
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Toulon 
 
@@ -24909,7 +24762,7 @@ Beausset, Ollioules, Saint-Mandrier-sur-Mer, Six-Fours-les-Plages, Solliès-Pont
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Cour d'appel d'Amiens 
 
@@ -24923,24 +24776,11 @@ Aisne
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="4" valign="top">
+      <td valign="top" rowspan="4" width="154">
 
 Laon 
 
 </td>
-      <td width="109" valign="top">
-
-[Laon 
-
-</td>
-      <td width="333" valign="top">
-
-Cantons d'Anizy-le-Château, Chauny, Coucy-le-Château-Auffrique, Craonne, Crécy-sur-Serre, La Fère, Laon-Nord, Laon-Sud,
-Marte, Neufchâtel-sur-Aisne, Rozoy-sur-Serre, Sissonne et Tergnier. (3)] 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="109">
 
 [Laon 
@@ -24948,13 +24788,26 @@ Marte, Neufchâtel-sur-Aisne, Rozoy-sur-Serre, Sissonne et Tergnier. (3)]
 </td>
       <td valign="top" width="333">
 
+Cantons d'Anizy-le-Château, Chauny, Coucy-le-Château-Auffrique, Craonne, Crécy-sur-Serre, La Fère, Laon-Nord, Laon-Sud,
+Marte, Neufchâtel-sur-Aisne, Rozoy-sur-Serre, Sissonne et Tergnier. (3)] 
+
+</td>
+    </tr>
+    <tr>
+      <td width="109" valign="top">
+
+[Laon 
+
+</td>
+      <td width="333" valign="top">
+
 Cantons d'Anizy-le-Château, Aubenton, Chauny, Coucy-le-Château 
 
 </td>
     </tr>
     <tr>
       <td width="109" valign="top">
-      </td><td width="333" valign="top">
+      </td><td valign="top" width="333">
 
 Auffrique, Craonne, Crécy-sur-Serre, Hirson, La Capelle, La Fère, Laon-Nord, Laon-Sud, Le Nouvion-en-Thiérache, Marte,
 Neufchâtel-sur-Aisne, Rozoy-sur-Serre, Sains-Richaumont, Sissonne, Tergnier et Vervins. (4)] 
@@ -24962,19 +24815,19 @@ Neufchâtel-sur-Aisne, Rozoy-sur-Serre, Sains-Richaumont, Sissonne, Tergnier et 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Vervins 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aubenton, Hirson, La Capelle, Le Nouvion-en-Thiérache, Sains-Richaumont et Vervins. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Saint-Quentin 
 
@@ -24997,19 +24850,19 @@ Saint-Quentin-Sud, Saint-Simon, Vermand et Wassigny.
 Soissons 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Château-Thierry 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Charly, Château-Thierry, Condé-en-Brie, Fère-en-Tardenois et Neuilly-Saint-Front. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Soissons 
 
@@ -25022,12 +24875,12 @@ Cantons de Braine, Oulchy-le-Château, Soissons-Nord, Soissons-Sud, Vailly-sur-A
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Soissons 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Braine, Charly-sur-Marne, Château-Thierry, Condé-en-Brie, Fère-en-Tardenois, Neuilly-Saint-Front, Oulchy-le-
 Château, Soissons-Nord, Soissons-Sud, Vailly-sur-Aisne, Vic-sur-Aisne et Villers-Cotterêts. (4)] 
@@ -25035,19 +24888,19 @@ Château, Soissons-Nord, Soissons-Sud, Vailly-sur-Aisne, Vic-sur-Aisne et Viller
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td valign="top" colspan="3" width="596">
 
 Oise 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td rowspan="3" valign="top" width="154">
 
 Beauvais 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Beauvais 
 
@@ -25060,7 +24913,7 @@ Formerie, Grandvilliers, Le Coudray-Saint-Germer, Marseille-en-Beauvaisis, Méru
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Clermont 
 
@@ -25072,12 +24925,12 @@ Cantons de Breteuil, Clermont, Froissy, Liancourt, Maignelay-Montigny, Mouy et S
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Beauvais 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Auneuil, Beauvais-Nord-Est, Beauvais-Nord-Ouest, Beauvais-Sud-Ouest, Breteuil, Chaumont-en-Vexin, Clermont,
 Crèvecoeur-le-Grand, Formerie, Froissy, Grandvilliers, Le Coudray-Saint-Germer, Liancourt, Maignelay-Montigny, Marseille-en-
@@ -25086,12 +24939,12 @@ Beauvaisis, Méru, Mouy, Nivillers, Noailles, Saint-Just-en-Chaussée et Songeon
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Compiègne 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Compiègne 
 
@@ -25109,7 +24962,7 @@ Ressons-sur-Matz et Ribécourt-Dreslincourt.
 Senlis 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Senlis 
 
@@ -25122,7 +24975,7 @@ Thelle, Pont-Sainte-Maxence et Senlis.
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Somme 
 
@@ -25139,7 +24992,7 @@ Somme
 Abbeville 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Abbeville-Nord, Abbeville-Sud, Ailly-le-Haut-Clocher, Ault, Crécy-en-Ponthieu, Friville-Escarbotin, Gamaches,
 Hallencourt, Moyenneville, Nouvion, Rue et Saint-Valery-sur-Somme. 
@@ -25147,12 +25000,12 @@ Hallencourt, Moyenneville, Nouvion, Rue et Saint-Valery-sur-Somme.
 </td>
     </tr>
     <tr>
-      <td rowspan="6" width="154" valign="top">
+      <td rowspan="6" valign="top" width="154">
 
 Amiens 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Abbeville (6)] 
 
@@ -25165,12 +25018,12 @@ Hallencourt, Moyenneville, Nouvion, Rue et Saint-Valery-sur-Somme.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Amiens 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Amiens 1er Ouest, Amiens 2e Nord-Ouest, Amiens 3e Nord-Est, Amiens 4e Est, Amiens 5e Sud-Est, Amiens 6e Sud, Amiens
 7e Sud-Ouest, Amiens 8e Nord, Boves, Conty, Corbie, Hornoy-le-Bourg, Molliens-Dreuil, Oisemont, Picquigny, Poix-de-Picardie
@@ -25179,12 +25032,12 @@ et Villers-Bocage. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Amiens 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Acheux-en-Amiénois, Ailly-sur-Noye, Amiens 1er Ouest, Amiens 2e Nord-Ouest, Amiens 3e Nord-Est, Amiens 4e Est,
 Amiens 5e Sud-Est, Amiens 6e Sud, Amiens 7e Sud-Ouest, Amiens 8e Nord, Bernaville, Boves, Conty, Corbie, Domart-en-Ponthieu,
@@ -25206,12 +25059,12 @@ Cantons d'Acheux-en-Amiénois, Bernaville, Domart-en-Ponthieu et Doullens. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Montdidier 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Ailly-sur-Noye, Montdidier, Moreuil, Rosières-en-Santerre et Roye. (3)] 
 
@@ -25223,50 +25076,50 @@ Cantons d'Ailly-sur-Noye, Montdidier, Moreuil, Rosières-en-Santerre et Roye. (3
 [Péronne (16)] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne et Roisel. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 [Péronne (15)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Péronne 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne et Roisel. 
 
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Cour d'appel d'Angers 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" valign="top" width="596">
 
 Maine-et-Loire 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="6" valign="top">
+      <td width="154" valign="top" rowspan="6">
 
 Angers 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Angers 
 
@@ -25298,7 +25151,7 @@ Pouancé, Saint-Georges-sur-Loire, Segré, Thouarcé et Tiercé. (4 et 5)]
 [Angers 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-
 Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé,
@@ -25320,7 +25173,7 @@ Montrevault et Saint-Florent-le-Vieil.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saumur (6)] 
 
@@ -25333,7 +25186,7 @@ Nord, Saumur-Sud et Vihiers.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Segré 
 
@@ -25345,12 +25198,12 @@ Cantons de Candé, Châteauneuf-sur-Sarthe, Le Lion-d'Angers, Pouancé et Segré
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td rowspan="3" valign="top" width="154">
 
 [Saumur (5)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Baugé 
 
@@ -25387,19 +25240,19 @@ Seiches sur-le-Loir, Saumur-Nord, Saumur-Sud et Vihiers. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" valign="top" width="596">
 
 Mayenne 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="5" width="154">
+      <td rowspan="5" width="154" valign="top">
 
 Laval 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Château-Gontier 
 
@@ -25417,13 +25270,13 @@ Roë. (3)]
 [Laval 
 
 </td>
-      <td valign="top">Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest,
-Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est,
-Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-
-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] </td>
+      <td>Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland,
+Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-
+Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine,
+Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Laval 
 
@@ -25450,7 +25303,7 @@ Ouest, Meslay-du-Maine, Montsûrs, Pré-en-Pail, Saint-Berthevin, Sainte-Suzanne
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Mayenne 
 
@@ -25463,31 +25316,31 @@ Ouest, Pré-en-Pail et Villaines-la-Juhel. (11)]
 </td>
     </tr>
     <tr>
-      <td width="596" valign="top" colspan="3">
+      <td colspan="3" valign="top" width="596">
 
 Sarthe 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="6" width="154" valign="top">
+      <td width="154" rowspan="6" valign="top">
 
 Le Mans 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [La Flèche 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Brûlon, La Flèche, Le Lude, Malicorne-sur-Sarthe, Mayet, Pontvallain et Sablé-sur-Sarthe. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [La Flèche 
 
@@ -25519,7 +25372,7 @@ le-Gesnois et Sillé-le-Guillaume. (3)]
 [Le Mans 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Allonnes, Ballon, Beaumont-sur-Sarthe, Bonnétable, Bouloire, Conlie, Éconunoy, Fresnay-sur-Sarthe, La Ferté-
 Bernard, La Fresnaye-sur-Chédouet, La Suze-sur-Sarthe, Le Mans-Centre, Le Mans-Est-Campagne, Le Mans-Nord-Campagne, Le Mans-
@@ -25529,7 +25382,7 @@ les-Braults, Montfort-le-Gesnois, Montmirail, Saint-Calais, Saint-Paterne, Sill�
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Mamers 
 
@@ -25547,28 +25400,28 @@ les-Braults, Montmirail, Saint-Paterne et Tuffé. (3)]
 [Saint-Calais 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bouloire, Château-du-Loir, La Chartre-sur-le-Loir, Le Grand-Lucé, Saint-Calais et Vibraye. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" colspan="3" valign="top">
 
 Cour d'appel de Basse-Terre 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td width="596" valign="top" colspan="3">
 
 Guadeloupe 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="2" valign="top">
+      <td width="154" valign="top" rowspan="2">
 
 Basse-Terre 
 
@@ -25592,7 +25445,7 @@ canton, Sainte-Rose 2e canton (uniquement la commune de Deshaies), Trois-Rivièr
 Saint-Martin 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton. 
 
@@ -25609,15 +25462,15 @@ Pointe-à-Pitre
 [Marie-Galante 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Capesterre-de-Marie-Galante, Grand-Bourg et Saint-Louis. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-      </td><td width="109" valign="top">
+      <td valign="top" width="154">
+      </td><td valign="top" width="109">
 
 [Pointe-à-Pitre 
 
@@ -25634,13 +25487,13 @@ canton, Sainte-Anne 2e canton, Sainte-Rose 2e canton (uniquement la fraction de 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
       </td><td width="109" valign="top">
 
 [Pointe-à-Pitre 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Anse-Bertrand, Baie-Mahault, Capesterre-de-Marie-Galante, Grand-Bourg, Goyave (uniquement la fraction de la commune
 de Petit-Bourg), La Désirade, Lamentin, Le Gosier 1er canton, Le Gosier 2e canton, Le Moule 1er canton, Le Moule 2e canton,
@@ -25652,14 +25505,14 @@ de Sainte-Rose), Saint-François et Saint-Louis. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Cour d'appel de Bastia 
 
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Corse-du-Sud 
 
@@ -25671,12 +25524,12 @@ Corse-du-Sud
 Ajaccio 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Ajaccio 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Ajaccio 1er canton, Ajaccio 2e canton, Ajaccio 3e canton, Ajaccio 4e canton, Ajaccio 5e canton, Ajaccio 6e canton,
 Ajaccio 7e canton, Bastelica, Celavo-Mezzana, Cruzini-Cinarca, Les Deux-Sevi, Les Deux-Sorru, Santa-Maria-Siché et Zicavo.
@@ -25685,12 +25538,12 @@ Ajaccio 7e canton, Bastelica, Celavo-Mezzana, Cruzini-Cinarca, Les Deux-Sevi, Le
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Sartène 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bonifacio, Figari, Levie, Olmeto, Petreto-Bicchisano, Porto-Vecchio, Sartène et Tallano-Scopamène. (3)] 
 
@@ -25702,7 +25555,7 @@ Cantons de Bonifacio, Figari, Levie, Olmeto, Petreto-Bicchisano, Porto-Vecchio, 
 [Ajaccio 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Ajaccio 1er canton, Ajaccio 2e canton, Ajaccio 3e canton, Ajaccio 4e canton, Ajaccio 5e canton, Ajaccio 6e canton,
 Ajaccio 7e canton, Bastelica, Bonifacio, Celavo-Mezzana, Cruzini-Cinarca, Figari, Les Deux-Sevi, Les Deux-Sorru, Levie,
@@ -25711,14 +25564,14 @@ Olmeto, Petreto-Bicchisano, Porto-Vecchio, Santa-Maria-Siché, Sartène, Tallano
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td colspan="3" width="596" valign="top">
 
 Haute-Corse 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="4">
+      <td width="154" valign="top" rowspan="4">
 
 Bastia 
 
@@ -25742,7 +25595,7 @@ Nebbio, Moïta-Verde, Prunelli-di-Fiumorbo, Sagro-di-Santa-Giulia, San-Martino-d
 [Bastia 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Alto-di-Casaconi, Bastia 1er canton, Bastia 2e canton, Bastia 3e canton, Bastia 4e canton, Bastia 5e canton Lupino,
 Bastia 6e canton Furiani-Montésoro, Belgodère, Borgo, Bustanico, Calenzana, Calvi, Campoloro-di-Moriani, Capobianco,
@@ -25753,45 +25606,45 @@ Omessa, Orezza-Alesani, Prune lli-di-Fiumorbo, Sagro-di-Santa-Giulia, San-Martin
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Corte 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bustanico, Castifao-Morosaglia, Corte, Ghisoni, Niolu Omessa, Orezza-Alesani, Venaco et Vezzani. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [lle-Rousse 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Belgodère, Calenzana, Calvi et L'Île-Rousse. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Cour d'appel de Besançon 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td valign="top" width="596" colspan="3">
 
 Doubs 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="154">
+      <td valign="top" width="154" rowspan="5">
 
 Besançon 
 
@@ -25822,7 +25675,7 @@ Sud, Boussières, Marchaux, Ornans et Quingey. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Besançon 
 
@@ -25835,7 +25688,7 @@ Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le Doubs, Marchaux, Or
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Pontarlier 
 
@@ -25852,14 +25705,14 @@ Cantons de Levier, Montbenoît, Morteau, Mouthe et Pontarlier. (3)]
 [Pontarlier 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans et Vercel-Villedieu-le-Camp. (4)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Montbéliard 
 
@@ -25877,19 +25730,19 @@ Hippolyte, Sochaux-Grand-Charmont de Valentigney.
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Haute-Saône 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="154" valign="top">
+      <td rowspan="4" valign="top" width="154">
 
 Vesoul 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Gray 
 
@@ -25914,12 +25767,12 @@ Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Vesoul 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Amante, Combeaufontaine, Jussey, Montbozon, Noroy-le Bourg, Port-sur-Saône, Rioz, Scey-sur-Saône-et-Saint-Albin,
 Vesoul Est, Vesoul-Ouest et Vitrey-sur-Mance. (3)] 
@@ -25927,7 +25780,7 @@ Vesoul Est, Vesoul-Ouest et Vitrey-sur-Mance. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Vesoul 
 
@@ -25941,24 +25794,24 @@ Vitrey sur-Mance. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="3">
+      <td width="154" valign="top" rowspan="3">
 
 [Lure (5)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Lure 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Champagney, Héricourt-Est, Héricourt-Ouest, Lure-Nord, Lure-Sud, Mélisey et Villersexel. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Lure 
 
@@ -25971,36 +25824,36 @@ Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx, Vauvillers et Villersexel. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Luxeuil-les-Bains 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Faucogney-et-la-Mer, Luxeuil-les-Bains, Saint-Loup-sur-Semouse, Saint-Sauveur, Saulx et Vauvillers. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" valign="top" width="596">
 
 Jura 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="154" valign="top">
+      <td valign="top" rowspan="3" width="154">
 
 [Dole (5)] 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Arbois 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Arbois, Champagnole, Les Planches-en-Montagne, Nozeroy, Poligny, Salins-les-Bains et Villers-Farlay. (3)] 
 
@@ -26034,17 +25887,17 @@ en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td rowspan="3" valign="top" width="154">
 
 Lons-le-Saunier 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Dole (6)] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-
 en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay. 
@@ -26065,7 +25918,7 @@ Saint-Amour, Saint-Julien, Sellières et Voiteur.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Saint-Claude 
 
@@ -26102,26 +25955,26 @@ Delle, Fontaine, Giromagny, Grandvillars, Offemont, Rougemont-le-Château et Val
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Cour d'appel de Bordeaux 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Charente 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="5">
+      <td rowspan="5" valign="top" width="154">
 
 Angoulême 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Angoulême 
 
@@ -26139,7 +25992,7 @@ Rochefoucauld, Montbron, Rouillac, Ruelle-sur-Touvre, Saint-Amant de-Boixe, Soya
 [Angoulême 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aigre, Angoulême-Est, Angoulême-Nord, Angoulême Ouest, Blanzac-Porcheresse, Chabanais, Champagne-Mouton, Confolens-
 Nord, Confolens-Sud, Gond-Pontouvre, Hiersac, La Couronne, La Rochefoucauld, Mansle, Montbron, Montemboeuf, Rouillac, Ruelle-
@@ -26185,24 +26038,24 @@ Cantons d'Aigre, Mansle, Ruffec et Villefagnan. (3)]
 </td>
     </tr>
     <tr>
-      <td width="596" valign="top" colspan="3">
+      <td valign="top" width="596" colspan="3">
 
 Dordogne 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="154">
+      <td valign="top" width="154" rowspan="2">
 
 Bergerac 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Bergerac 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Beaumont-du-Périgord, Bergerac 1er canton, Bergerac 2e canton, Eymet, Issigeac, La Force, Lalinde, Le Buisson-de-
 Cadouin, Monpazier, Sainte-Alvère, Sigoulès, Vélines, Villamblard et Villefranche-de-Lonchat. 
@@ -26210,7 +26063,7 @@ Cadouin, Monpazier, Sainte-Alvère, Sigoulès, Vélines, Villamblard et Villefra
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Sarlat-la-Canéda 
 
@@ -26222,12 +26075,12 @@ Cantons de Belvès, Carlux, Domine, Le Bugue, Saint-Cyprien, Salignac-Eyvigues, 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="4" valign="top">
+      <td rowspan="4" width="154" valign="top">
 
 Périgueux 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Nontron 
 
@@ -26245,7 +26098,7 @@ Thiviers. (3)]
 [Périgueux 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Brantôme, Excideuil, Hautefort, Montignac, Périgueux-Centre, Périgueux-Nord-Est, Périgueux-Ouest, Saint-Astier,
 Saint-Pierre-de-Chignac, Savignac-les-Églises, Terrasson-Lavilledieu, Thenon et Vergt. (3)] 
@@ -26253,7 +26106,7 @@ Saint-Pierre-de-Chignac, Savignac-les-Églises, Terrasson-Lavilledieu, Thenon et
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Périgueux 
 
@@ -26280,7 +26133,7 @@ Cantons de Montagrier, Montpon-Ménestérol, Mussidan, Neuvic, Ribérac, Saint-A
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td colspan="3" valign="top" width="596">
 
 Gironde 
 
@@ -26292,24 +26145,24 @@ Gironde
 Bordeaux 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Arcachon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Arcachon, Audenge, Belin-Béliet et La Teste-de-Buch. 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Bazas 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Auros, Bazas, Captieux, Grignols, Langon, Saint-Symphorien et Villandraut. (3)] 
 
@@ -26345,12 +26198,12 @@ Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bordeaux 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bègles, Blanquefort, Bordeaux 1er canton, Bordeaux 2e canton, Bordeaux 3e canton, Bordeaux 4e canton, Bordeaux 5e
 canton, Bordeaux 6e canton, Bordeaux 7e canton, Bordeaux 8e canton, Cadillac, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon,
@@ -26360,12 +26213,12 @@ canton, Podensac, Saint-André-de-Cubzac, Saint-Médard-en-Jalles, Talence et Vi
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Bordeaux 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bègles, Blanquefort, Bordeaux 1er canton, Bordeaux 2e canton, Bordeaux 3e canton, Bordeaux 4e canton, Bordeaux 5e
 canton, Bordeaux 6e canton, Bordeaux 7e canton, Bordeaux 8e canton, Cadillac, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon,
@@ -26376,7 +26229,7 @@ Médoc, Talence et Villenave-d'Ornon. (10 et 3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Lesparre-Médoc 
 
@@ -26398,7 +26251,7 @@ Libourne
 [Libourne 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Branne, Castillon-la-Bataille, Coutras, Fronsac, Guîtres, Libourne, Lussac, Pujols et Sainte-Foy-la-Grande. (3)] 
 
@@ -26410,7 +26263,7 @@ Cantons de Branne, Castillon-la-Bataille, Coutras, Fronsac, Guîtres, Libourne, 
 [Libourne 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Blaye, Bourg, Branne, Castillon-la-Bataille, Coutras, Fronsac, Guîtres, Libourne, Lussac, Pujols, Saint-Ciers-sur-
 Gironde, Saint-Savin et Sainte-Foy-la-Grande. (4)] 
@@ -26418,31 +26271,31 @@ Gironde, Saint-Savin et Sainte-Foy-la-Grande. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td width="596" valign="top" colspan="3">
 
 Cour d'appel de Bourges 
 
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Cher 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="154">
+      <td width="154" rowspan="5" valign="top">
 
 Bourges 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bourges 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost,
 Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)] 
@@ -26465,12 +26318,12 @@ et Vierzon 2e canton. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Bourges 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost,
 Graçay, Les Aix-d'Angillon, Levet, Lury-sur-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Vierzon 1er
@@ -26480,15 +26333,11 @@ canton et Vierzon 2e canton. (12 et 3)]
     </tr>
     <tr>
       <td>Saint-Amand-MontrondCantons</td>
-      <td>
-
-de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières,
-Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier. 
-
-</td>
+      <td> de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet,
+Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier. </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Vierzon 
 
@@ -26507,12 +26356,12 @@ Indre
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="5" width="154">
+      <td width="154" rowspan="5" valign="top">
 
 Châteauroux 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Le Blanc 
 
@@ -26552,24 +26401,24 @@ Tournon-Saint-Martin, Sainte-Sévère-sur-Indre, Valençay et Vatan. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Issoudun 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Issoudun-Nord, Issoudun-Sud, Saint-Christophe-en-Bazelle et Vatan. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [La Châtre 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aigurande, Éguzon-Chantôme, La Châtre, Neuvy-Saint-Sépulchre et Sainte-Sévère-sur-Indre. (3)] 
 
@@ -26583,7 +26432,7 @@ Nièvre
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="6" valign="top">
+      <td valign="top" width="154" rowspan="6">
 
 Nevers 
 
@@ -26593,14 +26442,14 @@ Nevers
 [Château-Chinon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Château-Chinon (Ville), Châtillon-en-Bazois, Fours, Luzy, Montsauche-les-Settons et Moulins-Engilbert. (9)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Clamecy 
 
@@ -26612,7 +26461,7 @@ Cantons de Brinon-sur-Beuvron, Clamecy, Corbigny, Lormes, Tannay et Varzy. (9)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Clamecy 
 
@@ -26630,7 +26479,7 @@ Varzy. (10)]
 [Cosne-Cours-sur-Loire 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cosne-Cours-sur-Loire-Nord, Cosne-Cours-sur-Loire-Sud, Donzy, La Charité-sur-Loire, Pouilly-sur-Loire, Prémery et
 Saint-Amand-en-Puisaye. (9)] 
@@ -26643,7 +26492,7 @@ Saint-Amand-en-Puisaye. (9)]
 [Nevers 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Decize, Dornes, Guérigny, Imphy, La Machine, Nevers Centre, Nevers-Est, Nevers-Nord, Nevers-Sud, Pougues-les-Eaux,
 Saint-Benin-d'Azy, Saint-Pierre-le-Moûtier et Saint-Saulge. (9)] 
@@ -26666,26 +26515,26 @@ Nord, Nevers Sud, Pougues-les-Eaux, Pouilly-sur-Loire, Prémery, Saint-Benin d'A
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Cour d'appel de Caen 
 
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Calvados 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="6" width="154" valign="top">
+      <td rowspan="6" valign="top" width="154">
 
 Caen 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bayeux 
 
@@ -26702,7 +26551,7 @@ Cantons de Balleroy, Bayeux, Caumont-l'Éventé, Isigny-sur-Mer, Ryes et Trévi�
 [Caen 
 
 </td>
-      <td>
+      <td valign="top">
 
 Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton,
 Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Ilérouville Caen 6e canton, Caumont-
@@ -26720,13 +26569,13 @@ sur-Mer, Mortcaux Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, 
       <td valign="top" width="333">
 
 Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e
-canton, Caen 9° canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
+canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
 Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Caen 
 
@@ -26746,26 +26595,26 @@ Troarn, Thury-Harcourt et Villers-Bocage. (12 et 3)]
 [Falaise 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bretteville-sur-Laize, Falaise-Nord, Falaise-Sud, Morteaux-Couliboeuf et Thury-Harcourt. (11)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Vire 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aunay-sur-Odon, Condé-sur-Noireau, Le Bény-Bocage, Saint-Sever-Calvados, Vassy et Vire. 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td valign="top" width="154" rowspan="3">
 
 Lisieux 
 
@@ -26775,7 +26624,7 @@ Lisieux
 [Lisieux 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Lisieux 1er canton, Lisieux 2e canton, Lisieux 3e canton, Livarot, Mézidon-Canon, Orbec et Saint-Pierre-sur-Dives.
 (3)] 
@@ -26788,7 +26637,7 @@ Cantons de Lisieux 1er canton, Lisieux 2e canton, Lisieux 3e canton, Livarot, M�
 [Lisieux 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Blangy-le-Château, Cambremer, Dozulé, Honfleur, Lisieux 1er canton, Lisieux 2e canton, Lisieux 3e canton, Livarot,
 Mézidon-Canon, Orbec, Pont-l'Évêque, Saint-Pierre-sur-Dives et Trouville-sur-Mer. (4)] 
@@ -26796,26 +26645,26 @@ Mézidon-Canon, Orbec, Pont-l'Évêque, Saint-Pierre-sur-Dives et Trouville-sur-
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Pont-l'Évêque 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Blangy-le-Château, Cambremer, Dozulé, Honfleur, Pont l'Évêque et Trouville-sur-Mer. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Manche 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 [Avranches (5)] 
 
@@ -26825,7 +26674,7 @@ Manche
 [Avranches 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Avranches, Brécey, Ducey, Granville, La Haye-Pesnel, Pontorson, Saint-James, Sartilly et Villedieu-les-Poêles.
 (3)] 
@@ -26846,7 +26695,7 @@ Mortain, Pontorson, Saint-Hilaire-du-Harcouët, Saint-James, Saint-Pois, Sartill
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Mortain 
 
@@ -26877,7 +26726,7 @@ Cantons de Beaumont-Hague, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-S
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Cherbourg-Octeville 
 
@@ -26896,7 +26745,7 @@ Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebour
 [Valognes 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Barneville-Carteret, Bricquebec, Montebourg, Quettehou, Sainte-Mère-Église, Saint-Sauveur-le-Vicomte et Valognes.
 (3)] 
@@ -26904,7 +26753,7 @@ Cantons de Barneville-Carteret, Bricquebec, Montebourg, Quettehou, Sainte-Mère-
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td width="154" rowspan="4" valign="top">
 
 Coutances 
 
@@ -26914,7 +26763,7 @@ Coutances
 [Avranches (6)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Avranches, Barenton, Bréccy, Ducey, Granville, Isigny-le-Buat, Juvigny-le-Tertre, La Haye-Pesnel, Le Teilleul,
 Mortain, Pontorson, Saint-Hilaire-du-Harcouët, Saint-James, Saint-Pois, Sartilly, Sourdeval et Villedieu-les-Poêles. 
@@ -26927,7 +26776,7 @@ Mortain, Pontorson, Saint-Hilaire-du-Harcouët, Saint-James, Saint-Pois, Sartill
 [Coutances 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bréhal, Cerisy-la-Salle, Coutances, Gavray, La Haye-du Puits, Lessay, Montmartin-sur-Mer, Périers, Saint-Malo-de-
 la-Lande et Saint-Sauveur-Lendelin. (3)] 
@@ -26954,7 +26803,7 @@ Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire. (4)]
 [Saint-Lô 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Canisy, Carentan, Marigny, Percy, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Tessy-
 sur-Vire et Torigni-sur-Vire. (3)] 
@@ -26962,7 +26811,7 @@ sur-Vire et Torigni-sur-Vire. (3)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Orne 
 
@@ -26986,7 +26835,7 @@ Cantons d'Alençon 1er canton, Alençon 2e canton, Alençon 3e canton, Carrouges
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Alençon 
 
@@ -27005,7 +26854,7 @@ Pervenchères, Rémalard, Sées et Tourouvre. (4)]
 [Mortagne-au-Perche 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bazoches-sur-Hoëne, Bellême, L'Aigle-Est, L'Aigle Ouest, Le Theil, Longny-au-Perche, Mortagne-au-Perche, Moulins-
 la-Marche, Nocé, Pervenchères, Rémalard et Tourouvre. (3)] 
@@ -27031,12 +26880,12 @@ Pont-Écrepin, Trun et Vimoutiers.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Domfront 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Athis-de-l'Orne, Domfront, Flers-Nord, Fiers-Sud, Juvigny sous-Andaine, La Ferté-Macé, Messei, Passais et
 Tinchebray. (3)] 
@@ -27049,7 +26898,7 @@ Tinchebray. (3)]
 [Flers 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Athis-de-l'Ome, Domfront, Flers-Nord, Fiers-Sud, Juvigny sous-Andaine, La Ferté-Macé, Messei, Passais et
 Tinchebray. (4)] 
@@ -27057,7 +26906,41 @@ Tinchebray. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596">
+      <td colspan="3">
+
+Cour d'appel de Cayenne 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Cayenne 
+
+</td>
+      <td align="left" valign="top">
+
+Cayenne 
+
+</td>
+      <td align="left" valign="top">
+
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, 
+
+Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, 
+
+Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 
+
+6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, 
+
+Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, 
+
+Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="596" colspan="3">
 
 Cour d'appel de Chambéry 
 
@@ -27071,17 +26954,17 @@ Haute-Savoie
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Annecy 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Annecy 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Alby-sur-Chéran, Annecy-Centre, Annecy-le-Vieux, Annecy-Nord-Est, Annecy-Nord-Ouest, Faverges, Rumilly, Seynod,
 Thônes et Thorens-Glières. 
@@ -27094,12 +26977,12 @@ Thônes et Thorens-Glières.
 Bonneville 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Bonneville 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bonneville, Chamonix-Mont-Blanc, Cluses, La Roche-sur-Foron, Saint-Gervais-les-Bains, Saint-Jeoire, Sallanches,
 Samoëns, Scionzier et Taninges. 
@@ -27117,19 +27000,19 @@ Thonon-les-Bains
 [Annemasse 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Annemasse-Nord, Annemasse-Sud, Cruseilles, Frangy, Reignier, Saint-Julien-en-Genevois et Seyssel. (4)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Julien-en-Genevois 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Annemasse-Nord, Annemasse-Sud, Cruseilles, Frangy, Reignier, Saint-Julien-en-Genevois et Seyssel. (3)] 
 
@@ -27148,19 +27031,19 @@ Cantons d'Abondance, Boëge, Douvaine, Évian-les-Bains, Le Biot, Thonon-les-Bai
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td colspan="3" width="596" valign="top">
 
 Savoie 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 Chambéry 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Aix-les-Bains 
 
@@ -27177,7 +27060,7 @@ Cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Al
 [Chambéry 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Chambéry-Est, Chambéry-Nord, Chambéry-Sud, Chambéry-Sud-Ouest, Chamoux-sur-Gelon, Cognin, La Motte Servolex, La
 Ravoire, La Rochette, Le Pont-de-Beauvoisin, Les Échelles, Montmélian, Saint-Alban-Leysse, Saint-G enix-sur-Gui ers et Saint-
@@ -27223,7 +27106,7 @@ Cantons d'Albertville-Nord, Albertville-Sud, Beaufort, Grésy-sur-Isère et Ugin
 [Albertville 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aiguebelle, Aime, Albertville-Nord, Albertville-Sud, Beaufort, Bourg-Saint-Maurice, Bozel, Grésy-sur-Isère, La
 Chambre, Lanslebourg-Mont-Cenis, Modane, Moûtiers, Saint-Jean-de-Maurienne, Saint-Michel-de-Maurienne et Ugine. (4)] 
@@ -27231,19 +27114,19 @@ Chambre, Lanslebourg-Mont-Cenis, Modane, Moûtiers, Saint-Jean-de-Maurienne, Sai
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Moutiers Tarentaise 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aime, Bourg-Saint-Maurice, Bozel et Moûtiers. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Jean-de-Maurienne 
 
@@ -27262,14 +27145,14 @@ Cour d'appel de Colmar
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" width="596" colspan="3">
 
 Bas-Rhin 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="7" width="154">
+      <td width="154" valign="top" rowspan="7">
 
 Strasbourg 
 
@@ -27311,7 +27194,7 @@ Truchtersheim, Wissembourg et Woerth. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Illkirch Graffcnstadcn 
 
@@ -27335,12 +27218,12 @@ Cantons de Bischheim, Mundolsheim et Schiltigheim.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Strasbourg 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Strasbourg 1er canton, Strasbourg 2e canton, Strasbourg 3e canton, Strasbourg 4e canton, Strasbourg 5e canton,
 Strasbourg 6e canton, Strasbourg 7e canton, Strasbourg 8e canton, Strasbourg 9e canton et Strasbourg 10e canton. 
@@ -27348,19 +27231,19 @@ Strasbourg 6e canton, Strasbourg 7e canton, Strasbourg 8e canton, Strasbourg 9e 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Wissembourg 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Lauterbourg, Seltz, Soultz-sous-Forêts, Wissembourg et Woerth. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="2" valign="top">
+      <td rowspan="2" width="154" valign="top">
 
 Saverne 
 
@@ -27382,7 +27265,7 @@ Cantons de Molsheim, Obernai, Rosheim, Saales, Schirmeck et Wasselonne.
 Saverne 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bouxwiller, Drulingen, La Petite-Pierre, Marmoutier, Sarre-Union et Saverne. 
 
@@ -27401,7 +27284,7 @@ Bas-Rhin et Haut-Rhin
 Colmar 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Sélestat 
 
@@ -27413,7 +27296,7 @@ Cantons de Barr, Marckolsheim, Sélestat et Villé. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Sélestat 
 
@@ -27425,7 +27308,7 @@ Cantons de Barr, Marckolsheim, Sainte-Marie-aux-Mines, Sélestat, Villé et Ribe
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Haut-Rhin 
 
@@ -27442,19 +27325,19 @@ Colmar
 [Colmar 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Andolsheim, Colmar-Nord, Colmar-Sud, Munster, Neuf Brisach et Wintzenheim. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Colmar 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Andolsheim, Colmar-Nord, Colmar-Sud, Kaysersberg, Lapoutroie, Munster, Neuf-Brisach et Wintzenheim. (4)] 
 
@@ -27473,7 +27356,7 @@ Cantons d'Ensisheim, Guebwiller, Rouffach et Soultz-Haut-Rhin.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Ribeauvillé 
 
@@ -27485,7 +27368,7 @@ Cantons de Kaysersberg, Lapoutroie, Ribeauvillé et Sainte-Marie-aux-Mines. (3)]
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="154" valign="top">
+      <td rowspan="5" valign="top" width="154">
 
 Mulhouse 
 
@@ -27502,7 +27385,7 @@ Cantons d'Altkirch, Dannemarie, Ferrette et Hirsingue. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Huningue 
 
@@ -27514,7 +27397,7 @@ Canton de Huningue. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Mulhouse 
 
@@ -27531,7 +27414,7 @@ Cantons de Habsheim, Illzach, Mulhouse-Est, Mulhouse-Nord, Mulhouse-Ouest, Mulho
 [Mulhouse 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Altkirch, Dannemarie, Ferrette, Habsheim, Hirsingue, Huningue, Illzach, Mulhouse-Est, Mulhouse-Nord, Mulhouse-
 Ouest, Mulhouse-Sud, Sierentz et Wittenheim. (4)] 
@@ -27539,38 +27422,38 @@ Ouest, Mulhouse-Sud, Sierentz et Wittenheim. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Thann 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Cernay, Masevaux, Saint-Amarin et Thann. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Cour d'appel de Dijon 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Côte-d'Or 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="5" valign="top">
+      <td valign="top" rowspan="5" width="154">
 
 Dijon 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Beaune 
 
@@ -27583,7 +27466,7 @@ Saint-Jean-de-Losne et Seurre.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Châtillon-sur-Seine 
 
@@ -27595,12 +27478,12 @@ Cantons d'Aignay-le-Duc, Baigneux-les-Juifs, Châtillon-sur-Seine, Laignes, Mont
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Dijon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Auxonne, Chenôve, Dijon 1er canton, Dijon 2e canton, Dijon 3e canton, Dijon 4e canton, Dijon 5e canton, Dijon 6e
 canton, Dijon 7e canton, Dijon 8e canton, Fontaine-Française, Fontaine-lès Dijon, Genlis, Gevrey-Chambertin, Grancey-le-
@@ -27622,7 +27505,7 @@ Recey-sur-Ource, Saulieu, Semur-en-Auxois, Venarey-les-Laumes et Vitteaux. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Semur-en-Auxois 
 
@@ -27634,24 +27517,24 @@ Cantons de Montbard, Précy-sous-Thil, Saulieu, Semur-en-Auxois, Venarey-les-Lau
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" valign="top" colspan="3">
 
 Haute-Marne 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="4" valign="top">
+      <td width="154" valign="top" rowspan="4">
 
 Chaumont 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Chaumont 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Andelot-Blancheville, Arc-en-Barrois, Bourmont, Châteauvillain, Chaumont-Nord, Chaumont-Sud, Clefmont,
 Doulaincourt-Saucourt, Juzennecourt, Nogent, Saint-Blin et Vignory. (9)] 
@@ -27673,7 +27556,7 @@ Neuilly-l'Évêque, Nogent, Prauthoy, Saint-Blin, Terre-Natale, Val-de-Meuse et 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Langres 
 
@@ -27686,7 +27569,7 @@ Prauthoy, Terre-Natale et Val-de-Meuse. (9)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Saint-Dizier 
 
@@ -27699,31 +27582,31 @@ Saint-Dizier-Ouest, Saint-Dizier-Sud-Est et Wassy.
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Saône-et-Loire 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="8" valign="top">
+      <td width="154" valign="top" rowspan="8">
 
 Chalon-sur-Saône 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Autun 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Autun-Nord, Autun-Sud, Épinac, Issy-l'Évêque, Lucenay-l'Évêque et Saint-Léger-sous-Beuvray. (11)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Chalon-sur-Saône 
 
@@ -27736,12 +27619,12 @@ Givry, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verd
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Chalon-sur-Saône 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Beaurepaire-en-Bresse, Buxy, Chagny, Chalon-sur-Saône Centre, Chalon-sur-Saône-Nord, Chalon-sur-Saône-Ouest,
 Chalon sur-Saône-Sud, Cuiseaux, Cuisery, Givry, Louhans, Montpont-en-Bresse, Montret, Pierre-de-Bresse, Saint-Germain-du-
@@ -27763,7 +27646,7 @@ Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Sai
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Le Creusot 
 
@@ -27775,7 +27658,7 @@ Cantons de Couches, Le Creusot-Est, Le Creusot-Ouest, Mesvres et Montcenis. (11)
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Le Creusot 
 
@@ -27793,7 +27676,7 @@ Montcenis, et Saint-Léger-sous-Beuvray. (12 et 3)]
 [Louhans 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bcaurepaire-en-Bresse, Cuiscaux, Cuiscr, Louhans, Montpont-en-Bresse, Montret, Pierre-de-Bresse et Saint-Germain-
 du Bois. (3)] 
@@ -27801,7 +27684,7 @@ du Bois. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Montceau-les-Mines 
 
@@ -27813,7 +27696,7 @@ Cantons de Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin et Mont-S
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="3">
+      <td width="154" rowspan="3" valign="top">
 
 Mâcon 
 
@@ -27844,12 +27727,12 @@ Tournus et Tramayes. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Mâcon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bourbon-Lancy, Charolles, Chauffailles, Cluny, Digoin, Gueugnon, La Chapelle-de-Guinchay, La Clayette, La Guiche,
 Lugny, Mâcon-Centre, Mâcon-Nord, Mâcon-Sud, Marcigny, Matour, Palinges, Paray-le-Monial, Saint-Bonnet-de-Joux, Saint-Gengoux-
@@ -27858,7 +27741,7 @@ le National, Semur-en-Brionnais, Toulon-sur-Arroux, Tournus et Tramayes. (4)]
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Cour d'appel de Douai 
 
@@ -27872,7 +27755,7 @@ Nord
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="2" valign="top">
+      <td valign="top" width="154" rowspan="2">
 
 Avesnes-sur-Helpe 
 
@@ -27882,7 +27765,7 @@ Avesnes-sur-Helpe
 Avesnes-sur-Helpe 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Avesnes-sur-Helpe-Nord, Avesnes-sur-Helpe-Sud, Berlaimont, Landrecies, Le Quesnoy-Est, Le Quesnoy-Ouest, Solre le-
 Château et Trélon. 
@@ -27890,19 +27773,19 @@ Château et Trélon.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Maubeuge 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bavay, Hautmont, Maubeuge-Nord et Maubeuge-Sud. 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Cambrai 
 
@@ -27912,19 +27795,19 @@ Cambrai
 Cambrai 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cambrai-Est, Cambrai-Ouest, Carnières, Clary, Le Cateau-Cambrésis, Marcoing et Solesmes. 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Douai 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Douai 
 
@@ -27936,12 +27819,12 @@ Cantons d'Arleux, Douai-Nord, Douai-Nord-Est, Douai-Sud, Douai Sud-Ouest, Marchi
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="2">
+      <td rowspan="2" valign="top" width="154">
 
 Dunkerque 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Dunkerque 
 
@@ -27954,12 +27837,12 @@ Wormhout.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Hazebrouck (6)] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bailleul-Nord-Est, Bailleul-Sud-Ouest, Cassel, Hazebrouck-Nord, Hazebrouck-Sud, Merville et Steenvoorde. 
 
@@ -27983,12 +27866,12 @@ Cantons de Bailleul-Nord-Est, Bailleul-Sud-Ouest, Cassel, Hazebrouck-Nord, Hazeb
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td width="154" rowspan="3" valign="top">
 
 Lille 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Lille 
 
@@ -28002,12 +27885,12 @@ Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Roubaix 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Roubaix-Centre, Roubaix-Est, Roubaix-Nord et Roubaix Ouest. 
 
@@ -28019,7 +27902,7 @@ Cantons de Roubaix-Centre, Roubaix-Est, Roubaix-Nord et Roubaix Ouest.
 Tourcoing 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Marcq-en-Baroeul, Tourcoing-Nord, Tourcoing-Nord-Est et Tourcoing-Sud. 
 
@@ -28036,7 +27919,7 @@ Valenciennes
 Valenciennes 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Anzin, Bouchain, Condé-sur-l'Escaut, Denain, Saint-Amand-les-Eaux-Rive droite, Saint-Amand-les-Eaux-Rive gauche,
 Valenciennes-Est, Valenciennes-Nord et Valenciennes-Sud. 
@@ -28044,14 +27927,14 @@ Valenciennes-Est, Valenciennes-Nord et Valenciennes-Sud.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Pas-de-Calais 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 Arras 
 
@@ -28069,7 +27952,7 @@ Marquion, Pas-en-Artois, Rouvroy, Vimy et Vitry-en-Artois. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Arras 
 
@@ -28088,19 +27971,19 @@ Vimy et Vitry-en-Artois. (4)]
 [Saint-Pol-sur-Ternoise 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aubigny-en-Artois, Auxi-le-Château, Avesnes-le-Comte, Heuchin, Le Parcq et Saint-Pol-sur-Ternoise. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="7" width="154" valign="top">
+      <td valign="top" rowspan="7" width="154">
 
 Béthune 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Béthune 
 
@@ -28118,7 +28001,7 @@ Fontes. (3)]
 [Béthune 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Auchel, Barlin, Béthune-Est, Béthune-Nord, Béthune-Sud, Bruay-la-Buissière, Cambrin, Divion, Douvrin, Houdain,
 Laventie, Lillers, Noeux-les-Mines et Nouent-Fontes. (4)] 
@@ -28131,19 +28014,19 @@ Laventie, Lillers, Noeux-les-Mines et Nouent-Fontes. (4)]
 [Carvin 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Carvin, Courrières, Hénin-Beaumont, Leforest et Montigny-en-Gohelle. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Houdain 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Barlin, Bruay-la-Buissière, Divion et Houdain. (3)] 
 
@@ -28162,7 +28045,7 @@ Cantons de Harnes, Lens-Est, Lens-Nord-Est, Lens-Nord-Ouest, Noyelles-sous-Lens 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Lens 
 
@@ -28180,14 +28063,14 @@ Liévin-Nord, Liévin-Sud, Montigny-en-Gohelle, Noyelles-sous-Lens, Sains-en-Goh
 [Liévin 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bully-les-Mines, Liévin-Nord, Liévin-Sud et Sains-en-Gohelle. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td rowspan="3" width="154" valign="top">
 
 Boulogne-sur-Mer 
 
@@ -28222,7 +28105,7 @@ Outreau et Samer.
 Calais 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Calais-Centre, Calais-Est, Calais-Nord-Ouest, Calais-Sud Est et Guînes. 
 
@@ -28234,7 +28117,7 @@ Cantons de Calais-Centre, Calais-Est, Calais-Nord-Ouest, Calais-Sud Est et Guîn
 Saint-Omer 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Saint-Omer 
 
@@ -28246,68 +28129,38 @@ Cantons d'Aire-sur-la-Lys, Ardres, Arques, Audruicq, Fauquembergues, Lumbres, Sa
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
-
-Cour d'appel de Fort-de-France 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="596" colspan="3">
 
-Guyane 
+Cour d'appel de Fort-de-France (Martinique) 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
-
-Cayenne 
-
-</td>
-      <td valign="top" width="109">
-
-Cayenne 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e
-canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury,
-Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="596" colspan="3">
-
-Martinique 
-
-</td>
-    </tr>
-    <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td valign="top" width="154" rowspan="3">
 
 Fort-de-France 
 
 </td>
       <td valign="top" width="109">
 
-[Fort-de-France 
+Fort-de-France 
 
 </td>
       <td width="333" valign="top">
 
-Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Fort-de-France le canton, Fort-de-France 2e canton, Fort-de-France 3e
-canton, Fort de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton, Fort-de-
-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, La Trinité, L'Ajoupa-Bouillon, Le Carbet,
-Le Lorrain, Le Marigot, Le Morne Rouge, Le Prêcheur, Macouba, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud,
-Saint-Pierre, Schoelcher 1er canton et Schoelcher 2e canton. (3)] 
+Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Ducos, Fort-de-France 1er canton, Fort-de-France 2e canton, Fort-de-
+France 3e canton, Fort-de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton,
+Fort-de-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, L'Ajoupa-Bouillon, La Trinité, Le
+Carbet, Le Diamant, Le François 1er canton Nord, Le François 2e canton Sud, Le Lamentin 1er canton Sud-Bourg, Le Lamentin 2e
+canton Nord, Le Lamentin 3e canton Est, Le Lorrain, Le Marigot, Le Marin, Le Morne-Rouge, Le Prêcheur, Le Robert 1er canton
+Sud, Le Robert 2e canton Nord, Le Vauclin, Les Anses-d'Arlet, Les Trois-Îlets, Macouba, Rivière-Pilote, Rivière-Salée,
+Sainte-Anne, Sainte-Luce, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud, Saint-Esprit, Saint-Joseph, Saint-Pierre,
+Schœlcher 1er canton et Schœlcher 2e canton. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Fort-de-France 
 
@@ -28326,7 +28179,7 @@ Schoelcher 1er canton et Schoelcher 2e canton. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Le Lamentin 
 
@@ -28348,14 +28201,14 @@ Cour d'appel de Grenoble
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td width="596" colspan="3" valign="top">
 
 Drôme 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="7" valign="top">
+      <td valign="top" width="154" rowspan="7">
 
 Valence 
 
@@ -28390,7 +28243,7 @@ Châteaux. (3)]
 [Montélimar 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Buis-les-Baronnies, Dieulefit, Grignan, Marsanne, Montélimar 1er canton, Montélimar 2e canton, Nyons, Pierrelatte,
 Rémuzat, Saint-Paul-Trois-Châteaux et Séderon. (4)] 
@@ -28398,7 +28251,7 @@ Rémuzat, Saint-Paul-Trois-Châteaux et Séderon. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Nyons 
 
@@ -28410,7 +28263,7 @@ Cantons de Buis-les-Baronnies, Nyons, Rémuzat, Séderon. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Romans-sur-Isère 
 
@@ -28423,7 +28276,7 @@ Saint-Donat-sur-l'Herbasse et Saint-Jean-en-Royans.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Valence 
 
@@ -28441,7 +28294,7 @@ canton, Valence 2e canton, Valence 3e canton et Valence 4e canton. (13)]
 [Valence 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bourdeaux, Bourg-lès-Valence, Chabeuil, Châtillon-en-Diois, Crest-Nord, Crest-Sud, Die, La Motte-Chalancon,
 Loriol-sur-Drôme, Luc-en-Diois, Portes-lès-Valence, Saillans, Saint-Vallier, Tain-l'Hermitage, Valence 1er canton, Valence 2e
@@ -28450,24 +28303,24 @@ canton, Valence 3e canton et Valence 4e canton. (14)]
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Hautes-Alpes 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td rowspan="3" valign="top" width="154">
 
 Gap 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Briançon 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aiguilles, Briançon-Nord, Briançon-Sud, Guillestre, La Grave, L'Argentière-la-Bessée et Le Monêtier-les-Bains.
 (3)] 
@@ -28480,7 +28333,7 @@ Cantons d'Aiguilles, Briançon-Nord, Briançon-Sud, Guillestre, La Grave, L'Arge
 [Gap 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aspres-sur-Buëch, Barcillonnette, Chorges, Embrun, Gap Campagne, Gap-Centre, Gap-Nord-Est, Gap-Nord-Ouest, Gap-Sud
 Est, Gap-Sud-Ouest, La Bâtie-Neuve, Laragne-Montéglin, Orcières, Orpierre, Ribiers, Rosans, Saint-Bonnet-en-Champsaur, Saint-
@@ -28489,12 +28342,12 @@ Est, Gap-Sud-Ouest, La Bâtie-Neuve, Laragne-Montéglin, Orcières, Orpierre, Ri
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Gap 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aiguilles, Aspres-sur-Buëch, Barcillonnette, Briançon Nord, Briançon-Sud, Chorges, Embrun, Gap-Campagne, Gap-
 Centre, Gap-Nord-Est, Gap-Nord-Ouest, Gap-Sud-Est, Gap-Sud-Ouest, Guillestre, La Bâtie-Neuve, La Grave, L'Argentière-la-
@@ -28504,24 +28357,24 @@ Bessée, Laragne-Montéglin, Le Monêtier-les-Bains, Orcières, Orpierre, Ribier
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Isère 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 [Bourgoin-Jallieu (19)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Bourgoin-Jallieu 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin,
 Morestel, Saint-Geoire-en-Valdaine et Virieu. 
@@ -28529,17 +28382,17 @@ Morestel, Saint-Geoire-en-Valdaine et Virieu.
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="4">
+      <td width="154" rowspan="4" valign="top">
 
 Grenoble 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Grenoble 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Allevard, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin,
 Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, Le
@@ -28549,12 +28402,12 @@ Martin-d'Hères-Sud, Vif, Villard-de-Lans, Vizille et Voiron. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Grenoble 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet,
 Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e
@@ -28570,7 +28423,7 @@ Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Viz
 [La Mure 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais. (3)] 
 
@@ -28582,14 +28435,14 @@ Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais. (
 [Saint-Marcellin 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs, Saint-Marcellin, Tullins et Vinay. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" rowspan="3" width="154">
 
 [Vienne (19)] 
 
@@ -28609,12 +28462,12 @@ de-Bournay, Vienne-Nord et Vienne-Sud.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bourgoin-Jallieu] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin,
 Morestel, Saint-Geoire-en-Valdaine et Virieu. 
@@ -28622,12 +28475,12 @@ Morestel, Saint-Geoire-en-Valdaine et Virieu.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 [Vienne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, 
 
@@ -28638,26 +28491,26 @@ Saint-Jean-de-Bournay, Vienne-Nord et Vienne-Sud.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Cour d'appel de Limoges 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Corrèze 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="154">
+      <td rowspan="2" valign="top" width="154">
 
 Brive-la-Gaillarde 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Brive-la-Gaillarde 
 
@@ -28671,12 +28524,12 @@ Corrèze, Mevssac et Vigeois.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Tulle (6)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La Roche-Canillac, Lapleau, Mercoeur, Meymac,
 Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-
@@ -28685,7 +28538,7 @@ Sud, Ussel-Est, Ussel-Ouest et Uzerche.
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td rowspan="3" valign="top" width="154">
 
 [Tulle (5)] 
 
@@ -28695,7 +28548,7 @@ Sud, Ussel-Est, Ussel-Ouest et Uzerche.
 [Tulle 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Argentat, Corrèze, Égletons, La Roche-Canillac, Lapleau, Mercoeur, Saint-Privat, Seilhac, Treignac, Tulle-Campagne-
 Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud et Uzerche. (3)] 
@@ -28722,14 +28575,14 @@ Sud, Ussel-Est, Ussel-Ouest et Uzerche. (4)]
 [Ussel 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bort-les-Orgues, Bugcat, Eygurande, Mcymae, Ncuvic, Sornac, Ussel-Est et Ussel-Ouest. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td colspan="3" width="596" valign="top">
 
 Creuse 
 
@@ -28758,7 +28611,7 @@ Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière.
 [Guéret 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bonnat, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix
 Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-
@@ -28791,7 +28644,7 @@ Saint-Sulpice-les Champs et Saint-Vaury. (10)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" width="596" colspan="3">
 
 Haute-Vienne 
 
@@ -28848,12 +28701,12 @@ Ouest, Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-Sulpice-les-Feuilles et Sai
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Rochechouart 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Oradour-sur-Vayres, Rochechouart, Saint-Junien-Est, Saint-Junien-Ouest, Saint-Laurent-sur-Gorre et Saint-Mathieu.
 (3)] 
@@ -28866,14 +28719,14 @@ Cantons d'Oradour-sur-Vayres, Rochechouart, Saint-Junien-Est, Saint-Junien-Ouest
 [Saint-Yrieix-la-Perche 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Châlus, Nexon, Saint-Germain-les-Belles et Saint-Yrieix la-Perche. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Cour d'appel de Lyon 
 
@@ -28886,7 +28739,7 @@ Ain
 
 </td>
       <td valign="top" width="109">
-      </td><td width="333" valign="top">
+      </td><td valign="top" width="333">
     </td></tr>
     <tr>
       <td width="154" valign="top">
@@ -28899,7 +28752,7 @@ Ain
 Belley 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Ambérieu-en-Bugey, Belley, Champagne-en-Valromey, Hauteville-Lompnes, Lagnieu, Lhuis, Saint-Rambert-en-Bugey,
 Seyssel et Virieu-le-Grand. 
@@ -28907,12 +28760,12 @@ Seyssel et Virieu-le-Grand.
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="4">
+      <td valign="top" rowspan="4" width="154">
 
 Bourg-en-Bresse 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Bourg-en-Bresse 
 
@@ -28931,7 +28784,7 @@ Viriat.
 [Belley (10)] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Ambérieu-en-Bugey, Belley, Champagne-en-Valromey, Hauteville-Lompnes, Lagnieu, Lhuis, Saint-Rambert-en-Bugey,
 Seyssel et Virieu-le-Grand. 
@@ -28952,7 +28805,7 @@ Poncin.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Trévoux 
 
@@ -28965,7 +28818,7 @@ Trévoux et Villars-les-Dombes.
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Loire 
 
@@ -28977,7 +28830,7 @@ Loire
 [Montbrison (5)] 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Montbrison 
 
@@ -28990,12 +28843,12 @@ Couzan, Saint-Jean-Soleymieux et Saint-Just-Saint-Rambert.
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Roanne 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Roanne 
 
@@ -29008,17 +28861,17 @@ Saint-Haon-le-Châtel, Saint-Just-en-Chevalet et Saint-Symphorien-de-Lay.
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="4" valign="top">
+      <td valign="top" width="154" rowspan="4">
 
 Saint-Etienne 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Le Chambon-Feugerolles 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Firminy et Le Chambon-Feugerolles. (3)] 
 
@@ -29030,7 +28883,7 @@ Cantons de Firminy et Le Chambon-Feugerolles. (3)]
 [Montbrison (6)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Boën, Chazelles-sur-Lyon, Feurs, Montbrison, Noirétable, Saint-Bonnet-le-Château, Saint-Galmier, Saint-Georges-en-
 Couzan, Saint-Jean-Soleymieux et Saint-Just-Saint-Rambert. 
@@ -29038,12 +28891,12 @@ Couzan, Saint-Jean-Soleymieux et Saint-Just-Saint-Rambert.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Etienne 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bourg-Argentai, La Grand-Croix, Pélussin, Rive-de-Gier, Saint-Chamond-Nord, Saint-Chamond-Sud, Saint-Étienne-Nord-
 Est 1, Saint-Étienne-Nord-Est-2, Saint-Étienne-Nord-Ouest-1, Saint-Étienne-Nord-Ouest-2, Saint-Étienne-Sud-Est-1, Saint-
@@ -29053,7 +28906,7 @@ Saint-Héand. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Etienne 
 
@@ -29068,14 +28921,14 @@ Sud-Ouest-2, Saint-Genest Malifaux et Saint-Héand. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td colspan="3" width="596" valign="top">
 
 Rhône 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="2" valign="top">
+      <td rowspan="2" valign="top" width="154">
 
 Lyon 
 
@@ -29095,7 +28948,7 @@ Tassin-la Demi-Lune et Vaugneray.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Villeurbanne 
 
@@ -29126,21 +28979,21 @@ Villefranche sur-Saône.
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td colspan="3" width="596" valign="top">
 
 Cour d'appel de Metz 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" colspan="3" width="596">
 
 Moselle 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="154" valign="top">
+      <td rowspan="5" valign="top" width="154">
 
 Metz 
 
@@ -29157,12 +29010,12 @@ Cantons de Boulay-Moselle, Bouzonville et Faulquemont. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Château-Salins 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Albestroff, Château-Salins, Delme, Dieuze et Vic-sur-Seille. (3)] 
 
@@ -29187,7 +29040,7 @@ canton, Metz-Ville 4e canton, Montigny-lès-Metz, Pange, Rombas, Verny, Vigy et 
 [Metz 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Albestroff, Ars-sur-Moselle, Boulay-Moselle, Bouzonville, Château-Salins, Delme, Dieuze, Faulquemont, Maizières-
 lès-Metz, Marange-Silvange, Metz-Ville 1er canton, Metz-Ville 2e canton, Metz Ville 3e canton, Metz-Ville 4e canton,
@@ -29208,24 +29061,24 @@ Cantons de Fénétrange, Lorquin, Phalsbourg, Réchicourt-le-Château et Sarrebo
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="154" valign="top">
+      <td width="154" valign="top" rowspan="4">
 
 Sarreguemines 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Forbach 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Behren-lès-Forbach, Forbach et Stiring-Wendel. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Avold 
 
@@ -29237,7 +29090,7 @@ Cantons de Freyming-Merlebach, Grostenquin, Saint-Avold 1er canton et Saint-Avol
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Saint-Avold 
 
@@ -29262,12 +29115,12 @@ Cantons de Bitche, Rohrbach-lès-Bitche, Sarralbe, Sarreguemines, S arreg uemine
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td valign="top" width="154" rowspan="3">
 
 Thionville 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Hayange 
 
@@ -29284,7 +29137,7 @@ Cantons d'Algrange, Fameck, Florange et Hayange. (3)]
 [Thionville 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cattenom, Fontoy, Metzervisse, Moyeuvre-Grande, Sierck-les-Bains, Thionville-Est, Thionville-Ouest et Yutz. (3)] 
 
@@ -29296,7 +29149,7 @@ Cantons de Cattenom, Fontoy, Metzervisse, Moyeuvre-Grande, Sierck-les-Bains, Thi
 [Thionville 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Algrange, Cattenom, Fameck, Florange, Fontoy, Hayange, Metzervisse, Moyeuvre-Grande, Sierck-les-Bains, Thionville-
 Est, Thionville-Ouest et Yutz. (4)] 
@@ -29304,26 +29157,26 @@ Est, Thionville-Ouest et Yutz. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" valign="top" colspan="3">
 
 Cour d'appel de Montpellier 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td colspan="3" width="596" valign="top">
 
 Aude 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="154">
+      <td width="154" rowspan="4" valign="top">
 
 Carcassonne 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Carcassonne 
 
@@ -29341,7 +29194,7 @@ canton, Conques-sur-Orbiel, Lagrasse, Mas-Cabardès, Montréal, Mouthoumet, Peyr
 [Carcassonne 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Alaigne, Alzonne, Axat, Belcaire, Belpech, Capendu, Carcassonne 1er canton, Carcassonne 2e canton-Nord, Carcassonne
 2e canton-Sud, Carcassonne 3e canton, Castelnaudary-Nord, Castelnaudary-Sud, Chalabre, Conques-sur-Orbiel, Couiza, Fanjeaux,
@@ -29351,7 +29204,7 @@ l'Hers. (10)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Castelnaudary 
 
@@ -29368,7 +29221,7 @@ Cantons de Belpech, Castelnaudary-Nord, Castelnaudary-Sud, Fanjeaux et Salles-su
 [Limoux 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Alaigne, Axat, Belcaire, Chalabre, Couiza, Limoux, Quillan et Saint-Hilaire. (3)] 
 
@@ -29380,12 +29233,12 @@ Cantons d'Alaigne, Axat, Belcaire, Chalabre, Couiza, Limoux, Quillan et Saint-Hi
 Narbonne 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Narbonne 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Coursan, Durban-Corbières, Ginestas, Lézignan Corbières, Narbonne-Est, Narbonne-Ouest, Narbonne-Sud, Sigean et
 Tuchan. 
@@ -29393,19 +29246,19 @@ Tuchan.
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Aveyron 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td width="154" valign="top" rowspan="3">
 
 [Millau (9)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Millau 
 
@@ -29431,7 +29284,7 @@ Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-l
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Saint-Affrique 
 
@@ -29443,12 +29296,12 @@ Cantons de Belmont-sur-Rance, Camarès, Cornus, Saint-Affrique, Saint-Rome-de-Ta
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="5" width="154">
+      <td rowspan="5" width="154" valign="top">
 
 Rodez 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Espalion 
 
@@ -29461,7 +29314,7 @@ Sainte Geneviève-sur-Argence et Saint-Geniez-d'Olt. (9)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Millau (10)] 
 
@@ -29479,7 +29332,7 @@ Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-l
 [Rodez 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Baraqueville-Sauveterre, Bozouls, Cassagnes-Bégonhès, Conques, La Salvetat-Peyralès, Laissac, Marcillac-Vallon,
 Naucelle, Pont-de-Salars, Réquista, Rignac, Rodez-Est, Rodez-Nord et Rodez Ouest. (9)] 
@@ -29487,12 +29340,12 @@ Naucelle, Pont-de-Salars, Réquista, Rignac, Rodez-Est, Rodez-Nord et Rodez Oues
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Rodez 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aubin, Baraqueville-Sauveterre, Bozouls, Capdenac-Gare, Cassagnes-Bégonhès, Conques, Decazeville, Entraygues-sur-
 Truyère, Espalion, Estaing, Laguiole, Laissac, La Salvetat-Peyralès, Marcillac-Vallon, Montbazens, Mur-de-Barrez, Najac,
@@ -29507,21 +29360,21 @@ Chély-d'Aubrac, Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt, Villefranche
 [Villefranche-de-Rouergue 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aubin, Capdenac-Gare, Decazeville, Montbazens, Najac, Rieupeyroux, Villefranche-de-Rouergue et Villeneuve. (9)] 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Hérault 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="154" valign="top">
+      <td rowspan="3" valign="top" width="154">
 
 Béziers 
 
@@ -29539,12 +29392,12 @@ Montagnac, Murviel-lès-Béziers, Pézenas, Roujan, Saint-Gervais-sur-Mare et Se
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Béziers 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Agde, Bédarieux, Béziers 1er canton, Béziers 2e canton, Béziers 3e canton, Béziers 4e canton, Capestang, Florensac,
 La Salvetat-sur-Agout, Montagnac, Murviel-lès-Béziers, Olargues, Olonzac, Pézenas, Roujan, Saint-Chinian, Saint-Gervais-sur-
@@ -29558,14 +29411,14 @@ Mare, Saint-Pons-de-Thomières et Servian. (12)]
 [Saint-Pons-de-Thomières 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de La Salvetat-sur-Agout, Olargues, Olonzac, Saint-Chinian et Saint-Pons-de-Thomières. (11)] 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="154" valign="top">
+      <td width="154" rowspan="4" valign="top">
 
 Montpellier 
 
@@ -29582,7 +29435,7 @@ Cantons de Clermont-l'Hérault, Gignac, Le Caylar, Lodève et Lunas. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Montpellier 
 
@@ -29602,7 +29455,7 @@ Londres. (3)]
 [Montpellier 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aniane, Castelnau-le-Lez, Castries, Claret, Clermont l'Hérault, Ganges, Gignac, Lattes, Le Caylar, Les Matelles,
 Lodève, Lunas, Lunel, Mauguio, Montpellier 1er canton, Montpellier 2e canton, Montpellier 3e canton, Montpellier 4e canton,
@@ -29612,19 +29465,19 @@ Montpellier 10e canton, Pignan et Saint-Martin de-Londres. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Sète 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Frontignan, Mèze, Sète 1er canton et Sète 2e canton. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Pyrénées-Orientales 
 
@@ -29636,7 +29489,7 @@ Pyrénées-Orientales
 Perpignan 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Céret 
 
@@ -29663,12 +29516,12 @@ Perpignan 9e canton, Rivesaltes, Saint-Estève, Saint-Laurent-de-la-Salanque, Sa
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Perpignan 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Argelès-sur-Mer, Arles-sur-Tech, Canet-en-Roussillon, Céret, Côte Vermeille, Elne, La Côte Radieuse, Latour-de-
 France, Millas, Mont-Louis, Olette, Perpignan 1er canton, Perpignan 2e canton, Perpignan 3e canton, Perpignan 4e canton,
@@ -29698,14 +29551,14 @@ Cour d'appel de Nancy
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td width="596" valign="top" colspan="3">
 
 Meurthe-et-Moselle 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 Briey 
 
@@ -29747,12 +29600,12 @@ Cantons de Herserange, Longuyon, Longwy, Mont-Saint-Martin et Villerupt. (3)]
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td width="154" valign="top" rowspan="4">
 
 Nancy 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Lunéville 
 
@@ -29793,26 +29646,26 @@ Vézelise. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Toul 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Colombey-les-Belles, Domèvre-en-Haye, Thiaucourt Regniéville, Toul-Nord et Toul-Sud. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Meuse 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 Bar-le-Duc 
 
@@ -29830,12 +29683,12 @@ sur-Ornain, Seuil-d'Argonne, Vaubecourt et Vavincourt. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bar-le-Duc 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Ancerville, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Commercy, Gondrecourt-le-Château, Ligny-en-Barrois, Montiers-sur-
 Saulx, Pierrefitte-sur-Aire, Revigny-sur-Ornain, Saint-Mihiel, Seuil d'Argonne, Vaubecourt, Vaucouleurs, Vavincourt,
@@ -29844,12 +29697,12 @@ Vigneulles-lès-Hattonchâtel et Void-Vacon. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Mihiel 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Commercy, Pierrefitte-sur-Aire, Saint-Mihiel, Vaucouleurs, Vigneulles-lès-Hattonchâtel et Void-Vacon. (3)] 
 
@@ -29866,7 +29719,7 @@ Verdun
 Verdun 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Étain, Fresnes-en-Woëvre, Montfaucon-d'Argonne,
 Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdun-Est et Verdun-Ouest. 
@@ -29874,14 +29727,14 @@ Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdu
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Vosges 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="6">
+      <td rowspan="6" valign="top" width="154">
 
 Epinal 
 
@@ -29891,7 +29744,7 @@ Epinal
 [Epinal 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest,
 Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] 
@@ -29938,7 +29791,7 @@ Saulxures-sur-Moselotte et Xertigny. (12 et 3)]
 [Mirecourt 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] 
 
@@ -29962,7 +29815,7 @@ Cantons de Le Thillot, Plombières-les-Bains, Remiremont et Saulxures-sur-Moselo
 [Saint-Dié-des-Vosges (6)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-
 Dié-des-Vosges-Ouest et Senones. 
@@ -29975,12 +29828,12 @@ Dié-des-Vosges-Ouest et Senones.
 [Saint-Dié-des-Vosges (5)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Saint-Dié-des-Vosges 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-
 Dié-des-Vosges-Ouest et Senones. 
@@ -29988,14 +29841,14 @@ Dié-des-Vosges-Ouest et Senones.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Cour d'appel de Nîmes 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td valign="top" colspan="3" width="596">
 
 Ardèche 
 
@@ -30025,7 +29878,7 @@ Péray, Satillieu, Serrières, Tournon-sur-Rhône et Vernoux-en-Vivarais. (4)]
 [Aubenas 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Aubenas, Burzet, Coucouron, Joyeuse, Largentière, Les Vans, Montpezat-sous-Bauzon, Saint-Étienne-de-Lugdarès,
 Thueyts, Valgorge et Vallon-Pont-d'Arc. (4)] 
@@ -30033,28 +29886,15 @@ Thueyts, Valgorge et Vallon-Pont-d'Arc. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Largentière 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Burzet, Coucouron, Joyeuse, Largentière, Les Vans, Montpezat-sous-Bauzon, Saint-Étienne-de-Lugdarès, Thueyts,
 Valgorge et Vallon-Pont-d'Arc. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Privas 
-
-</td>
-      <td width="333" valign="top">
-
-Cantons d'Antraigues-sur-Volane, Aubenas, Bourg-Saint-Andéol, Chomérac, La Voulte-sur-Rhône, Privas, Rochemaure, Saint-
-Pierreville, Vals-les-Bains, Villeneuve-de-Berg et Viviers. (3)] 
 
 </td>
     </tr>
@@ -30065,6 +29905,19 @@ Pierreville, Vals-les-Bains, Villeneuve-de-Berg et Viviers. (3)]
 
 </td>
       <td valign="top" width="333">
+
+Cantons d'Antraigues-sur-Volane, Aubenas, Bourg-Saint-Andéol, Chomérac, La Voulte-sur-Rhône, Privas, Rochemaure, Saint-
+Pierreville, Vals-les-Bains, Villeneuve-de-Berg et Viviers. (3)] 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="109">
+
+[Privas 
+
+</td>
+      <td width="333" valign="top">
 
 Cantons d'Antraigues-sur-Volane, Bourg-Saint-Andéol, Chomérac, La Voulte-sur-Rhône, Privas, Rochemaure, Saint-Pierreville,
 Vals-les-Bains, Villeneuve-de-Berg et Viviers. (4)] 
@@ -30085,19 +29938,19 @@ Péray, Satillieu, Serrières, Tournon-sur-Rhône et Vernoux-en-Vivarais. (3)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" colspan="3" width="596">
 
 Gard 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="2">
+      <td rowspan="2" width="154" valign="top">
 
 Alès 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Alès 
 
@@ -30110,7 +29963,7 @@ Ambroix, Saint-Jean-du-Gard et Vézénobres. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Alès 
 
@@ -30124,7 +29977,7 @@ Sumène, Trèves, Valleraugue et Vézénobres. (4)]
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" rowspan="3" width="154">
 
 Nîmes 
 
@@ -30134,7 +29987,7 @@ Nîmes
 [Le Vigan 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Alzon, Lasalle, Le Vigan, Quissac, Saint-André-de-Valborgne, Saint-Ilippolyte-du-Fort, Sauve, Sumène, Trèves et
 Valleraugue. (3)] 
@@ -30142,12 +29995,12 @@ Valleraugue. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Nîmes 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aigues-Mortes, Aramon, Beaucaire, La Vistrenque, Marguerittes, Nîmes 1er canton, Nîmes 2e canton, Nîmes 3e canton,
 Nîmes 4e canton, Nîmes 5e canton, Nîmes 6e canton, Rhôny-Vidourle, Saint-Gilles, Saint-Mamert-du-Gard, Sommières et Vauvert. 
@@ -30155,7 +30008,7 @@ Nîmes 4e canton, Nîmes 5e canton, Nîmes 6e canton, Rhôny-Vidourle, Saint-Gil
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Uzès 
 
@@ -30168,24 +30021,24 @@ Avignon.
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Lozère 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="154" valign="top">
+      <td width="154" rowspan="4" valign="top">
 
 Mende 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Florac 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Barre-des-Cévennes, Florac, Le Massegros, Le Pont-de-Montvert, Meyrueis, Sainte-Enimie et Saint-Germain-de-
 Calberte. (3)] 
@@ -30193,7 +30046,7 @@ Calberte. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Marvejols 
 
@@ -30218,12 +30071,12 @@ Cantons de Châteauneuf-de-Randon, Grandrieu, Langogne, Le Bleymard, Mende-Nord,
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Mende 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aumont-Aubrac, Barre-des-Cévennes, Chanac, Châteauneuf-de-Randon, Florac, Fournels, Grandrieu, La Canourgue,
 Langogne, Le Bleymard, Le Malzieu-Ville, Le Massegros, Le Pont de-Montvert, Marvejols, Mende-Nord, Mende-Sud, Meyrueis,
@@ -30250,14 +30103,14 @@ Avignon
 [Apt 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Apt, Bonnieux, Cadenet, Gordes et Pertuis. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Avignon 
 
@@ -30274,14 +30127,14 @@ Cantons d'Avignon-Est, Avignon-Nord, Avignon-Ouest, Avignon Sud, Bédarrides, Ca
 [Pertuis 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Apt, Bonnieux, Cadenet, Gordes et Pertuis. (4)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="154">
+      <td rowspan="2" valign="top" width="154">
 
 Carpentras 
 
@@ -30291,26 +30144,26 @@ Carpentras
 Carpentras 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Carpentras-Nord, Carpentras-Sud, Mormoiron, Pernes-les-Fontaines et Sault. 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Orange 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Beaumes-de-Venise, Bollène, Malaucène, Orange-Est, Orange-Ouest, Vaison-la-Romaine et Valréas. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Cour d'appel d'Orléans 
 
@@ -30324,7 +30177,7 @@ Indre-et-Loire
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="4">
+      <td rowspan="4" valign="top" width="154">
 
 Tours 
 
@@ -30346,14 +30199,14 @@ Cantons d'Azay-le-Rideau, Bourgueil, Chinon, Langeais, L'Île Bouchard, Richelie
 [Loches 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Descartes, Le Grand-Pressigny, Ligueil, Loches, Montrésor et Preuilly-sur-Claise. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Tours 
 
@@ -30384,14 +30237,14 @@ Tours-Nord-Ouest, Tours Ouest, Tours-Sud, Tours-Val-du-Cher et Vouvray. (4)]
 </td>
     </tr>
     <tr>
-      <td width="596" valign="top" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Loiret 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td width="154" valign="top" rowspan="3">
 
 Montargis 
 
@@ -30421,12 +30274,12 @@ et Montargis. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Montargis 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Amilly, Bellegarde, Briare, Châlette-sur-Loing, Château Renard, Châtillon-Coligny, Châtillon-sur-Loire, Courtenay,
 Ferrières-en-Gâtinais, Gien, Lorris, Montargis, Ouzouer-sur-Loire et Sully-sur-Loire. (4)] 
@@ -30434,7 +30287,7 @@ Ferrières-en-Gâtinais, Gien, Lorris, Montargis, Ouzouer-sur-Loire et Sully-sur
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Orléans 
 
@@ -30444,7 +30297,7 @@ Orléans
 [Orléans 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Artenay, Beaugency, Beaune-la-Rolande, Châteauneuf-sur-Loire, Chécy, Cléry-Saint-André, Fleury-les-Aubrais, Ingré,
 Jargeau, La Ferté-Saint-Aubin, Malesherbes, Meung-sur-Loire, Neuville-aux Bois, Olivet, Orléans-Bannier, Orléans-Bourgogne,
@@ -30454,14 +30307,14 @@ Puiseaux, Saint-Jean-de-Braye, Saint-Jean-de-la-Ruelle et Saint-Jean-le-Blanc. (
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Loir-et-Cher 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td valign="top" rowspan="4" width="154">
 
 Blois 
 
@@ -30499,7 +30352,7 @@ Salbris, Savigny-sur-Braye, Selles-sur-Cher, Selommes, Vendôme 1er canton, Vend
 [Romorantin-Lanthenay 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud,
 Salbris et Selles-sur-Cher. (3)] 
@@ -30507,34 +30360,34 @@ Salbris et Selles-sur-Cher. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Vendôme 
 
 </td>
       <td valign="top" width="333">
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t
 canton et Vendôme 2e canton. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td valign="top" width="596" colspan="3">
 
 Cour d'appel de Paris 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Essonne 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="154">
+      <td width="154" valign="top" rowspan="5">
 
 Evry 
 
@@ -30544,7 +30397,7 @@ Evry
 Etampes 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Dourdan, Étampes, Étréchy, La Ferté-Alais, Méréville et Saint-Chéron. 
 
@@ -30556,7 +30409,7 @@ Cantons de Dourdan, Étampes, Étréchy, La Ferté-Alais, Méréville et Saint-C
 Evry 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Corbeil-Essonnes-Est, Corbeil-Essonnes-Ouest, Évry Nord, Évry-Sud, Mennecy, Milly-la-Forêt, Ris-Orangis et Saint-
 Germain-lès-Corbeil. 
@@ -30564,7 +30417,7 @@ Germain-lès-Corbeil.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Juvisy-sur-Orge 
 
@@ -30582,7 +30435,7 @@ Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres.
 Longjumeau 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin,
 Juvisy sur-Orge (uniquement la fraction de la commune de Savigny-sur-Orge), Longjumeau, Massy-Est, Massy-Ouest, Montlhéry,
@@ -30605,14 +30458,14 @@ Villebon-sur-Yvette et Villejust).
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Paris 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="20">
+      <td valign="top" rowspan="20" width="154">
 
 Paris 
 
@@ -30634,7 +30487,7 @@ Canton de Paris 1er canton.
 Paris 2e arrondissement 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Canton de Paris 2e canton. 
 
@@ -30653,7 +30506,7 @@ Canton de Paris 3e canton.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Paris 4e arrondissement 
 
@@ -30665,7 +30518,7 @@ Canton de Paris 4e canton.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Paris 5e arrondissement 
 
@@ -30677,7 +30530,7 @@ Canton de Paris 5e canton.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Paris 6e arrondissement 
 
@@ -30706,7 +30559,7 @@ Canton de Paris 7e canton.
 Paris 8e arrondissement 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Canton de Paris 8e canton. 
 
@@ -30718,19 +30571,19 @@ Canton de Paris 8e canton.
 Paris 9e arrondissement 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Canton de Paris 9e canton. 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Paris 10e arrondissement 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Canton de Paris 10e canton. 
 
@@ -30742,7 +30595,7 @@ Canton de Paris 10e canton.
 Paris 11e arrondissement 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Canton de Paris 11e canton. 
 
@@ -30754,7 +30607,7 @@ Canton de Paris 11e canton.
 Paris 12e arrondissement 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Canton de Paris 12e canton. 
 
@@ -30778,31 +30631,31 @@ Canton de Paris 13e canton.
 Paris 14'arrondissement 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Canton de Paris 14e canton. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Paris 15e arrondissement 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Canton de Paris 15e canton. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Paris 16e arrondissement 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Canton de Paris 16e canton. 
 
@@ -30826,14 +30679,14 @@ Canton de Paris 17e canton.
 Paris 18e arrondissement 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Canton de Paris 18e canton. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Paris 19e arrondissement 
 
@@ -30845,31 +30698,31 @@ Canton de Paris 19e canton.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Paris 20e arrondissement 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Canton de Paris 20e canton. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Seine-et-Marne 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td rowspan="3" width="154" valign="top">
 
 Fontainebleau 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Fontainebleau 
 
@@ -30881,12 +30734,12 @@ Cantons de Château-Landon, Fontainebleau, La Chapelle-la-Reine, Moret-sur-Loing
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Fontainebleau 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Château-Landon, Fontainebleau, La Chapelle-la-Reine, Lorrez-le-Bocage-Préaux, Montereau-Fault-Yonne, Moret-sur-
 Loing et Nemours. (4)] 
@@ -30894,12 +30747,12 @@ Loing et Nemours. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Montereau-Fault-Yonne 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Lorrez-le-Bocage-Préaux et Montereau-Fault-Yonne. (3)] 
 
@@ -30916,7 +30769,7 @@ Meaux
 [Coulommiers 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Coulommiers, La Ferté-Gaucher, Rebais et Rozay-en-Brie. (3)] 
 
@@ -30928,7 +30781,7 @@ Cantons de Coulommiers, La Ferté-Gaucher, Rebais et Rozay-en-Brie. (3)]
 Lagny-sur-Marne 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 A l'exception de l'emprise de l'aérodrome de Roissy-Charles-de-Gaulle, cantons de Champs-sur-Marne, Chelles, Clayc-Souilly,
 Lagny-sur-Marne, Mitry-Mory, Noisiel, Thorigny-sur-Marne, Torcy et Vaires-sur-Marne. 
@@ -30936,12 +30789,12 @@ Lagny-sur-Marne, Mitry-Mory, Noisiel, Thorigny-sur-Marne, Torcy et Vaires-sur-Ma
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Meaux 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 A l'exception de l'emprise de l'aérodrome de Roissy-Charles-de-Gaulle, cantons de Crécy-la-Chapelle, Dammartin-en-Goële, La
 Ferté sous-Jouarre, Lizy-sur-Ourcq, Meaux-Nord et Meaux-Sud. (3)] 
@@ -30949,7 +30802,7 @@ Ferté sous-Jouarre, Lizy-sur-Ourcq, Meaux-Nord et Meaux-Sud. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Meaux 
 
@@ -30962,7 +30815,7 @@ en-Goële, La Ferté Gaucher, La Ferté-sous-Jouarre, Lizy-sur-Ourcq, Meaux-Nord
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="4">
+      <td valign="top" rowspan="4" width="154">
 
 Melun 
 
@@ -30972,7 +30825,7 @@ Melun
 [Melun 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Brie-Comte-Robert, Combs-la-Ville, Le Châtelet-en-Brie, Le Mée-sur-Seine, Melun-Nord, Melun-Sud, Mormant, Perthes,
 Pontault-Combault, Roissy-en-Brie, Savigny-le-Temple et Tournan en-Brie. (3)] 
@@ -30980,12 +30833,12 @@ Pontault-Combault, Roissy-en-Brie, Savigny-le-Temple et Tournan en-Brie. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Melun 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bray-sur-Seine, Brie-Comte-Robert, Combs-la-Ville, Donnemarie-Dontilly, Le Châtelet-en-Brie, Le Mée-sur-Seine,
 Melun Nord, Melun-Sud, Mormant, Nangis, Perthes, Pontault-Combault, Provins, Roissy-en-Brie, Savigny-le-Temple, Tournan-en-
@@ -30994,11 +30847,11 @@ Brie et Villiers-Saint-Georges. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
       </td><td valign="top" width="333">
     </td></tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Provins 
 
@@ -31010,19 +30863,19 @@ Cantons de Bray-sur-Seine, Donnemarie-Dontilly, Nangis, Provins et Villiers-Sain
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td width="596" valign="top" colspan="3">
 
 Seine-Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="8" width="154" valign="top">
+      <td width="154" rowspan="8" valign="top">
 
 Bobigny 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Aubervilliers 
 
@@ -31035,12 +30888,12 @@ Emprise de l'aérodrome de Paris-Le Bourget et cantons d'Aubervilliers-Est, Aube
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Aulnay-sous-Bois 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Emprise de l'aérodrome de Roissy-Charles-de-Gaulle et cantons d'Aulnay-sous-Bois-Nord, Aulnay-sous-Bois-Sud, Le Blanc-Mesnil,
 Sevran, Tremblay-en-France et Villepinte. 
@@ -31053,7 +30906,7 @@ Sevran, Tremblay-en-France et Villepinte.
 Bobigny 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bobigny, Bondy-Nord-Ouest, Boridy-Sud-Est, Drancy, Le Bourget (uniquement la fraction de la commune de Drancy),
 Les Pavillons-sous-Bois, Noisy-le-Sec, Romainville, Rosny-sous-Bois et Villemomble. 
@@ -31061,24 +30914,24 @@ Les Pavillons-sous-Bois, Noisy-le-Sec, Romainville, Rosny-sous-Bois et Villemomb
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Le Raincy 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Gagny, Le Raincy, Livry-Gargan, Montfermeil, Neuilly Plaisance, Neuilly-sur-Marne et Noisy-le-Grand. 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Montreuil 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Montreuil-Est, Montreuil-Nord et Montreuil-Ouest. 
 
@@ -31097,7 +30950,7 @@ Cantons de Bagnolet, Les Lilas, Pantin-Est et Pantin-Ouest.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Saint-Denis 
 
@@ -31115,7 +30968,7 @@ la commune de Saint-Denis).
 Saint-Ouen 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Épinay-sur-Seine, Saint-Denis-Sud (uniquement la fraction de la commune de Saint-Ouen et la commune de L'Ile-Saint-
 Denis) et Saint-Ouen. 
@@ -31123,14 +30976,14 @@ Denis) et Saint-Ouen.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Val-de-Marne 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="8">
+      <td valign="top" rowspan="8" width="154">
 
 Créteil 
 
@@ -31148,12 +31001,12 @@ Marne, Sucy-en-Brie, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Charenton-le-Pont 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Alfortville-Nord, Alfortville-Sud, Charenton-le-Pont, Maisons-Alfort-Nord et Maisons-Alfort-Sud. 
 
@@ -31165,7 +31018,7 @@ Cantons d'Alfortville-Nord, Alfortville-Sud, Charenton-le-Pont, Maisons-Alfort-N
 Ivry-sur-Seine 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Emprise de l'aérodrome de Paris-Orly et cantons de Choisy-le-Roi, Ivry-sur-Seine-Est, Ivry-sur-Seine-Ouest, Orly, Thiais,
 Vitry-sur-Seine-Est, Vitry-sur-Seine-Nord et Vitry-sur-Seine-Ouest. 
@@ -31186,12 +31039,12 @@ Marne et Nogent-sur-Marne. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Nogent-sur-Marne 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bry-sur-Marne, Champigny-sur-Marne-Centre, Champigny-sur-Marne-Est, Champigny-sur-Marne-Ouest, Fontenay-sous-Bois-
 Est, Fontenay-sous-Bois-Ouest, Le Perreux-sur-Marne, Nogent-sur-Marne, Saint-Mandé, Vincennes-Est et Vincennes-Ouest. (4)] 
@@ -31204,7 +31057,7 @@ Est, Fontenay-sous-Bois-Ouest, Le Perreux-sur-Marne, Nogent-sur-Marne, Saint-Man
 Saint-Maur-des-Fossés 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bonneuil-sur-Marne, Créteil-Nord, Créteil-Ouest, Créteil-Sud, Joinville-le-Pont, Saint-Maur-dcs-Fossés-Centre,
 Saint-Maur des-Fossés-Ouest et Saint-Maur-La Varenne. 
@@ -31212,7 +31065,7 @@ Saint-Maur des-Fossés-Ouest et Saint-Maur-La Varenne.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Villejuif 
 
@@ -31237,14 +31090,14 @@ Cantons de Fontenay-sous-Bois-Est, Fontenay-sous-Bois-Ouest, Saint-Mandé, Vince
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Yonne 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="154" valign="top">
+      <td rowspan="4" valign="top" width="154">
 
 Auxerre 
 
@@ -31295,24 +31148,24 @@ Cantons d'Avallon, Guillon, L'Isle-sur-Serein, Quarré-les-Tombes et Vézelay. (
 [Tonnerre 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Ancy-le-Franc, Cruzy-le-Châtel, Flogny-la-Chapelle, Noyers et Tonnerre. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="3">
+      <td width="154" rowspan="3" valign="top">
 
 Sens 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Joigny 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aillant-sur-Tholon, Brienon-sur-Armançon, Cerisiers, Charny, Joigny, Migennes, Saint-Julien-du-Sault et Villeneuve-
 sur-Yonne. (3)] 
@@ -31337,7 +31190,7 @@ Cantons de Chéroy, Pont-sur-Yonne, Sens-Nord-Est, Sens-Ouest, Sens-Sud-Est, Ser
 [Sens 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aillant-sur-Tholon, Brienon-sur-Armançon, Cerisiers, Charny, Chéroy, Joigny, Migennes, Pont-sur-Yonne, Saint-
 Julien-du Sault, Sens-Nord-Est, Sens-Ouest, Sens-Sud-Est, Sergines, Villeneuve-l'Archevêque et Villeneuve-sur-Yonne. (4)] 
@@ -31345,26 +31198,26 @@ Julien-du Sault, Sens-Nord-Est, Sens-Ouest, Sens-Sud-Est, Sergines, Villeneuve-l
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Cour d'appel de Pau 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td width="596" colspan="3" valign="top">
 
 Hautes-Pyrénées 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="4">
+      <td rowspan="4" width="154" valign="top">
 
 Tarbes 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Bagnères-de-Bigorre 
 
@@ -31377,12 +31230,12 @@ Barousse, Saint-Laurent-de-Neste et Vielle-Aure. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Lourdes 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Argelès-Gazost, Aucun, Lourdes-Est, Lourdes-Ouest, Luz Saint-Sauveur et Saint-Pé-de-Bigorre. (3)] 
 
@@ -31394,7 +31247,7 @@ Cantons d'Argelès-Gazost, Aucun, Lourdes-Est, Lourdes-Ouest, Luz Saint-Sauveur 
 [Tarbes 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aureilhan, Bordères-sur-l'Échez, Castelnau-Rivière-Basse, Galan, Laloubère, Maubourguet, Ossun, Pouyastruc,
 Rabastens-de-Bigorre, Séméac, Tarbes 1er canton, Tarbes 2e canton, Tarbes 3e canton, Tarbes 4e canton, Tarbes 5e canton,
@@ -31408,7 +31261,7 @@ Tournay, Trie-sur-Baïse et Vic-en-Bigorre. (3)]
 [Tarbes 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Argelès-Gazost, Arreau, Aucun, Aureilhan, Bagnères-de-Bigorre, Bordères-Louron, Bordères-sur-l'Échez, Campan,
 Castelnau Magnoac, Castelnau-Rivière-Basse, Galan, La Barthe-de-Neste, Laloubère, Lannemezan, Lourdes-Est, Lourdes-Ouest,
@@ -31419,7 +31272,7 @@ sur-Baïse, Vic-en-Bigorre et Vielle-Aure. (4)]
 </td>
     </tr>
     <tr>
-      <td width="596" valign="top" colspan="3">
+      <td colspan="3" valign="top" width="596">
 
 Landes 
 
@@ -31431,12 +31284,12 @@ Landes
 Dax 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Dax 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Amou, Castets, Dax-Nord, Dax-Sud, Montfort-en-Chalosse, Mugron, Peyrehorade, Pouillon, Saint-Martin-de-Seignanx,
 Saint-Vincent-de-Tyrosse, Soustons, Tartas-Est et Tartas-Ouest. 
@@ -31444,7 +31297,7 @@ Saint-Vincent-de-Tyrosse, Soustons, Tartas-Est et Tartas-Ouest.
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td valign="top" rowspan="3" width="154">
 
 Mont-de-Marsan 
 
@@ -31454,7 +31307,7 @@ Mont-de-Marsan
 [Mont-de-Marsan 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Gabarret, Grenade-sur-l'Adour, Labrit, Mimizan, Mont-de-Marsan-Nord, Mont-de-Marsan-Sud, Morcenx, Parentis-en-
 Born, Pissos, Roquefort, Sabres, Sore et Villeneuve-de-Marsan. (7)] 
@@ -31462,7 +31315,7 @@ Born, Pissos, Roquefort, Sabres, Sore et Villeneuve-de-Marsan. (7)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Mont-de-Marsan 
 
@@ -31481,21 +31334,21 @@ Sore et Villeneuve-de-Marsan. (8)]
 [Saint-Sever 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Emprise de l'aérodrome d'Aire-sur-l'Adour et cantons d'Aire-sur-l'Adour, Geaune, Hagetmau, Saint-Sever. (7)] 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Pyrénées-Atlantiques 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td width="154" rowspan="4" valign="top">
 
 Bayonne 
 
@@ -31543,24 +31396,24 @@ Cantons de Biarritz-Est, Biarritz-Ouest, Espelette, Hendaye et Saint-Jean-de-Luz
 [Saint-Palais 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Hasparren, Iholdy, La Bastide-Clairence, Saint-Étienne-de-Baïgorry, Saint-Jean-Pied-de-Port et Saint-Palais. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="4" valign="top">
+      <td width="154" valign="top" rowspan="4">
 
 Pau 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Oloron-Sainte-Marie 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Accous, Aramits, Arudy, Laruns, Lasseube, Mauléon Licharre, Monein, Oloron-Sainte-Marie-Est, Oloron-Sainte-Marie
 Ouest et Tardets-Sorholus. 
@@ -31573,14 +31426,14 @@ Ouest et Tardets-Sorholus.
 [Orthez 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Arthez-de-Béarn, Arzacq-Arraziguet, Lagor, Navarrenx, Orthez, Salies-de-Béarn et Sauveterre-de-Béarn. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Pau 
 
@@ -31593,12 +31446,12 @@ Pau Ouest, Pau-Sud, Pontacq et Thèze. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Pau 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Arthez-de-Béam, Arzacq-Arraziguet, Billère, Garlin, Jurançon, Lagor, Lembeye, Lescar, Montaner, Morlaàs, Navarrenx,
 Nay-Est, Nay-Ouest, Orthez, Pau-Centre, Pau-Est, Pau-Nord, Pau Ouest, Pau-Sud, Pontacq, Salies-de-Béarn, Sauveterre-de-Béarn
@@ -31607,21 +31460,21 @@ et Thèze. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td colspan="3" valign="top" width="596">
 
 Cour d'appel de Poitiers 
 
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Charente-Maritime 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="154">
+      <td width="154" valign="top" rowspan="2">
 
 La Rochelle 
 
@@ -31631,7 +31484,7 @@ La Rochelle
 La Rochelle 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarric, La Rochelle 1er canton, La Rochelle 2e canton, La Rochelle 3e canton, La
 Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e canton, La Rochelle 8e canton, La Rochelle
@@ -31645,7 +31498,7 @@ Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e
 [Rochefort (6)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud,
 Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente. 
@@ -31653,12 +31506,12 @@ Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente.
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 [Rochefort (5)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Marennes 
 
@@ -31670,7 +31523,7 @@ Cantons de La Tremblade, Le Château-d'Oléron, Marennes, Saint-Agnant et Saint-
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Rochefort 
 
@@ -31682,12 +31535,12 @@ Cantons d'Aigrefeuille-d'Aunis, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud,
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Rochefort 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud,
 Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente. (4)] 
@@ -31695,7 +31548,7 @@ Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente. (4)]
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="154">
+      <td width="154" valign="top" rowspan="5">
 
 Saintes 
 
@@ -31705,7 +31558,7 @@ Saintes
 [Jonzac 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Archiac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde et Saint-Genis-de-Saintonge. (3)] 
 
@@ -31730,7 +31583,7 @@ Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-l
 [Saintes 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Burie, Cozes, Gémozac, Pons, Royan-Est, Royan-Ouest, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire et
 Saujon. (3)] 
@@ -31743,7 +31596,7 @@ Saujon. (3)]
 [Saintes 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély,
 Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne. (4)] 
@@ -31751,26 +31604,26 @@ Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujo
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Jean-d'Angély 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aulnay, Loulay, Matha, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien et Tonnay-Boutonne. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Deux-Sèvres 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="3">
+      <td width="154" rowspan="3" valign="top">
 
 [Bressuire (17)] 
 
@@ -31787,12 +31640,12 @@ Cantons d'Argenton-Château, Bressuire, Cerizay, Mauléon, Saint-Varent, Thouars
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bressuire 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Airvault, Argenton-les-Vallées, Bressuire, Cerizay, Mauléon, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay,
 Saint-Loup-Lamairé, Saint-Varent, Secondigny, Thénezay, Thouars 1er canton et Thouars 2e canton. (4)] 
@@ -31800,7 +31653,7 @@ Saint-Loup-Lamairé, Saint-Varent, Secondigny, Thénezay, Thouars 1er canton et 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Parthenay 
 
@@ -31812,7 +31665,7 @@ Cantons d'Airvault, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay, Sai
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="4">
+      <td valign="top" rowspan="4" width="154">
 
 Niort 
 
@@ -31822,7 +31675,7 @@ Niort
 [Bressuire (18)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Airvault, Argenton-les-Vallées, Bressuire, Cerizay, Mauléon, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay,
 Saint-Loup-Lamairé, Saint-Varent, Secondigny, Thénezay, Thouars 1er canton et Thouars 2e canton. 
@@ -31830,12 +31683,12 @@ Saint-Loup-Lamairé, Saint-Varent, Secondigny, Thénezay, Thouars 1er canton et 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Melle 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Brioux-sur-Boutonne, Celles-sur-Belle, Chef-Boutonne, La Mothe-Saint-Héray, Lezay, Melle et Sauzé-Vaussais. (3)] 
 
@@ -31860,7 +31713,7 @@ Niort-Est, Niort-Nord, Niort-Ouest, Prahecq, Saint-Maixent l'École 1er canton e
 [Niort 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Beauvoir-sur-Niort, Brioux-sur-Boutonne, Celles-sur-Belle, Champdeniers-Saint-Denis, Chef-Boutonne, Coulonges-sur-
 l'Autize, Frontenay-Rohan-Rohan, La Mothe-Saint-Héray, Lezay, Mauzé-sur-le-Mignon, Melle, Niort-Est, Niort-Nord, Niort-Ouest,
@@ -31869,7 +31722,7 @@ Prahecq, Saint-Maixent-l'École 1er canton, Saint-Maixent-l'École 2e canton et 
 </td>
     </tr>
     <tr>
-      <td width="596" valign="top" colspan="3">
+      <td valign="top" colspan="3" width="596">
 
 Vendée 
 
@@ -31886,7 +31739,7 @@ La Roche-sur-Yon
 Fontenay-le-Comte 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Chaillé-les-Marais, Fontenay-le-Comte, La Châtaigneraie, L'Hermenault, Luçon, Maillezais, Pouzauges, Sainte-
 Hermine et Saint-Hilaire-des-Loges. 
@@ -31894,12 +31747,12 @@ Hermine et Saint-Hilaire-des-Loges.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 La Roche-sur-Yon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Chantonnay, La Roche-sur-Yon-Nord, La Roche-sur-Yon Sud, Le Poiré-sur-Vie, Les-essarts, Les Herbiers, Mareuil-sur-
 Lay-dissais, Montaigu, Mortagne-sur-Sèvre, Rocheservière et Saint-Fulgent. 
@@ -31912,7 +31765,7 @@ Lay-dissais, Montaigu, Mortagne-sur-Sèvre, Rocheservière et Saint-Fulgent.
 Les Sables-d'Olonne 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Les Sables-d'Olonne 
 
@@ -31925,24 +31778,24 @@ en-l'Île, Palluau, Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts et Talmont-Sa
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Vienne 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="6" width="154">
+      <td rowspan="6" width="154" valign="top">
 
 Poitiers 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Châtellerault 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Châtellerault-Nord, Châtellerault-Ouest, Châtellerault Sud, Dangé-Saint-Romain, Lencloître, Pleumartin, Saint-
 Gervais-les-Trois-Clochers et Vouneuil-sur-Vienne. 
@@ -31950,7 +31803,7 @@ Gervais-les-Trois-Clochers et Vouneuil-sur-Vienne.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Civray 
 
@@ -31967,7 +31820,7 @@ Cantons d'Availles-Limouzine, Charroux, Civray, Couhé et Gençay. (3)]
 [Loudun 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Les Trois-Moutiers, Loudun, Moncontour et Monts-sur-Guesnes. (3)] 
 
@@ -31986,7 +31839,7 @@ Cantons de Chauvigny, La Trimouille, L'Isle-Jourdain, Lussac-les-Châteaux, Mont
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Poitiers 
 
@@ -32016,26 +31869,26 @@ Poitiers 6e canton, Poitiers 7e canton, Saint-Georges-lès-Baillargeaux, Saint-J
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" valign="top" colspan="3">
 
 Cour d'appel de Reims 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Ardennes 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="7" width="154">
+      <td width="154" valign="top" rowspan="7">
 
 Charleville-Mézières 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Charleville-Mézières 
 
@@ -32048,12 +31901,12 @@ Omont, Renwez, Signy-l'Abbaye et Villers-Semeuse. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Charleville-Mézières 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Asfeld, Charleville-Centre, Charleville-La Houillère, Château-Porcien, Chaumont-Porcien, Flize, Fumay, Givet,
 Juniville, Mézières-Centre-Ouest, Mézières-Est, Monthermé, Nouzonville, Novion-Porcien, Oinont, Renwez, Rethel, Revin,
@@ -32062,31 +31915,31 @@ Rocroi, Rumigny, Signy-le-Petit, Signy-l'Abbaye et Villers-Semeuse. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Rethel 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Asfeld, Château-Porcien, Chaumont-Porcien, Juniville, Novion-Porcien et Rethel. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Rocroi 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Fumay, Givet, Revin, Rocroi, Rumigny et Signy-le-Petit. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Sedan 
 
@@ -32098,12 +31951,12 @@ Cantons de Carignan, Mouzon, Raucourt-et-Flaba, Sedan-Est, Sedan Nord et Sedan-O
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Sedan 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Attigny, Buzancy, Carignan, Grandpré, Le Chesne, Machault, Monthois, Mouzon, Raucourt-et-Flaba, Sedan-Est, Sedan
 Nord, Sedan-Ouest, Tourteron et Vouziers. (14)] 
@@ -32123,31 +31976,19 @@ Cantons d'Attigny, Buzancy, Grandpré, Le Chesne, Machault, Monthois, Tourteron 
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Aube 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="6">
+      <td width="154" valign="top" rowspan="5">
 
 Troyes 
 
 </td>
-      <td width="109" valign="top">
-
-[Bar-sur-Aube 
-
-</td>
-      <td width="333" valign="top">
-
-Cantons de Bar-sur-Aube, Brienne-le-Château, Soulaines-Dhuys et Vendeuvre-sur-Barse. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Bar-sur-Seine 
 
@@ -32159,7 +32000,7 @@ Cantons de Bar-sur-Seine, Chaource, Essoyes, Les Riceys et Mussy sur-Seine. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Nogent-sur-Seine 
 
@@ -32193,7 +32034,7 @@ Troyes 7e canton, Vendeuvre-sur-Barse et Villenauxe-la-Grande. (4)]
 [Troyes 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aix-en-Othe, Arcis-sur-Aube, Bouilly, Chavanges, Ervy-le-Châtel, Estissac, La Chapelle-Saint-Luc, Lusigny-sur-
 Barse, Méry-sur-Seine, Piney, Ramerupt, Sainte-Savine, Troyes 1er canton, Troyes 2e canton, Troyes 3e canton, Troyes 4e
@@ -32202,7 +32043,7 @@ canton, Troyes 5e canton, Troyes 6e canton et Troyes 7e canton. (13)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Troyes 
 
@@ -32217,19 +32058,19 @@ Barse. (14 et 3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td width="596" valign="top" colspan="3">
 
 Marne 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="154" valign="top">
+      <td width="154" rowspan="4" valign="top">
 
 Châlons-en-Champagne 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Châlons-en-Champagne 
 
@@ -32247,7 +32088,7 @@ Champagne 4e canton, Écury-sur-Coole, Givry-en-Argonne, Marson, Sainte-Menehoul
 [Châlons-en-Champagne 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Anglure, Avize, Châlons-en-Champagne 1er canton, Châlons-en-Champagne 2e canton, Châlons-en-Champagne 3e canton,
 Châlons-en-Champagne 4e canton, Dormans, Écury-sur-Coole, Épernay 1er canton, Épernay 2e canton, Esternay, Fère-Champenoise,
@@ -32258,12 +32099,12 @@ le François-Ouest. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Epernay 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Anglure, Avize, Dormans, Épernay 1er canton, Épernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-
 Lucy et Sézanne. (3)] 
@@ -32271,7 +32112,7 @@ Lucy et Sézanne. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Vitry-Ie-François 
 
@@ -32284,7 +32125,7 @@ François-est et Vitry-le-François-Ouest. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Reims 
 
@@ -32303,14 +32144,14 @@ Ville-en-Tardenois.
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Cour d'appel de Rennes 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Côtes-d'Armor 
 
@@ -32322,7 +32163,7 @@ Côtes-d'Armor
 [Dinan (5)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Dinan 
 
@@ -32334,7 +32175,7 @@ Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Évran, Jugon-les-Lacs, Mati
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 [Guingamp (5)] 
 
@@ -32365,24 +32206,24 @@ Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Sa
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Lannion 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de La Roche-Derrien, Lannion, Lézardrieux, Perros-Guirec, Plestin-les-Grèves, Plouaret et Tréguier. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td width="154" valign="top" rowspan="4">
 
 Saint-Brieuc 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Loudéac 
 
@@ -32399,7 +32240,7 @@ Cantons de Collinée, Corlay, Gouarec, La Chèze, Loudéac, Merdrignac, Mûr-de-
 [Guingamp (6)] 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix,
 Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier. 
@@ -32407,12 +32248,12 @@ Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Sa
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Saint-Brieuc 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Châtelaudren, Étables-sur-Mer, Lamballe, Langueux, Lanvollon, Moncontour, Paimpol, Pléneuf-Val-André, Plérin,
 Ploeuc-sur-Lié, Ploufragan, Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest et Saint-Brieuc-Sud. (3)] 
@@ -32420,7 +32261,7 @@ Ploeuc-sur-Lié, Ploufragan, Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ou
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Saint-Brieuc 
 
@@ -32434,14 +32275,14 @@ Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest, Saint-Brieuc-Sud et Uzel. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Finistère 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="154" valign="top">
+      <td width="154" valign="top" rowspan="2">
 
 Brest 
 
@@ -32460,12 +32301,12 @@ Lannilis, Lesneven, Ouessant, Plabennec, Ploudalmézeau, Ploudiry et Saint-Renan
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Morlaix (6)] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Carhaix-Plouguer, Huelgoat, Landivisiau, Lanmeur, Morlaix, Plouescat, Plouigneau, Plouzévédé, Saint-Pol-de-Léon,
 Saint-Thégonnec, Sizun et Taulé. 
@@ -32483,7 +32324,7 @@ Saint-Thégonnec, Sizun et Taulé.
 Morlaix 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Carhaix-Plouguer, Huelgoat, Landivisiau, Lanmeur, Morlaix, Plouescat, Plouigneau, Plouzévédé, Saint-Pol-de-Léon,
 Saint-Thégonnec, Sizun et Taulé. 
@@ -32491,7 +32332,7 @@ Saint-Thégonnec, Sizun et Taulé.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="4">
+      <td valign="top" rowspan="4" width="154">
 
 Quimper 
 
@@ -32513,7 +32354,7 @@ Cantons de Châteaulin, Châteauneuf-du-Faou, Crozon, Le Faou et Pleyben. (3)]
 [Quimper 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Briec, Concarneau, Douarnenez, Fouesnant, Guilvinec, Plogastel-Saint-Germain, Pont-Croix, Pont-l'Abbé, Quimper 1er
 canton, Quimper 2e canton, Quimper 3e canton et Rosporden. (3)] 
@@ -32526,7 +32367,7 @@ canton, Quimper 2e canton, Quimper 3e canton et Rosporden. (3)]
 [Quimper 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Arzano, Bannalec, Briec, Châteaulin, Châteauneuf-du-Faou, Concarneau, Crozon, Douarnenez, Fouesnant, Guilvinec, Le
 Faou, Pleyben, Plogastel-Saint-Germain, Pont-Aven, Pont-Croix, Pont-l'Abbé, Quimper 1er canton, Quimper 2e canton, Quimper 3e
@@ -32547,7 +32388,7 @@ Cantons d'Arzano, Bannalec, Pont-Aven, Quimperlé et Scaër. (3)]
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td colspan="3" width="596" valign="top">
 
 Ille-et-Vilaine 
 
@@ -32564,7 +32405,7 @@ Rennes
 [Fougères 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Antrain, Argentré-du-Plessis, Châteaubourg, Fougères-Nord, Fougères-Sud, La Guerche-de-Bretagne, Louvigné-du-
 Désert, Retiers, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Vitré-Est, Vitré-Ouest (22)] 
@@ -32572,7 +32413,7 @@ Désert, Retiers, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Vitré-Est, Vi
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Montfort-sur-Meu 
 
@@ -32596,7 +32437,7 @@ Cantons de Bain-de-Bretagne, Grand-Fougeray, Guichen, Le Sel-de-Bretagne, Maure-
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Rennes 
 
@@ -32641,19 +32482,19 @@ Saint-Aubin-d'Aubigné, Saint-Méen-le-Grand (22)]
 [Vitré 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Argentré-du-Plessis, Châteaubourg, La Guerche-de-Bretagne, Retiers, Vitré-Est et Vitré-Ouest. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="154" valign="top">
+      <td valign="top" width="154" rowspan="2">
 
 Saint-Malo 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Dinan (6)] 
 
@@ -32665,7 +32506,7 @@ Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Évran, Jugon les-Lacs, Mati
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Saint-Malo 
 
@@ -32678,7 +32519,7 @@ Saint-Malo-Sud et Tinténiac.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" colspan="3" width="596">
 
 Loire-Atlantique 
 
@@ -32695,19 +32536,19 @@ Nantes
 [Châteaubriant 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Châteaubriant, Derval, Moisdon-la-Rivière, Nozay, Rougé et Saint-Julien-de-Vouvantes. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Nantes 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aigrefeuille-sur-Maine, Ancenis, Bouaye, Carquefou, Clisson, La Chapelle-sur-Erdre, Le Loroux-Bottereau, Le
 Pellerin, Legé, Ligné, Machecoul, Nantes 1er canton, Nantes 2e canton, Nantes 3° canton, Nantes 4e canton, Nantes 5e canton,
@@ -32718,7 +32559,7 @@ Saint-Philbert-de-Grand-Lieu, Vallet, Varades, Vertou et Vertou-Vignoble. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Nantes 
 
@@ -32740,24 +32581,24 @@ Vallet, Varades, Vertou et Vertou-Vignoble. (4)]
 Saint-Nazaire 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Paimboeuf 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bourgneuf-en-Retz, Paimboeuf, Pornic et Saint-Père-en-Retz. (11)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Saint-Nazaire 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Blain, Guémené-Penfao, Guérande, Herbignac, La Baule-Escoublac, Le Croisic, Montoir-de-Bretagne, Pontchâteau,
 Saint-Gildas-des-Bois, Saint-Nazaire-Centre, Saint-Nazaire-Est, Saint-Nazaire-Ouest, Saint-Nicolas-de-Redon et Savenay.
@@ -32766,12 +32607,12 @@ Saint-Gildas-des-Bois, Saint-Nazaire-Centre, Saint-Nazaire-Est, Saint-Nazaire-Ou
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Saint-Nazaire 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Blain, Bourgneuf-en-Retz, Guémené-Penfao, Guérande, Herbignac, La Baule-Escoublac, Le Croisic, Montoir-de-
 Bretagne, Paimboeuf, Pontchâteau, Pornic, Saint-Gildas-des-Bois, Saint-Nazaire-Centre, Saint-Nazaire-Est, Saint-Nazaire-
@@ -32780,14 +32621,14 @@ Ouest, Saint-Nicolas-de-Redon, Saint-Père-en-Retz et Savenay. (12)]
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Morbihan 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="4">
+      <td rowspan="4" valign="top" width="154">
 
 Lorient 
 
@@ -32797,7 +32638,7 @@ Lorient
 [Auray 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Auray, Belle-Île, Belz, Pluvigner et Quiberon. (3)] 
 
@@ -32809,7 +32650,7 @@ Cantons d'Auray, Belle-Île, Belz, Pluvigner et Quiberon. (3)]
 [Lorient 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Groix, Hennebont, Lanester, Lorient-Centre, Lorient Nord, Lorient-Sud, Ploemeur, Plouay, Pont-Scorff et Port-
 Louis. (3)] 
@@ -32817,7 +32658,7 @@ Louis. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Lorient 
 
@@ -32831,7 +32672,7 @@ Quiheron. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Pontivy 
 
@@ -32843,7 +32684,7 @@ Cantons de Baud, Cléguérec, Gourin, Guémené-sur-Scorff, Le Faouët, Locminé
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="3">
+      <td rowspan="3" width="154" valign="top">
 
 Vannes 
 
@@ -32860,7 +32701,7 @@ Cantons de Guer, Josselin, La Trinité-Porhoët, Malestroit, Mauron, Ploërmel, 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Vannes 
 
@@ -32878,7 +32719,7 @@ Vannes-Centre, Vannes-Est et Vannes-Ouest. (3)]
 [Vannes 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Allaire, Elven, Grand-Champ, Guer, Josselin, La Gacilly, La Roche-Bernard, La Trinité-Porhoët, Malestroit, Mauron,
 Muzillac, Ploërmel, Questembert, Rochefort-en-Terre, Rohan, Saint-Jean-Brévelay, Sarzeau, Vannes-Centre, Vannes-Est et
@@ -32887,14 +32728,14 @@ Vannes-Ouest. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td colspan="3" width="596" valign="top">
 
 Cour d'appel de Riom 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Allier 
 
@@ -32911,14 +32752,14 @@ Cusset
 [Gannat 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Chantelle, Ébreuil, Escurolles, Gannat et Saint-Pourçain-sur-Sioule. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Vichy 
 
@@ -32931,12 +32772,12 @@ Vichy-Nord et Vichy-Sud. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Vichy 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Chantelle, Cusset-Nord, Cusset-Sud, Ébreuil, Escurolles, Gannat, Jaligny-sur-Besbre, Lapalisse, Le Donjon, Le
 Mayet-de-Montagne, Saint-Pourçain-sur-Sioule, Varennes-sur-Allier, Vichy Nord et Vichy-Sud. (4)] 
@@ -32949,12 +32790,12 @@ Mayet-de-Montagne, Saint-Pourçain-sur-Sioule, Varennes-sur-Allier, Vichy Nord e
 Montluçon 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Montluçon 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cérilly, Commentry, Domérat-Montluçon-Nord-Ouest, Hérisson, Huriel, Marcillat-en-Combraille, Montluçon-Est 4e
 canton, Montluçon-Nord-Est 1er canton, Montluçon-Ouest 2e canton, Montluçon-Sud 3e canton et Montmarault. 
@@ -32972,7 +32813,7 @@ Moulins
 Moulins 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bourbon-l'Archambault, Chevagnes, Dompierre-sur-Besbre, Le Montet, Lurcy-Lévis, Moulins-Ouest, Moulins-Sud,
 Neuilly-le-Réal, Souvigny et Yzeure. 
@@ -32980,14 +32821,14 @@ Neuilly-le-Réal, Souvigny et Yzeure.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" colspan="3" width="596">
 
 Cantal 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="6" width="154">
+      <td rowspan="6" valign="top" width="154">
 
 Aurillac 
 
@@ -32997,7 +32838,7 @@ Aurillac
 [Aurillac 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Arpajon-sur-Cère, Aurillac 1er canton, Aurillac 2e canton, Aurillac 3e canton, Aurillac 4e canton, Jussac,
 Laroquebrou, Maurs, Montsalvy, Saint-Cemin, Saint-Mamet-la-Salvetat et Vic-sur-Cère. (3)] 
@@ -33005,7 +32846,7 @@ Laroquebrou, Maurs, Montsalvy, Saint-Cemin, Saint-Mamet-la-Salvetat et Vic-sur-C
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Aurillac 
 
@@ -33019,24 +32860,24 @@ Mamet-la-Salvetat, Salers et Vic-sur-Cère. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Mauriac 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Champs-sur-Tarentaine-Marchal, Mauriac, Pleaux, Riom-ès-Montagnes, Saignes et Salers. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Murat 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Allanche, Condat, Massiac et Murat. (11)] 
 
@@ -33055,7 +32896,7 @@ Cantons de Chaudes-Aigues, Pierrefort, Ruynes-en-Margeride, Saint-Flour-Nord et 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Saint-Flour 
 
@@ -33068,14 +32909,14 @@ Sud. (12)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Haute-Loire 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td valign="top" rowspan="4" width="154">
 
 Le Puy-en-Velay 
 
@@ -33092,12 +32933,12 @@ Cantons d'Auzon, Blesle, Brioude-Nord, Brioude-Sud, Langeac, Lavoûte-Chilhac, P
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Le Puy-en-Velay 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Allègre, Cayres, Craponne-sur-Arzon, Fay-sur-Lignon, La Chaise-Dieu, Le Monastier-sur-Gazeille, Le Puy-en-Velay-
 Est, Le Puy-en-Velay-Nord, Le Puy-en-Velay-Ouest, Le Puy-en-Velay-Sud Est, Le Puy-en-Velay-Sud-Ouest, Loudes, Pradelles,
@@ -33106,12 +32947,12 @@ Saint-Julien Chapteuil, Saint-Paulien, Saugues, Solignac-sur-Loire et Vorey. (3)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Le Puy-en-Velay 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Allègre, Aurec-sur-Loire, Auzon, Bas-en-Basset, Blesle, Brioude-Nord, Brioude-Sud, Cayres, Craponne-sur-Arzon, Fay-
 sur-Lignon, La Chaise-Dieu, Langeac, Lavoûte-Chilhac, Le Monasticr sur-Gazeille, Le Puy-en-Velay-Est, Le Puy-en-Velay-Nord,
@@ -33122,7 +32963,7 @@ Saugues, Solignac-sur-Loire, Tence, Vorey et Yssingeaux. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Yssingeaux 
 
@@ -33142,17 +32983,17 @@ Puy-de-Dôme
 </td>
     </tr>
     <tr>
-      <td rowspan="7" valign="top" width="154">
+      <td rowspan="7" width="154" valign="top">
 
 Clermont-Ferrand 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Ambert 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Ambert, Arlanc, Cunlhat, Olliergues, Saint-Amant-Roche-Savine, Saint-Anthème, Saint-Germain-l'Herm et Viverols.
 (3)] 
@@ -33165,7 +33006,7 @@ Cantons d'Ambert, Arlanc, Cunlhat, Olliergues, Saint-Amant-Roche-Savine, Saint-A
 [Clermont-Ferrand 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aubière, Beaumont, Billom, Bourg-Lastic, Chamalières, Clermont-Ferrand-Centre, Clermont-Ferrand-Est, Clermont-
 Ferrand-Nord, Clermont-Ferrand-Nord-Ouest, Clermont-Ferrand-Ouest, Clermont-Ferrand-Sud, Clermont-Ferrand-Sud-Est, Clermont-
@@ -33180,7 +33021,7 @@ Tallende, Saint-Dier-d'Auvergne, Vertaizon, Veyre-Monton et Vic-le-Comte. (3)]
 [Clermont-Ferrand 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Ardes, Aubière, Beaumont, Besse-et-Saint-Anastaise, Billom, Bourg-Lastic, Chamalières, Champeix, Clermont-Ferrand
 Centre, Clermont-Ferrand-Est, Clermont-Ferrand-Nord, Clermont Ferrand-Nord-Ouest, Clermont-Ferrand-Ouest, Clermont-Ferrand
@@ -33191,7 +33032,7 @@ Germain-Lembron, Sauxillanges, Tauves, Vertaizon, Veyre-Monton et Vic-le Comte. 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Issoire 
 
@@ -33204,7 +33045,7 @@ Sauxillanges et Tauves. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Riom (6)] 
 
@@ -33234,7 +33075,7 @@ Cantons de Châteldon, Courpière, Lezoux, Maringues, Saint-Rémy sur-Durolle et
 [Thiers 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Ambert, Arlanc, Châteldon, Courpière, Cunlhat, Lezoux, Maringues, Olliergues, Saint-Amant-Roche-Savine, Saint-
 Anthème, Saint-Germain-l'Herm, Saint-Rémy-sur-Durolle, Thiers et Viverols. (4)] 
@@ -33252,7 +33093,7 @@ Anthème, Saint-Germain-l'Herm, Saint-Rémy-sur-Durolle, Thiers et Viverols. (4)
 Riom 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Aigueperse, Combronde, Ennezat, Manzat, Menat, Montaigut, Pionsat, Pontaumur, Pontgibaud, Randan, Riom-Est, Riom-
 Ouest et Saint-Gervais-d'Auvergne. 
@@ -33260,7 +33101,7 @@ Ouest et Saint-Gervais-d'Auvergne.
 </td>
     </tr>
     <tr>
-      <td width="596" valign="top" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Cour d'appel de Rouen 
 
@@ -33274,12 +33115,12 @@ Eure
 </td>
     </tr>
     <tr>
-      <td width="154" rowspan="3" valign="top">
+      <td width="154" valign="top" rowspan="3">
 
 [Bernay (5)] 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bernay 
 
@@ -33291,12 +33132,12 @@ Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay Ouest, Brionne, Bro
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Bernay 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay Ouest, Beuzeville, Bourgtheroulde-Infreville, Brionne, Broglie,
 Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Saint-Georges-du-Vièvre et Thiberville. (4)] 
@@ -33304,12 +33145,12 @@ Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Sain
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Pont-Audemer 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Beuzeville, Bourgtheroulde-Infreville, Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot
 et Saint-Georges-du-Vièvre. (3)] 
@@ -33317,7 +33158,7 @@ et Saint-Georges-du-Vièvre. (3)]
 </td>
     </tr>
     <tr>
-      <td rowspan="5" width="154" valign="top">
+      <td width="154" valign="top" rowspan="5">
 
 Evreux 
 
@@ -33327,7 +33168,7 @@ Evreux
 [Bernay (6)] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Beaumesnil, Beaumont-le-Roger, Bernay-Est, Bernay Ouest, Beuzeville, Bourgtheroulde-Infreville, Brionne, Broglie,
 Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Saint-Georges-du-Vièvre et Thiberville. 
@@ -33340,7 +33181,7 @@ Cormeilles, Montfort-sur-Risle, Pont-Audemer, Quillebeuf-sur-Seine, Routot, Sain
 [Evreux 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Breteuil, Conches-en-Ouche, Damville, Évreux-Est, Évreux-Nord, Évreux-Ouest, Évreux-Sud, Nonancourt, Pacy-sur-
 Eure, Rugies, Saint-André-de-l'Eure, Verneuil-sur-Avre, Vernon-Nord et Vernon-Sud. (3)] 
@@ -33353,7 +33194,7 @@ Eure, Rugies, Saint-André-de-l'Eure, Verneuil-sur-Avre, Vernon-Nord et Vernon-S
 [Evreux 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Amfreville-la-Campagne, Breteuil, Conches-en-Ouche, Damville, Évreux-Est, Évreux-Nord, Évreux-Ouest, Évreux-Sud,
 Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers Sud, Nonancourt, Pacy-sur-Eure, Pont-de-l'Arche, Rugies,
@@ -33362,24 +33203,24 @@ Saint-André-de-l'Eure, Val-de-Reuil, Verneuil-sur-Avre, Vernon-Nord et Vernon-S
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Les Andelys 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Écos, Étrépagny, Fleury-sur-Andelle, Gisors, Les Andelys et Lyons-la-Forêt. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Louviers 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et
 Val-de-Reuil. (3)] 
@@ -33387,24 +33228,24 @@ Val-de-Reuil. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3" width="596">
+      <td colspan="3" valign="top" width="596">
 
 Seine-Maritime 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="154">
+      <td valign="top" width="154" rowspan="3">
 
 Dieppe 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Dieppe 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bacqueville-en-Caux, Bellencombre, Dieppe-Est, Dieppe Ouest, Envermeu, Eu, Longueville-sur-Scie, Offranville et
 Tôtes. (3)] 
@@ -33412,7 +33253,7 @@ Tôtes. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Dieppe 
 
@@ -33431,7 +33272,7 @@ Forges les-Eaux, Gournay-en-Bray, Londinières, Longueville-sur-Scie, Neufchâte
 [Neufchâtel-en-Bray 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Argueil, Aumale, Blangy-sur-Bresle, Forges-les-Eaux, Gournay-en-Bray, Londinières, Neufchâtel-en-Bray et Saint-
 Saëns. (3)] 
@@ -33439,17 +33280,17 @@ Saëns. (3)]
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Le Havre 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Le Havre 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bolbec, Criquetot-l'Esneval, Fauville-en-Caux, Fécamp, Goderville, Gonfreville-l'Orcher, Le Havre 1er canton, Le
 Havre 2e canton, Le Havre 3e canton, Le Havre 4e canton, Le Havre 5e canton, Le Havre 6e canton, Le Havre 7e canton, Le Havre
@@ -33458,7 +33299,7 @@ Havre 2e canton, Le Havre 3e canton, Le Havre 4e canton, Le Havre 5e canton, Le 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="4">
+      <td rowspan="4" width="154" valign="top">
 
 Rouen 
 
@@ -33475,12 +33316,12 @@ Cantons de Caudebec-lès-Elbeuf et Elbeuf. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Rouen 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bois-Guillaume, Boos, Buchy, Clères, Darnétal, Duclair, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly,
 Maromme, Mont-Saint-Aignan, Notre-Dame-de-Bondeville, Pavilly, Rouen 1er canton, Rouen 2e canton, Rouen 3e canton, Rouen 4e
@@ -33490,12 +33331,12 @@ lès-Rouen-Ouest. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Rouen 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Bois-Guillaume, Boos, Buchy, Cany-Barville, Caudebec en-Caux, Caudebec-lès-Elbeuf, Clères, Darnétal, Doudeville,
 Duclair, Elbeuf, Fontaine-le-Dun, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly, Maromme, Mont-Saint-Aignan, Notre-
@@ -33511,7 +33352,7 @@ Sotteville-lès-Rouen-Ouest, Yerville et Yvetot. (4)]
 [Yvetot 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Cany-Barville, Caudebec-en-Caux, Doudeville, Fontaine le-Dun, Ourville-en-Caux, Saint-Valery-en-Caux, Yerville et
 Yvetot. (3)] 
@@ -33519,21 +33360,21 @@ Yvetot. (3)]
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td width="596" colspan="3" valign="top">
 
 Cour d'appel de Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 La Réunion 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="3" width="154">
+      <td rowspan="3" valign="top" width="154">
 
 Saint-Denis 
 
@@ -33543,7 +33384,7 @@ Saint-Denis
 Saint-Benoît 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bras-Panon, La Plaine-des-Palmistes, Saint-André 1er canton, Saint-André 2e canton, Saint-André 3e canton, Saint-
 Benoît 1er canton, Saint-Benoît 2e canton, Sainte-Rose et Salazie. 
@@ -33571,7 +33412,7 @@ australes et antarctiques françaises (îles Amsterdam et Saint-Paul, archipels 
 Saint-Paul 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de La Possession, Le Port 1er canton Nord, Le Port 2e canton Sud, Saint-Paul 1er canton, Saint-Paul 2e canton, Saint-
 Paul 3e canton, Saint-Paul 4e canton et Saint-Paul 5e canton. 
@@ -33606,7 +33447,7 @@ Mayotte
 </td>
     </tr>
     <tr>
-      <td align="center" valign="top">
+      <td valign="top" align="center">
 
 Mamoudzou 
 
@@ -33618,9 +33459,9 @@ Mamoudzou
 </td>
       <td align="center" valign="top">
 
-Cantons de Acoua, Bandraboua, Bandrele, Bouéni, 
+Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi, 
 
-Chiconi, Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou, 
+Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou, 
 
 Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro, 
 
@@ -33629,21 +33470,21 @@ M'Tsangamouji, Ouangani, Pamandzi, Sada, Tsingoni.
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td valign="top" width="596" colspan="3">
 
 Cour d'appel de Toulouse 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td valign="top" colspan="3" width="596">
 
 Ariège 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" width="154" valign="top">
+      <td rowspan="4" valign="top" width="154">
 
 Foix 
 
@@ -33661,12 +33502,12 @@ et Vicdessos. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Foix 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Ax-les-Thermes, Foix-Rural, Foix-Ville, La Bastide-de-Sérou, Lavelanet, Le Fossat, Le Mas-d'Azil, Les Cabannes,
 Mirepoix, Pamiers-Est, Pamiers-Ouest, Quérigut, Saverdun, Tarascon-sur-Ariège, Varilhes et Vicdessos. (4)] 
@@ -33691,7 +33532,7 @@ Cantons de Le Fossat, Le Mas-d'Azil, Mirepoix, Pamiers-Est, Pamiers-Ouest, Saver
 Saint-Girons 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Castillon-en-Couserans, Massat, Oust, Sainte-Croix Volvestre, Saint-Girons et Saint-Lizier. 
 
@@ -33723,12 +33564,12 @@ Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat.
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="5">
+      <td valign="top" width="154" rowspan="5">
 
 Toulouse 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Muret 
 
@@ -33740,12 +33581,12 @@ Cantons d'Auterive, Carbonne, Cintegabelle, Montesquieu-Volvestre, Muret, Portet
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Saint-Gaudens (6)] 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon,
 Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat. 
@@ -33758,7 +33599,7 @@ Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat.
 [Toulouse 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Blagnac, Cadours, Castanet-Tolosan, Fronton, Grenade, Léguevin, Montastruc-la-Conseillère, Toulouse 1er canton,
 Toulouse 2e canton, Toulouse 3e canton, Toulouse 4e canton, Toulouse 5e canton, Toulouse 6e canton, Toulouse 7e canton,
@@ -33768,12 +33609,12 @@ Toulouse 14e canton, Toulouse 15e canton, Tournefeuille, Verfeil et Villemur-sur
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Toulouse 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Blagnac, Cadours, Caraman, Castanet-Tolosan, Fronton, Grenade, Lanta, Léguevin, Montastruc-la-Conseillère,
 Montgiscard, Nailloux, Revel, Toulouse 1er canton, Toulouse 2e canton, Toulouse 3e canton, Toulouse 4e canton, Toulouse 5e
@@ -33784,7 +33625,7 @@ Villefranche-de-Lauragais et Villemur-sur-Tarn. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Villefranche-de-Lauragais 
 
@@ -33808,7 +33649,7 @@ Tarn
 Albi 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Albi 
 
@@ -33826,7 +33667,7 @@ Monestiés, Pampelonne, Réalmont, Valderiès, Valence-d'Albigeois et Villefranc
 [Albi 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Alban, Albi-Centre, Albi-Est, Albi-Nord-Est, Albi-Nord Ouest, Albi-Ouest, Albi-Sud, Cadalen, Carmaux-Nord, Carmaux-
 Sud, Castelnau-de-Montmiral, Cordes-sur-Ciel, Gaillac, Lisle-sur-Tarn, Monestiés, Pampelonne, Rabastens, Réalmont, Salvagnac,
@@ -33835,24 +33676,24 @@ Valderiès, Valence-d'Albigeois, Vaour et Villefranche-d'Albigeois. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Gaillac 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Cadalen, Castelnau-de-Montmiral, Cordes-sur-Ciel, Gaillac, Lisle-sur-Tarn, Rabastens, Salvagnac et Vaour. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="3">
+      <td valign="top" rowspan="3" width="154">
 
 Castres 
 
 </td>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Castres 
 
@@ -33880,7 +33721,7 @@ Roquecourbe, Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vabre et Vielmur-sur-Ago
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Lavaur 
 
@@ -33892,7 +33733,7 @@ Cantons de Cuq-Toulza, Graulhet, Lavaur, Puylaurens et Saint-Paul Cap-de-Joux. (
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td valign="top" colspan="3" width="596">
 
 Tarn-et-Garonne 
 
@@ -33909,7 +33750,7 @@ Montauban
 [Castelsarrasin 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin 1er canton, Castelsarrasin 2e canton, Grisolles,
 Lauzerte, Lavit, Moissac 1er canton, Moissac 2e canton, Montaigu-de-Quercy, Montech, Saint-Nicolas-de-la-Grave, Valence et
@@ -33918,7 +33759,7 @@ Verdun-sur-Garonne. (2)]
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
@@ -33930,9 +33771,9 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, 
 
-Monclar-de-Quercy, Montauban, 1er canton, Montauban 
+Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e 
 
-2e canton, Montauban 3ème canton, Montauban 4e canton, 
+canton, Montauban 3ème canton, Montauban 4e canton, 
 
 Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, 
 
@@ -33941,26 +33782,26 @@ Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="596" valign="top">
+      <td width="596" valign="top" colspan="3">
 
 Cour d'appel de Versailles 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td valign="top" colspan="3" width="596">
 
 Eure-et-Loir 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="5" width="154">
+      <td rowspan="5" valign="top" width="154">
 
 Chartres 
 
 </td>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Chartres 
 
@@ -33978,7 +33819,7 @@ Lucé, Maintenon, Mainvilliers et Voves. (3)]
 [Chartres 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Auneau, Authon-du-Perche, Bonneval, Brou, Chartres Nord-Est, Chartres-Sud-Est, Chartres-Sud-Ouest, Châteaudun,
 Cloyes-sur-le-Loir, Courville-sur-Eure, Illiers-Combray, Janville, La Loupe, Lucé, Maintenon, Mainvilliers, Nogent-le-Rotrou,
@@ -33987,19 +33828,19 @@ Orgères-en-Beauce, Thiron Gardais et Voves. (4)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Châteaudun 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Dreux 
 
@@ -34024,14 +33865,14 @@ Cantons d'Authon-du-Perche, La Loupe, Nogent-le-Rotrou et Thiron Gardais. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="596" colspan="3">
+      <td colspan="3" width="596" valign="top">
 
 Hauts-de-Seine 
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top" rowspan="12">
+      <td valign="top" width="154" rowspan="12">
 
 Nanterre 
 
@@ -34041,7 +33882,7 @@ Nanterre
 Antony 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons d'Antony, Bagneux, Bourg-la-Reine, Châtenay-Malabry, Fontenay-aux-Roses, Le Plessis-Robinson (uniquement la commune
 du Plessis-Robinson), Montrouge et Sceaux. 
@@ -34049,12 +33890,12 @@ du Plessis-Robinson), Montrouge et Sceaux.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Asnières-sur-Seine 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Asnières-sur-Seine-Nord, Asnières-sur-Seine-Sud, Gennevilliers-Nord, Gennevilliers-Sud et Villeneuve-la-Garenne.
 (3)] 
@@ -34075,12 +33916,12 @@ Nord (uniquement la fraction de la commune de Clichy) et Villeneuve-la Garenne. 
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Boulogne-Billancourt 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Boulogne-Billancourt-Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulogne-Billancourt-Sud, Chaville, Garches
 (uniquement la commune de Garches), Saint-Cloud et Sèvres. 
@@ -34088,19 +33929,19 @@ Cantons de Boulogne-Billancourt-Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulo
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Clichy 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Clichy et Levallois-Perret-Nord (uniquement la fraction de la commune de Clichy). (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Colombes 
 
@@ -34117,19 +33958,19 @@ Cantons de Bois-Colombes, Colombes-Nord-Est, Colombes-Nord Ouest, Colombes-Sud e
 [Courbevoie 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Courbevoie-Nord et Courbevoie-Sud. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Courbevoie 
 
 </td>
-      <td valign="top" width="333">
+      <td width="333" valign="top">
 
 Cantons de Courbevoie-Nord, Courbevoie-Sud, Levallois-Perret-Nord (uniquement la fraction de la commune de Levallois-Perret),
 Levallois-Perret-Sud, Neuilly-sur-Seine-Nord et Neuilly-sur-Seine Sud. (4)] 
@@ -34137,7 +33978,7 @@ Levallois-Perret-Sud, Neuilly-sur-Seine-Nord et Neuilly-sur-Seine Sud. (4)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Levallois-Perret 
 
@@ -34149,19 +33990,19 @@ Cantons de Levallois-Perret-Nord (uniquement la fraction de la commune de Levall
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Neuilly-sur-Seine 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons de Neuilly-sur-Seine-Nord et Neuilly-sur-Seine-Sud. (3)] 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Puteaux 
 
@@ -34187,14 +34028,14 @@ fraction de la commune de Clamart), Malakoff, Meudon et Vanves.
 </td>
     </tr>
     <tr>
-      <td width="596" colspan="3" valign="top">
+      <td colspan="3" width="596" valign="top">
 
 Val-d'Oise 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="6" width="154" valign="top">
+      <td valign="top" width="154" rowspan="6">
 
 Pontoise 
 
@@ -34213,7 +34054,7 @@ Villiers-le-Sec), Sarcelles-Nord-Est, Sarcelles-Sud-Ouest et Viarmes. (3)]
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 [Gonesse 
 
@@ -34227,7 +34068,7 @@ Witz, Survilliers) et Villiers-le-Bel. (3)]
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 [Gonesse 
 
@@ -34254,7 +34095,7 @@ Franconville, Montmorency, Saint-Gratien, Saint-Leu-la-Forêt, Soisy-sous-Montmo
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Pontoise 
 
@@ -34267,26 +34108,26 @@ L'Hautil, L'Isle-Adam, Magny-en-Vexin, Marines, Pontoise, Saint-Ouen-l'Aumône e
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Sannois 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons d'Argenteuil-Est, Argenteuil-Nord, Argenteuil-Ouest, Bezons, Cormeilles-en-Parisis, Herblay et Sannois. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top" width="596">
+      <td valign="top" colspan="3" width="596">
 
 Yvelines 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154" rowspan="5">
+      <td width="154" valign="top" rowspan="5">
 
 Versailles 
 
@@ -34315,7 +34156,7 @@ Cantons d'Andrésy, Aubergenville, Conflans-Sainte-Honorine, Meulan, Poissy-Nord
 </td>
     </tr>
     <tr>
-      <td valign="top" width="109">
+      <td width="109" valign="top">
 
 Rambouillet 
 
@@ -34328,7 +34169,7 @@ Rambouillet et Saint-Arnoult-en-Yvelines.
 </td>
     </tr>
     <tr>
-      <td width="109" valign="top">
+      <td valign="top" width="109">
 
 Saint-Germain-en-Laye 
 
@@ -34346,7 +34187,7 @@ Nord, Saint-Germain-en-Laye-Sud, Saint-Nom-la-Bretèche et Sartrouville.
 Versailles 
 
 </td>
-      <td width="333" valign="top">
+      <td valign="top" width="333">
 
 Cantons du Chesnay, Montfort-l'Amaury (uniquement les communes d'Auteuil, Autouillet, Bazoches-sur-Guyonne, Béhoust, Beynes,
 Boissy-sans-Avoir, Flexanville, Galluis, Garancières, Goupillières, Grosrouvre, Marcq, Mareil-le-Guyon, Méré, Les Mesnuls,
@@ -34360,7 +34201,7 @@ et Viroflay.
   </tbody>
 </table>
 
-<table width="720" cellspacing="0" cellpadding="0" align="center" border="1">
+<table width="720" cellspacing="0" align="center" border="1" cellpadding="0">
     <tbody>
       <tr>
         <td width="216">
@@ -34380,7 +34221,7 @@ Ressort
 </td>
       </tr>
       <tr>
-        <td colspan="3" width="605">
+        <td width="605" colspan="3">
 
 Cour d'appel de Nouméa 
 
@@ -34394,7 +34235,7 @@ Nouvelle-Calédonie
 </td>
       </tr>
       <tr>
-        <td width="216" rowspan="3" valign="top">
+        <td valign="top" width="216" rowspan="3">
 
 Nouméa 
 
@@ -34440,7 +34281,7 @@ Wallis-et-Futuna
 </td>
       </tr>
       <tr>
-        <td width="394" colspan="2">
+        <td colspan="2" width="394">
 
 Mata-Utu 
 
@@ -34509,7 +34350,7 @@ Nuku-Hiva
 
 .. 
 
-<table border="1" cellspacing="0" cellpadding="0" width="720" align="center">
+<table cellspacing="0" cellpadding="0" border="1" width="720" align="center">
   <tbody>
     <tr>
       <td width="312">
@@ -34610,7 +34451,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-534 du 17 mai 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cite_:
 
@@ -34630,7 +34471,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 recevoir et enregistrer les déclarations de nationalité française et délivrer les certificats de nationalité française
 (annexe de l'article D. 221-1)
 
-<table cellspacing="0" align="center" border="1" width="720" cellpadding="0">
+<table width="720" align="center" cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td width="300">
@@ -34683,7 +34524,7 @@ Ressort des tribunaux d'instance d'Auch et Condom. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Lot 
 
@@ -34745,14 +34586,14 @@ Ressort des tribunaux d'instance d'Agen, Marmande et Villeneuve-sur-Lot. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel d'Aix-en-Provence 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Alpes-de-Haute-Provence 
 
@@ -34783,7 +34624,7 @@ Ressort des tribunaux d'instance de Barcelonnette, Digne-les-Bains et Manosque. 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Alpes-Maritimes 
 
@@ -34814,7 +34655,7 @@ Ressort des tribunaux d'instance de Menton et Nice.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Bouches-du-Rhône 
 
@@ -34974,7 +34815,7 @@ Ressort du tribunal d'instance de Soissons. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Oise 
 
@@ -35017,7 +34858,7 @@ Ressort des tribunaux d'instance de Compiègne et Senlis.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Somme 
 
@@ -35048,14 +34889,14 @@ Ressort des tribunaux d'instance d'Abbeville, Amiens et Péronne. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel d'Angers 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Maine-et-Loire 
 
@@ -35086,7 +34927,7 @@ Ressort des tribunaux d'instance d'Angers, Cholet et Saumur. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Mayenne 
 
@@ -35136,14 +34977,14 @@ Ressort des tribunaux d'instance de La Flèche et Le Mans. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Basse-Terre 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Guadeloupe 
 
@@ -35274,7 +35115,7 @@ Cour d'appel de Besançon
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Doubs 
 
@@ -35379,7 +35220,7 @@ Ressort des tribunaux d'instance de Dole, Lons-le-Saunier et Saint-Claude. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Territoire de Belfort 
 
@@ -35498,7 +35339,7 @@ Ressort des tribunaux d'instance d'Arcachon, Bazas, Blaye, Bordeaux, La Réole e
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Bourges 
 
@@ -35598,7 +35439,7 @@ Ressort des tribunaux d'instance de Clamecy et Nevers. (10)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Caen 
 
@@ -35636,7 +35477,7 @@ Ressort des tribunaux d'instance de Bayeux, Caen, Lisieux, Pont-l'Evêque et Vir
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Manche 
 
@@ -35691,7 +35532,7 @@ Ressort des tribunaux d'instance d'Avranches et Coutances. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Orne 
 
@@ -35722,14 +35563,33 @@ Ressort des tribunaux d'instance d'Alençon, Argentan et Flers. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2">
+
+Cour d'appel de Cayenne (Guyane)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Ressort du tribunal d'instance de Cayenne.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" width="614">
 
 Cour d'appel de Chambéry 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Haute-Savoie 
 
@@ -35804,14 +35664,14 @@ Ressort des tribunaux d'instance d'Albertville et Chambéry. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Colmar 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Bas-Rhin 
 
@@ -35878,7 +35738,7 @@ Ressort des tribunaux d'instance de Schiltigheim et Strasbourg.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Haut-Rhin 
 
@@ -35945,14 +35805,14 @@ Ressort du tribunal d'instance de Thann.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Dijon 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Côte-d'Or 
 
@@ -35983,7 +35843,7 @@ Ressort des tribunaux d'instance de Beaune, Dijon et Montbard. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Haute-Marne 
 
@@ -36014,7 +35874,7 @@ Ressort des tribunaux d'instance de Chaumont et Saint-Dizier. (10)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Saône-et-Loire 
 
@@ -36093,7 +35953,7 @@ Ressort du tribunal d'instance de Mâcon. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Douai 
 
@@ -36246,59 +36106,21 @@ Ressort des tribunaux d'instance de Boulogne-sur-Mer, Calais, Montreuil et Saint
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
-
-Cour d'appel de Fort-de-France 
-
-</td>
-    </tr>
-    <tr>
       <td width="614" colspan="2">
 
-Guyane 
+Cour d'appel de Fort-de-France (Martinique)
 
 </td>
     </tr>
     <tr>
       <td width="300">
 
-Cayenne 
+Fort-de-France 
 
 </td>
       <td width="314">
 
-Ressort du tribunal d'instance de Cayenne. 
-
-</td>
-    </tr>
-    <tr>
-      <td width="614" colspan="2">
-
-Martinique 
-
-</td>
-    </tr>
-    <tr>
-      <td width="300">
-
-[Fort-de-France 
-
-</td>
-      <td width="314">
-
-Ressort des tribunaux d'instance de Fort-de-France et Le Lamentin. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td width="300">
-
-[Fort-de-France 
-
-</td>
-      <td width="314">
-
-Ressort du tribunal d'instance de Fort-de-France. (4)] 
+Ressort du tribunal d'instance de Fort-de-France.
 
 </td>
     </tr>
@@ -36310,7 +36132,7 @@ Cour d'appel de Grenoble
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Drôme 
 
@@ -36377,7 +36199,7 @@ Ressort du tribunal d'instance de Valence. (14)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Hautes-Alpes 
 
@@ -36408,7 +36230,7 @@ Ressort du tribunal d'instance de Gap. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Isère 
 
@@ -36563,7 +36385,7 @@ Ressort du tribunal d'instance de Limoges. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Lyon 
 
@@ -36675,7 +36497,7 @@ Ressort du tribunal d'instance de Villeurbanne.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Metz 
 
@@ -36761,7 +36583,7 @@ Ressort du tribunal d'instance de Thionville. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Montpellier 
 
@@ -36799,7 +36621,7 @@ Ressort des tribunaux d'instance de Carcassonne, Limoux et Narbonne. (10 et 3)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Aveyron 
 
@@ -36854,7 +36676,7 @@ Ressort du tribunal d'instance de Rodez. (10)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Hérault 
 
@@ -36940,14 +36762,14 @@ Ressort du tribunal d'instance de Perpignan. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Nancy 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Meurthe-et-Moselle 
 
@@ -37002,7 +36824,7 @@ Ressort des tribunaux d'instance de Lunéville et Nancy. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Meuse 
 
@@ -37064,7 +36886,7 @@ Ressort des tribunaux d'instance d'Epinal, Mirecourt, et Saint-Dié-des-Vosges. 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Nîmes 
 
@@ -37138,7 +36960,7 @@ Ressort du tribunal d'instance de Tournon-sur-Rhône. (3)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Gard 
 
@@ -37193,7 +37015,7 @@ Ressort du tribunal d'instance d'Uzès.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Lozère 
 
@@ -37224,7 +37046,7 @@ Ressort du tribunal d'instance de Mende. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Vaucluse 
 
@@ -37274,7 +37096,7 @@ Cour d'appel de Nouméa
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Nouvelle-Calédonie 
 
@@ -37417,7 +37239,7 @@ Ressort du tribunal d'instance d'Orléans. (2)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Loir-et-Cher 
 
@@ -37455,7 +37277,7 @@ Cour d'appel de Papeete
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Polynésie française 
 
@@ -37498,7 +37320,7 @@ Nuku-Hiva
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Paris 
 
@@ -37595,7 +37417,7 @@ Paris 19e arrondissement et Paris 20e arrondissement.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Seine-et-Marne 
 
@@ -37686,7 +37508,7 @@ Ressort du tribunal d'instance de Melun. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Seine-Saint-Denis 
 
@@ -37880,7 +37702,7 @@ Ressort du tribunal d'instance de Vincennes. (3)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Yonne 
 
@@ -38234,14 +38056,14 @@ Ressort des tribunaux d'instance de Châtellerault et Poitiers. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Reims 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Ardennes 
 
@@ -38272,7 +38094,7 @@ Ressort des tribunaux d'instance de Charleville-Mézières, Rethel, Rocroi et Se
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Aube 
 
@@ -38303,7 +38125,7 @@ Ressort des tribunaux d'instance de Bar-sur-Seine, Nogent-sur-Seine et Troyes. (
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Marne 
 
@@ -38346,7 +38168,7 @@ Ressort du tribunal d'instance de Reims.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Cour d'appel de Rennes 
 
@@ -38439,7 +38261,7 @@ Ressort du tribunal d'instance de Quimper. (4)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Ille-et-Vilaine 
 
@@ -38482,7 +38304,7 @@ Ressort des tribunaux d'instance de Dinan, Redon, Rennes et Saint-Malo. (6)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Loire-Atlantique 
 
@@ -38630,7 +38452,7 @@ Ressort du tribunal d'instance de Vichy. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cantal 
 
@@ -38685,7 +38507,7 @@ Ressort du tribunal d'instance de Saint-Flour. (12)]
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Haute-Loire 
 
@@ -38876,30 +38698,28 @@ Ressort du tribunal d'instance de Rouen. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2">
 
-Mayotte 
+Mayotte
 
 </td>
     </tr>
     <tr>
-      <td width="300">Mamoudzou 
-
-</td>
+      <td width="300">Mamoudzou </td>
       <td width="314">
 
 Ressort du tribunal d'instance de Mamoudzou 
 
 </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td colspan="2">
 
 Réunion
@@ -38955,7 +38775,7 @@ Ressort du tribunal d'instance de Saint-Pierre.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Cour d'appel de Toulouse 
 
@@ -38993,7 +38813,7 @@ Ressort des tribunaux d'instance de Foix et Saint-Girons. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Haute-Garonne 
 
@@ -39048,7 +38868,7 @@ Ressort du tribunal d'instance de Toulouse. (4)]
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Tarn 
 
@@ -39105,7 +38925,7 @@ Cour d'appel de Versailles
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Eure-et-Loir 
 
@@ -39148,7 +38968,7 @@ Ressort du tribunal d'instance de Dreux.
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td width="614" colspan="2">
 
 Hauts-de-Seine 
 
@@ -39263,7 +39083,7 @@ Ressort du tribunal d'instance de Vanves.
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="2">
+      <td colspan="2" width="614">
 
 Val-d'Oise 
 
@@ -39466,7 +39286,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 
 ###### Article Annexe Tableau IX-1
@@ -39889,7 +39709,7 @@ Siège et ressort des tribunaux de grande instance compétents pour connaître d
 
 en matière d'obtentions végétales (annexe de l'article D. 211-5)
 
-<table width="720" border="1" cellpadding="0" align="center">
+<table cellpadding="0" border="1" align="center" width="720">
   <tbody>
     <tr>
       <td>
@@ -40044,15 +39864,15 @@ Cour d'appel de Paris
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
 Paris
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis
-et Versailles, et du tribunal supérieur d'appel de Saint-Pierre. 
+et Versailles, et du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
     </tr>
@@ -40101,7 +39921,7 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cité par_:
 
@@ -40120,7 +39940,7 @@ en matière de propriété littéraire et artistique, de dessins et modèles, de
 
 (annexe de l'article D. 211-6-1)
 
-<table align="center" cellspacing="3" width="720" cellpadding="0" border="1">
+<table cellspacing="3" border="1" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -40142,7 +39962,7 @@ Bordeaux.
 </td>
       <td>
 
-Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
 </td>
     </tr>
@@ -40154,7 +39974,7 @@ Lille.
 </td>
       <td>
 
-Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 </td>
     </tr>
@@ -40166,7 +39986,7 @@ Lyon.
 </td>
       <td>
 
-Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 
 </td>
     </tr>
@@ -40178,7 +39998,7 @@ Marseille.
 </td>
       <td>
 
-Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
 </td>
     </tr>
@@ -40190,7 +40010,7 @@ Nanterre.
 </td>
       <td>
 
-Ressort de la cour d'appel de Versailles. 
+Ressort de la cour d'appel de Versailles.
 
 </td>
     </tr>
@@ -40202,7 +40022,7 @@ Nancy.
 </td>
       <td>
 
-Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy.
 
 </td>
     </tr>
@@ -40215,7 +40035,7 @@ Paris.
       <td>
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
-Pierre. 
+Pierre.
 
 </td>
     </tr>
@@ -40227,7 +40047,7 @@ Rennes.
 </td>
       <td>
 
-Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 </td>
     </tr>
@@ -40239,7 +40059,7 @@ Strasbourg.
 </td>
       <td>
 
-Ressort de la cour d'appel de Colmar. 
+Ressort de la cour d'appel de Colmar.
 
 </td>
     </tr>
@@ -40249,11 +40069,7 @@ Ressort de la cour d'appel de Colmar.
 Fort-de-France.
 
 </td>
-      <td>
-
-Ressort des cours d'appel de Basse-Terre et Fort-de-France.
-
-</td>
+      <td>Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.</td>
     </tr>
   </tbody>
 </table>
@@ -40268,7 +40084,7 @@ vigueur dudit décret.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cité par_:
 
@@ -40279,719 +40095,733 @@ _Cité par_:
 
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
 engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement illicite
-international d'enfants (annexe de l'article D. 211-9) 
+international d'enfants (annexe de l'article D. 211-9)
 
-<table width="720" border="1" align="center" cellpadding="0">
-  <tbody>
-    <tr>
-      <td>
+<table cellpadding="0" align="center" border="1">
+    <tbody>
+      <tr>
+        <td>
 
-**
-        **
+SIÈGE
 
-**
+</td>
+        <td>
+
+RESSORT
+
+</td>
+      </tr>
+      <tr>
+        <td colspan="2">
 
-SIÈGE 
+Cour d'appel d'Agen
 
-**</td>
-      <td>
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Agen
+
+</td>
+        <td>
 
-RESSORT 
+Ressort de la cour d'appel d'Agen.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Agen 
+Cour d'appel d'Aix-en-Provence
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Agen 
+Marseille
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Agen. 
+Ressort de la cour d'appel d'Aix-en-Provence.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Aix-en-Provence 
+Cour d'appel d'Amiens
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Marseille 
+Amiens
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Aix-en-Provence. 
+Ressort de la cour d'appel d'Amiens.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Amiens 
+Cour d'appel d'Angers
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Amiens 
+Angers
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Amiens. 
+Ressort de la cour d'appel d'Angers.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Angers 
+Cour d'appel de Basse-Terre
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Angers 
+Basse-Terre
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Angers. 
+Ressort de la cour d'appel de Basse-Terre.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Basse-Terre 
+Cour d'appel de Bastia
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Basse-Terre 
+Bastia
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Basse-Terre. 
+Ressort de la cour d'appel de Bastia.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Bastia 
+Cour d'appel de Besançon
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Bastia 
+Besançon
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Bastia. 
+Ressort de la cour d'appel de Besançon.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Besançon 
+Cour d'appel de Bordeaux
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Besançon 
+Bordeaux
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Besançon. 
+Ressort de la cour d'appel de Bordeaux.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Bordeaux 
+Cour d'appel de Bourges
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Bordeaux 
+Bourges
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Bordeaux. 
+Ressort de la cour d'appel de Bourges.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Bourges 
+Cour d'appel de Caen
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Bourges 
+Caen
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Bourges. 
+Ressort de la cour d'appel de Caen.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Caen 
+Cour d'appel de Cayenne
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Caen 
+Cayenne
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Caen. 
+Ressort de la cour d'appel de Cayenne.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Chambéry 
+Cour d'appel de Chambéry
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Chambéry 
+Chambéry
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Chambéry. 
+Ressort de la cour d'appel de Chambéry.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Colmar 
+Cour d'appel de Colmar
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Strasbourg 
+Strasbourg
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Colmar. 
+Ressort de la cour d'appel de Colmar.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Dijon 
+Cour d'appel de Dijon
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Dijon 
+Dijon
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Dijon. 
+Ressort de la cour d'appel de Dijon.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Douai 
+Cour d'appel de Douai
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Lille 
+Lille
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Douai. 
+Ressort de la cour d'appel de Douai.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Fort-de-France
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Fort-de-France 
+Fort-de-France
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Fort-de-France. 
+Ressort de la cour d'appel de Fort-de-France.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Grenoble 
+Cour d'appel de Grenoble
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Grenoble 
+Grenoble
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Grenoble. 
+Ressort de la cour d'appel de Grenoble.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Limoges 
+Cour d'appel de Limoges
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Limoges 
+Limoges
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Limoges. 
+Ressort de la cour d'appel de Limoges.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Lyon 
+Cour d'appel de Lyon
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Lyon 
+Lyon
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Lyon. 
+Ressort de la cour d'appel de Lyon.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Metz 
+Cour d'appel de Metz
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Metz 
+Metz
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Metz. 
+Ressort de la cour d'appel de Metz.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Montpellier 
+Cour d'appel de Montpellier
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Montpellier 
+Montpellier
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Montpellier. 
+Ressort de la cour d'appel de Montpellier.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Nancy 
+Cour d'appel de Nancy
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nancy 
+Nancy
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Nancy. 
+Ressort de la cour d'appel de Nancy.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Nîmes 
+Cour d'appel de Nîmes
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nîmes 
+Nîmes
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Nîmes. 
+Ressort de la cour d'appel de Nîmes.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Nouméa 
+Cour d'appel de Nouméa
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nouméa 
+Nouméa
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Nouméa. 
+Ressort de la cour d'appel de Nouméa.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Orléans 
+Cour d'appel d'Orléans
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Orléans 
+Orléans
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Orléans. 
+Ressort de la cour d'appel d'Orléans.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Papeete 
+Cour d'appel de Papeete
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Papeete 
+Papeete
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Papeete. 
+Ressort de la cour d'appel de Papeete.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Paris 
+Cour d'appel de Paris
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Paris 
+Paris
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Paris. 
+Ressort de la cour d'appel de Paris.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Pau 
+Cour d'appel de Pau
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Pau 
+Pau
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Pau. 
+Ressort de la cour d'appel de Pau.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Poitiers 
+Cour d'appel de Poitiers
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Poitiers 
+Poitiers
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Poitiers. 
+Ressort de la cour d'appel de Poitiers.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Reims 
+Cour d'appel de Reims
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Reims 
+Reims
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Reims. 
+Ressort de la cour d'appel de Reims.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Rennes 
+Cour d'appel de Rennes
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Rennes 
+Rennes
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Rennes. 
+Ressort de la cour d'appel de Rennes.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Riom 
+Cour d'appel de Riom
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Clermont-Ferrand 
+Clermont-Ferrand
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Riom. 
+Ressort de la cour d'appel de Riom.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Rouen 
+Cour d'appel de Rouen
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Rouen 
+Rouen
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Rouen. 
+Ressort de la cour d'appel de Rouen.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Saint-Denis 
+Cour d'appel de Saint-Denis
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Saint-Denis 
+Saint-Denis
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Saint-Denis. 
+Ressort de la cour d'appel de Saint-Denis.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Toulouse 
+Cour d'appel de Toulouse
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Toulouse 
+Toulouse
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Toulouse. 
+Ressort de la cour d'appel de Toulouse.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Versailles 
+Cour d'appel de Versailles
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nanterre 
+Nanterre
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Versailles. 
+Ressort de la cour d'appel de Versailles.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Tribunal supérieur d'appel de Saint-Pierre 
+Tribunal supérieur d'appel de Saint-Pierre
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Saint-Pierre 
+Saint-Pierre
 
 </td>
-      <td>
+        <td>
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cite_:
 
@@ -41003,19 +40833,15 @@ _Cite_:
 SIÈGE ET RESSORT DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE COMPÉTENTS POUR CONNAÎTRE DES CONTESTATIONS SUR LA
 NATIONALITÉ FRANÇAISE OU ÉTRANGÈRE DES PERSONNES PHYSIQUES (ANNEXE DE L'ARTICLE D. 211-10) 
 
-<table border="1" width="720" align="center">
+<table border="1" align="center" width="720">
   <tbody>
     <tr>
-      <td>
+      <td align="center">
 
-SIÈGE
-
-</td>
-      <td>
-
-RESSORT
+SIÈGE 
 
 </td>
+      <td align="center">RESSORT </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -41075,7 +40901,26 @@ Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2">
+
+Cour d'appel de Cayenne
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Ressort de la cour d'appel de Cayenne.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
 
 Cour d'appel de Fort-de-France 
 
@@ -41089,20 +40934,7 @@ Fort-de-France.
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-Terre et de Fort-de-France, à l'exception du ressort du tribunal de grande instance de
-Cayenne.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cayenne.
-
-</td>
-      <td align="center">
-
-Ressort du tribunal de grande instance de Cayenne.
+Ressort des cours d'appel de Basse-Terre et de Fort-de-France.
 
 </td>
     </tr>
@@ -41126,7 +40958,7 @@ Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nancy 
 
@@ -41176,7 +41008,7 @@ Ressort du tribunal de première instance de Mata-Utu.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Papeete 
 
@@ -41233,7 +41065,7 @@ Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Saint-Denis 
 
@@ -41307,275 +41139,288 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 
 ###### Article Annexe Tableau VIII-I
 
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
 aux fins d'adoption ainsi que des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque
-l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France 
+l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France
 
-(annexe de l'article D. 211-10-1) 
+(annexe de l'article D. 211-10-1)
 
-<table align="center" width="720" border="1">
+<table align="center" border="1">
   <tbody>
+    <tr>
+      <td align="center">
+
+SIÈGE
+
+</td>
+      <td align="center" colspan="6">
+
+RESSORT
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Agen</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Agen
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Agen.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Aix-en-Provence</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Marseille
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Aix-en-Provence.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Amiens
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Amiens
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Amiens.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Angers
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Angers
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Angers.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Basse-Terre
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Basse-Terre
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Basse-Terre.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Bastia</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bastia
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bastia.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Besançon
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Besançon
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Besançon.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Bordeaux
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bordeaux
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bordeaux.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Bourges
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bourges
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bourges.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel de Caen
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Caen
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Caen.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne
+
+</td>
+    </tr>
     <tr>
       <td>
 
-SIÈGE 
+Cayenne
 
 </td>
-      <td colspan="6">
+      <td>
 
-RESSORT 
+Ressort de la cour d'appel de Cayenne.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Chambéry
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Chambéry
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Chambéry.
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel d'Agen 
+Cour d'appel de Colmar
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Agen 
+Strasbourg
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Agen. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d'Aix-en-Provence 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Marseille 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel d'Aix-en-Provence. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d'Amiens 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Amiens 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel d'Amiens. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d'Angers 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Angers 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel d'Angers. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Basse-Terre 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Basse-Terre 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Basse-Terre. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Bastia 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Bastia 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Bastia. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Besançon 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Besançon 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Besançon. 
+Ressort de la cour d'appel de Colmar.
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Bordeaux 
+Cour d'appel de Dijon
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Bordeaux 
+Dijon
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Bordeaux. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Bourges 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Bourges 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Bourges. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-
-Cour d'appel de Caen 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Caen 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Caen. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Chambéry 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Chambéry 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Chambéry. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Colmar 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Strasbourg 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Colmar. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-
-Cour d'appel de Dijon 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Dijon 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Dijon. 
+Ressort de la cour d'appel de Dijon.
 
 </td>
     </tr>
@@ -41589,12 +41434,12 @@ Cour d'appel de Douai
     <tr>
       <td align="center">
 
-Lille 
+Lille
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Douai. 
+Ressort de la cour d'appel de Douai.
 
 </td>
     </tr>
@@ -41608,50 +41453,46 @@ Cour d'appel de Fort-de-France
     <tr>
       <td align="center">
 
-Fort-de-France 
+Fort-de-France
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Fort-de-France. 
+Ressort de la cour d'appel de Fort-de-France.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Grenoble
-
-</td>
+Cour d'appel de Grenoble</td>
     </tr>
     <tr>
       <td align="center">
 
-Grenoble 
+Grenoble
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Grenoble. 
+Ressort de la cour d'appel de Grenoble.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Limoges
-
-</td>
+Cour d'appel de Limoges</td>
     </tr>
     <tr>
       <td align="center">
 
-Limoges 
+Limoges
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Limoges. 
+Ressort de la cour d'appel de Limoges.
 
 </td>
     </tr>
@@ -41665,17 +41506,17 @@ Cour d'appel de Lyon
     <tr>
       <td align="center">
 
-Lyon 
+Lyon
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Lyon. 
+Ressort de la cour d'appel de Lyon.
 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Metz
 
@@ -41684,12 +41525,12 @@ Cour d'appel de Metz
     <tr>
       <td align="center">
 
-Metz 
+Metz
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Metz. 
+Ressort de la cour d'appel de Metz.
 
 </td>
     </tr>
@@ -41703,12 +41544,12 @@ Cour d'appel de Montpellier
     <tr>
       <td align="center">
 
-Montpellier 
+Montpellier
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Montpellier. 
+Ressort de la cour d'appel de Montpellier.
 
 </td>
     </tr>
@@ -41722,12 +41563,12 @@ Cour d'appel de Nancy
     <tr>
       <td align="center">
 
-Nancy 
+Nancy
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nancy. 
+Ressort de la cour d'appel de Nancy.
 
 </td>
     </tr>
@@ -41741,69 +41582,63 @@ Cour d'appel de Nîmes
     <tr>
       <td align="center">
 
-Nîmes 
+Nîmes
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nîmes. 
+Ressort de la cour d'appel de Nîmes.
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Nouméa
-
-</td>
+Cour d'appel de Nouméa</td>
     </tr>
     <tr>
       <td align="center">
 
-Nouméa 
+Nouméa
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nouméa. 
+Ressort de la cour d'appel de Nouméa.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Cour d'appel d'Orléans</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Orléans
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Orléans.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel d'Orléans
-
-</td>
+Cour d'appel de Papeete</td>
     </tr>
     <tr>
       <td align="center">
 
-Orléans 
+Papeete
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Orléans. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-
-Cour d'appel de Papeete
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Papeete 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Papeete. 
+Ressort de la cour d'appel de Papeete.
 
 </td>
     </tr>
@@ -41817,12 +41652,12 @@ Cour d'appel de Paris
     <tr>
       <td align="center">
 
-Paris 
+Paris
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Paris. 
+Ressort de la cour d'appel de Paris.
 
 </td>
     </tr>
@@ -41836,17 +41671,17 @@ Cour d'appel de Pau
     <tr>
       <td align="center">
 
-Pau 
+Pau
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Pau. 
+Ressort de la cour d'appel de Pau.
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Poitiers
 
@@ -41855,17 +41690,17 @@ Cour d'appel de Poitiers
     <tr>
       <td align="center">
 
-Poitiers 
+Poitiers
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Poitiers. 
+Ressort de la cour d'appel de Poitiers.
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Reims
 
@@ -41874,12 +41709,12 @@ Cour d'appel de Reims
     <tr>
       <td align="center">
 
-Reims 
+Reims
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Reims. 
+Ressort de la cour d'appel de Reims.
 
 </td>
     </tr>
@@ -41893,50 +41728,46 @@ Cour d'appel de Rennes
     <tr>
       <td align="center">
 
-Nantes 
+Nantes
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Rennes. 
+Ressort de la cour d'appel de Rennes.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Riom
-
-</td>
+Cour d'appel de Riom</td>
     </tr>
     <tr>
       <td align="center">
 
-Clermont-Ferrand 
+Clermont-Ferrand
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Riom. 
+Ressort de la cour d'appel de Riom.
 
 </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Rouen
-
-</td>
+Cour d'appel de Rouen</td>
     </tr>
     <tr>
       <td align="center">
 
-Rouen 
+Rouen
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Rouen. 
+Ressort de la cour d'appel de Rouen.
 
 </td>
     </tr>
@@ -41950,36 +41781,34 @@ Cour d'appel de Saint-Denis
     <tr>
       <td align="center">
 
-Saint-Denis 
+Saint-Denis
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Saint-Denis. 
+Ressort de la cour d'appel de Saint-Denis.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Toulouse
-
-</td>
+Cour d'appel de Toulouse</td>
     </tr>
     <tr>
       <td align="center">
 
-Toulouse 
+Toulouse
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Toulouse. 
+Ressort de la cour d'appel de Toulouse.
 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Versailles
 
@@ -41988,12 +41817,12 @@ Cour d'appel de Versailles
     <tr>
       <td align="center">
 
-Nanterre 
+Nanterre
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Versailles. 
+Ressort de la cour d'appel de Versailles.
 
 </td>
     </tr>
@@ -42007,7 +41836,7 @@ Tribunal supérieur d'appel de Saint-Pierre
     <tr>
       <td align="center">
 
-Saint-Pierre 
+Saint-Pierre
 
 </td>
       <td align="center">
@@ -42023,7 +41852,7 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cité par_:
 
@@ -42044,142 +41873,142 @@ en matière de contrats de la commande publique (annexe de l'article D. 211-10-2
     <tr>
       <td>
 
-<font size="1">SIÈGE</font>
+SIÈGE 
 
 </td>
       <td>
 
-<font size="1">RESSORT</font>
+RESSORT
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Bordeaux 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Lille 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Lyon 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Marseille 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Nanterre 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Ressort de la cour d'appel de Versailles. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Nancy 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Paris 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Bourges, Paris et Orléans. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Rennes 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Fort-de-France 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Saint-Denis 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Ressort de la cour d'appel de Saint-Denis. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Saint-Pierre-et-Miquelon 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre. 
 
@@ -42192,7 +42021,7 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cité par_:
 
@@ -42288,7 +42117,7 @@ Siège et ressort des greffes détachés
 
 (annexe de l'article D. 222-7)
 
-<table border="1" cellspacing="0" align="center" width="718" cellpadding="0">
+<table cellspacing="0" width="718" align="center" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td width="129">
@@ -42308,7 +42137,7 @@ Ressort du greffe détaché
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="718">
+      <td width="718" colspan="3">
 
 Cour d'appel de Basse-Terre 
 
@@ -42327,14 +42156,14 @@ Le Moule
 </td>
       <td width="349">
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
+Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton 
 
 </td>
     </tr>
     <tr>
       <td colspan="3" width="718">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Cayenne 
 
 </td>
     </tr>
@@ -42344,7 +42173,7 @@ Cour d'appel de Fort-de-France
 Cayenne 
 
 </td>
-      <td width="240" valign="top">
+      <td valign="top" width="240">
 
 Saint-Laurent-du-Maroni 
 
@@ -42393,7 +42222,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 
 ###### Article Annexe Tableau XII
@@ -42710,7 +42539,7 @@ Siège et ressort des tribunaux pour enfants
 
 (annexe de l'article D. 251-1) 
 
-<table align="center" cellpadding="0" width="720" border="1">
+<table width="720" cellpadding="0" align="center" border="1">
   <tbody>
     <tr>
       <td>
@@ -42725,14 +42554,11 @@ RESSORT
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Agen 
 
 Gers 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -42793,14 +42619,11 @@ Ressort du tribunal de grande instance d'Agen. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Aix-en-Provence 
 
 Alpes-de-Haute-Provence 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -42931,14 +42754,11 @@ Ressort du tribunal de grande instance de Toulon.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Amiens 
 
 Aisne 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43047,14 +42867,11 @@ Ressort du tribunal de grande instance d'Amiens. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Angers 
 
 Maine-et-Loire 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43115,14 +42932,11 @@ Ressort du tribunal de grande instance du Mans.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Basse-Terre 
 
 Guadeloupe 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43151,14 +42965,11 @@ Ressort du tribunal de grande instance de Pointe-à-Pitre.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Bastia 
 
 Corse-du-Sud 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43197,14 +43008,11 @@ Ressort du tribunal de grande instance de Bastia.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Besançon 
 
-Doubs 
-
-</td>
-      <td>
+Doubs
 
 </td>
     </tr>
@@ -43299,14 +43107,11 @@ Ressort du tribunal de grande instance de Belfort.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Bordeaux 
 
-Charente 
-
-</td>
-      <td>
+Charente
 
 </td>
     </tr>
@@ -43391,14 +43196,11 @@ Ressort du tribunal de grande instance de Libourne.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Bourges 
 
-Cher 
-
-</td>
-      <td>
+Cher
 
 </td>
     </tr>
@@ -43459,14 +43261,11 @@ Ressort du tribunal de grande instance de Nevers.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Caen 
 
-Calvados 
-
-</td>
-      <td>
+Calvados
 
 </td>
     </tr>
@@ -43539,14 +43338,30 @@ Ressort des tribunaux de grande instance d'Alençon et Argentan.
 </td>
     </tr>
     <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne (Guyane)
+
+</td>
+    </tr>
+    <tr>
       <td>
 
-Cour d'appel de Chambéry 
-
-Haute-Savoie 
+Cayenne
 
 </td>
       <td>
+
+Ressort du tribunal de grande instance de Cayenne.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Cour d'appel de Chambéry 
+
+Haute-Savoie
 
 </td>
     </tr>
@@ -43609,14 +43424,11 @@ Ressort des tribunaux de grande instance d'Albertville et Chambéry.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Colmar 
 
-Bas-Rhin 
-
-</td>
-      <td>
+Bas-Rhin
 
 </td>
     </tr>
@@ -43679,14 +43491,11 @@ Ressort du tribunal de grande instance de Mulhouse.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Dijon 
 
-Côte-d'Or 
-
-</td>
-      <td>
+Côte-d'Or
 
 </td>
     </tr>
@@ -43759,14 +43568,11 @@ Ressort du tribunal de grande instance de Mâcon.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Douai 
 
-Nord 
-
-</td>
-      <td>
+Nord
 
 </td>
     </tr>
@@ -43901,36 +43707,9 @@ Ressort du tribunal de grande instance de Saint-Omer.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
-Cour d'appel de Fort-de-France 
-
-Guyane 
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cayenne 
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Cayenne. 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Martinique 
-
-</td>
-      <td>
+Cour d'appel de Fort-de-France (Martinique)
 
 </td>
     </tr>
@@ -43942,19 +43721,16 @@ Fort-de-France
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Fort-de-France. 
+Ressort du tribunal de grande instance de Fort-de-France.
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Grenoble 
 
-Drôme 
-
-</td>
-      <td>
+Drôme
 
 </td>
     </tr>
@@ -44051,14 +43827,11 @@ Ressort du tribunal de grande instance de Villefontaine. [12])
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Limoges 
 
-Corrèze 
-
-</td>
-      <td>
+Corrèze
 
 </td>
     </tr>
@@ -44119,14 +43892,11 @@ Ressort du tribunal de grande instance de Limoges.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Lyon 
 
-Ain 
-
-</td>
-      <td>
+Ain
 
 </td>
     </tr>
@@ -44211,14 +43981,11 @@ Ressort du tribunal de grande instance de Villefranche-sur-Saône.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Metz 
 
-Moselle 
-
-</td>
-      <td>
+Moselle
 
 </td>
     </tr>
@@ -44259,14 +44026,11 @@ Ressort du tribunal de grande instance de Sarreguemines.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Montpellier 
 
-Aude 
-
-</td>
-      <td>
+Aude
 
 </td>
     </tr>
@@ -44373,14 +44137,11 @@ Ressort du tribunal de grande instance de Perpignan.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Nancy 
 
-Meurthe-et-Moselle 
-
-</td>
-      <td>
+Meurthe-et-Moselle
 
 </td>
     </tr>
@@ -44453,14 +44214,11 @@ Ressort du tribunal de grande instance d'Epinal. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Nîmes 
 
-Ardèche 
-
-</td>
-      <td>
+Ardèche
 
 </td>
     </tr>
@@ -44555,14 +44313,11 @@ Ressort du tribunal de grande instance de Carpentras.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Nouméa 
 
 Nouvelle-Calédonie 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -44601,14 +44356,11 @@ Ressort du tribunal de première instance de Mata-Utu.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Orléans 
 
-Indre-et-Loire 
-
-</td>
-      <td>
+Indre-et-Loire
 
 </td>
     </tr>
@@ -44681,14 +44433,11 @@ Ressort du tribunal de grande instance de Blois.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Tribunal supérieur d'appel de Papeete 
 
-Polynésie française 
-
-</td>
-      <td>
+Polynésie française
 
 </td>
     </tr>
@@ -44705,14 +44454,11 @@ Ressort du tribunal de première instance de Papeete.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Paris 
 
-Essonne 
-
-</td>
-      <td>
+Essonne
 
 </td>
     </tr>
@@ -44813,9 +44559,7 @@ Val-de-Marne
 
 </td>
       <td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -44851,14 +44595,11 @@ Ressort des tribunaux de grande instance d'Auxerre et Sens.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Pau 
 
-Hautes-Pyrénées 
-
-</td>
-      <td>
+Hautes-Pyrénées
 
 </td>
     </tr>
@@ -44943,14 +44684,11 @@ Ressort du tribunal de grande instance de Pau.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Poitiers 
 
-Charente-Maritime 
-
-</td>
-      <td>
+Charente-Maritime
 
 </td>
     </tr>
@@ -45057,14 +44795,11 @@ Ressort du tribunal de grande instance de Poitiers.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Reims 
 
-Ardennes 
-
-</td>
-      <td>
+Ardennes
 
 </td>
     </tr>
@@ -45137,14 +44872,11 @@ Ressort du tribunal de grande instance de Reims.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Rennes 
 
-Côtes-d'Armor 
-
-</td>
-      <td>
+Côtes-d'Armor
 
 </td>
     </tr>
@@ -45297,14 +45029,11 @@ Ressort du tribunal de grande instance de Vannes.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Riom 
 
-Allier 
-
-</td>
-      <td>
+Allier
 
 </td>
     </tr>
@@ -45387,14 +45116,11 @@ Ressort du tribunal de grande instance de Clermont-Ferrand. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Rouen 
 
-Eure 
-
-</td>
-      <td>
+Eure
 
 </td>
     </tr>
@@ -45457,14 +45183,11 @@ Ressort du tribunal de grande instance de Rouen.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Saint-Denis 
 
-La Réunion 
-
-</td>
-      <td>
+La Réunion
 
 </td>
     </tr>
@@ -45495,7 +45218,8 @@ Ressort du tribunal de grande instance de Saint-Pierre.
     <tr>
       <td>
         Mayotte 
-      </td>
+
+</td>
       <td>
 
 </td>
@@ -45513,14 +45237,11 @@ Ressort du tribunal de grande instance de Mamoudzou
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Toulouse 
 
-Ariège 
-
-</td>
-      <td>
+Ariège
 
 </td>
     </tr>
@@ -45615,14 +45336,11 @@ Ressort du tribunal de grande instance de Montauban.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Versailles 
 
-Eure-et-Loir 
-
-</td>
-      <td>
+Eure-et-Loir
 
 </td>
     </tr>
@@ -45705,16 +45423,11 @@ Ressort du tribunal de grande instance de Versailles.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
-Tribunal supérieur d'appel de
+Tribunal supérieur d'appel de Saint-Pierre 
 
-Saint-Pierre 
-
-Saint-Pierre-et-Miquelon 
-
-</td>
-      <td>
+Saint-Pierre-et-Miquelon
 
 </td>
     </tr>
@@ -45755,7 +45468,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 
 ###### Article Annexe Tableau XV
@@ -45905,148 +45618,148 @@ industrielle en matière de délivrance, rejet ou maintien des dessins et modèl
 311-8) :
 
 <table align="center" border="1" width="720">
-  <tbody>
-    <tr>
-      <td>
+    <tbody>
+      <tr>
+        <td align="center">
 
-SIÈGE
-
-</td>
-      <td>
-
-RESSORT
+SIÈGE 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+RESSORT 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Aix-en-Provence 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Bordeaux 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Colmar 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort de la cour d'appel de Colmar. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Douai 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Fort-de-France 
 
 </td>
-      <td align="center">
+        <td align="left">
 
-Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Lyon 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Nancy 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Paris 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
 Pierre.
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Rennes 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Versailles 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort de la cour d'appel de Versailles.
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cite_:
 
