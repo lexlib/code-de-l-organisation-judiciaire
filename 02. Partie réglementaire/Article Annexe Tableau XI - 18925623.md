@@ -4,7 +4,7 @@ Siège et ressort des greffes détachés
 
 (annexe de l'article D. 222-7)
 
-<table cellspacing="0" align="center" border="1" cellpadding="0" width="718">
+<table cellspacing="0" border="1" width="718" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td width="129">
@@ -43,14 +43,14 @@ Le Moule
 </td>
       <td width="349">
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
+Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton 
 
 </td>
     </tr>
     <tr>
       <td width="718" colspan="3">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Cayenne 
 
 </td>
     </tr>
@@ -65,7 +65,7 @@ Cayenne
 Saint-Laurent-du-Maroni 
 
 </td>
-      <td width="349" valign="top">
+      <td valign="top" width="349">
 
 Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni. 
 
@@ -109,4 +109,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
