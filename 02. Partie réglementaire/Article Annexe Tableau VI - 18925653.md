@@ -5,7 +5,7 @@ en matière de propriété littéraire et artistique, de dessins et modèles, de
 
 (annexe de l'article D. 211-6-1)
 
-<table border="1" width="720" cellpadding="0" cellspacing="3" align="center">
+<table cellpadding="0" align="center" cellspacing="3" border="1">
   <tbody>
     <tr>
       <td>
@@ -27,7 +27,7 @@ Bordeaux.
 </td>
       <td>
 
-Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
 </td>
     </tr>
@@ -39,7 +39,7 @@ Lille.
 </td>
       <td>
 
-Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 </td>
     </tr>
@@ -51,7 +51,7 @@ Lyon.
 </td>
       <td>
 
-Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 
 </td>
     </tr>
@@ -63,7 +63,7 @@ Marseille.
 </td>
       <td>
 
-Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
 </td>
     </tr>
@@ -75,7 +75,7 @@ Nanterre.
 </td>
       <td>
 
-Ressort de la cour d'appel de Versailles. 
+Ressort de la cour d'appel de Versailles.
 
 </td>
     </tr>
@@ -87,7 +87,7 @@ Nancy.
 </td>
       <td>
 
-Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy.
 
 </td>
     </tr>
@@ -100,7 +100,7 @@ Paris.
       <td>
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
-Pierre. 
+Pierre.
 
 </td>
     </tr>
@@ -112,7 +112,7 @@ Rennes.
 </td>
       <td>
 
-Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 </td>
     </tr>
@@ -124,7 +124,7 @@ Strasbourg.
 </td>
       <td>
 
-Ressort de la cour d'appel de Colmar. 
+Ressort de la cour d'appel de Colmar.
 
 </td>
     </tr>
@@ -134,11 +134,7 @@ Ressort de la cour d'appel de Colmar.
 Fort-de-France.
 
 </td>
-      <td>
-
-Ressort des cours d'appel de Basse-Terre et Fort-de-France.
-
-</td>
+      <td>Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.</td>
     </tr>
   </tbody>
 </table>
@@ -153,7 +149,7 @@ vigueur dudit décret.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cité par_:
 
