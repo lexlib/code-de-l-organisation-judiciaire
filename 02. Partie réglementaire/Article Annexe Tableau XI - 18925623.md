@@ -43,14 +43,14 @@ Le Moule
 </td>
       <td width="349">
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
+Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton 
 
 </td>
     </tr>
     <tr>
       <td colspan="3" width="718">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Cayenne 
 
 </td>
     </tr>
@@ -109,4 +109,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
