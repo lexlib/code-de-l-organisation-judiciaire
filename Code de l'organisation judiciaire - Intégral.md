@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2011-09-26
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -58,187 +58,187 @@ Version Consolidée au 2011-09-26
         - [Chapitre Ier : Le tribunal pour enfants (art. L251-1 à L251-6)](#55)
           - [Section 1 : Institution et compétence (art. L251-1 à L251-2)](#56)
           - [Section 2 : Organisation et fonctionnement (art. L251-3 à L251-6)](#57)
-        - [Chapitre II : Le juge des enfants (art. L252-1 à L252-5)](#58)
-        - [Chapitre IV : La cour d'assises des mineurs (art. L254-1)](#59)
-      - [TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION (art. L261-1)](#60)
-        - [Chapitre unique (art. L261-1)](#61)
-    - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ (art. L311-1 à L331-1)](#62)
-      - [TITRE Ier : LA COUR D'APPEL (art. L311-1 à L314-2)](#63)
-        - [Chapitre Ier : Compétence (art. L311-1 à L311-14)](#64)
-          - [Section 1 : Dispositions générales (art. L311-1)](#65)
-          - [Section 2 : Dispositions particulières (art. L311-2 à L311-6)](#66)
-          - [Section 3 : Dispositions relatives au premier président (art. L311-7 à L311-7-1)](#67)
-          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. L311-8 à L311-9)](#68)
-          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. L311-10 à L311-14)](#69)
-        - [Chapitre II : Organisation et fonctionnement (art. L312-1 à L312-7)](#70)
-          - [Section 1 : Les formations de la cour d'appel (art. L312-1 à L312-6-1)](#71)
-            - [Sous-section 1 : Dispositions générales (art. L312-1 à L312-3)](#72)
-            - [Sous-section 2 : Dispositions particulières à certaines formations (art. L312-4 à L312-6-1)](#73)
-          - [Section 2 : Le parquet général (art. L312-7)](#74)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L313-1 à L313-2)](#75)
-        - [Chapitre IV : Dispositions particulières au Département de Mayotte (art. L314-1 à L314-2)](#76)
-      - [TITRE II : LA COUR D'ASSISES STATUANT EN APPEL (art. L321-1)](#77)
-        - [Chapitre unique (art. L321-1)](#78)
-      - [TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL (art. L331-1)](#79)
-        - [Chapitre unique (art. L331-1)](#80)
-    - [LIVRE IV : LA COUR DE CASSATION (art. L411-1 à LO461-2)](#81)
-      - [TITRE Ier : INSTITUTION ET COMPÉTENCE (art. L411-1 à L411-4)](#82)
-        - [Chapitre unique (art. L411-1 à L411-4)](#83)
-      - [TITRE II : ORGANISATION (art. L421-1 à L421-8)](#84)
-        - [Chapitre unique (art. L421-1 à L421-8)](#85)
-      - [TITRE III : FONCTIONNEMENT (art. L431-1 à L432-5)](#86)
-        - [Chapitre Ier : Les chambres de la cour (art. L431-1 à L431-10)](#87)
-          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#88)
-          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. L431-5 à L431-10)](#89)
-        - [Chapitre II : Le parquet général (art. L432-1 à L432-5)](#90)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION (art. L441-1 à L441-4)](#91)
-        - [Chapitre unique (art. L441-1 à L441-4)](#92)
-      - [TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION (art. L451-1 à L451-2)](#93)
-        - [Chapitre unique (art. L451-1 à L451-2)](#94)
-      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. LO461-1 à LO461-2)](#95)
-    - [LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE (art. L511-1 à L563-1)](#96)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L511-1 à L513-11)](#97)
-        - [Chapitre Ier : Dispositions générales (art. L511-1)](#98)
-        - [Chapitre II : Des fonctions judiciaires (art. L512-1 à L512-4)](#99)
-        - [Chapitre III : Des juridictions (art. L513-1 à L513-11)](#100)
-          - [Section 1 : Le tribunal de première instance (art. L513-1 à L513-5-1)](#101)
-          - [Section 2 : Le tribunal supérieur d'appel (art. L513-6 à L513-11)](#102)
-      - [TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA (art. L531-1 à L533-1)](#103)
-        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#104)
-        - [Chapitre II : Des juridictions (art. L532-1 à L532-28)](#105)
-          - [Section 1 : Le tribunal de première instance (art. L532-1 à L532-18)](#106)
-          - [Section 2 : La juridiction de proximité (art. L532-19 à L532-24)](#107)
-          - [Section 3 : Les juridictions des mineurs (art. L532-25 à L532-26)](#108)
-          - [Section 4 : La cour d'assises (art. L532-27 à L532-28)](#109)
-        - [Chapitre III : Du greffe (art. L533-1)](#110)
-      - [TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE (art. L551-1 à L553-1)](#111)
-        - [Chapitre Ier : Dispositions générales (art. L551-1 à L551-2)](#112)
-        - [Chapitre II : Des juridictions (art. L552-1 à L552-21)](#113)
-          - [Section 1 : Le tribunal de première instance (art. L552-1 à L552-9)](#114)
-          - [Section 2 : La cour d'appel (art. L552-10 à L552-12)](#115)
-          - [Section 3 : La juridiction de proximité (art. L552-13 à L552-18)](#116)
-          - [Section 4 : Les juridictions des mineurs (art. L552-19)](#117)
-          - [Section 5 : La cour d'assises (art. L552-20 à L552-21)](#118)
-        - [Chapitre III : Du greffe (art. L553-1)](#119)
-      - [TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE (art. L561-1 à L563-1)](#120)
-        - [Chapitre Ier : Dispositions générales (art. L561-1 à L561-2)](#121)
-        - [Chapitre II : Des juridictions (art. L562-1 à L562-37)](#122)
-          - [Section 1 : Le tribunal de première instance (art. L562-1 à L562-24-1)](#123)
-          - [Section 2 : La cour d'appel (art. L562-25 à L562-28)](#124)
-          - [Section 3 : La juridiction de proximité (art. L562-29 à L562-34)](#125)
-          - [Section 4 : Les juridictions des mineurs (art. L562-35)](#126)
-          - [Section 5 : La cour d'assises (art. L562-36 à L562-37)](#127)
-        - [Chapitre III : Du greffe (art. L563-1)](#128)
-  - [Partie réglementaire (art. R111-1 à Annexe Tableau XVII)](#129)
-    - [LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES (art. R111-1 à R131-11)](#130)
-      - [TITRE IER : PRINCIPES GENERAUX (art. R111-1 à R111-8)](#131)
-        - [Chapitre unique (art. R111-1 à R111-8)](#132)
-      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-2)](#133)
-        - [Chapitre Ier : Les juges (art. R121-1 à R121-5)](#134)
-          - [Section 2 : Le service juridictionnel (art. R121-1 à R121-5)](#135)
-        - [Chapitre II : Le ministère public (art. R122-1 à R122-5)](#136)
-          - [Section 1 : Organisation (art. R122-1)](#137)
-          - [Section 2 : Fonctionnement (art. R122-2 à R122-5)](#138)
-        - [Chapitre III : Le greffe (art. R123-1 à R123-25)](#139)
-          - [Section 1 : Organisation (art. R123-1 à R123-2)](#140)
-          - [Section 2 : Fonctionnement (art. R123-3 à R123-19)](#141)
-          - [Section 3 : Régies (art. R123-20 à R123-25)](#142)
-        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-2)](#143)
-      - [TITRE III : MAISONS DE JUSTICE ET DU DROIT (art. R131-1 à R131-11)](#144)
-        - [Chapitre unique (art. R131-1 à R131-11)](#145)
-    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRE (art. D211-1 à R253-1)](#146)
-      - [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE (art. D211-1 à R216-1)](#147)
-        - [Chapitre Ier : Institution et compétence (art. D211-1 à R211-13)](#148)
-          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7)](#149)
-            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. R211-3 à R211-4)](#150)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7)](#151)
-          - [Section 2 : Compétence territoriale (art. R211-11 à R211-13)](#152)
-        - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-59)](#153)
-          - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#154)
-          - [Section 2 : Le parquet (art. R212-12 à R212-15)](#155)
-          - [Section 3 : Le greffe (art. R212-16 à R212-17)](#156)
-          - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#157)
-          - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#158)
-            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#159)
-            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R212-34 à R212-37)](#160)
-            - [Sous-section 3 : L'assemblée des magistrats du parquet (art. R212-38 à R212-40)](#161)
-            - [Sous-section 4 : L'assemblée des magistrats du siège et du parquet (art. R212-41 à R212-44)](#162)
-            - [Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome (art. R212-45 à R212-48)](#163)
-            - [Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R212-49 à R212-50)](#164)
-            - [Sous-section 7 : La commission permanente (art. R212-51 à R212-54)](#165)
-            - [Sous-section 8 : La commission restreinte (art. R212-55 à R212-57)](#166)
-          - [Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance (art. R212-58 à R212-59)](#167)
-        - [Chapitre III : Fonctions particulières (art. R213-1 à R213-13)](#168)
-          - [Section 1 : Fonctions particulières exercées en matière civile (art. R213-1 à R213-12)](#169)
-            - [Sous-section 1 : Le président du tribunal de grande instance (art. R213-1 à R213-6)](#170)
-            - [Sous-section 2 : Le juge de la mise en état (art. R213-7)](#171)
-            - [Sous-section 3 : Le juge aux affaires familiales (art. R213-8 à R213-9)](#172)
-            - [Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes (art. R213-9-1)](#173)
-            - [Sous-section 4 : Le juge de l'exécution (art. R213-10 à R213-12)](#174)
-          - [Section 2 : Fonctions particulières exercées en matière pénale (art. R213-13)](#175)
-        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. D214-5 à R214-6)](#176)
-        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R215-1 à R215-2)](#177)
-        - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. R216-1)](#178)
-      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. D221-1 à R224-1)](#179)
-        - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#180)
-          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45)](#181)
-            - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#182)
-              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#183)
-              - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#184)
-              - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39-1)](#185)
-              - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#186)
-            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45)](#187)
-          - [Section 2 : Compétence territoriale (art. R221-46 à R221-52)](#188)
-        - [Chapitre II : Organisation et fonctionnement (art. R222-1 à R222-38)](#189)
-          - [Section 1 : Le service juridictionnel (art. R222-1 à R222-4)](#190)
-          - [Section 3 : Le greffe (art. D222-7 à R222-9)](#191)
-          - [Section 4 : Les assemblées générales (art. R222-10 à R222-38)](#192)
-            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R222-11 à R222-21)](#193)
-            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R222-22 à R222-23)](#194)
-            - [Sous-section 3 : L'assemblée des magistrats du siège et du parquet (art. R222-24 à R222-27)](#195)
-            - [Sous-section 4 : L'assemblée des fonctionnaires du greffe (art. R222-28 à R222-29)](#196)
-            - [Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires (art. R222-30 à R222-31)](#197)
-            - [Sous-section 6 : La commission permanente (art. R222-32 à R222-35)](#198)
-            - [Sous-section 7 : La commission restreinte (art. R222-36 à R222-38)](#199)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle (art. D223-2 à R223-13)](#200)
-          - [Section 1 : Institution et compétence (art. D223-2 à R223-1)](#201)
-          - [Section 2 : Organisation et fonctionnement (art. D223-3 à R223-13)](#202)
-            - [Sous-Section 1 : Le livre foncier (art. D223-3 à R223-7)](#203)
-            - [Sous-Section 2 : Le greffe (art. R223-10 à R223-13)](#204)
-        - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. R224-1)](#205)
-      - [TITRE III : LA JURIDICTION DE PROXIMITE (art. D231-1 à R232-10)](#206)
-        - [Chapitre Ier : Institution et compétence (art. D231-1 à R231-6)](#207)
-          - [Section 1 : Compétence matérielle (art. R231-3 à R231-5)](#208)
-            - [Sous-Section 1 : Compétence civile (art. R231-3 à R231-5)](#209)
-          - [Section 2 : Compétence territoriale (art. R231-6)](#210)
-        - [Chapitre II : Organisation et fonctionnement (art. R232-1 à R232-10)](#211)
-          - [Section 1 : Le service juridictionnel (art. R232-3)](#212)
-          - [Section 3 : Le greffe (art. R232-4)](#213)
-          - [Section 4 : Les assemblées générales (art. R232-5 à R232-10)](#214)
-            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R232-6)](#215)
-            - [Sous-Section 2 : L'assemblée des juges de proximité (art. R232-7 à R232-8)](#216)
-            - [Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet (art. R232-9 à R232-10)](#217)
-      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. D251-1 à R253-1)](#218)
-        - [Chapitre Ier : Le tribunal pour enfants (art. D251-1 à R251-13)](#219)
-          - [Section 1 : Institution et compétence (art. D251-1)](#220)
-          - [Section 2 : Organisation et fonctionnement (art. D251-2 à R251-13)](#221)
-        - [Chapitre II : Le juge des enfants (art. R252-1 à R252-2)](#222)
-          - [Section 1 : Institution et compétence (art. R252-1 à R252-2)](#223)
-        - [Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants (art. R253-1)](#224)
-    - [LIVRE III : JURIDICTIONS DU SECOND DEGRE (art. D311-1 à R314-7)](#225)
-      - [TITRE IER : LA COUR D'APPEL (art. D311-1 à R314-7)](#226)
-        - [Chapitre Ier : Compétence (art. D311-1 à D311-11)](#227)
-          - [Section 1 : Dispositions générales (art. D311-1 à R311-3)](#228)
-          - [Section 3 : Dispositions relatives au premier président (art. R311-4 à R311-5)](#229)
-          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. R311-6 à R311-7)](#230)
-          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. D311-8 à D311-11)](#231)
-        - [Chapitre II : Organisation et fonctionnement (art. R312-1 à R312-82)](#232)
-          - [Section 1 : Les formations de la cour d'appel (art. R312-1 à R312-13-2)](#233)
-            - [Sous-Section 1 : Dispositions générales (art. R312-1 à R312-8)](#234)
-            - [Sous-Section 2 : Dispositions particulières à certaines formations (art. R312-9 à R312-13-2)](#235)
-          - [Section 2 : Le parquet général (art. R312-14 à R312-18)](#236)
-          - [Section 3 : Le greffe (art. R312-19)](#237)
-          - [Section 4 : La chambre détachée de Cayenne (art. D312-20 à R312-26)](#238)
+        - [Chapitre Ier bis : Le tribunal correctionnel pour mineurs (art. L251-7 à L251-8)](#58)
+        - [Chapitre II : Le juge des enfants (art. L252-1 à L252-5)](#59)
+        - [Chapitre IV : La cour d'assises des mineurs (art. L254-1)](#60)
+      - [TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION (art. L261-1)](#61)
+        - [Chapitre unique (art. L261-1)](#62)
+    - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ (art. L311-1 à L331-1)](#63)
+      - [TITRE Ier : LA COUR D'APPEL (art. L311-1 à L314-2)](#64)
+        - [Chapitre Ier : Compétence (art. L311-1 à L311-14)](#65)
+          - [Section 1 : Dispositions générales (art. L311-1)](#66)
+          - [Section 2 : Dispositions particulières (art. L311-2 à L311-6)](#67)
+          - [Section 3 : Dispositions relatives au premier président (art. L311-7 à L311-7-1)](#68)
+          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. L311-8 à L311-9)](#69)
+          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. L311-10 à L311-14)](#70)
+        - [Chapitre II : Organisation et fonctionnement (art. L312-1 à L312-7)](#71)
+          - [Section 1 : Les formations de la cour d'appel (art. L312-1 à L312-6-1)](#72)
+            - [Sous-section 1 : Dispositions générales (art. L312-1 à L312-3)](#73)
+            - [Sous-section 2 : Dispositions particulières à certaines formations (art. L312-4 à L312-6-1)](#74)
+          - [Section 2 : Le parquet général (art. L312-7)](#75)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L313-1 à L313-2)](#76)
+        - [Chapitre IV : Dispositions particulières au Département de Mayotte (art. L314-1 à L314-2)](#77)
+      - [TITRE II : LA COUR D'ASSISES STATUANT EN APPEL (art. L321-1)](#78)
+        - [Chapitre unique (art. L321-1)](#79)
+      - [TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL (art. L331-1)](#80)
+        - [Chapitre unique (art. L331-1)](#81)
+    - [LIVRE IV : LA COUR DE CASSATION (art. L411-1 à LO461-2)](#82)
+      - [TITRE Ier : INSTITUTION ET COMPÉTENCE (art. L411-1 à L411-4)](#83)
+        - [Chapitre unique (art. L411-1 à L411-4)](#84)
+      - [TITRE II : ORGANISATION (art. L421-1 à L421-8)](#85)
+        - [Chapitre unique (art. L421-1 à L421-8)](#86)
+      - [TITRE III : FONCTIONNEMENT (art. L431-1 à L432-5)](#87)
+        - [Chapitre Ier : Les chambres de la cour (art. L431-1 à L431-10)](#88)
+          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#89)
+          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. L431-5 à L431-10)](#90)
+        - [Chapitre II : Le parquet général (art. L432-1 à L432-5)](#91)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION (art. L441-1 à L441-4)](#92)
+        - [Chapitre unique (art. L441-1 à L441-4)](#93)
+      - [TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION (art. L451-1 à L451-2)](#94)
+        - [Chapitre unique (art. L451-1 à L451-2)](#95)
+      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. LO461-1 à LO461-2)](#96)
+    - [LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE (art. L511-1 à L563-1)](#97)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L511-1 à L513-11)](#98)
+        - [Chapitre Ier : Dispositions générales (art. L511-1)](#99)
+        - [Chapitre II : Des fonctions judiciaires (art. L512-1 à L512-4)](#100)
+        - [Chapitre III : Des juridictions (art. L513-1 à L513-11)](#101)
+          - [Section 1 : Le tribunal de première instance (art. L513-1 à L513-5-1)](#102)
+          - [Section 2 : Le tribunal supérieur d'appel (art. L513-6 à L513-11)](#103)
+      - [TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA (art. L531-1 à L533-1)](#104)
+        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#105)
+        - [Chapitre II : Des juridictions (art. L532-1 à L532-28)](#106)
+          - [Section 1 : Le tribunal de première instance (art. L532-1 à L532-18)](#107)
+          - [Section 2 : La juridiction de proximité (art. L532-19 à L532-24)](#108)
+          - [Section 3 : Les juridictions des mineurs (art. L532-25 à L532-26)](#109)
+          - [Section 4 : La cour d'assises (art. L532-27 à L532-28)](#110)
+        - [Chapitre III : Du greffe (art. L533-1)](#111)
+      - [TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE (art. L551-1 à L553-1)](#112)
+        - [Chapitre Ier : Dispositions générales (art. L551-1 à L551-2)](#113)
+        - [Chapitre II : Des juridictions (art. L552-1 à L552-21)](#114)
+          - [Section 1 : Le tribunal de première instance (art. L552-1 à L552-9)](#115)
+          - [Section 2 : La cour d'appel (art. L552-10 à L552-12)](#116)
+          - [Section 3 : La juridiction de proximité (art. L552-13 à L552-18)](#117)
+          - [Section 4 : Les juridictions des mineurs (art. L552-19)](#118)
+          - [Section 5 : La cour d'assises (art. L552-20 à L552-21)](#119)
+        - [Chapitre III : Du greffe (art. L553-1)](#120)
+      - [TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE (art. L561-1 à L563-1)](#121)
+        - [Chapitre Ier : Dispositions générales (art. L561-1 à L561-2)](#122)
+        - [Chapitre II : Des juridictions (art. L562-1 à L562-37)](#123)
+          - [Section 1 : Le tribunal de première instance (art. L562-1 à L562-24-1)](#124)
+          - [Section 2 : La cour d'appel (art. L562-25 à L562-28)](#125)
+          - [Section 3 : La juridiction de proximité (art. L562-29 à L562-34)](#126)
+          - [Section 4 : Les juridictions des mineurs (art. L562-35)](#127)
+          - [Section 5 : La cour d'assises (art. L562-36 à L562-37)](#128)
+        - [Chapitre III : Du greffe (art. L563-1)](#129)
+  - [Partie réglementaire (art. R111-1 à Annexe Tableau XVII)](#130)
+    - [LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES (art. R111-1 à R131-11)](#131)
+      - [TITRE IER : PRINCIPES GENERAUX (art. R111-1 à R111-8)](#132)
+        - [Chapitre unique (art. R111-1 à R111-8)](#133)
+      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-2)](#134)
+        - [Chapitre Ier : Les juges (art. R121-1 à R121-5)](#135)
+          - [Section 2 : Le service juridictionnel (art. R121-1 à R121-5)](#136)
+        - [Chapitre II : Le ministère public (art. R122-1 à R122-5)](#137)
+          - [Section 1 : Organisation (art. R122-1)](#138)
+          - [Section 2 : Fonctionnement (art. R122-2 à R122-5)](#139)
+        - [Chapitre III : Le greffe (art. R123-1 à R123-25)](#140)
+          - [Section 1 : Organisation (art. R123-1 à R123-2)](#141)
+          - [Section 2 : Fonctionnement (art. R123-3 à R123-19)](#142)
+          - [Section 3 : Régies (art. R123-20 à R123-25)](#143)
+        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-2)](#144)
+      - [TITRE III : MAISONS DE JUSTICE ET DU DROIT (art. R131-1 à R131-11)](#145)
+        - [Chapitre unique (art. R131-1 à R131-11)](#146)
+    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRE (art. D211-1 à R253-1)](#147)
+      - [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE (art. D211-1 à R216-1)](#148)
+        - [Chapitre Ier : Institution et compétence (art. D211-1 à R211-13)](#149)
+          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7)](#150)
+            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. R211-3 à R211-4)](#151)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7)](#152)
+          - [Section 2 : Compétence territoriale (art. R211-11 à R211-13)](#153)
+        - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-59)](#154)
+          - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#155)
+          - [Section 2 : Le parquet (art. R212-12 à R212-15)](#156)
+          - [Section 3 : Le greffe (art. R212-16 à R212-17)](#157)
+          - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#158)
+          - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#159)
+            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#160)
+            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R212-34 à R212-37)](#161)
+            - [Sous-section 3 : L'assemblée des magistrats du parquet (art. R212-38 à R212-40)](#162)
+            - [Sous-section 4 : L'assemblée des magistrats du siège et du parquet (art. R212-41 à R212-44)](#163)
+            - [Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome (art. R212-45 à R212-48)](#164)
+            - [Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R212-49 à R212-50)](#165)
+            - [Sous-section 7 : La commission permanente (art. R212-51 à R212-54)](#166)
+            - [Sous-section 8 : La commission restreinte (art. R212-55 à R212-57)](#167)
+          - [Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance (art. R212-58 à R212-59)](#168)
+        - [Chapitre III : Fonctions particulières (art. R213-1 à R213-13)](#169)
+          - [Section 1 : Fonctions particulières exercées en matière civile (art. R213-1 à R213-12)](#170)
+            - [Sous-section 1 : Le président du tribunal de grande instance (art. R213-1 à R213-6)](#171)
+            - [Sous-section 2 : Le juge de la mise en état (art. R213-7)](#172)
+            - [Sous-section 3 : Le juge aux affaires familiales (art. R213-8 à R213-9)](#173)
+            - [Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes (art. R213-9-1)](#174)
+            - [Sous-section 4 : Le juge de l'exécution (art. R213-10 à R213-12)](#175)
+          - [Section 2 : Fonctions particulières exercées en matière pénale (art. R213-13)](#176)
+        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. D214-5 à R214-6)](#177)
+        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R215-1 à R215-2)](#178)
+        - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. R216-1)](#179)
+      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. D221-1 à R224-1)](#180)
+        - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#181)
+          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45)](#182)
+            - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#183)
+              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#184)
+              - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#185)
+              - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39-1)](#186)
+              - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#187)
+            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45)](#188)
+          - [Section 2 : Compétence territoriale (art. R221-46 à R221-52)](#189)
+        - [Chapitre II : Organisation et fonctionnement (art. R222-1 à R222-38)](#190)
+          - [Section 1 : Le service juridictionnel (art. R222-1 à R222-4)](#191)
+          - [Section 3 : Le greffe (art. D222-7 à R222-9)](#192)
+          - [Section 4 : Les assemblées générales (art. R222-10 à R222-38)](#193)
+            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R222-11 à R222-21)](#194)
+            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R222-22 à R222-23)](#195)
+            - [Sous-section 3 : L'assemblée des magistrats du siège et du parquet (art. R222-24 à R222-27)](#196)
+            - [Sous-section 4 : L'assemblée des fonctionnaires du greffe (art. R222-28 à R222-29)](#197)
+            - [Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires (art. R222-30 à R222-31)](#198)
+            - [Sous-section 6 : La commission permanente (art. R222-32 à R222-35)](#199)
+            - [Sous-section 7 : La commission restreinte (art. R222-36 à R222-38)](#200)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle (art. D223-2 à R223-13)](#201)
+          - [Section 1 : Institution et compétence (art. D223-2 à R223-1)](#202)
+          - [Section 2 : Organisation et fonctionnement (art. D223-3 à R223-13)](#203)
+            - [Sous-Section 1 : Le livre foncier (art. D223-3 à R223-7)](#204)
+            - [Sous-Section 2 : Le greffe (art. R223-10 à R223-13)](#205)
+        - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. R224-1)](#206)
+      - [TITRE III : LA JURIDICTION DE PROXIMITE (art. D231-1 à R232-10)](#207)
+        - [Chapitre Ier : Institution et compétence (art. D231-1 à R231-6)](#208)
+          - [Section 1 : Compétence matérielle (art. R231-3 à R231-5)](#209)
+            - [Sous-Section 1 : Compétence civile (art. R231-3 à R231-5)](#210)
+          - [Section 2 : Compétence territoriale (art. R231-6)](#211)
+        - [Chapitre II : Organisation et fonctionnement (art. R232-1 à R232-10)](#212)
+          - [Section 1 : Le service juridictionnel (art. R232-3)](#213)
+          - [Section 3 : Le greffe (art. R232-4)](#214)
+          - [Section 4 : Les assemblées générales (art. R232-5 à R232-10)](#215)
+            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R232-6)](#216)
+            - [Sous-Section 2 : L'assemblée des juges de proximité (art. R232-7 à R232-8)](#217)
+            - [Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet (art. R232-9 à R232-10)](#218)
+      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. D251-1 à R253-1)](#219)
+        - [Chapitre Ier : Le tribunal pour enfants (art. D251-1 à R251-13)](#220)
+          - [Section 1 : Institution et compétence (art. D251-1)](#221)
+          - [Section 2 : Organisation et fonctionnement (art. D251-2 à R251-13)](#222)
+        - [Chapitre II : Le juge des enfants (art. R252-1 à R252-2)](#223)
+          - [Section 1 : Institution et compétence (art. R252-1 à R252-2)](#224)
+        - [Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants (art. R253-1)](#225)
+    - [LIVRE III : JURIDICTIONS DU SECOND DEGRE (art. D311-1 à R314-7)](#226)
+      - [TITRE IER : LA COUR D'APPEL (art. D311-1 à R314-7)](#227)
+        - [Chapitre Ier : Compétence (art. D311-1 à D311-11)](#228)
+          - [Section 1 : Dispositions générales (art. D311-1 à R311-3)](#229)
+          - [Section 3 : Dispositions relatives au premier président (art. R311-4 à R311-5)](#230)
+          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. R311-6 à R311-7)](#231)
+          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. D311-8 à D311-11)](#232)
+        - [Chapitre II : Organisation et fonctionnement (art. R312-1 à R312-82)](#233)
+          - [Section 1 : Les formations de la cour d'appel (art. R312-1 à R312-13-2)](#234)
+            - [Sous-Section 1 : Dispositions générales (art. R312-1 à R312-8)](#235)
+            - [Sous-Section 2 : Dispositions particulières à certaines formations (art. R312-9 à R312-13-2)](#236)
+          - [Section 2 : Le parquet général (art. R312-14 à R312-18)](#237)
+          - [Section 3 : Le greffe (art. R312-19)](#238)
           - [Section 5 : Les assemblées générales (art. R312-27 à R312-64)](#239)
             - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R312-28 à R312-38)](#240)
             - [Sous-Section 2 : L'assemblée des magistrats du siège (art. R312-39 à R312-44)](#241)
@@ -1122,21 +1122,19 @@ _Cité par_:
 Le tribunal de grande instance connaît des demandes relatives aux frais, émoluments et débours des auxiliaires de justice et
 des officiers publics ou ministériels dans les cas prévus par l'article 52 du code de procédure civile, sans préjudice des
 dispositions particulières en matière d'honoraires d'avocats énoncées à l'article L. 311-7 du présent code et à l'article 179
-du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat, et d'honoraires d'avoués énoncées par l'article 5
-de la loi n° 57-1420 du 31 décembre 1957 sur le recouvrement des honoraires des avocats.
+du décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°57-1420 du 31 décembre 1957 - art. 5 (V)
-  - Décret n°91-1197 du 27 novembre 1991 - art. 179 (V)
-  - Code de procédure civile - art. 52 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-7 (V)
+  - Décret n°91-1197 du 27 novembre 1991 - art. 179
+  - Code de procédure civile - art. 52
+  - Code de l'organisation judiciaire - art. L311-7
 
 _Modifié par_:
 
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
 ###### Article L211-7
@@ -1161,23 +1159,23 @@ _Créé par_:
 
 ###### Article L211-8
 
-Le tribunal de grande instance est la juridiction disciplinaire des avoués, des commissaires-priseurs judiciaires, des
-huissiers de justice et des notaires dans les cas et conditions prévus par l'ordonnance n° 45-1418 du 28 juin 1945 relative à
-la discipline des notaires et de certains officiers ministériels.
+Le tribunal de grande instance est la juridiction disciplinaire   des commissaires-priseurs judiciaires, des huissiers de
+justice et des notaires dans les cas et conditions prévus par l'ordonnance n° 45-1418 du 28 juin 1945 relative à la
+discipline des notaires et de certains officiers ministériels.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-1418 du 28 juin 1945 (V)
+  - Ordonnance n°45-1418 du 28 juin 1945
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 _Anciens textes_:
 
@@ -3129,7 +3127,46 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-5 (Ab)
 
 
-#### Chapitre II : Le juge des enfants<a id=58></a>
+#### Chapitre Ier bis : Le tribunal correctionnel pour mineurs<a id=58></a>
+
+###### Article L251-7
+
+Le tribunal correctionnel pour mineurs constitue une formation spécialisée du tribunal correctionnel.
+
+Les règles concernant la compétence, la composition et le fonctionnement sont fixées par l'ordonnance n° 45-174 du 2 février
+1945 relative à l'enfance délinquante.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945
+
+_Créé par_:
+
+  - Loi n°2011-939 du 10 août 2011 - art. 51
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 29 (V)
+
+
+###### Article L251-8
+
+Il y a un tribunal correctionnel pour mineurs dans chaque tribunal de grande instance où se trouve un tribunal pour enfants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-939 du 10 août 2011 - art. 51
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 29 (V)
+
+
+#### Chapitre II : Le juge des enfants<a id=59></a>
 
 ###### Article L252-1
 
@@ -3227,7 +3264,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-2 (Ab)
 
 
-#### Chapitre IV : La cour d'assises des mineurs<a id=59></a>
+#### Chapitre IV : La cour d'assises des mineurs<a id=60></a>
 
 ###### Article L254-1
 
@@ -3259,9 +3296,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-3 (Ab)
 
 
-### TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION<a id=60></a>
+### TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION<a id=61></a>
 
-#### Chapitre unique<a id=61></a>
+#### Chapitre unique<a id=62></a>
 
 ###### Article L261-1
 
@@ -3302,13 +3339,13 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L561-1 (VD)
 
 
-## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=62></a>
+## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=63></a>
 
-### TITRE Ier : LA COUR D'APPEL<a id=63></a>
+### TITRE Ier : LA COUR D'APPEL<a id=64></a>
 
-#### Chapitre Ier : Compétence<a id=64></a>
+#### Chapitre Ier : Compétence<a id=65></a>
 
-##### Section 1 : Dispositions générales<a id=65></a>
+##### Section 1 : Dispositions générales<a id=66></a>
 
 ###### Article L311-1
 
@@ -3338,7 +3375,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L562-25 (VD)
 
 
-##### Section 2 : Dispositions particulières<a id=66></a>
+##### Section 2 : Dispositions particulières<a id=67></a>
 
 ###### Article L311-2
 
@@ -3399,7 +3436,7 @@ _Cité par_:
 
 La cour d'appel connaît :
 
-1° En ce qui concerne le stage des avoués, des recours contre les décisions de la chambre de la compagnie des avoués ;
+1° (Abrogé)
 
 2° En ce qui concerne le stage des huissiers de justice, des recours contre les décisions de la chambre départementale des
 huissiers de justice ;
@@ -3411,46 +3448,46 @@ formation professionnelle des notaires.
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-94 du 25 janvier 2011 - art. 33 (V)
 
 
 ###### Article L311-5
 
-La cour d'appel connaît, en ce qui concerne la discipline des avoués, des commissaires-priseurs judiciaires, des huissiers de
-justice et des notaires, des recours contre les décisions de la chambre de discipline.
+La cour d'appel connaît, en ce qui concerne la discipline   des commissaires-priseurs judiciaires, des huissiers de justice
+et des notaires, des recours contre les décisions de la chambre de discipline.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
 ###### Article L311-6
 
 La cour d'appel connaît des contestations relatives à la régularité des élections des membres des organismes professionnels
-des avoués, des commissaires-priseurs judiciaires, des huissiers de justice et des notaires.
+des commissaires-priseurs judiciaires, des huissiers de justice et des notaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
-##### Section 3 : Dispositions relatives au premier président<a id=67></a>
+##### Section 3 : Dispositions relatives au premier président<a id=68></a>
 
 ###### Article L311-7
 
@@ -3494,7 +3531,7 @@ _Créé par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
-##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=68></a>
+##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=69></a>
 
 ###### Article L311-8
 
@@ -3546,7 +3583,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L562-25 (VD)
 
 
-##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=69></a>
+##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=70></a>
 
 ###### Article L311-10
 
@@ -3648,11 +3685,11 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=70></a>
+#### Chapitre II : Organisation et fonctionnement<a id=71></a>
 
-##### Section 1 : Les formations de la cour d'appel<a id=71></a>
+##### Section 1 : Les formations de la cour d'appel<a id=72></a>
 
-##### Sous-section 1 : Dispositions générales<a id=72></a>
+##### Sous-section 1 : Dispositions générales<a id=73></a>
 
 ###### Article L312-1
 
@@ -3700,8 +3737,7 @@ _Cité par_:
 
 ###### Article L312-3
 
-Les avocats dans l'ordre du tableau et, après eux, les avoués selon la date de leur réception, peuvent être appelés à
-suppléer les conseillers pour compléter la cour d'appel.
+Les avocats dans l'ordre du tableau peuvent être appelés à suppléer les conseillers pour compléter la cour d'appel.
 
 Toutefois, la formation de jugement de la cour d'appel ne peut comprendre, en matière pénale, une majorité de juges non
 professionnels.
@@ -3710,18 +3746,14 @@ professionnels.
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L213-2 (Ab)
+  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
-##### Sous-section 2 : Dispositions particulières à certaines formations<a id=73></a>
+##### Sous-section 2 : Dispositions particulières à certaines formations<a id=74></a>
 
 ###### Article L312-4
 
@@ -3829,7 +3861,7 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
-##### Section 2 : Le parquet général<a id=74></a>
+##### Section 2 : Le parquet général<a id=75></a>
 
 ###### Article L312-7
 
@@ -3855,7 +3887,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L562-25 (VD)
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=75></a>
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=76></a>
 
 ###### Article L313-1
 
@@ -3907,7 +3939,7 @@ _Cité par_:
   - Code des transports - art. L4262-4 (V)
 
 
-#### Chapitre IV : Dispositions particulières au Département de Mayotte<a id=76></a>
+#### Chapitre IV : Dispositions particulières au Département de Mayotte<a id=77></a>
 
 ###### Article L314-1
 
@@ -3947,9 +3979,9 @@ _Abrogé par_:
   - Ordonnance n°2014-464 du 7 mai 2014 - art. 21
 
 
-### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL<a id=77></a>
+### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL<a id=78></a>
 
-#### Chapitre unique<a id=78></a>
+#### Chapitre unique<a id=79></a>
 
 ###### Article L321-1
 
@@ -3967,9 +3999,9 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL<a id=79></a>
+### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL<a id=80></a>
 
-#### Chapitre unique<a id=80></a>
+#### Chapitre unique<a id=81></a>
 
 ###### Article L331-1
 
@@ -3995,11 +4027,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L450-1, ecqc CNITAAT (Ab)
 
 
-## LIVRE IV : LA COUR DE CASSATION<a id=81></a>
+## LIVRE IV : LA COUR DE CASSATION<a id=82></a>
 
-### TITRE Ier : INSTITUTION ET COMPÉTENCE<a id=82></a>
+### TITRE Ier : INSTITUTION ET COMPÉTENCE<a id=83></a>
 
-#### Chapitre unique<a id=83></a>
+#### Chapitre unique<a id=84></a>
 
 ###### Article L411-1
 
@@ -4097,9 +4129,9 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE II : ORGANISATION<a id=84></a>
+### TITRE II : ORGANISATION<a id=85></a>
 
-#### Chapitre unique<a id=85></a>
+#### Chapitre unique<a id=86></a>
 
 ###### Article L421-1
 
@@ -4266,11 +4298,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 2 (Ab)
 
 
-### TITRE III : FONCTIONNEMENT<a id=86></a>
+### TITRE III : FONCTIONNEMENT<a id=87></a>
 
-#### Chapitre Ier : Les chambres de la cour<a id=87></a>
+#### Chapitre Ier : Les chambres de la cour<a id=88></a>
 
-##### Section 1 : Dispositions générales<a id=88></a>
+##### Section 1 : Dispositions générales<a id=89></a>
 
 ###### Article L431-1
 
@@ -4387,7 +4419,7 @@ _Cité par_:
   - Code de procédure civile - art. 626 (V)
 
 
-##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=89></a>
+##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=90></a>
 
 ###### Article L431-5
 
@@ -4518,7 +4550,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et chambres (Ab)
 
 
-#### Chapitre II : Le parquet général<a id=90></a>
+#### Chapitre II : Le parquet général<a id=91></a>
 
 ###### Article L432-1
 
@@ -4619,9 +4651,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et parquet général (Ab)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION<a id=91></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION<a id=92></a>
 
-#### Chapitre unique<a id=92></a>
+#### Chapitre unique<a id=93></a>
 
 ###### Article L441-1
 
@@ -4711,9 +4743,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-3 (Ab)
 
 
-### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION<a id=93></a>
+### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION<a id=94></a>
 
-#### Chapitre unique<a id=94></a>
+#### Chapitre unique<a id=95></a>
 
 ###### Article L451-1
 
@@ -4756,7 +4788,7 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=95></a>
+### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=96></a>
 
 ###### Article LO461-1
 
@@ -4791,11 +4823,11 @@ _Créé par_:
   - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
 
 
-## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE<a id=96></a>
+## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE<a id=97></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=97></a>
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=98></a>
 
-#### Chapitre Ier : Dispositions générales<a id=98></a>
+#### Chapitre Ier : Dispositions générales<a id=99></a>
 
 ###### Article L511-1
 
@@ -4828,7 +4860,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-13 (Ab)
 
 
-#### Chapitre II : Des fonctions judiciaires<a id=99></a>
+#### Chapitre II : Des fonctions judiciaires<a id=100></a>
 
 ###### Article L512-1
 
@@ -4932,9 +4964,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-4 (Ab)
 
 
-#### Chapitre III : Des juridictions<a id=100></a>
+#### Chapitre III : Des juridictions<a id=101></a>
 
-##### Section 1 : Le tribunal de première instance<a id=101></a>
+##### Section 1 : Le tribunal de première instance<a id=102></a>
 
 ###### Article L513-1
 
@@ -5084,7 +5116,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L214-2 (V)
 
 
-##### Section 2 : Le tribunal supérieur d'appel<a id=102></a>
+##### Section 2 : Le tribunal supérieur d'appel<a id=103></a>
 
 ###### Article L513-6
 
@@ -5251,9 +5283,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-14 (Ab)
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA<a id=103></a>
+### TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA<a id=104></a>
 
-#### Chapitre Ier : Dispositions générales<a id=104></a>
+#### Chapitre Ier : Dispositions générales<a id=105></a>
 
 ###### Article L531-1
 
@@ -5294,9 +5326,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc WF (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=105></a>
+#### Chapitre II : Des juridictions<a id=106></a>
 
-##### Section 1 : Le tribunal de première instance<a id=106></a>
+##### Section 1 : Le tribunal de première instance<a id=107></a>
 
 ###### Article L532-1
 
@@ -5778,7 +5810,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8, alinéa 2 (Ab)
 
 
-##### Section 2 : La juridiction de proximité<a id=107></a>
+##### Section 2 : La juridiction de proximité<a id=108></a>
 
 ###### Article L532-19
 
@@ -6013,7 +6045,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-9 (Ab)
 
 
-##### Section 3 : Les juridictions des mineurs<a id=108></a>
+##### Section 3 : Les juridictions des mineurs<a id=109></a>
 
 ###### Article L532-25
 
@@ -6054,7 +6086,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-9 (Ab)
 
 
-##### Section 4 : La cour d'assises<a id=109></a>
+##### Section 4 : La cour d'assises<a id=110></a>
 
 ###### Article L532-27
 
@@ -6095,7 +6127,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc WF (Ab)
 
 
-#### Chapitre III : Du greffe<a id=110></a>
+#### Chapitre III : Du greffe<a id=111></a>
 
 ###### Article L533-1
 
@@ -6118,9 +6150,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc WF (Ab)
 
 
-### TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE<a id=111></a>
+### TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE<a id=112></a>
 
-#### Chapitre Ier : Dispositions générales<a id=112></a>
+#### Chapitre Ier : Dispositions générales<a id=113></a>
 
 ###### Article L551-1
 
@@ -6161,9 +6193,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc PF (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=113></a>
+#### Chapitre II : Des juridictions<a id=114></a>
 
-##### Section 1 : Le tribunal de première instance<a id=114></a>
+##### Section 1 : Le tribunal de première instance<a id=115></a>
 
 ###### Article L552-1
 
@@ -6376,7 +6408,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9, ecqc PF (Ab)
 
 
-##### Section 2 : La cour d'appel<a id=115></a>
+##### Section 2 : La cour d'appel<a id=116></a>
 
 ###### Article L552-10
 
@@ -6452,7 +6484,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-4, ecqc PF (Ab)
 
 
-##### Section 3 : La juridiction de proximité<a id=116></a>
+##### Section 3 : La juridiction de proximité<a id=117></a>
 
 ###### Article L552-13
 
@@ -6687,7 +6719,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-9 (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=117></a>
+##### Section 4 : Les juridictions des mineurs<a id=118></a>
 
 ###### Article L552-19
 
@@ -6709,7 +6741,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc PF (Ab)
 
 
-##### Section 5 : La cour d'assises<a id=118></a>
+##### Section 5 : La cour d'assises<a id=119></a>
 
 ###### Article L552-20
 
@@ -6751,7 +6783,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc PF (Ab)
 
 
-#### Chapitre III : Du greffe<a id=119></a>
+#### Chapitre III : Du greffe<a id=120></a>
 
 ###### Article L553-1
 
@@ -6774,9 +6806,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc PF (Ab)
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE<a id=120></a>
+### TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE<a id=121></a>
 
-#### Chapitre Ier : Dispositions générales<a id=121></a>
+#### Chapitre Ier : Dispositions générales<a id=122></a>
 
 ###### Article L561-1
 
@@ -6817,9 +6849,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc NC (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=122></a>
+#### Chapitre II : Des juridictions<a id=123></a>
 
-##### Section 1 : Le tribunal de première instance<a id=123></a>
+##### Section 1 : Le tribunal de première instance<a id=124></a>
 
 ###### Article L562-1
 
@@ -7426,7 +7458,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L213-3
 
 
-##### Section 2 : La cour d'appel<a id=124></a>
+##### Section 2 : La cour d'appel<a id=125></a>
 
 ###### Article L562-25
 
@@ -7529,7 +7561,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L562-20 (V)
 
 
-##### Section 3 : La juridiction de proximité<a id=125></a>
+##### Section 3 : La juridiction de proximité<a id=126></a>
 
 ###### Article L562-29
 
@@ -7764,7 +7796,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-9 (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=126></a>
+##### Section 4 : Les juridictions des mineurs<a id=127></a>
 
 ###### Article L562-35
 
@@ -7786,7 +7818,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc NC (Ab)
 
 
-##### Section 5 : La cour d'assises<a id=127></a>
+##### Section 5 : La cour d'assises<a id=128></a>
 
 ###### Article L562-36
 
@@ -7828,7 +7860,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc NC (Ab)
 
 
-#### Chapitre III : Du greffe<a id=128></a>
+#### Chapitre III : Du greffe<a id=129></a>
 
 ###### Article L563-1
 
@@ -7851,13 +7883,13 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc NC (Ab)
 
 
-# Partie réglementaire<a id=129></a>
+# Partie réglementaire<a id=130></a>
 
-## LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES<a id=130></a>
+## LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES<a id=131></a>
 
-### TITRE IER : PRINCIPES GENERAUX<a id=131></a>
+### TITRE IER : PRINCIPES GENERAUX<a id=132></a>
 
-#### Chapitre unique<a id=132></a>
+#### Chapitre unique<a id=133></a>
 
 ###### Article R111-1
 
@@ -8034,11 +8066,11 @@ _Créé par_:
   - Décret n°2010-1234 du 20 octobre 2010 - art. 2
 
 
-### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT<a id=133></a>
+### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT<a id=134></a>
 
-#### Chapitre Ier : Les juges<a id=134></a>
+#### Chapitre Ier : Les juges<a id=135></a>
 
-##### Section 2 : Le service juridictionnel<a id=135></a>
+##### Section 2 : Le service juridictionnel<a id=136></a>
 
 ###### Article R121-1
 
@@ -8166,9 +8198,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*791-1 (Ab)
 
 
-#### Chapitre II : Le ministère public<a id=136></a>
+#### Chapitre II : Le ministère public<a id=137></a>
 
-##### Section 1 : Organisation<a id=137></a>
+##### Section 1 : Organisation<a id=138></a>
 
 ###### Article R122-1
 
@@ -8185,7 +8217,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*751-1 (Ab)
 
 
-##### Section 2 : Fonctionnement<a id=138></a>
+##### Section 2 : Fonctionnement<a id=139></a>
 
 ###### Article R122-2
 
@@ -8307,9 +8339,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R217-1 (VD)
 
 
-#### Chapitre III : Le greffe<a id=139></a>
+#### Chapitre III : Le greffe<a id=140></a>
 
-##### Section 1 : Organisation<a id=140></a>
+##### Section 1 : Organisation<a id=141></a>
 
 ###### Article R123-1
 
@@ -8358,7 +8390,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-##### Section 2 : Fonctionnement<a id=141></a>
+##### Section 2 : Fonctionnement<a id=142></a>
 
 ###### Article R123-3
 
@@ -8800,7 +8832,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-##### Section 3 : Régies<a id=142></a>
+##### Section 3 : Régies<a id=143></a>
 
 ###### Article R123-20
 
@@ -8963,7 +8995,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-24 (V)
 
 
-#### Chapitre IV : Siège et ressort des juridictions<a id=143></a>
+#### Chapitre IV : Siège et ressort des juridictions<a id=144></a>
 
 ###### Article R124-1
 
@@ -9031,9 +9063,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-### TITRE III : MAISONS DE JUSTICE ET DU DROIT<a id=144></a>
+### TITRE III : MAISONS DE JUSTICE ET DU DROIT<a id=145></a>
 
-#### Chapitre unique<a id=145></a>
+#### Chapitre unique<a id=146></a>
 
 ###### Article R131-1
 
@@ -9331,11 +9363,11 @@ _Cite_:
   - Code de l'organisation judiciaire - art. Annexe Tableau III (V)
 
 
-## LIVRE II : JURIDICTIONS DU PREMIER DEGRE<a id=146></a>
+## LIVRE II : JURIDICTIONS DU PREMIER DEGRE<a id=147></a>
 
-### TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE<a id=147></a>
+### TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE<a id=148></a>
 
-#### Chapitre Ier : Institution et compétence<a id=148></a>
+#### Chapitre Ier : Institution et compétence<a id=149></a>
 
 ###### Article D211-1
 
@@ -9411,9 +9443,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-7 (Ab)
 
 
-##### Section 1 : Compétence matérielle<a id=149></a>
+##### Section 1 : Compétence matérielle<a id=150></a>
 
-##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=150></a>
+##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=151></a>
 
 ###### Article R211-3
 
@@ -9487,7 +9519,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-3 al 2 (Ab)
 
 
-##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=151></a>
+##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=152></a>
 
 ###### Article D211-5
 
@@ -9727,7 +9759,7 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. R717-11 (VD)
 
 
-##### Section 2 : Compétence territoriale<a id=152></a>
+##### Section 2 : Compétence territoriale<a id=153></a>
 
 ###### Article R211-11
 
@@ -9785,7 +9817,7 @@ _Créé par_:
   - Décret n°2009-1693 du 29 décembre 2009 - art. 2
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=153></a>
+#### Chapitre II : Organisation et fonctionnement<a id=154></a>
 
 ###### Article R212-1
 
@@ -9829,7 +9861,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-10 (Ab)
 
 
-##### Section 1 : Le service juridictionnel<a id=154></a>
+##### Section 1 : Le service juridictionnel<a id=155></a>
 
 ###### Article R212-3
 
@@ -10116,7 +10148,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-9 (VD)
 
 
-##### Section 2 : Le parquet<a id=155></a>
+##### Section 2 : Le parquet<a id=156></a>
 
 ###### Article R212-12
 
@@ -10233,7 +10265,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R552-14 (VD)
 
 
-##### Section 3 : Le greffe<a id=156></a>
+##### Section 3 : Le greffe<a id=157></a>
 
 ###### Article R212-16
 
@@ -10287,7 +10319,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-8 (V)
 
 
-##### Section 4 : Les chambres détachées<a id=157></a>
+##### Section 4 : Les chambres détachées<a id=158></a>
 
 ###### Article D212-19
 
@@ -10403,7 +10435,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R522-8 (Ab)
 
 
-##### Section 5 : Les assemblées générales<a id=158></a>
+##### Section 5 : Les assemblées générales<a id=159></a>
 
 ###### Article R212-22
 
@@ -10439,7 +10471,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-46 ecqc TGI (Ab)
 
 
-##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=159></a>
+##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=160></a>
 
 ###### Article R212-23
 
@@ -10705,7 +10737,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-14 ecqc TGI (Ab)
 
 
-##### Sous-section 2 : L'assemblée des magistrats du siège<a id=160></a>
+##### Sous-section 2 : L'assemblée des magistrats du siège<a id=161></a>
 
 ###### Article R212-34
 
@@ -10846,7 +10878,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-30 (M)
 
 
-##### Sous-section 3 : L'assemblée des magistrats du parquet<a id=161></a>
+##### Sous-section 3 : L'assemblée des magistrats du parquet<a id=162></a>
 
 ###### Article R212-38
 
@@ -10925,7 +10957,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-26 ecqc TGI (Ab)
 
 
-##### Sous-section 4 : L'assemblée des magistrats du siège et du parquet<a id=162></a>
+##### Sous-section 4 : L'assemblée des magistrats du siège et du parquet<a id=163></a>
 
 ###### Article R212-41
 
@@ -11062,7 +11094,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R217-1 (VD)
 
 
-##### Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome<a id=163></a>
+##### Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome<a id=164></a>
 
 ###### Article R212-45
 
@@ -11167,7 +11199,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-33 al 2 ecqc TGI (Ab)
 
 
-##### Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=164></a>
+##### Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=165></a>
 
 ###### Article R212-49
 
@@ -11220,7 +11252,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-37 ecqc TGI (Ab)
 
 
-##### Sous-section 7 : La commission permanente<a id=165></a>
+##### Sous-section 7 : La commission permanente<a id=166></a>
 
 ###### Article R212-51
 
@@ -11325,7 +11357,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-45 ecqc TGI (Ab)
 
 
-##### Sous-section 8 : La commission restreinte<a id=166></a>
+##### Sous-section 8 : La commission restreinte<a id=167></a>
 
 ###### Article R212-55
 
@@ -11398,7 +11430,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-50 ecqc TGI (Ab)
 
 
-##### Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance<a id=167></a>
+##### Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance<a id=168></a>
 
 ###### Article R212-58
 
@@ -11452,11 +11484,11 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-31 (VD)
 
 
-#### Chapitre III : Fonctions particulières<a id=168></a>
+#### Chapitre III : Fonctions particulières<a id=169></a>
 
-##### Section 1 : Fonctions particulières exercées en matière civile<a id=169></a>
+##### Section 1 : Fonctions particulières exercées en matière civile<a id=170></a>
 
-##### Sous-section 1 : Le président du tribunal de grande instance<a id=170></a>
+##### Sous-section 1 : Le président du tribunal de grande instance<a id=171></a>
 
 ###### Article R213-1
 
@@ -11605,7 +11637,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
 
 
-##### Sous-section 2 : Le juge de la mise en état<a id=171></a>
+##### Sous-section 2 : Le juge de la mise en état<a id=172></a>
 
 ###### Article R213-7
 
@@ -11635,7 +11667,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
 
 
-##### Sous-section 3 : Le juge aux affaires familiales<a id=172></a>
+##### Sous-section 3 : Le juge aux affaires familiales<a id=173></a>
 
 ###### Article R213-8
 
@@ -11682,7 +11714,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1, alinéa 5, phrase 2 (Ab)
 
 
-##### Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes<a id=173></a>
+##### Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes<a id=174></a>
 
 ###### Article R213-9-1
 
@@ -11713,7 +11745,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-10 (VD)
 
 
-##### Sous-section 4 : Le juge de l'exécution<a id=174></a>
+##### Sous-section 4 : Le juge de l'exécution<a id=175></a>
 
 ###### Article R213-10
 
@@ -11781,7 +11813,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13, ecqc JEX (Ab)
 
 
-##### Section 2 : Fonctions particulières exercées en matière pénale<a id=175></a>
+##### Section 2 : Fonctions particulières exercées en matière pénale<a id=176></a>
 
 ###### Article R213-13
 
@@ -11803,7 +11835,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-6, ecqc juge d'instruction (Ab)
 
 
-#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=176></a>
+#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=177></a>
 
 ###### Article D214-5
 
@@ -11986,7 +12018,7 @@ _Anciens textes_:
   - CODE DE PROCEDURE PENALE - art. R50-6 (Ab)
 
 
-#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=177></a>
+#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=178></a>
 
 ###### Article R215-1
 
@@ -12034,7 +12066,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*915-3 al 1 (Ab)
 
 
-#### Chapitre VI : Dispositions particulières au Département de Mayotte<a id=178></a>
+#### Chapitre VI : Dispositions particulières au Département de Mayotte<a id=179></a>
 
 ###### Article R216-1
 
@@ -12059,9 +12091,9 @@ _Abrogé par_:
   - Décret n°2014-527 du 23 mai 2014 - art. 14
 
 
-### TITRE II : LE TRIBUNAL D'INSTANCE<a id=179></a>
+### TITRE II : LE TRIBUNAL D'INSTANCE<a id=180></a>
 
-#### Chapitre Ier : Institution et compétence<a id=180></a>
+#### Chapitre Ier : Institution et compétence<a id=181></a>
 
 ###### Article D221-1
 
@@ -12154,11 +12186,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 al 3 et 4 (Ab)
 
 
-##### Section 1 : Compétence matérielle<a id=181></a>
+##### Section 1 : Compétence matérielle<a id=182></a>
 
-##### Sous-section 1 : Compétence civile du  tribunal d'instance<a id=182></a>
+##### Sous-section 1 : Compétence civile du  tribunal d'instance<a id=183></a>
 
-##### Paragraphe 1 : Compétence à charge d'appel<a id=183></a>
+##### Paragraphe 1 : Compétence à charge d'appel<a id=184></a>
 
 ###### Article R221-3
 
@@ -12603,7 +12635,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-48 (VT)
 
 
-##### Paragraphe 2 : Compétence en dernier ressort<a id=184></a>
+##### Paragraphe 2 : Compétence en dernier ressort<a id=185></a>
 
 ###### Article R221-23
 
@@ -12943,7 +12975,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-##### Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande<a id=185></a>
+##### Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande<a id=186></a>
 
 ###### Article R221-37
 
@@ -13034,7 +13066,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-51-1 (VT)
 
 
-##### Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense<a id=186></a>
+##### Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense<a id=187></a>
 
 ###### Article R221-40
 
@@ -13055,7 +13087,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-22 (Ab)
 
 
-##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=187></a>
+##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=188></a>
 
 ###### Article R221-41
 
@@ -13171,7 +13203,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R323-2 (Ab)
 
 
-##### Section 2 : Compétence territoriale<a id=188></a>
+##### Section 2 : Compétence territoriale<a id=189></a>
 
 ###### Article R221-46
 
@@ -13408,9 +13440,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-30-1 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=189></a>
+#### Chapitre II : Organisation et fonctionnement<a id=190></a>
 
-##### Section 1 : Le service juridictionnel<a id=190></a>
+##### Section 1 : Le service juridictionnel<a id=191></a>
 
 ###### Article R222-1
 
@@ -13528,7 +13560,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*323-3 (Ab)
 
 
-##### Section 3 : Le greffe<a id=191></a>
+##### Section 3 : Le greffe<a id=192></a>
 
 ###### Article D222-7
 
@@ -13646,7 +13678,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-3 ecqc TI (Ab)
 
 
-##### Section 4 : Les assemblées générales<a id=192></a>
+##### Section 4 : Les assemblées générales<a id=193></a>
 
 ###### Article R222-10
 
@@ -13684,7 +13716,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc principe (Ab)
 
 
-##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=193></a>
+##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=194></a>
 
 ###### Article R222-11
 
@@ -13955,7 +13987,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-8 (Ab)
 
 
-##### Sous-section 2 : L'assemblée des magistrats du siège<a id=194></a>
+##### Sous-section 2 : L'assemblée des magistrats du siège<a id=195></a>
 
 ###### Article R222-22
 
@@ -14008,7 +14040,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-4 al 2  (Ab)
 
 
-##### Sous-section 3 : L'assemblée des magistrats du siège et du parquet<a id=195></a>
+##### Sous-section 3 : L'assemblée des magistrats du siège et du parquet<a id=196></a>
 
 ###### Article R222-24
 
@@ -14127,7 +14159,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-3 al 3 (Ab)
 
 
-##### Sous-section 4 : L'assemblée des fonctionnaires du greffe<a id=196></a>
+##### Sous-section 4 : L'assemblée des fonctionnaires du greffe<a id=197></a>
 
 ###### Article R222-28
 
@@ -14206,7 +14238,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R222-31 (VT)
 
 
-##### Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires<a id=197></a>
+##### Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires<a id=198></a>
 
 ###### Article R222-30
 
@@ -14269,7 +14301,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-29 (V)
 
 
-##### Sous-section 6 : La commission permanente<a id=198></a>
+##### Sous-section 6 : La commission permanente<a id=199></a>
 
 ###### Article R222-32
 
@@ -14382,7 +14414,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc r 761-45 (Ab)
 
 
-##### Sous-section 7 : La commission restreinte<a id=199></a>
+##### Sous-section 7 : La commission restreinte<a id=200></a>
 
 ###### Article R222-36
 
@@ -14469,9 +14501,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc r761-50 (Ab)
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle<a id=200></a>
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle<a id=201></a>
 
-##### Section 1 : Institution et compétence<a id=201></a>
+##### Section 1 : Institution et compétence<a id=202></a>
 
 ###### Article D223-2
 
@@ -14527,9 +14559,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L223-1
 
 
-##### Section 2 : Organisation et fonctionnement<a id=202></a>
+##### Section 2 : Organisation et fonctionnement<a id=203></a>
 
-##### Sous-Section 1 : Le livre foncier<a id=203></a>
+##### Sous-Section 1 : Le livre foncier<a id=204></a>
 
 ###### Article D223-3
 
@@ -14699,7 +14731,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-8 ecqc plusieurs livres (Ab)
 
 
-##### Sous-Section 2 : Le greffe<a id=204></a>
+##### Sous-Section 2 : Le greffe<a id=205></a>
 
 ###### Article R223-10
 
@@ -14806,7 +14838,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*915-4 (Ab)
 
 
-#### Chapitre IV : Dispositions particulières aux départements d'outre-mer<a id=205></a>
+#### Chapitre IV : Dispositions particulières aux départements d'outre-mer<a id=206></a>
 
 ###### Article R224-1
 
@@ -14829,9 +14861,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-5 al 2 (Ab)
 
 
-### TITRE III : LA JURIDICTION DE PROXIMITE<a id=206></a>
+### TITRE III : LA JURIDICTION DE PROXIMITE<a id=207></a>
 
-#### Chapitre Ier : Institution et compétence<a id=207></a>
+#### Chapitre Ier : Institution et compétence<a id=208></a>
 
 ###### Article D231-1
 
@@ -14893,9 +14925,9 @@ _Abrogé par_:
   - Décret n°2017-683 du 28 avril 2017 - art. 1
 
 
-##### Section 1 : Compétence matérielle<a id=208></a>
+##### Section 1 : Compétence matérielle<a id=209></a>
 
-##### Sous-Section 1 : Compétence civile<a id=209></a>
+##### Sous-Section 1 : Compétence civile<a id=210></a>
 
 ###### Article R231-3
 
@@ -14975,7 +15007,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-2 (Ab)
 
 
-##### Section 2 : Compétence territoriale<a id=210></a>
+##### Section 2 : Compétence territoriale<a id=211></a>
 
 ###### Article R231-6
 
@@ -14997,7 +15029,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-3 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=211></a>
+#### Chapitre II : Organisation et fonctionnement<a id=212></a>
 
 ###### Article R232-1
 
@@ -15039,7 +15071,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-6 (Ab)
 
 
-##### Section 1 : Le service juridictionnel<a id=212></a>
+##### Section 1 : Le service juridictionnel<a id=213></a>
 
 ###### Article R232-3
 
@@ -15074,7 +15106,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L121-3
 
 
-##### Section 3 : Le greffe<a id=213></a>
+##### Section 3 : Le greffe<a id=214></a>
 
 ###### Article R232-4
 
@@ -15095,7 +15127,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*811-7 (Ab)
 
 
-##### Section 4 : Les assemblées générales<a id=214></a>
+##### Section 4 : Les assemblées générales<a id=215></a>
 
 ###### Article R232-5
 
@@ -15122,7 +15154,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 (Ab)
 
 
-##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=215></a>
+##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=216></a>
 
 ###### Article R232-6
 
@@ -15144,7 +15176,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-11 al 2 (Ab)
 
 
-##### Sous-Section 2 : L'assemblée des juges de proximité<a id=216></a>
+##### Sous-Section 2 : L'assemblée des juges de proximité<a id=217></a>
 
 ###### Article R232-7
 
@@ -15188,7 +15220,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-10 phrase 3 (Ab)
 
 
-##### Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet<a id=217></a>
+##### Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet<a id=218></a>
 
 ###### Article R232-9
 
@@ -15247,11 +15279,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 al 2 à 6 (Ab)
 
 
-### TITRE V : LES JURIDICTIONS DES MINEURS<a id=218></a>
+### TITRE V : LES JURIDICTIONS DES MINEURS<a id=219></a>
 
-#### Chapitre Ier : Le tribunal pour enfants<a id=219></a>
+#### Chapitre Ier : Le tribunal pour enfants<a id=220></a>
 
-##### Section 1 : Institution et compétence<a id=220></a>
+##### Section 1 : Institution et compétence<a id=221></a>
 
 ###### Article D251-1
 
@@ -15273,7 +15305,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Annexe Tableau XIV (VD)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=221></a>
+##### Section 2 : Organisation et fonctionnement<a id=222></a>
 
 ###### Article D251-2
 
@@ -15579,9 +15611,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*522-10 (Ab)
 
 
-#### Chapitre II : Le juge des enfants<a id=222></a>
+#### Chapitre II : Le juge des enfants<a id=223></a>
 
-##### Section 1 : Institution et compétence<a id=223></a>
+##### Section 1 : Institution et compétence<a id=224></a>
 
 ###### Article R252-1
 
@@ -15611,7 +15643,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-1 (Ab)
 
 
-#### Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants<a id=224></a>
+#### Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants<a id=225></a>
 
 ###### Article R253-1
 
@@ -15633,13 +15665,13 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L871-2 (Ab)
 
 
-## LIVRE III : JURIDICTIONS DU SECOND DEGRE<a id=225></a>
+## LIVRE III : JURIDICTIONS DU SECOND DEGRE<a id=226></a>
 
-### TITRE IER : LA COUR D'APPEL<a id=226></a>
+### TITRE IER : LA COUR D'APPEL<a id=227></a>
 
-#### Chapitre Ier : Compétence<a id=227></a>
+#### Chapitre Ier : Compétence<a id=228></a>
 
-##### Section 1 : Dispositions générales<a id=228></a>
+##### Section 1 : Dispositions générales<a id=229></a>
 
 ###### Article D311-1
 
@@ -15714,7 +15746,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*212-2 (Ab)
 
 
-##### Section 3 : Dispositions relatives au premier président<a id=229></a>
+##### Section 3 : Dispositions relatives au premier président<a id=230></a>
 
 ###### Article R311-4
 
@@ -15747,7 +15779,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=230></a>
+##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=231></a>
 
 ###### Article R311-6
 
@@ -15767,22 +15799,23 @@ _Anciens textes_:
 
 ###### Article R311-7
 
-La chambre spéciale des mineurs connaît de l'appel des décisions du juge des enfants et du tribunal pour enfants.
+La chambre spéciale des mineurs connaît de l'appel des décisions du juge des enfants, du tribunal pour enfants et du tribunal
+correctionnel pour mineurs.
 
 Elle statue dans les mêmes conditions qu'en première instance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2011-2022 du 28 décembre 2011 - art. 2
 
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L223-1 (Ab)
 
 
-##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=231></a>
+##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=232></a>
 
 ###### Article D311-8
 
@@ -15868,11 +15901,11 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=232></a>
+#### Chapitre II : Organisation et fonctionnement<a id=233></a>
 
-##### Section 1 : Les formations de la cour d'appel<a id=233></a>
+##### Section 1 : Les formations de la cour d'appel<a id=234></a>
 
-##### Sous-Section 1 : Dispositions générales<a id=234></a>
+##### Sous-Section 1 : Dispositions générales<a id=235></a>
 
 ###### Article R312-1
 
@@ -16066,7 +16099,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-4 (V)
 
 
-##### Sous-Section 2 : Dispositions particulières à certaines formations<a id=235></a>
+##### Sous-Section 2 : Dispositions particulières à certaines formations<a id=236></a>
 
 ###### Article R312-9
 
@@ -16227,7 +16260,7 @@ _Modifié par_:
   - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 
-##### Section 2 : Le parquet général<a id=236></a>
+##### Section 2 : Le parquet général<a id=237></a>
 
 ###### Article R312-14
 
@@ -16342,7 +16375,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-26 (Ab)
 
 
-##### Section 3 : Le greffe<a id=237></a>
+##### Section 3 : Le greffe<a id=238></a>
 
 ###### Article R312-19
 
@@ -16365,163 +16398,6 @@ _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-1 ecqc CA (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-3 ecqc CA (Ab)
-
-
-##### Section 4 : La chambre détachée de Cayenne<a id=238></a>
-
-###### Article D312-20
-
-Une chambre détachée de la cour d'appel de Fort-de-France siège à Cayenne pour connaître en appel des décisions rendues par
-les juridictions du premier degré du département de la Guyane.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 1 (Ab)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-24 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-33 (V)
-
-
-###### Article R312-21
-
-La chambre détachée exerce les compétences dévolues à la chambre de l'instruction ainsi qu'aux autres chambres spécialisées
-de la cour d'appel.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 2 (Ab)
-
-
-###### Article R312-22
-
-La chambre détachée est composée de magistrats du siège de la cour d'appel de Fort-de-France.
-
-Le président de la chambre détachée exerce de plein droit les fonctions de président de la chambre de l'instruction.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéas 3 à 5 (Ab)
-
-
-###### Article R312-23
-
-En cas d'absence ou d'empêchement, les magistrats appelés à composer la chambre détachée sont suppléés, pour le service des
-audiences, par des magistrats du siège de la cour d'appel de Fort-de-France désignés à cet effet par ordonnance du premier
-président de la cour d'appel, après avis de l'assemblée générale des magistrats du siège de la cour.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 6 (Ab)
-
-
-###### Article R312-24
-
-Le procureur général peut déléguer ses fonctions auprès de la chambre détachée soit à un magistrat du parquet général près la
-cour d'appel de Fort-de-France, soit à un magistrat du parquet près le tribunal de grande instance de Cayenne.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 7 (Ab)
-
-
-###### Article R312-25
-
-Le pouvoir d'inspection des juridictions du premier degré comprises dans le ressort de la chambre détachée peut être délégué
-par le premier président de la cour d'appel de Fort-de-France au président de la chambre détachée ou à un magistrat du siège
-de cette cour et par le procureur général près cette cour au procureur de la République près le tribunal de grande instance
-de Cayenne ou à un magistrat du parquet près cette cour.
-
-Ils peuvent déléguer, dans les mêmes conditions, leurs pouvoirs de gestion administrative de la chambre détachée et des
-juridictions du premier degré comprises dans le ressort de celle-ci.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L922-1, alinéa 8 (Ab)
-
-
-###### Article R312-26
-
-La cour d'appel de Fort-de-France est pourvue d'un greffe à Cayenne.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*922-3 (Ab)
-
-_Cité par_:
-
-  - Code de l'organisation judiciaire - art. R552-24 (VD)
 
 
 ##### Section 5 : Les assemblées générales<a id=239></a>
@@ -20744,21 +20620,14 @@ _Anciens textes_:
 
 Les dispositions du chapitre II du titre Ier du livre III du présent code (partie Réglementaire), relatives à l'organisation
 et au fonctionnement de la cour d'appel, sont applicables en Polynésie française, à l'exception des articles R. 312-4, R.
-312-12, R. 312-17, D. 312-20 à R. 312-26.
+312-12, R. 312-17
+ .
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D312-20 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-26 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-4 (V)
+  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
 
 _Anciens textes_:
 
@@ -20768,6 +20637,13 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-4 ecqc PF  (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-7 ecqc PF ecqc r226-1 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-27, ecqc PF ecqc CA (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. R312-12
+  - Code de l'organisation judiciaire - art. R312-17
+  - Code de l'organisation judiciaire - art. R312-26
+  - Code de l'organisation judiciaire - art. R312-4
 
 
 ###### Article R552-25
@@ -21784,20 +21660,13 @@ _Anciens textes_:
 
 Les dispositions du chapitre II du titre Ier du livre III du présent code (partie Réglementaire), relatives à l'organisation
 et au fonctionnement de la cour d'appel, sont applicables en Nouvelle-Calédonie, à l'exception des articles R. 312-4, R.
-312-12, R. 312-17, D. 312-20 à R. 312-26.
+312-12, R. 312-17            .
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. D312-20 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-17 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-4 (V)
+  - Décret n°2011-1877 du 14 décembre 2011 - art. 2
 
 _Anciens textes_:
 
@@ -21807,6 +21676,12 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-4 ecqc NC (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-7 ecqc NC ecqc r226-1 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-27, ecqc NC ecqc CA (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. R312-12
+  - Code de l'organisation judiciaire - art. R312-17
+  - Code de l'organisation judiciaire - art. R312-4
 
 
 ###### Article R562-34
@@ -24015,6 +23890,27 @@ Hérouville-Saint-Clair.
 </td>
     </tr>
     <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne
+
+Guyane
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Saint-Laurent-du-Maroni.
+
+</td>
+    </tr>
+    <tr>
       <td align="center" colspan="2">
 
 Cour d'appel de Chambéry
@@ -24255,26 +24151,9 @@ Calais.
 
 Cour d'appel de Fort-de-France
 
-Guyane
+Martinique
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cayenne
-
-</td>
-      <td align="center">
-
-Saint-Laurent-du-Maroni.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Martinique</td>
     </tr>
     <tr>
       <td align="center">
@@ -25080,7 +24959,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 21 juin 2011 - art.
+  - Décret n°2011-1877 du 14 décembre 2011 - art.
 
 _Cité par_:
 
@@ -26285,10 +26164,10 @@ Roë. (3)]
 [Laval 
 
 </td>
-      <td valign="top">Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest,
-Chailland, Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est,
-Laval-Nord-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-
-du-Maine, Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] </td>
+      <td>Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland,
+Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-
+Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine,
+Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] </td>
     </tr>
     <tr>
       <td valign="top" width="109">
@@ -27348,12 +27227,8 @@ canton et Vierzon 2e canton. (12 et 3)]
     </tr>
     <tr>
       <td>Saint-Amand-MontrondCantons</td>
-      <td>
-
-de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières,
-Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier. 
-
-</td>
+      <td> de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet,
+Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier. </td>
     </tr>
     <tr>
       <td valign="top" width="109">
@@ -27570,7 +27445,7 @@ Cantons de Balleroy, Bayeux, Caumont-l'Éventé, Isigny-sur-Mer, Ryes et Trévi�
 [Caen 
 
 </td>
-      <td>
+      <td valign="top">
 
 Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton,
 Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Ilérouville Caen 6e canton, Caumont-
@@ -27588,7 +27463,7 @@ sur-Mer, Mortcaux Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, 
       <td valign="top" width="333">
 
 Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e
-canton, Caen 9° canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
+canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
 Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)] 
 
 </td>
@@ -27921,6 +27796,40 @@ Tinchebray. (3)]
 
 Cantons d'Athis-de-l'Ome, Domfront, Flers-Nord, Fiers-Sud, Juvigny sous-Andaine, La Ferté-Macé, Messei, Passais et
 Tinchebray. (4)] 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+Cour d'appel de Cayenne 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Cayenne 
+
+</td>
+      <td align="left" valign="top">
+
+Cayenne 
+
+</td>
+      <td align="left" valign="top">
+
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, 
+
+Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, 
+
+Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 
+
+6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, 
+
+Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, 
+
+Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
 
 </td>
     </tr>
@@ -29116,40 +29025,7 @@ Cantons d'Aire-sur-la-Lys, Ardres, Arques, Audruicq, Fauquembergues, Lumbres, Sa
     <tr>
       <td colspan="3" valign="top" width="596">
 
-Cour d'appel de Fort-de-France 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" valign="top" width="596">
-
-Guyane 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-
-Cayenne 
-
-</td>
-      <td valign="top" width="109">
-
-Cayenne 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e
-canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury,
-Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" valign="top" width="596">
-
-Martinique 
+Cour d'appel de Fort-de-France (Martinique) 
 
 </td>
     </tr>
@@ -29161,16 +29037,19 @@ Fort-de-France
 </td>
       <td valign="top" width="109">
 
-[Fort-de-France 
+Fort-de-France 
 
 </td>
       <td valign="top" width="333">
 
-Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Fort-de-France le canton, Fort-de-France 2e canton, Fort-de-France 3e
-canton, Fort de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton, Fort-de-
-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, La Trinité, L'Ajoupa-Bouillon, Le Carbet,
-Le Lorrain, Le Marigot, Le Morne Rouge, Le Prêcheur, Macouba, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud,
-Saint-Pierre, Schoelcher 1er canton et Schoelcher 2e canton. (3)] 
+Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Ducos, Fort-de-France 1er canton, Fort-de-France 2e canton, Fort-de-
+France 3e canton, Fort-de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton,
+Fort-de-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, L'Ajoupa-Bouillon, La Trinité, Le
+Carbet, Le Diamant, Le François 1er canton Nord, Le François 2e canton Sud, Le Lamentin 1er canton Sud-Bourg, Le Lamentin 2e
+canton Nord, Le Lamentin 3e canton Est, Le Lorrain, Le Marigot, Le Marin, Le Morne-Rouge, Le Prêcheur, Le Robert 1er canton
+Sud, Le Robert 2e canton Nord, Le Vauclin, Les Anses-d'Arlet, Les Trois-Îlets, Macouba, Rivière-Pilote, Rivière-Salée,
+Sainte-Anne, Sainte-Luce, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud, Saint-Esprit, Saint-Joseph, Saint-Pierre,
+Schœlcher 1er canton et Schœlcher 2e canton. 
 
 </td>
     </tr>
@@ -31382,7 +31261,7 @@ Salbris et Selles-sur-Cher. (3)]
 </td>
       <td valign="top" width="333">
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t
 canton et Vendôme 2e canton. (3)] 
 
 </td>
@@ -32998,23 +32877,11 @@ Aube
 </td>
     </tr>
     <tr>
-      <td rowspan="6" valign="top" width="154">
+      <td rowspan="5" valign="top" width="154">
 
 Troyes 
 
 </td>
-      <td valign="top" width="109">
-
-[Bar-sur-Aube 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Bar-sur-Aube, Brienne-le-Château, Soulaines-Dhuys et Vendeuvre-sur-Barse. (3)] 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="109">
 
 [Bar-sur-Seine 
@@ -34486,9 +34353,9 @@ Mamoudzou
 </td>
       <td align="center" valign="top">
 
-Cantons de Acoua, Bandraboua, Bandrele, Bouéni, 
+Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi, 
 
-Chiconi, Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou, 
+Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou, 
 
 Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro, 
 
@@ -34798,9 +34665,9 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières, 
 
-Monclar-de-Quercy, Montauban, 1er canton, Montauban 
+Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e 
 
-2e canton, Montauban 3ème canton, Montauban 4e canton, 
+canton, Montauban 3ème canton, Montauban 4e canton, 
 
 Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, 
 
@@ -35478,7 +35345,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-534 du 17 mai 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cite_:
 
@@ -36590,6 +36457,25 @@ Ressort des tribunaux d'instance d'Alençon, Argentan et Flers. (4)]
 </td>
     </tr>
     <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne (Guyane)
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Ressort du tribunal d'instance de Cayenne.
+
+</td>
+    </tr>
+    <tr>
       <td colspan="2" width="614">
 
 Cour d'appel de Chambéry 
@@ -37116,57 +37002,19 @@ Ressort des tribunaux d'instance de Boulogne-sur-Mer, Calais, Montreuil et Saint
     <tr>
       <td colspan="2" width="614">
 
-Cour d'appel de Fort-de-France 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="614">
-
-Guyane 
+Cour d'appel de Fort-de-France (Martinique)
 
 </td>
     </tr>
     <tr>
       <td width="300">
 
-Cayenne 
+Fort-de-France 
 
 </td>
       <td width="314">
 
-Ressort du tribunal d'instance de Cayenne. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="614">
-
-Martinique 
-
-</td>
-    </tr>
-    <tr>
-      <td width="300">
-
-[Fort-de-France 
-
-</td>
-      <td width="314">
-
-Ressort des tribunaux d'instance de Fort-de-France et Le Lamentin. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td width="300">
-
-[Fort-de-France 
-
-</td>
-      <td width="314">
-
-Ressort du tribunal d'instance de Fort-de-France. (4)] 
+Ressort du tribunal d'instance de Fort-de-France.
 
 </td>
     </tr>
@@ -39751,23 +39599,21 @@ Cour d'appel de Saint-Denis
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="614">
+      <td colspan="2">
 
-Mayotte 
+Mayotte
 
 </td>
     </tr>
     <tr>
-      <td width="300">Mamoudzou 
-
-</td>
+      <td width="300">Mamoudzou </td>
       <td width="314">
 
 Ressort du tribunal d'instance de Mamoudzou 
 
 </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td colspan="2">
 
 Réunion
@@ -40334,7 +40180,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 
 ###### Article Annexe Tableau IX-1
@@ -40912,15 +40758,15 @@ Cour d'appel de Paris
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 Paris
 
 </td>
-      <td>
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis
-et Versailles, et du tribunal supérieur d'appel de Saint-Pierre. 
+et Versailles, et du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
     </tr>
@@ -40969,7 +40815,8 @@ Ressort des cours d'appel de Montpellier, Pau et Toulouse.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 _Cité par_:
 
@@ -40988,7 +40835,7 @@ en matière de propriété littéraire et artistique, de dessins et modèles, de
 
 (annexe de l'article D. 211-6-1)
 
-<table align="center" border="1" cellpadding="0" cellspacing="3" width="720">
+<table align="center" border="1" cellpadding="0" cellspacing="3">
   <tbody>
     <tr>
       <td>
@@ -41010,7 +40857,7 @@ Bordeaux.
 </td>
       <td>
 
-Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
 </td>
     </tr>
@@ -41022,7 +40869,7 @@ Lille.
 </td>
       <td>
 
-Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
+Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 </td>
     </tr>
@@ -41034,7 +40881,7 @@ Lyon.
 </td>
       <td>
 
-Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
+Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 
 </td>
     </tr>
@@ -41046,7 +40893,7 @@ Marseille.
 </td>
       <td>
 
-Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
 </td>
     </tr>
@@ -41058,7 +40905,7 @@ Nanterre.
 </td>
       <td>
 
-Ressort de la cour d'appel de Versailles. 
+Ressort de la cour d'appel de Versailles.
 
 </td>
     </tr>
@@ -41070,7 +40917,7 @@ Nancy.
 </td>
       <td>
 
-Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
+Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy.
 
 </td>
     </tr>
@@ -41083,7 +40930,7 @@ Paris.
       <td>
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
-Pierre. 
+Pierre.
 
 </td>
     </tr>
@@ -41095,7 +40942,7 @@ Rennes.
 </td>
       <td>
 
-Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
+Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 </td>
     </tr>
@@ -41107,7 +40954,7 @@ Strasbourg.
 </td>
       <td>
 
-Ressort de la cour d'appel de Colmar. 
+Ressort de la cour d'appel de Colmar.
 
 </td>
     </tr>
@@ -41117,11 +40964,7 @@ Ressort de la cour d'appel de Colmar.
 Fort-de-France.
 
 </td>
-      <td>
-
-Ressort des cours d'appel de Basse-Terre et Fort-de-France.
-
-</td>
+      <td>Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.</td>
     </tr>
   </tbody>
 </table>
@@ -41136,7 +40979,8 @@ vigueur dudit décret.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 _Cité par_:
 
@@ -41147,719 +40991,734 @@ _Cité par_:
 
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
 engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement illicite
-international d'enfants (annexe de l'article D. 211-9) 
+international d'enfants (annexe de l'article D. 211-9)
 
-<table align="center" border="1" cellpadding="0" width="720">
-  <tbody>
-    <tr>
-      <td>
+<table align="center" border="1" cellpadding="0">
+    <tbody>
+      <tr>
+        <td>
 
-**
-        **
+SIÈGE
 
-**
+</td>
+        <td>
+
+RESSORT
+
+</td>
+      </tr>
+      <tr>
+        <td colspan="2">
 
-SIÈGE 
+Cour d'appel d'Agen
 
-**</td>
-      <td>
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Agen
+
+</td>
+        <td>
 
-RESSORT 
+Ressort de la cour d'appel d'Agen.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Agen 
+Cour d'appel d'Aix-en-Provence
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Agen 
+Marseille
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Agen. 
+Ressort de la cour d'appel d'Aix-en-Provence.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Aix-en-Provence 
+Cour d'appel d'Amiens
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Marseille 
+Amiens
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Aix-en-Provence. 
+Ressort de la cour d'appel d'Amiens.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Amiens 
+Cour d'appel d'Angers
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Amiens 
+Angers
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Amiens. 
+Ressort de la cour d'appel d'Angers.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Angers 
+Cour d'appel de Basse-Terre
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Angers 
+Basse-Terre
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Angers. 
+Ressort de la cour d'appel de Basse-Terre.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Basse-Terre 
+Cour d'appel de Bastia
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Basse-Terre 
+Bastia
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Basse-Terre. 
+Ressort de la cour d'appel de Bastia.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Bastia 
+Cour d'appel de Besançon
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Bastia 
+Besançon
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Bastia. 
+Ressort de la cour d'appel de Besançon.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Besançon 
+Cour d'appel de Bordeaux
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Besançon 
+Bordeaux
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Besançon. 
+Ressort de la cour d'appel de Bordeaux.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Bordeaux 
+Cour d'appel de Bourges
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Bordeaux 
+Bourges
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Bordeaux. 
+Ressort de la cour d'appel de Bourges.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Bourges 
+Cour d'appel de Caen
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Bourges 
+Caen
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Bourges. 
+Ressort de la cour d'appel de Caen.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Caen 
+Cour d'appel de Cayenne
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Caen 
+Cayenne
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Caen. 
+Ressort de la cour d'appel de Cayenne.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Chambéry 
+Cour d'appel de Chambéry
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Chambéry 
+Chambéry
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Chambéry. 
+Ressort de la cour d'appel de Chambéry.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Colmar 
+Cour d'appel de Colmar
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Strasbourg 
+Strasbourg
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Colmar. 
+Ressort de la cour d'appel de Colmar.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Dijon 
+Cour d'appel de Dijon
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Dijon 
+Dijon
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Dijon. 
+Ressort de la cour d'appel de Dijon.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Douai 
+Cour d'appel de Douai
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Lille 
+Lille
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Douai. 
+Ressort de la cour d'appel de Douai.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Fort-de-France
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Fort-de-France 
+Fort-de-France
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Fort-de-France. 
+Ressort de la cour d'appel de Fort-de-France.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Grenoble 
+Cour d'appel de Grenoble
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Grenoble 
+Grenoble
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Grenoble. 
+Ressort de la cour d'appel de Grenoble.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Limoges 
+Cour d'appel de Limoges
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Limoges 
+Limoges
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Limoges. 
+Ressort de la cour d'appel de Limoges.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Lyon 
+Cour d'appel de Lyon
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Lyon 
+Lyon
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Lyon. 
+Ressort de la cour d'appel de Lyon.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Metz 
+Cour d'appel de Metz
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Metz 
+Metz
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Metz. 
+Ressort de la cour d'appel de Metz.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Montpellier 
+Cour d'appel de Montpellier
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Montpellier 
+Montpellier
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Montpellier. 
+Ressort de la cour d'appel de Montpellier.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Nancy 
+Cour d'appel de Nancy
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nancy 
+Nancy
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Nancy. 
+Ressort de la cour d'appel de Nancy.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Nîmes 
+Cour d'appel de Nîmes
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nîmes 
+Nîmes
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Nîmes. 
+Ressort de la cour d'appel de Nîmes.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Nouméa 
+Cour d'appel de Nouméa
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nouméa 
+Nouméa
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Nouméa. 
+Ressort de la cour d'appel de Nouméa.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel d'Orléans 
+Cour d'appel d'Orléans
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Orléans 
+Orléans
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel d'Orléans. 
+Ressort de la cour d'appel d'Orléans.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Papeete 
+Cour d'appel de Papeete
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Papeete 
+Papeete
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Papeete. 
+Ressort de la cour d'appel de Papeete.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Paris 
+Cour d'appel de Paris
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Paris 
+Paris
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Paris. 
+Ressort de la cour d'appel de Paris.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Pau 
+Cour d'appel de Pau
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Pau 
+Pau
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Pau. 
+Ressort de la cour d'appel de Pau.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Poitiers 
+Cour d'appel de Poitiers
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Poitiers 
+Poitiers
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Poitiers. 
+Ressort de la cour d'appel de Poitiers.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Reims 
+Cour d'appel de Reims
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Reims 
+Reims
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Reims. 
+Ressort de la cour d'appel de Reims.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Rennes 
+Cour d'appel de Rennes
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Rennes 
+Rennes
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Rennes. 
+Ressort de la cour d'appel de Rennes.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Riom 
+Cour d'appel de Riom
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Clermont-Ferrand 
+Clermont-Ferrand
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Riom. 
+Ressort de la cour d'appel de Riom.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Rouen 
+Cour d'appel de Rouen
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Rouen 
+Rouen
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Rouen. 
+Ressort de la cour d'appel de Rouen.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Saint-Denis 
+Cour d'appel de Saint-Denis
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Saint-Denis 
+Saint-Denis
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Saint-Denis. 
+Ressort de la cour d'appel de Saint-Denis.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Toulouse 
+Cour d'appel de Toulouse
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Toulouse 
+Toulouse
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Toulouse. 
+Ressort de la cour d'appel de Toulouse.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Cour d'appel de Versailles 
+Cour d'appel de Versailles
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Nanterre 
+Nanterre
 
 </td>
-      <td>
+        <td>
 
-Ressort de la cour d'appel de Versailles. 
+Ressort de la cour d'appel de Versailles.
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td colspan="2">
 
-Tribunal supérieur d'appel de Saint-Pierre 
+Tribunal supérieur d'appel de Saint-Pierre
 
 </td>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
-Saint-Pierre 
+Saint-Pierre
 
 </td>
-      <td>
+        <td>
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 _Cite_:
 
@@ -41874,16 +41733,12 @@ NATIONALITÉ FRANÇAISE OU ÉTRANGÈRE DES PERSONNES PHYSIQUES (ANNEXE DE L'ARTI
 <table align="center" border="1" width="720">
   <tbody>
     <tr>
-      <td>
+      <td align="center">
 
-SIÈGE
-
-</td>
-      <td>
-
-RESSORT
+SIÈGE 
 
 </td>
+      <td align="center">RESSORT </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -41943,6 +41798,25 @@ Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 </td>
     </tr>
     <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+Ressort de la cour d'appel de Cayenne.
+
+</td>
+    </tr>
+    <tr>
       <td align="center" colspan="2">
 
 Cour d'appel de Fort-de-France 
@@ -41957,20 +41831,7 @@ Fort-de-France.
 </td>
       <td align="center">
 
-Ressort des cours d'appel de Basse-Terre et de Fort-de-France, à l'exception du ressort du tribunal de grande instance de
-Cayenne.
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cayenne.
-
-</td>
-      <td align="center">
-
-Ressort du tribunal de grande instance de Cayenne.
+Ressort des cours d'appel de Basse-Terre et de Fort-de-France.
 
 </td>
     </tr>
@@ -42175,275 +42036,289 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 
 ###### Article Annexe Tableau VIII-I
 
 Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des actions
 aux fins d'adoption ainsi que des actions aux fins de reconnaissance des jugements d'adoption rendus à l'étranger, lorsque
-l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France 
+l'enfant résidant habituellement à l'étranger a été, est ou doit être déplacé vers la France
 
-(annexe de l'article D. 211-10-1) 
+(annexe de l'article D. 211-10-1)
 
-<table align="center" border="1" width="720">
+<table align="center" border="1">
   <tbody>
+    <tr>
+      <td align="center">
+
+SIÈGE
+
+</td>
+      <td align="center" colspan="6">
+
+RESSORT
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Agen</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Agen
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Agen.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Aix-en-Provence</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Marseille
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Aix-en-Provence.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Amiens
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Amiens
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Amiens.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel d'Angers
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Angers
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel d'Angers.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Basse-Terre
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Basse-Terre
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Basse-Terre.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Bastia</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bastia
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bastia.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Besançon
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Besançon
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Besançon.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Bordeaux
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bordeaux
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bordeaux.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Bourges
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Bourges
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Bourges.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Caen
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Caen
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Caen.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne
+
+</td>
+    </tr>
     <tr>
       <td>
 
-SIÈGE 
+Cayenne
 
 </td>
-      <td colspan="6">
+      <td>
 
-RESSORT 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d'Agen 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Agen 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel d'Agen. 
+Ressort de la cour d'appel de Cayenne.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel d'Aix-en-Provence 
+Cour d'appel de Chambéry
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Marseille 
+Chambéry
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Aix-en-Provence. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d'Amiens 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Amiens 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel d'Amiens. 
+Ressort de la cour d'appel de Chambéry.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel d'Angers 
+Cour d'appel de Colmar
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Angers 
+Strasbourg
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel d'Angers. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Basse-Terre 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Basse-Terre 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Basse-Terre. 
+Ressort de la cour d'appel de Colmar.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Bastia 
+Cour d'appel de Dijon
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Bastia 
+Dijon
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Bastia. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Besançon 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Besançon 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Besançon. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Bordeaux 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Bordeaux 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Bordeaux. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Bourges 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Bourges 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Bourges. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Caen 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Caen 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Caen. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Chambéry 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Chambéry 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Chambéry. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Colmar 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Strasbourg 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Colmar. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel de Dijon 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Dijon 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel de Dijon. 
+Ressort de la cour d'appel de Dijon.
 
 </td>
     </tr>
@@ -42457,12 +42332,12 @@ Cour d'appel de Douai
     <tr>
       <td align="center">
 
-Lille 
+Lille
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Douai. 
+Ressort de la cour d'appel de Douai.
 
 </td>
     </tr>
@@ -42476,50 +42351,46 @@ Cour d'appel de Fort-de-France
     <tr>
       <td align="center">
 
-Fort-de-France 
+Fort-de-France
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Fort-de-France. 
+Ressort de la cour d'appel de Fort-de-France.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Grenoble
-
-</td>
+Cour d'appel de Grenoble</td>
     </tr>
     <tr>
       <td align="center">
 
-Grenoble 
+Grenoble
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Grenoble. 
+Ressort de la cour d'appel de Grenoble.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Limoges
-
-</td>
+Cour d'appel de Limoges</td>
     </tr>
     <tr>
       <td align="center">
 
-Limoges 
+Limoges
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Limoges. 
+Ressort de la cour d'appel de Limoges.
 
 </td>
     </tr>
@@ -42533,12 +42404,12 @@ Cour d'appel de Lyon
     <tr>
       <td align="center">
 
-Lyon 
+Lyon
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Lyon. 
+Ressort de la cour d'appel de Lyon.
 
 </td>
     </tr>
@@ -42552,12 +42423,12 @@ Cour d'appel de Metz
     <tr>
       <td align="center">
 
-Metz 
+Metz
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Metz. 
+Ressort de la cour d'appel de Metz.
 
 </td>
     </tr>
@@ -42571,12 +42442,12 @@ Cour d'appel de Montpellier
     <tr>
       <td align="center">
 
-Montpellier 
+Montpellier
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Montpellier. 
+Ressort de la cour d'appel de Montpellier.
 
 </td>
     </tr>
@@ -42590,12 +42461,12 @@ Cour d'appel de Nancy
     <tr>
       <td align="center">
 
-Nancy 
+Nancy
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nancy. 
+Ressort de la cour d'appel de Nancy.
 
 </td>
     </tr>
@@ -42609,69 +42480,63 @@ Cour d'appel de Nîmes
     <tr>
       <td align="center">
 
-Nîmes 
+Nîmes
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nîmes. 
+Ressort de la cour d'appel de Nîmes.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Nouméa
-
-</td>
+Cour d'appel de Nouméa</td>
     </tr>
     <tr>
       <td align="center">
 
-Nouméa 
+Nouméa
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Nouméa. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-
-Cour d'appel d'Orléans
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Orléans 
-
-</td>
-      <td align="center">
-
-Ressort de la cour d'appel d'Orléans. 
+Ressort de la cour d'appel de Nouméa.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Papeete
-
-</td>
+Cour d'appel d'Orléans</td>
     </tr>
     <tr>
       <td align="center">
 
-Papeete 
+Orléans
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Papeete. 
+Ressort de la cour d'appel d'Orléans.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+
+Cour d'appel de Papeete</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Papeete
+
+</td>
+      <td align="center">
+
+Ressort de la cour d'appel de Papeete.
 
 </td>
     </tr>
@@ -42685,12 +42550,12 @@ Cour d'appel de Paris
     <tr>
       <td align="center">
 
-Paris 
+Paris
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Paris. 
+Ressort de la cour d'appel de Paris.
 
 </td>
     </tr>
@@ -42704,12 +42569,12 @@ Cour d'appel de Pau
     <tr>
       <td align="center">
 
-Pau 
+Pau
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Pau. 
+Ressort de la cour d'appel de Pau.
 
 </td>
     </tr>
@@ -42723,12 +42588,12 @@ Cour d'appel de Poitiers
     <tr>
       <td align="center">
 
-Poitiers 
+Poitiers
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Poitiers. 
+Ressort de la cour d'appel de Poitiers.
 
 </td>
     </tr>
@@ -42742,12 +42607,12 @@ Cour d'appel de Reims
     <tr>
       <td align="center">
 
-Reims 
+Reims
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Reims. 
+Ressort de la cour d'appel de Reims.
 
 </td>
     </tr>
@@ -42761,50 +42626,46 @@ Cour d'appel de Rennes
     <tr>
       <td align="center">
 
-Nantes 
+Nantes
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Rennes. 
+Ressort de la cour d'appel de Rennes.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Riom
-
-</td>
+Cour d'appel de Riom</td>
     </tr>
     <tr>
       <td align="center">
 
-Clermont-Ferrand 
+Clermont-Ferrand
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Riom. 
+Ressort de la cour d'appel de Riom.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Rouen
-
-</td>
+Cour d'appel de Rouen</td>
     </tr>
     <tr>
       <td align="center">
 
-Rouen 
+Rouen
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Rouen. 
+Ressort de la cour d'appel de Rouen.
 
 </td>
     </tr>
@@ -42818,31 +42679,29 @@ Cour d'appel de Saint-Denis
     <tr>
       <td align="center">
 
-Saint-Denis 
+Saint-Denis
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Saint-Denis. 
+Ressort de la cour d'appel de Saint-Denis.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Toulouse
-
-</td>
+Cour d'appel de Toulouse</td>
     </tr>
     <tr>
       <td align="center">
 
-Toulouse 
+Toulouse
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Toulouse. 
+Ressort de la cour d'appel de Toulouse.
 
 </td>
     </tr>
@@ -42856,12 +42715,12 @@ Cour d'appel de Versailles
     <tr>
       <td align="center">
 
-Nanterre 
+Nanterre
 
 </td>
       <td align="center">
 
-Ressort de la cour d'appel de Versailles. 
+Ressort de la cour d'appel de Versailles.
 
 </td>
     </tr>
@@ -42875,7 +42734,7 @@ Tribunal supérieur d'appel de Saint-Pierre
     <tr>
       <td align="center">
 
-Saint-Pierre 
+Saint-Pierre
 
 </td>
       <td align="center">
@@ -42891,7 +42750,8 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 _Cité par_:
 
@@ -42912,142 +42772,142 @@ en matière de contrats de la commande publique (annexe de l'article D. 211-10-2
     <tr>
       <td>
 
-<font size="1">SIÈGE</font>
+SIÈGE 
 
 </td>
       <td>
 
-<font size="1">RESSORT</font>
+RESSORT
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Bordeaux 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Lille 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Lyon 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Marseille 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Nanterre 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort de la cour d'appel de Versailles. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Nancy 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Paris 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Bourges, Paris et Orléans. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Rennes 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Fort-de-France 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Saint-Denis 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort de la cour d'appel de Saint-Denis. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Saint-Pierre-et-Miquelon 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ressort du tribunal supérieur d'appel de Saint-Pierre. 
 
@@ -43060,7 +42920,8 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 _Cité par_:
 
@@ -43195,14 +43056,14 @@ Le Moule
 </td>
       <td width="349">
 
-Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton
+Cantons d'Anse Bertrand, La Désirade, Morne-à-l'Eau 1er canton 
 
 </td>
     </tr>
     <tr>
       <td colspan="3" width="718">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Cayenne 
 
 </td>
     </tr>
@@ -43261,7 +43122,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 
 ###### Article Annexe Tableau XII
@@ -43593,14 +43454,11 @@ RESSORT
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Agen 
 
 Gers 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43661,14 +43519,11 @@ Ressort du tribunal de grande instance d'Agen. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Aix-en-Provence 
 
 Alpes-de-Haute-Provence 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43799,14 +43654,11 @@ Ressort du tribunal de grande instance de Toulon.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Amiens 
 
 Aisne 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43915,14 +43767,11 @@ Ressort du tribunal de grande instance d'Amiens. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Angers 
 
 Maine-et-Loire 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -43983,14 +43832,11 @@ Ressort du tribunal de grande instance du Mans.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Basse-Terre 
 
 Guadeloupe 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -44019,14 +43865,11 @@ Ressort du tribunal de grande instance de Pointe-à-Pitre.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Bastia 
 
 Corse-du-Sud 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -44065,14 +43908,11 @@ Ressort du tribunal de grande instance de Bastia.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Besançon 
 
-Doubs 
-
-</td>
-      <td>
+Doubs
 
 </td>
     </tr>
@@ -44167,14 +44007,11 @@ Ressort du tribunal de grande instance de Belfort.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Bordeaux 
 
-Charente 
-
-</td>
-      <td>
+Charente
 
 </td>
     </tr>
@@ -44259,14 +44096,11 @@ Ressort du tribunal de grande instance de Libourne.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Bourges 
 
-Cher 
-
-</td>
-      <td>
+Cher
 
 </td>
     </tr>
@@ -44327,14 +44161,11 @@ Ressort du tribunal de grande instance de Nevers.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Caen 
 
-Calvados 
-
-</td>
-      <td>
+Calvados
 
 </td>
     </tr>
@@ -44407,14 +44238,30 @@ Ressort des tribunaux de grande instance d'Alençon et Argentan.
 </td>
     </tr>
     <tr>
+      <td colspan="2">
+
+Cour d'appel de Cayenne (Guyane)
+
+</td>
+    </tr>
+    <tr>
       <td>
 
-Cour d'appel de Chambéry 
-
-Haute-Savoie 
+Cayenne
 
 </td>
       <td>
+
+Ressort du tribunal de grande instance de Cayenne.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Cour d'appel de Chambéry 
+
+Haute-Savoie
 
 </td>
     </tr>
@@ -44477,14 +44324,11 @@ Ressort des tribunaux de grande instance d'Albertville et Chambéry.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Colmar 
 
-Bas-Rhin 
-
-</td>
-      <td>
+Bas-Rhin
 
 </td>
     </tr>
@@ -44547,14 +44391,11 @@ Ressort du tribunal de grande instance de Mulhouse.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Dijon 
 
-Côte-d'Or 
-
-</td>
-      <td>
+Côte-d'Or
 
 </td>
     </tr>
@@ -44627,14 +44468,11 @@ Ressort du tribunal de grande instance de Mâcon.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Douai 
 
-Nord 
-
-</td>
-      <td>
+Nord
 
 </td>
     </tr>
@@ -44769,36 +44607,9 @@ Ressort du tribunal de grande instance de Saint-Omer.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
-Cour d'appel de Fort-de-France 
-
-Guyane 
-
-</td>
-      <td>
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cayenne 
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Cayenne. 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Martinique 
-
-</td>
-      <td>
+Cour d'appel de Fort-de-France (Martinique)
 
 </td>
     </tr>
@@ -44810,19 +44621,16 @@ Fort-de-France
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Fort-de-France. 
+Ressort du tribunal de grande instance de Fort-de-France.
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Grenoble 
 
-Drôme 
-
-</td>
-      <td>
+Drôme
 
 </td>
     </tr>
@@ -44919,14 +44727,11 @@ Ressort du tribunal de grande instance de Villefontaine. [12])
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Limoges 
 
-Corrèze 
-
-</td>
-      <td>
+Corrèze
 
 </td>
     </tr>
@@ -44987,14 +44792,11 @@ Ressort du tribunal de grande instance de Limoges.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Lyon 
 
-Ain 
-
-</td>
-      <td>
+Ain
 
 </td>
     </tr>
@@ -45079,14 +44881,11 @@ Ressort du tribunal de grande instance de Villefranche-sur-Saône.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Metz 
 
-Moselle 
-
-</td>
-      <td>
+Moselle
 
 </td>
     </tr>
@@ -45127,14 +44926,11 @@ Ressort du tribunal de grande instance de Sarreguemines.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Montpellier 
 
-Aude 
-
-</td>
-      <td>
+Aude
 
 </td>
     </tr>
@@ -45241,14 +45037,11 @@ Ressort du tribunal de grande instance de Perpignan.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Nancy 
 
-Meurthe-et-Moselle 
-
-</td>
-      <td>
+Meurthe-et-Moselle
 
 </td>
     </tr>
@@ -45321,14 +45114,11 @@ Ressort du tribunal de grande instance d'Epinal. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Nîmes 
 
-Ardèche 
-
-</td>
-      <td>
+Ardèche
 
 </td>
     </tr>
@@ -45423,14 +45213,11 @@ Ressort du tribunal de grande instance de Carpentras.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Nouméa 
 
 Nouvelle-Calédonie 
-
-</td>
-      <td>
 
 </td>
     </tr>
@@ -45469,14 +45256,11 @@ Ressort du tribunal de première instance de Mata-Utu.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel d'Orléans 
 
-Indre-et-Loire 
-
-</td>
-      <td>
+Indre-et-Loire
 
 </td>
     </tr>
@@ -45549,14 +45333,11 @@ Ressort du tribunal de grande instance de Blois.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Tribunal supérieur d'appel de Papeete 
 
-Polynésie française 
-
-</td>
-      <td>
+Polynésie française
 
 </td>
     </tr>
@@ -45573,14 +45354,11 @@ Ressort du tribunal de première instance de Papeete.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Paris 
 
-Essonne 
-
-</td>
-      <td>
+Essonne
 
 </td>
     </tr>
@@ -45681,9 +45459,7 @@ Val-de-Marne
 
 </td>
       <td>
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td>
 
@@ -45719,14 +45495,11 @@ Ressort des tribunaux de grande instance d'Auxerre et Sens.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Pau 
 
-Hautes-Pyrénées 
-
-</td>
-      <td>
+Hautes-Pyrénées
 
 </td>
     </tr>
@@ -45811,14 +45584,11 @@ Ressort du tribunal de grande instance de Pau.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Poitiers 
 
-Charente-Maritime 
-
-</td>
-      <td>
+Charente-Maritime
 
 </td>
     </tr>
@@ -45925,14 +45695,11 @@ Ressort du tribunal de grande instance de Poitiers.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Reims 
 
-Ardennes 
-
-</td>
-      <td>
+Ardennes
 
 </td>
     </tr>
@@ -46005,14 +45772,11 @@ Ressort du tribunal de grande instance de Reims.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Rennes 
 
-Côtes-d'Armor 
-
-</td>
-      <td>
+Côtes-d'Armor
 
 </td>
     </tr>
@@ -46165,14 +45929,11 @@ Ressort du tribunal de grande instance de Vannes.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Riom 
 
-Allier 
-
-</td>
-      <td>
+Allier
 
 </td>
     </tr>
@@ -46255,14 +46016,11 @@ Ressort du tribunal de grande instance de Clermont-Ferrand. (4)]
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Rouen 
 
-Eure 
-
-</td>
-      <td>
+Eure
 
 </td>
     </tr>
@@ -46325,14 +46083,11 @@ Ressort du tribunal de grande instance de Rouen.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Saint-Denis 
 
-La Réunion 
-
-</td>
-      <td>
+La Réunion
 
 </td>
     </tr>
@@ -46363,7 +46118,8 @@ Ressort du tribunal de grande instance de Saint-Pierre.
     <tr>
       <td>
         Mayotte 
-      </td>
+
+</td>
       <td>
 
 </td>
@@ -46381,14 +46137,11 @@ Ressort du tribunal de grande instance de Mamoudzou
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Toulouse 
 
-Ariège 
-
-</td>
-      <td>
+Ariège
 
 </td>
     </tr>
@@ -46483,14 +46236,11 @@ Ressort du tribunal de grande instance de Montauban.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
 Cour d'appel de Versailles 
 
-Eure-et-Loir 
-
-</td>
-      <td>
+Eure-et-Loir
 
 </td>
     </tr>
@@ -46573,16 +46323,11 @@ Ressort du tribunal de grande instance de Versailles.
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
 
-Tribunal supérieur d'appel de
+Tribunal supérieur d'appel de Saint-Pierre 
 
-Saint-Pierre 
-
-Saint-Pierre-et-Miquelon 
-
-</td>
-      <td>
+Saint-Pierre-et-Miquelon
 
 </td>
     </tr>
@@ -46623,7 +46368,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 
 ###### Article Annexe Tableau XV
@@ -46777,148 +46522,148 @@ industrielle en matière de délivrance, rejet ou maintien des dessins et modèl
 311-8) :
 
 <table align="center" border="1" width="720">
-  <tbody>
-    <tr>
-      <td>
+    <tbody>
+      <tr>
+        <td align="center">
 
-SIÈGE
-
-</td>
-      <td>
-
-RESSORT
+SIÈGE 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+RESSORT 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Aix-en-Provence 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Bordeaux 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Colmar 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort de la cour d'appel de Colmar. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Douai 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Fort-de-France 
 
 </td>
-      <td align="center">
+        <td align="left">
 
-Ressort des cours d'appel de Basse-Terre et Fort-de-France. 
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Lyon 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Nancy 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Besançon, Dijon, Metz et Nancy. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Paris 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel de Bourges, Paris, Orléans, Nouméa, Papeete, Saint-Denis et du tribunal supérieur d'appel de Saint-
 Pierre.
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Rennes 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Versailles 
 
 </td>
-      <td align="center">
+        <td align="left">
 
 Ressort de la cour d'appel de Versailles.
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
 
 _Cite_:
 
