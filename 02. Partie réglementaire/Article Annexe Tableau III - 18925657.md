@@ -1091,7 +1091,7 @@ Troyes
 </td>
       <td align="center">
 
-Troyes.
+Romilly-sur-Seine, Troyes.
 
 </td>
     </tr>
@@ -1383,7 +1383,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Décret n°2011-1877 du 14 décembre 2011 - art.
+  - Arrêté du 19 janvier 2012 - art.
 
 _Cité par_:
 
