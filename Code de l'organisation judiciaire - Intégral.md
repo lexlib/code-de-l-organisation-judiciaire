@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2012-06-07
+Version Consolidée au 2012-09-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -9290,13 +9290,14 @@ alinéa de l'article R. 123-16, des greffiers de ce tribunal.
 
 Ces greffiers assurent l'accueil et l'information du public, la réception, la préparation et le suivi des procédures
 alternatives aux poursuites ; ils prêtent leur concours au bon déroulement des actions tendant à la résolution amiable des
-litiges ; ils assistent le magistrat désigné en application de l'article R. 131-7 dans l'exercice de ses missions.
+litiges ; ils assistent le magistrat désigné en application de l'article R. 131-7 dans l'exercice de ses missions. Ils
+participent à l'élaboration et la rédaction du rapport général d'activité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-912 du 30 août 2019 - art. 27
 
 _Anciens textes_:
 
