@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2012-12-28
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -150,9 +150,9 @@ Version Consolidée au 2012-12-28
     - [LIVRE II : JURIDICTIONS DU PREMIER DEGRE (art. D211-1 à R253-1)](#147)
       - [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE (art. D211-1 à R216-1)](#148)
         - [Chapitre Ier : Institution et compétence (art. D211-1 à R211-13)](#149)
-          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7)](#150)
+          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7-1)](#150)
             - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. R211-3 à R211-4)](#151)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7)](#152)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7-1)](#152)
           - [Section 2 : Compétence territoriale (art. R211-11 à R211-13)](#153)
         - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-59)](#154)
           - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#155)
@@ -183,13 +183,13 @@ Version Consolidée au 2012-12-28
         - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. R216-1)](#180)
       - [TITRE II : LE TRIBUNAL D'INSTANCE (art. D221-1 à R224-1)](#181)
         - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#182)
-          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45)](#183)
+          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45-1)](#183)
             - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#184)
               - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#185)
               - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#186)
               - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39-1)](#187)
               - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#188)
-            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45)](#189)
+            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45-1)](#189)
           - [Section 2 : Compétence territoriale (art. R221-46 à R221-52)](#190)
         - [Chapitre II : Organisation et fonctionnement (art. R222-1 à R222-38)](#191)
           - [Section 1 : Le service juridictionnel (art. R222-1 à R222-4)](#192)
@@ -1188,22 +1188,18 @@ _Anciens textes_:
 
 Des tribunaux de grande instance spécialement désignés connaissent des actions en matière de propriété littéraire et
 artistique, de dessins et modèles, de brevets d'invention, de certificats d'utilité, de certificats complémentaires de
-protection, de topographie de produits semi-conducteurs, d'obtentions végétales et de marques, dans les cas et conditions
-prévus par le code de la propriété intellectuelle.
+protection, de topographie de produits semi-conducteurs, d'obtentions végétales, d'indications géographiques et de marques,
+dans les cas et conditions prévus par le code de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
 _Modifié par_:
 
-  - Loi n°2007-1544 du 29 octobre 2007 - art. 7 () JORF 30 octobre 2007
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (Ab)
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 6
 
 _Cité par_:
 
@@ -2052,6 +2048,18 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-2 (Ab)
 
 
+###### Article L221-4-1
+
+Le tribunal d'instance connaît des demandes formées en application du règlement (CE) n° 861/2007 du Parlement européen et du
+Conseil du 11 juillet 2007 instituant une procédure européenne de règlement des petits litiges.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 4 (V)
+
+
 ###### Article L221-5
 
 Les compétences particulières du tribunal d'instance sont fixées par décret en Conseil d'Etat.
@@ -2102,22 +2110,18 @@ _Anciens textes_:
 
 ###### Article L221-7
 
-Lorsqu'il statue selon la procédure d'injonction de payer, sous réserve de la compétence de la juridiction de proximité, le
-juge d'instance est compétent à quelque valeur que la demande puisse s'élever.
+Le juge du tribunal d'instance connaît des demandes formées en application du règlement (CE) n° 1896/2006 du Parlement
+européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d'injonction de payer.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-3 al 2 (Ab)
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 4 (V)
 
 
 ###### Article L221-8
@@ -2927,27 +2931,28 @@ _Anciens textes_:
 
 ###### Article L251-3
 
-Le tribunal pour enfants est composé d'un juge des enfants, président, et de plusieurs assesseurs.
+Le tribunal pour enfants est composé d'un juge des enfants, président, et de plusieurs assesseurs. 
+
+Le juge des enfants qui a renvoyé l'affaire devant le tribunal pour enfants ne peut présider cette juridiction. 
+
+Lorsque l'incompatibilité prévue au deuxième alinéa et le nombre de juges des enfants dans le tribunal de grande instance le
+justifient, la présidence du tribunal pour enfants peut être assurée par un juge des enfants d'un tribunal pour enfants sis
+dans le ressort de la cour d'appel et désigné par ordonnance du premier président.
 
 **Nota:**
 
-Dans sa décision n° 2011-147 QPC du 8 juillet 2011 (NOR : CSCX1119047S) le Conseil constitutionel a déclaré contraire à la
-Constitution l'article L251-3 du code de l'organisation judiciaire. La déclaration d'inconstitutionnalité prévue par
-l'article 1er prend effet au 1er janvier 2013 dans les conditions fixées au considérant 12 de la présente décision.
+Loi n° 2011-1940 du 26 décembre 2011, article 5 V : les deux derniers alinéas de l'article L. 251-3 du code de l'organisation
+judiciaire dans leur rédaction résultant du I du présent article, entrent en vigueur le 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-2 (Ab)
+  - Loi n°2011-1940 du 26 décembre 2011 - art. 5 (VD)
 
 
 ###### Article L251-4
@@ -9310,7 +9315,7 @@ desquelles figurent les matières suivantes :
 
 3° Successions ; 
 
-4° Amendes civiles encourues par les officiers de l'état civil ; 
+4° Amendes civiles encourues par les officiers de l'état civil ;
 
 5° Actions immobilières pétitoires et possessoires ; 
 
@@ -9331,13 +9336,20 @@ professionnels et conventions d'occupation précaire en matière commerciale ;
 
 12° Inscription de faux contre les actes authentiques ; 
 
-13° Actions civiles pour diffamation ou pour injures publiques ou non publiques, verbales ou écrites.
+13° Actions civiles pour diffamation ou pour injures publiques ou non publiques, verbales ou écrites ;
+
+14° Contestations concernant le paiement, la garantie ou le remboursement des créances de toute nature recouvrées par
+l'administration des douanes et les autres affaires de douanes, dans les cas et conditions prévus au code des douanes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1693 du 29 décembre 2009 - art. 1
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 11
+
+_Cite_:
+
+  - Code des douanes
 
 
 ##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=152></a>
@@ -9543,6 +9555,22 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R522-3 (Ab)
   - Code de la propriété intellectuelle - art. R. 522-1 (V)
   - Code de la propriété intellectuelle - art. R717-11 (V)
+
+
+###### Article R211-7-1
+
+Le tribunal de grande instance de Paris est seul compétent pour connaître des actions prévues au II de l'article 2450 du code
+civil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-1462 du 26 décembre 2012 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 2450
 
 
 ##### Section 2 : Compétence territoriale<a id=153></a>
@@ -11289,6 +11317,22 @@ _Créé par_:
   - Décret n°2009-1456 du 27 novembre 2009 - art. 2
 
 
+###### Article R213-5-2
+
+Le président du tribunal de grande instance connaît des actions et requêtes dans les cas et conditions prévus au code des
+douanes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 12
+
+_Cite_:
+
+  - Code des douanes
+
+
 ###### Article R213-6
 
 Le président du tribunal de grande instance peut déléguer les fonctions juridictionnelles qui lui sont spécialement
@@ -12009,10 +12053,9 @@ _Cité par_:
 
 Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît :
 
-1° Des litiges relatifs à la vente des objets abandonnés chez les hôteliers ou logeurs, dans les garde-meubles ou chez tout
-dépositaire, des objets confiés à des ouvriers, industriels ou artisans pour être travaillés, réparés ou mis en garde et des
-objets confiés à des entrepreneurs de transport et non réclamés, ainsi qu'au paiement des sommes dues à ces différents
-détenteurs ;
+1° Des litiges relatifs à la vente des objets abandonnés dans les garde-meubles ou chez tout dépositaire, des objets confiés
+à des ouvriers, industriels ou artisans pour être travaillés, réparés ou mis en garde et des objets confiés à des
+entrepreneurs de transport et non réclamés, ainsi qu'au paiement des sommes dues à ces différents détenteurs ;
 
 2° Des actions entre les transporteurs et les expéditeurs ou les destinataires relatives aux indemnités pour perte, avarie,
 détournement des colis et bagages, y compris les colis postaux, ou pour retard dans la livraison ; ces indemnités ne pourront
@@ -12022,7 +12065,7 @@ excéder les tarifs prévus aux conventions intervenues entre les transporteurs 
 
 _Modifié par_:
 
-  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 14
 
 _Cité par_:
 
@@ -12099,23 +12142,6 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-48 (V)
 
 
-###### Article R221-18
-
-Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des contestations concernant le
-paiement, la garantie ou le remboursement des créances de toute nature recouvrées par l'administration des douanes et les
-autres affaires de douanes.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1693 du 29 décembre 2009 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2012-1515 du 28 décembre 2012 - art. 13
-
-
 ###### Article R221-19
 
 Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des contestations en matière de
@@ -12161,26 +12187,6 @@ _Modifié par_:
 _Cite_:
 
   - Code rural - art. L632-7 (V)
-
-
-###### Article R221-21
-
-Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des demandes d'indemnité
-résultant du classement des objets mobiliers suivant les modalités définies par l'article L. 622-4 du code du patrimoine.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2012-1515 du 28 décembre 2012 - art. 14
-
-_Cite_:
-
-  - Code du patrimoine - art. L622-4
 
 
 ###### Article R221-22-1
@@ -12449,36 +12455,6 @@ _Modifié par_:
   - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
-###### Article R221-35
-
-Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des contestations relatives à
-l'exercice de la servitude de débroussaillement en bordure des voies ferrées prévue par l'article L. 322-8 du code forestier
-et au règlement des indemnités.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2012-1515 du 28 décembre 2012 - art. 14
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 al 13  (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r 321-9 al 13 (Ab)
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-48 (V)
-
-_Cite_:
-
-  - Code forestier - art. L322-8
-
-
 ###### Article R221-36
 
 Le tribunal d'instance du 1er arrondissement de Paris connaît des contestations des décisions de la commission administrative
@@ -12679,19 +12655,26 @@ _Anciens textes_:
 ###### Article R221-45
 
 Le juge du tribunal d'instance cote et paraphe, aux lieu et place du président ou du juge du tribunal de grande instance, les
-livres, registres et répertoires des officiers d'état civil, des conservateurs des hypothèques, des notaires, des huissiers
-de justice, des commissaires-priseurs judiciaires et des courtiers établis ou exerçant leurs fonctions dans le ressort du
-tribunal d'instance.
+livres, registres et répertoires des officiers d'état civil,     des notaires, des huissiers de justice, des commissaires-
+priseurs judiciaires et des courtiers établis ou exerçant leurs fonctions dans le ressort du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+
+
+###### Article R221-45-1
+
+Dans la collectivité territoriale de Saint-Pierre-et-Miquelon, le juge du tribunal de première instance cote et paraphe les
+registres du service de la publicité foncière.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R323-2 (Ab)
+  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
 ##### Section 2 : Compétence territoriale<a id=190></a>
@@ -12740,14 +12723,14 @@ _Cite_:
 ###### Article R221-48
 
 Dans les cas prévus aux articles R. 221-5 et R. 221-12, aux 1°, 2° et 6° de l'article R. 221-14, aux 1° à 4° de l'article R.
-221-16, aux 1° à 3° de l'article R. 221-17 et aux articles R. 221-19, R. 221-22-1, R. 221-35 et R. 221-38, la demande est
-portée devant le tribunal dans le ressort duquel sont situés les biens.
+221-16, aux 1° à 3° de l'article R. 221-17 et aux articles R. 221-19, R. 221-22-1 et R. 221-38, la demande est portée devant
+le tribunal dans le ressort duquel sont situés les biens.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-53 du 15 janvier 2009 - art. 3
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 14
 
 _Cite_:
 
@@ -12757,7 +12740,6 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R221-17
   - Code de l'organisation judiciaire - art. R221-19
   - Code de l'organisation judiciaire - art. R221-22-1
-  - Code de l'organisation judiciaire - art. R221-35
   - Code de l'organisation judiciaire - art. R221-38
   - Code de l'organisation judiciaire - art. R221-5
 
