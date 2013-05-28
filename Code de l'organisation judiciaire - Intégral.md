@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2013-02-27
+Version Consolidée au 2013-05-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -22695,7 +22695,7 @@ MAISONS DE JUSTICE ET DU DROIT
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Aix-en-Provence
 
@@ -22762,7 +22762,7 @@ Arles
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Var</td>
     </tr>
@@ -22784,7 +22784,7 @@ La Seyne-sur-Mer, Toulon.
 Cour d'appel d'Amiens</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Oise</td>
     </tr>
@@ -22842,7 +22842,7 @@ Amiens.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Angers
 
@@ -22863,7 +22863,7 @@ Angers.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Sarthe</td>
     </tr>
@@ -22956,7 +22956,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Bourges
 
@@ -22994,6 +22994,25 @@ Caen
       <td align="center">
 
 Hérouville-Saint-Clair.
+
+</td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+
+Manche
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Coutances.
+
+</td>
+      <td>
+
+Saint-Lô.
 
 </td>
     </tr>
@@ -23040,7 +23059,7 @@ Annemasse, Saint-Julien-en-Genevois.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Savoie</td>
     </tr>
@@ -23090,7 +23109,7 @@ Strasbourg.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haut-Rhin</td>
     </tr>
@@ -23119,7 +23138,7 @@ Mulhouse.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Dijon
 
@@ -23140,7 +23159,7 @@ Chenôve.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Saône-et-Loire</td>
     </tr>
@@ -23169,7 +23188,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Douai
 
@@ -23276,7 +23295,7 @@ Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Grenoble
 
@@ -23316,7 +23335,7 @@ Briançon
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Isère</td>
     </tr>
@@ -23345,7 +23364,7 @@ Villefontaine.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Limoges
 
@@ -23366,7 +23385,7 @@ Brive-la-Gaillarde.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Vienne</td>
     </tr>
@@ -23383,7 +23402,7 @@ Limoges.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Lyon
 
@@ -23440,7 +23459,7 @@ Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Metz
 
@@ -23473,7 +23492,7 @@ Forbach.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Montpellier
 
@@ -23494,7 +23513,7 @@ Narbonne.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Hérault</td>
     </tr>
@@ -23586,7 +23605,7 @@ Joué-lès-Tours.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loir-et-Cher</td>
     </tr>
@@ -23620,7 +23639,7 @@ Orléans.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Paris
 
@@ -23658,7 +23677,7 @@ Paris (10e), Paris (14e), Paris (17e).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-et-Marne</td>
     </tr>
@@ -23704,7 +23723,7 @@ Aubervilliers, Clichy-sous-Bois-Montfermeil, Epinay-sur-Seine, La Courneuve, Le 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-de-Marne</td>
     </tr>
@@ -23721,7 +23740,7 @@ Champigny-sur-Marne, Val de Bièvre.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Poitiers
 
@@ -23780,7 +23799,7 @@ Romilly-sur-Seine, Troyes.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Marne</td>
     </tr>
@@ -23835,7 +23854,7 @@ Nantes, Nantes-Rezé, Châteaubriant.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Riom
 
@@ -23856,7 +23875,7 @@ Montluçon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Rouen
 
@@ -24055,7 +24074,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 28 janvier 2013 - art.
+  - Arrêté du 15 mai 2013 - art.
 
 _Cité par_:
 
