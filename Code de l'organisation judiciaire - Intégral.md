@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2013-02-27
+Version Consolidée au 2013-05-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -23934,6 +23934,25 @@ Hérouville-Saint-Clair.
 
 </td>
     </tr>
+    <tr align="center">
+      <td colspan="2">
+
+Manche
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Coutances.
+
+</td>
+      <td>
+
+Saint-Lô.
+
+</td>
+    </tr>
     <tr>
       <td colspan="2">
 
@@ -24992,7 +25011,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 28 janvier 2013 - art.
+  - Arrêté du 15 mai 2013 - art.
 
 _Cité par_:
 
