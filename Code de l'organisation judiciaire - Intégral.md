@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2013-05-29
+Version Consolidée au 2013-07-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -12383,9 +12383,9 @@ _Modifié par_:
 Le tribunal d'instance connaît des contestations relatives à la régularité des opérations électorales en ce qui concerne
 l'élection : 
 
-1° Des membres du conseil d'administration des mutuelles, des membres de l'Autorité de contrôle prudentiel, des représentants
-des salariés au conseil d'administration et des délégués des sections locales de vote dans les conditions prévues à l'article
-R. 125-3 du code de la mutualité ; 
+1° Des membres du conseil d'administration des mutuelles, des membres de l'Autorité de contrôle prudentiel et de résolution,
+des représentants des salariés au conseil d'administration et des délégués des sections locales de vote dans les conditions
+prévues à l'article R. 125-3 du code de la mutualité ; 
 
 2° Des représentants des locataires au conseil d'administration ou de surveillance des sociétés anonymes d'habitations à
 loyer modéré dans les conditions prévues à l'article R. 422-2-1 du code de la construction et de l'habitation.
@@ -12394,7 +12394,7 @@ loyer modéré dans les conditions prévues à l'article R. 422-2-1 du code de l
 
 _Modifié par_:
 
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 _Cite_:
 
