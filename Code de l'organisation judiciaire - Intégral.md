@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -25026,10 +25026,10 @@ _Cité par_:
 
 SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE
 INSTANCE, DES CHAMBRES DÉTACHÉES DES TRIBUNAUX DE GRANDE INSTANCE, DES SECTIONS DÉTACHÉES DES TRIBUNAUX DE PREMIÈRE INSTANCE,
-DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 221-1, D. 231-1, D. 311-1, D.
-522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26) 
+DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 212-19, D. 221-1, D. 231-1, D.
+311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26) 
 
-<table align="center" border="1" cellpadding="0" cellspacing="0">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="700">
   <tbody>
     <tr>
       <td width="154">
@@ -27247,7 +27247,7 @@ Bourges
 </td>
       <td valign="top" width="333">
 
-Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost,
+Cantons de Baugy, Bourges 1er canton, Bourges 2° canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost,
 Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)] 
 
 </td>
@@ -27501,7 +27501,7 @@ Cantons de Balleroy, Bayeux, Caumont-l'Éventé, Isigny-sur-Mer, Ryes et Trévi�
 [Caen 
 
 </td>
-      <td valign="top">
+      <td>
 
 Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton,
 Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Ilérouville Caen 6e canton, Caumont-
@@ -27519,7 +27519,7 @@ sur-Mer, Mortcaux Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, 
       <td valign="top" width="333">
 
 Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e
-canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
+canton, Caen 9° canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
 Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)] 
 
 </td>
@@ -27863,6 +27863,13 @@ Cour d'appel de Cayenne
 </td>
     </tr>
     <tr>
+      <td colspan="3">
+
+Guyane 
+
+</td>
+    </tr>
+    <tr>
       <td align="left" valign="top">
 
 Cayenne 
@@ -27881,11 +27888,30 @@ Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest,
 
 Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 
 
-6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, 
+6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, 
 
-Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, 
+Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, 
 
-Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
+Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et 
+
+Sinnamary. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Dont une chambre détachée à Saint-Laurent-du-Maroni 
+
+</td>
+      <td align="left" valign="top">
+
+</td>
+      <td align="left" valign="top">
+
+Ressort de la chambre détachée à Saint-Laurent-du-Maroni : 
+
+Mana, Maripasoula, Saint-Laurent-du-Maroni 
 
 </td>
     </tr>
@@ -28583,14 +28609,10 @@ Bois, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdu
 </td>
     </tr>
     <tr>
-      <td valign="top">
-
-[Le Creusot 
-
-</td>
+      <td>[Le CreusotCantons</td>
       <td>
 
-Cantons d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres,
+d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres,
 Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)] 
 
 </td>
@@ -29683,14 +29705,12 @@ Cour d'appel de Lyon
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td colspan="3">
 
 Ain 
 
 </td>
-      <td valign="top" width="109">
-      </td><td valign="top" width="333">
-    </td></tr>
+    </tr>
     <tr>
       <td valign="top" width="154">
 
@@ -31317,7 +31337,7 @@ Salbris et Selles-sur-Cher. (3)]
 </td>
       <td valign="top" width="333">
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er
 canton et Vendôme 2e canton. (3)] 
 
 </td>
@@ -34725,9 +34745,7 @@ Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e
 
 canton, Montauban 3ème canton, Montauban 4e canton, 
 
-Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, 
-
-Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. 
+Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. 
 
 </td>
     </tr>
@@ -35291,14 +35309,12 @@ Nuku-Hiva
 </td>
         <td width="210">
 
-Îles Marquises.
+Îles Marquises. 
 
 </td>
       </tr>
     </tbody>
   </table>
-
-.. 
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="720">
   <tbody>
@@ -35401,11 +35417,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2013-686 du 24 juillet 2013 - art. 2
 
 _Cite_:
 
   - Code de l'organisation judiciaire - art. D211-1
+  - Code de l'organisation judiciaire - art. D212-19
   - Code de l'organisation judiciaire - art. D221-1
   - Code de l'organisation judiciaire - art. D231-1
   - Code de l'organisation judiciaire - art. D311-1
