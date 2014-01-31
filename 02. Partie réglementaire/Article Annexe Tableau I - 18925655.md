@@ -11,41 +11,13 @@ et procureur général près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
       <td valign="top" align="left">
@@ -53,7 +25,7 @@ CRAVATE
 Ordinaire.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Noire, à grandes manches.
 
@@ -68,24 +40,24 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sans.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De velours noir, bordée de deux galons d'or.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Chambres réunies (et cérémonies publiques).
 
@@ -95,7 +67,7 @@ Chambres réunies (et cérémonies publiques).
 Rouge, à grandes manches ; manteau et cape de fourrure.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -110,7 +82,7 @@ Sans.
 De soie rouge à glands d'or.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -131,41 +103,13 @@ et premiers avocats généraux près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
       <td align="left" valign="top">
@@ -173,12 +117,12 @@ CRAVATE
 Ordinaire.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Noire, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire.
 
@@ -188,12 +132,12 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De soie rouge à glands d'or.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De velours noir, bordée de deux galons d'or.
 
@@ -251,49 +195,21 @@ et avocats généraux près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ordinaire.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Noire, à grandes manches.
 
@@ -313,19 +229,19 @@ Bordée de fourrure blanche.
 Sans.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De velours noir, bordée d'un galon d'or.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Chambres réunies (et cérémonies publiques).
 
@@ -340,22 +256,22 @@ Rouge, à grandes manches.
 Comme ci-dessus.
 
 </td>
+      <td align="left" valign="top">
+
+Comme ci-dessus.
+
+</td>
       <td valign="top" align="left">
+
+De soie rouge à glands d'or.
+
+</td>
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
 </td>
       <td align="left" valign="top">
-
-De soie rouge à glands d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
 
 En dentelle.
 
@@ -371,81 +287,53 @@ et avocats généraux référendaires près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ordinaire.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Noire, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bordée de fourrure blanche.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire, avec franges.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De velours noir, avec deux galons d'or.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Solennelle (et cérémonies publiques).
 
@@ -455,11 +343,6 @@ Solennelle (et cérémonies publiques).
 Rouge, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
       <td align="left" valign="top">
 
 Comme ci-dessus.
@@ -475,7 +358,12 @@ Comme ci-dessus.
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
+
+Comme ci-dessus.
+
+</td>
+      <td valign="top" align="left">
 
 Comme ci-dessus.
 
@@ -493,41 +381,13 @@ et procureurs généraux près lesdites cours
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
       <td align="left" valign="top">
@@ -550,7 +410,7 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De soie noire, avec franges.
 
@@ -567,7 +427,7 @@ Blanche, plissée.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Solennelle (et cérémonies publiques).
 
@@ -582,22 +442,22 @@ Rouge, à grandes manches, à revers bordés d'hermine.
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
       <td align="left" valign="top">
 
 Comme ci-dessus.
 
 </td>
       <td align="left" valign="top">
+
+Comme ci-dessus.
+
+</td>
+      <td valign="top" align="left">
+
+Comme ci-dessus.
+
+</td>
+      <td valign="top" align="left">
 
 Comme ci-dessus.
 
@@ -613,44 +473,16 @@ et avocats généraux près lesdites cours
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Audience ordinaire.
 
@@ -670,7 +502,7 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De soie noire, avec franges.
 
@@ -680,28 +512,23 @@ De soie noire, avec franges.
 De velours noir avec trois galons d'or.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Solennelle (et cérémonies publiques).
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Rouge, à grandes manches, à revers bordés d'hermine.
 
 </td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
       <td valign="top" align="left">
 
 Comme ci-dessus.
@@ -718,6 +545,11 @@ Comme ci-dessus.
 
 </td>
       <td valign="top" align="left">
+
+Comme ci-dessus.
+
+</td>
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -733,54 +565,26 @@ et substituts généraux près lesdites cours
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ordinaire.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Noire, à grandes manches.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De soie noire.
 
@@ -790,17 +594,17 @@ De soie noire.
 Bordée de fourrure blanche.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire avec franges.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De velours noir, avec deux galons d'or.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Blanche, plissée.
 
@@ -822,7 +626,7 @@ Rouge, à grandes manches.
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -837,7 +641,7 @@ Comme ci-dessus.
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -850,51 +654,22 @@ TRIBUNAUX DE GRANDE INSTANCE
 
 ET TRIBUNAUX D'INSTANCE
 
-Présidents des tribunaux de grande instance
-
-et procureurs de la République près lesdits tribunaux
+Présidents des tribunaux de grande instance, procureurs de la République près lesdits tribunaux et procureur de la République
+financier près le tribunal de grande instance de Paris
 
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ordinaire.
 
@@ -904,7 +679,7 @@ Ordinaire.
 Noire, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire.
 
@@ -919,30 +694,30 @@ Bordée de fourrure blanche.
 Sans.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De laine noire, avec un double galon d'argent.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Solennelle (et cérémonies publiques).
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris et le procureur de la République près cette
-juridiction : rouge, à grandes manches.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
+procureur de la République financier près cette juridiction : rouge, à grandes manches. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -954,17 +729,17 @@ Comme ci-dessus.
 </td>
       <td valign="top" align="left">
 
-De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec
-franges.
+De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec
+franges. 
 
 </td>
       <td align="left" valign="top">
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris et le procureur de la République près cette
-juridiction : de velours noir, avec quatre galons d'or.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
+procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Comme ci-dessus.
 
@@ -980,41 +755,13 @@ procureurs de République adjoints, vice-procureurs et substituts près lesdits 
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
       <td align="left" valign="top">
@@ -1027,12 +774,12 @@ Ordinaire.
 Noire, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Bordée de fourrure blanche.
 
@@ -1042,7 +789,7 @@ Bordée de fourrure blanche.
 Sans.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De laine noire, avec un galon d'argent.
 
@@ -1059,11 +806,6 @@ Blanche, plissée.
 Solennelle (et cérémonies publiques).
 
 </td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
       <td valign="top" align="left">
 
 Comme ci-dessus.
@@ -1075,6 +817,11 @@ Comme ci-dessus.
 
 </td>
       <td valign="top" align="left">
+
+Comme ci-dessus.
+
+</td>
+      <td align="left" valign="top">
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec
 franges.
@@ -1085,7 +832,7 @@ franges.
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Comme ci-dessus.
 
@@ -1103,44 +850,16 @@ et procureurs de la République près lesdits tribunaux
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ordinaire.
 
@@ -1150,7 +869,7 @@ Ordinaire.
 Noire, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire.
 
@@ -1165,12 +884,12 @@ Bordée de fourrure blanche.
 De soie noire avec franges.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De velours noir, avec deux galons d'or.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Blanche, plissée.
 
@@ -1182,17 +901,12 @@ Blanche, plissée.
 Solennelle (et cérémonies publiques).
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Rouge, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -1207,7 +921,12 @@ Comme ci-dessus.
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
+
+Comme ci-dessus.
+
+</td>
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
@@ -1223,41 +942,13 @@ et substituts près lesdits tribunaux
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-AUDIENCE
-
-</th>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> ROBE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
       <td align="left" valign="top">
@@ -1285,19 +976,19 @@ Bordée de fourrure blanche.
 Sans.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De laine noire, avec un galon d'argent. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Solennelle (et cérémonies publiques).
 
@@ -1312,22 +1003,22 @@ Comme ci-dessus.
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie bleu-clair, avec franges.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Comme ci-dessus.
 
@@ -1341,36 +1032,12 @@ Auditeurs de justice
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-ROBE
-
-</th>
-      <th>
-
-SIMARRE
-
-</th>
-      <th>
-
-ÉPITOGE
-
-</th>
-      <th>
-
-CEINTURE
-
-</th>
-      <th>
-
-TOQUE
-
-</th>
-      <th>
-
-CRAVATE
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> SIMARRE</td>
+      <td align="center"> ÉPITOGE</td>
+      <td align="center"> CEINTURE</td>
+      <td align="center"> TOQUE</td>
+      <td align="center"> CRAVATE</td>
     </tr>
     <tr>
       <td valign="top" align="left">
@@ -1378,17 +1045,17 @@ CRAVATE
 Noire, à grandes manches.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 De soie noire.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sans.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 De soie bleu-clair, avec franges.
 
@@ -1414,49 +1081,29 @@ Juges de proximité
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-MÉDAILLE
-
-</th>
-      <th>
-
-BRONZE
-
-</th>
-      <th>
-
-AVERS
-
-</th>
-      <th>
-
-ATTACHE
-
-</th>
-      <th>
-
-RUBAN
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> BRONZE</td>
+      <td align="center"> AVERS</td>
+      <td align="center"> ATTACHE</td>
+      <td align="center"> RUBAN</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Doré.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Largeur de 75 mm, portant un rameau d'olivier.
 
@@ -1475,24 +1122,12 @@ Greffiers en chef et greffiers
 <table border="1">
   <tbody>
     <tr>
-      <th>
-
-JURIDICTION
-
-</th>
-      <th>
-
-GRADE
-
-</th>
-      <th>
-
-COSTUME
-
-</th>
+      <td align="center"> AUDIENCE</td>
+      <td align="center"> GRADE</td>
+      <td align="center"> COSTUME</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cour de cassation.
 
@@ -1502,15 +1137,15 @@ Cour de cassation.
 Greffier en chef.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
+      <td align="left" valign="top"> </td>
+      <td valign="top" align="left">
 
 Greffier.
 
@@ -1522,7 +1157,7 @@ Robe noire sans simarre ni toque noire.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Cour d'appel.
 
@@ -1539,8 +1174,8 @@ Même costume que les conseillers de la cour d'appel, sans galon à la toque.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
-      </td><td align="left" valign="top">
+      <td valign="top" align="left"> </td>
+      <td align="left" valign="top">
 
 Greffier.
 
@@ -1552,12 +1187,12 @@ Robe noire sans simarre ni toque noire.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Tribunal de grande instance et tribunal d'instance
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Greffier en chef.
 
@@ -1569,8 +1204,8 @@ Même costume que les juges du tribunal de grande instance, sans galon à la toq
 </td>
     </tr>
     <tr>
+      <td valign="top" align="left"> </td>
       <td align="left" valign="top">
-      </td><td align="left" valign="top">
 
 Greffier.
 
@@ -1584,3 +1219,8 @@ Robe noire sans simarre ni toque noire.
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-65 du 29 janvier 2014 - art. 2
