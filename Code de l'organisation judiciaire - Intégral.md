@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2014-02-01
+Version Consolidée au 2014-03-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -17,10 +17,10 @@ Version Consolidée au 2014-02-01
         - [Chapitre unique (art. L141-1 à L141-3)](#14)
     - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#15)
       - [TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE (art. L211-1 à L217-4)](#16)
-        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-14)](#17)
-          - [Section 1 : Compétence matérielle (art. L211-3 à L211-14)](#18)
+        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-15)](#17)
+          - [Section 1 : Compétence matérielle (art. L211-3 à L211-15)](#18)
             - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. L211-3 à L211-9)](#19)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. L211-10 à L211-14)](#20)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. L211-10 à L211-15)](#20)
         - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-6)](#21)
           - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5)](#22)
           - [Section 2 : Le parquet (art. L212-6)](#23)
@@ -1321,6 +1321,26 @@ _Créé par_:
 _Cité par_:
 
   - Code de l'organisation judiciaire - art. R213-5-1 (V)
+
+
+###### Article L211-15
+
+Les tribunaux de grande instance connaissent des actions de groupe définies au chapitre III du titre II du livre IV du code
+de la consommation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 84
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. L532-2 (M)
 
 
 #### Chapitre II : Organisation et fonctionnement<a id=21></a>
@@ -5302,17 +5322,19 @@ _Anciens textes_:
 
 ###### Article L532-2
 
-Les dispositions des articles L. 211-10 et L. 211-12 sont applicables à Wallis-et-Futuna.
+Les dispositions des articles L. 211-10, L. 211-12 et L. 211-15 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
+  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
 
 _Cite_:
 
-  - Code de l'organisation judiciaire - art. L211-12
+  - Code de la consommation - art. L211-10
+  - Code de la consommation - art. L211-12
+  - Code de l'organisation judiciaire - art. L211-15
 
 
 ###### Article L532-3
