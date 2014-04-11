@@ -2858,43 +2858,21 @@ Cayenne
 </td>
       <td align="left" valign="top">
 
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, 
-
-Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, 
-
-Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 
-
-6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, 
-
-Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, 
-
-Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et 
-
-Sinnamary. 
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e
+canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury,
+Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
-
-Dont une chambre détachée à Saint-Laurent-du-Maroni 
-
-</td>
-      <td align="left" valign="top">
-
-</td>
-      <td align="left" valign="top">
-
-Ressort de la chambre détachée à Saint-Laurent-du-Maroni : 
-
-Mana, Maripasoula, Saint-Laurent-du-Maroni 
-
-</td>
+      <td>Dont une chambre détachée à Saint-Laurent-du-Maroni </td>
+      <td>
+      </td><td>Ressort de la chambre détachée à Saint-Laurent-du-Maroni : Mana, Maripasoula, Saint-Laurent-du-MaroniCour</td>
     </tr>
     <tr>
       <td colspan="3" width="596">
 
-Cour d'appel de Chambéry 
+d'appel de Chambéry 
 
 </td>
     </tr>
@@ -3585,10 +3563,14 @@ Bois, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand et Verdu
 </td>
     </tr>
     <tr>
-      <td>[Le CreusotCantons</td>
+      <td valign="top">
+
+[Le Creusot 
+
+</td>
       <td>
 
-d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres,
+Cantons d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres,
 Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)] 
 
 </td>
@@ -4312,14 +4294,10 @@ Isère
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
-
-[Bourgoin-Jallieu (19)] 
-
-</td>
+      <td valign="top" width="154">Bourgoin-JallieuBourgoin</td>
       <td valign="top" width="109">
 
-Bourgoin-Jallieu 
+- Jallieu 
 
 </td>
       <td valign="top" width="333">
@@ -4330,71 +4308,34 @@ Morestel, Saint-Geoire-en-Valdaine et Virieu.
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="154">
+      <td rowspan="2" valign="top" width="154">
 
 Grenoble 
 
 </td>
       <td valign="top" width="109">
 
-[Grenoble 
+Grenoble 
 
 </td>
       <td valign="top" width="333">
 
-Cantons d'Allevard, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin,
-Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, Le
-Bourg-d'Oisans, Le Touvet, Meylan, Saint-Égrève, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Martin-d'Hères-Nord, Saint-
-Martin-d'Hères-Sud, Vif, Villard-de-Lans, Vizille et Voiron. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Grenoble 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet,
+Cantons d'Allevard, Clelles, Corps, Domène, Echirolles-Est, Echirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet,
 Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e
-canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-
-Égrève, Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord,
-Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. (4)] 
+canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-
+Egrève, Saint-Etienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord,
+Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="109">
-
-[La Mure 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais. (3)] 
-
-</td>
-    </tr>
+      </td><td valign="top" width="333">
+    </td></tr>
     <tr>
-      <td valign="top" width="109">
+      <td valign="top" width="154">
 
-[Saint-Marcellin 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs, Saint-Marcellin, Tullins et Vinay. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="3" valign="top" width="154">
-
-[Vienne (19)] 
-
-[Villefontaine (20)] 
+Vienne 
 
 </td>
       <td valign="top" width="109">
@@ -4406,35 +4347,6 @@ Vienne
 
 Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean
 de-Bournay, Vienne-Nord et Vienne-Sud. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="109">
-
-[Bourgoin-Jallieu] 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin,
-Morestel, Saint-Geoire-en-Valdaine et Virieu. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-[Vienne 
-
-</td>
-      <td align="left" valign="top">
-
-Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, 
-
-La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, 
-
-Saint-Jean-de-Bournay, Vienne-Nord et Vienne-Sud. 
 
 </td>
     </tr>
@@ -4577,13 +4489,13 @@ Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-
 
 Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, 
 
-Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize, 
+Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, 
 
-Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel, 
+Chambon-sur-Voueize, Châtelus-Malvaleix, Chénérailles, Crocq, 
 
-Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, 
+Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, 
 
-Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, 
+Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, 
 
 La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière, 
 
@@ -5712,12 +5624,12 @@ Remiremont, Saulxures-sur-Moselotte, Vittel et Xertigny. (4)]
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td>
 
 [Epinal 
 
 </td>
-      <td align="left" valign="top">
+      <td>
 
 Cantons de Bains-les-Bains, Bruyères, Bulgnéville, 
 
@@ -6313,7 +6225,7 @@ Salbris et Selles-sur-Cher. (3)]
 </td>
       <td valign="top" width="333">
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t
 canton et Vendôme 2e canton. (3)] 
 
 </td>
@@ -10145,7 +10057,7 @@ et Viroflay.
   </tbody>
 </table>
 
-<table align="center" border="1" cellpadding="0" cellspacing="0" width="720">
+<table border="1" cellpadding="0" cellspacing="0" width="700">
     <tbody>
       <tr>
         <td width="216">
@@ -10292,7 +10204,7 @@ Nuku-Hiva
     </tbody>
   </table>
 
-<table align="center" border="1" cellpadding="0" cellspacing="0" width="720">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="700">
   <tbody>
     <tr>
       <td width="312">
@@ -10371,10 +10283,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 (18) Applicable à compter du 6 septembre 2010. 
 
-(19) Applicable jusqu'au 30 juin 2014. 
-
-(20) Applicable à compter du 1er juillet 2014. 
-
 (21) Applicable jusqu'au 31 décembre 2011. 
 
 (22) Applicable à compter du 1er janvier 2012.
@@ -10393,7 +10301,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-686 du 24 juillet 2013 - art. 2
+  - Décret n°2014-395 du 9 avril 2014 - art. 1
+  - Décret n°2014-607 du 10 juin 2014 - art. 2
 
 _Cite_:
 
