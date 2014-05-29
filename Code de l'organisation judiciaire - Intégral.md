@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2014-05-26
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -8941,17 +8941,13 @@ _Anciens textes_:
 ###### Article R123-22
 
 Les opérations d'encaissement ou de paiement incombant aux régisseurs sont exécutées par ceux-ci pour le compte des
-comptables directs du Trésor.
+comptables de la direction générale des finances publiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-3 (Ab)
+  - Décret n°2014-551 du 27 mai 2014 - art. 17
 
 
 ###### Article R123-23
