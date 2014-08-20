@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-08-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -158,7 +158,7 @@ Version Consolidée au 2014-05-30
         - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-59)](#155)
           - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#156)
           - [Section 2 : Le parquet (art. R212-12 à R212-15)](#157)
-          - [Section 3 : Le greffe (art. R212-16 à R212-17)](#158)
+          - [Section 3 : Le greffe (art. R212-16 à R212-17-1)](#158)
           - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#159)
           - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#160)
             - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#161)
@@ -10437,6 +10437,17 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R222-8 (V)
 
 
+###### Article R212-17-1
+
+Un tribunal de grande instance peut comporter un ou plusieurs greffes détachés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-899 du 18 août 2014 - art. 2
+
+
 ##### Section 4 : Les chambres détachées<a id=159></a>
 
 ###### Article D212-19
@@ -10461,13 +10472,18 @@ _Cité par_:
 ###### Article R212-18
 
 Un tribunal de grande instance peut comprendre des chambres détachées pour juger dans leur ressort les affaires civiles et
-pénales. 
+pénales.
+
+Toutefois, la compétence matérielle des chambres détachées peut être limitée par décret, dans l'intérêt d'une bonne
+administration de la justice, appréciée notamment au regard du nombre d'affaires civiles et pénales relevant du ressort de la
+chambre détachée, de la distance orthodromique entre la chambre détachée et le tribunal de grande instance de rattachement et
+du nombre de magistrats du tribunal de grande instance.  
 
 En cas de création d'une chambre détachée, les procédures en cours devant le tribunal de grande instance à la date fixée pour
 l'entrée en activité de la nouvelle chambre sont transférées en l'état à cette dernière, dans la mesure où elles relèvent
 désormais de sa compétence, sans qu'il y ait lieu de renouveler les actes, formalités et jugements intervenus antérieurement
 à cette date, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui n'auraient pas
-été suivies d'une comparution devant la juridiction supprimée.
+été suivies d'une comparution devant le tribunal de grande instance.
 
 Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.
 
@@ -10479,7 +10495,8 @@ transférée.
 
 _Modifié par_:
 
-  - Décret n°2010-1234 du 20 octobre 2010 - art. 4
+  - Décret n°2014-899 du 18 août 2014 - art. 3
+  - Décret n°2019-912 du 30 août 2019 - art. 12 (VD)
 
 _Cité par_:
 
@@ -10522,31 +10539,42 @@ _Anciens textes_:
 
 ###### Article R212-21
 
-Le magistrat chargé de la présidence de la chambre détachée administre la chambre détachée. 
+Le magistrat chargé de la présidence de la chambre détachée administre la chambre détachée.
 
 Pendant la première quinzaine du mois de décembre, sur proposition du magistrat chargé de la présidence de la chambre
 détachée, le président du tribunal de grande instance, par ordonnance prise après avis de l'assemblée générale des magistrats
 de cette juridiction, répartit, conformément aux dispositions de l'article L. 121-3, le service entre les magistrats de la
-chambre détachée. Cette ordonnance précise le nombre, le jour et la nature des audiences de la chambre détachée. 
+chambre détachée. Cette ordonnance précise le nombre, le jour et la nature des audiences de la chambre détachée.
 
 En cas d'absence ou d'empêchement, le magistrat chargé de la présidence de la chambre détachée est suppléé par un magistrat
 chargé du service de la chambre détachée désigné par le président du tribunal de grande instance.
 
+En cas d'absence ou d'empêchement d'un magistrat chargé du service de la chambre détachée, après avis de l'assemblée générale
+des magistrats du siège, le président du tribunal de grande instance désigne pour suppléer ce magistrat :
+
+1° Un autre magistrat chargé du service de la chambre détachée ;
+
+2° Un magistrat chargé du service d'une chambre détachée limitrophe ayant son siège dans le ressort du même tribunal de
+grande instance ;
+
+3° Un magistrat du siège du tribunal de grande instance.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
+  - Décret n°2014-899 du 18 août 2014 - art. 4
+  - Décret n°2019-912 du 30 août 2019 - art. 12 (VD)
 
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-40 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-41 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-42 (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L121-3
 
 _Cité par_:
 
@@ -12237,8 +12265,8 @@ _Anciens textes_:
 
 ###### Article R217-1
 
-Les articles R. 122-2, R. 122-3, R. 122-4, R. 122-5, R. 212-1, R. 212-6, R. 212-12, R. 212-14, R. 212-15, R. 212-16, R.
-212-24, R. 212-25, R. 212-31, 
+Les articles R. 111-6, R. 122-2, R. 122-3, R. 122-4, R. 122-5, R. 212-1, R. 212-6, R. 212-12, R. 212-14, R. 212-15, R.
+212-16, R. 212-24, R. 212-25, R. 212-31, 
 R. 212-35, R. 212-42, R. 212-44, R. 212-45, R. 212-51 et R. 212-55 sont applicables selon les cas au parquet financier ou aux
 membres intéressés du parquet financier, dans la limite de leurs attributions. 
 
@@ -12247,24 +12275,28 @@ applicables au parquet financier ou aux membres du parquet financier que si elle
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-64 du 29 janvier 2014 - art. 2
+  - Décret n°2014-899 du 18 août 2014 - art. 5
 
 _Cite_:
 
-  - Code de l'organisation judiciaire - art. R122-2 (V)
-  - Code de l'organisation judiciaire - art. R212-1 (V)
-  - Code de l'organisation judiciaire - art. R212-12 (V)
-  - Code de l'organisation judiciaire - art. R212-14 (V)
-  - Code de l'organisation judiciaire - art. R212-24 (V)
-  - Code de l'organisation judiciaire - art. R212-31 (V)
-  - Code de l'organisation judiciaire - art. R212-35 (V)
-  - Code de l'organisation judiciaire - art. R212-42 (V)
-  - Code de l'organisation judiciaire - art. R212-44 (V)
-  - Code de l'organisation judiciaire - art. R212-51 (V)
-  - Code de l'organisation judiciaire - art. R212-55 (V)
-  - Code de l'organisation judiciaire - art. R212-6 (V)
+  - Code de l'organisation judiciaire - art. R111-6
+  - Code de l'organisation judiciaire - art. R122-2
+  - Code de l'organisation judiciaire - art. R122-3
+  - Code de l'organisation judiciaire - art. R122-4
+  - Code de l'organisation judiciaire - art. R122-5
+  - Code de l'organisation judiciaire - art. R212-1
+  - Code de l'organisation judiciaire - art. R212-12
+  - Code de l'organisation judiciaire - art. R212-14
+  - Code de l'organisation judiciaire - art. R212-24
+  - Code de l'organisation judiciaire - art. R212-31
+  - Code de l'organisation judiciaire - art. R212-35
+  - Code de l'organisation judiciaire - art. R212-42
+  - Code de l'organisation judiciaire - art. R212-44
+  - Code de l'organisation judiciaire - art. R212-51
+  - Code de l'organisation judiciaire - art. R212-55
+  - Code de l'organisation judiciaire - art. R212-6
 
 
 ###### Article R217-2
