@@ -4,7 +4,7 @@ SIÈGE ET RESSORT DES GREFFES DÉTACHÉS
 
 (annexe des articles D. 212-17-2 et D. 222-7) 
 
-<table align="center" border="1" cellpadding="0">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -134,6 +134,31 @@ Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni
     <tr>
       <td colspan="4">
 
+Cour d'appel de Montpellier
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Rodez
+
+</td>
+      <td>
+
+Millau
+
+</td>
+      <td colspan="2">
+
+Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-
+Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
 Cour d'appel de Rennes 
 
 </td>
@@ -196,4 +221,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-944 du 21 août 2014 - art. 2
+  - Décret n°2014-944 du 21 août 2014 - art. 3
