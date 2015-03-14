@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-03-08
+Version Consolidée au 2015-03-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -12686,36 +12686,6 @@ _Cite_:
   - Code rural - art. L211-20 (V)
   - Code de l'environnement - art. L215-5 (Ab)
   - Code de l'aviation civile - art. D243-1 (V)
-
-_Cité par_:
-
-  - Code de l'organisation judiciaire - art. R221-48 (V)
-
-
-###### Article R221-19
-
-Sous réserve de la compétence de la juridiction de proximité, le tribunal d'instance connaît des contestations en matière de
-bien de famille insaisissable dans les cas et conditions prévus par les articles 18 et 19 de la loi du 12 juillet 1909 sur la
-constitution d'un bien de famille insaisissable.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi du 12 juillet 1909 - art. 18
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-282 du 11 mars 2015 - art. 33
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 al 11 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-1 ecqc r321-9 al 11 (Ab)
 
 _Cité par_:
 
