@@ -1,402 +1,402 @@
 # Article Annexe Tableau IX-1
 
-SIÈGE ET RESSORT DES TRIBUNAUX D'INSTANCE COMPÉTENTS, DANS LE RESSORT DE CERTAINS TRIBUNAUX DE GRANDE INSTANCE, POUR
-CONNAÎTRE DES MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT DES PARTICULIERS ET DES PROCÉDURES DE RÉTABLISSEMENT
-PERSONNEL (ANNEXE DE L'ARTICLE D. 221-1)
+Siège et ressort des tribunaux d'instance compétents, dans le ressort de certains tribunaux de grande instance, pour
+connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement
+personnel (annexe de l'article D. 221-1)
 
-<table cellpadding="0" width="720" align="center" cellspacing="0" border="1">
+<table cellspacing="0" align="center" cellpadding="0" border="1">
   <tbody>
     <tr>
-      <td width="151">
+      <td>
 
 SIÈGE DU TRIBUNAL
 
 de grande instance
 
 </td>
-      <td width="151">
+      <td>
 
 SIÈGE DU TRIBUNAL d'instance
 
 </td>
-      <td width="378">
+      <td>
 
 RESSORT
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td colspan="3">
 
 Cour d'appel d'Aix-en-Provence
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td colspan="3">
 
 Alpes-Maritimes
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="151">
+      <td>
 
-Nice 
-
-</td>
-      <td valign="top" width="151">
-
-Nice 
+Nice
 
 </td>
-      <td width="378" valign="top">
+      <td>
 
-Ressort des tribunaux d'instance de Nice et Menton 
+Nice
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance de Nice et Menton
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Bouches-du-Rhône
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="151">
+      <td>
 
-Aix-en-Provence 
-
-</td>
-      <td valign="top" width="151">
-
-Aix-en-Provence 
+Aix-en-Provence
 
 </td>
-      <td width="378" valign="top">
+      <td>
 
-Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence 
-
-</td>
-    </tr>
-    <tr>
-      <td width="151" valign="top">
-
-Marseille 
+Aix-en-Provence
 
 </td>
-      <td valign="top" width="151">
+      <td>
 
-Marseille 
-
-</td>
-      <td width="378" valign="top">
-
-Ressort des tribunaux d'instance d'Aubagne et Marseille 
+Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td>
+
+Marseille
+
+</td>
+      <td>
+
+Marseille
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance d'Aubagne et Marseille
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
 
 Cour d'appel d'Angers
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td colspan="3">
 
 Maine-et-Loire
 
 </td>
     </tr>
     <tr>
-      <td width="151" valign="top">
+      <td>
 
-Angers 
-
-</td>
-      <td width="151" valign="top">
-
-Angers 
+Angers
 
 </td>
-      <td width="378" valign="top">
+      <td>
 
-Ressort des tribunaux d'instance d'Angers, Cholet et Saumur 
+Angers
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance d'Angers, Cholet et Saumur
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Sarthe
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="151">
+      <td>
 
-Le Mans 
-
-</td>
-      <td valign="top" width="151">
-
-Le Mans 
+Le Mans
 
 </td>
-      <td valign="top" width="378">
+      <td>
 
-Ressort des tribunaux d'instance de La Flèche et Le Mans 
+Le Mans
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance de La Flèche et Le Mans
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td colspan="3">
 
 Cour d'appel de Paris
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Paris
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="151">
+      <td>
 
-Paris 
-
-</td>
-      <td valign="top" width="151">
-
-Paris 19e arrondissement 
+Paris
 
 </td>
-      <td width="378" valign="top">
+      <td>
+
+Paris 19e arrondissement
+
+</td>
+      <td>
 
 Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e
 arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e
 arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris
 14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement,
-Paris 19e arrondissement et Paris 20e arrondissement 
+Paris 19e arrondissement et Paris 20e arrondissement
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Seine-Saint-Denis
 
 </td>
     </tr>
     <tr>
-      <td width="151" valign="top">
+      <td>
 
-Bobigny 
-
-</td>
-      <td width="151" valign="top">
-
-Bobigny 
+Bobigny
 
 </td>
-      <td valign="top" width="378">
+      <td>
+
+Bobigny
+
+</td>
+      <td>
 
 Ressort des tribunaux d'instance d'Aubervilliers, Aulnay-sous-Bois, Bobigny, Le Raincy, Montreuil, Pantin, Saint-Denis et
-Saint-Ouen 
+Saint-Ouen
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Val-de-Marne
 
 </td>
     </tr>
     <tr>
-      <td width="151" valign="top">
+      <td>
 
-Créteil 
-
-</td>
-      <td valign="top" width="151">
-
-Villejuif 
+Créteil
 
 </td>
-      <td width="378" valign="top">
+      <td>
 
-Ressort des tribunaux d'instance de Boissy-Saint-Léger, Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-
-Fossés et Villejuif 
+Villejuif
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance de Sucy-en-Brie, Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés
+et Villejuif
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Cour d'appel de Reims
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td colspan="3">
 
 Ardennes
 
 </td>
     </tr>
     <tr>
-      <td width="151" valign="top">
+      <td>
 
-Charleville-Mézières 
-
-</td>
-      <td width="151" valign="top">
-
-Charleville-Mézières 
+Charleville-Mézières
 
 </td>
-      <td width="378" valign="top">
+      <td>
 
-Ressort des tribunaux d'instance de Charleville-Mézières et Sedan 
+Charleville-Mézières
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance de Charleville-Mézières et Sedan
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Cour d'appel de Toulouse
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Ariège
 
 </td>
     </tr>
     <tr>
-      <td width="151" valign="top">
+      <td>
 
-Foix 
-
-</td>
-      <td width="151" valign="top">
-
-Foix 
+Foix
 
 </td>
-      <td valign="top" width="378">
+      <td>
 
-Ressort des tribunaux d'instance de Foix et Saint-Girons 
+Foix
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance de Foix et Saint-Girons
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Tarn-et-Garonne
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="151">
+      <td>
 
-Montauban 
-
-</td>
-      <td width="151" valign="top">
-
-Montauban 
+Montauban
 
 </td>
-      <td width="378" valign="top">
+      <td>
 
-Ressort des tribunaux d'instance de Castelsarrasin et Montauban 
+Montauban
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance de Castelsarrasin et Montauban
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td colspan="3">
 
 Cour d'appel de Versailles
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Hauts-de-Seine
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="151">
+      <td>
 
-Nanterre 
-
-</td>
-      <td valign="top" width="151">
-
-Asnières-sur-Seine 
+Nanterre
 
 </td>
-      <td valign="top" width="378">
+      <td>
 
-Ressort des tribunaux d'instance d'Antony, Asnières-sur-Seine, Boulogne-Billancourt, Colombes, Courbevoie, Puteaux et Vanves 
+Asnières-sur-Seine
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance d'Antony, Asnières-sur-Seine, Boulogne-Billancourt, Colombes, Courbevoie, Puteaux et Vanves
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" width="680">
+      <td colspan="3">
 
 Val-d'Oise
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="151">
+      <td>
 
-Pontoise 
-
-</td>
-      <td valign="top" width="151">
-
-Pontoise 
+Pontoise
 
 </td>
-      <td valign="top" width="378">
+      <td>
 
-Ressort des tribunaux d'instance de Gonesse, Montmorency, Pontoise et Sannois 
+Pontoise
+
+</td>
+      <td>
+
+Ressort des tribunaux d'instance de Gonesse, Montmorency, Pontoise et Sannois
 
 </td>
     </tr>
     <tr>
-      <td width="680" colspan="3">
+      <td colspan="3">
 
 Yvelines
 
 </td>
     </tr>
     <tr>
-      <td width="151" valign="top">
+      <td>
 
-Versailles 
-
-</td>
-      <td width="151" valign="top">
-
-Versailles 
+Versailles
 
 </td>
-      <td width="378" valign="top">
+      <td>
+
+Versailles
+
+</td>
+      <td>
 
 Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Versailles
 
@@ -407,6 +407,6 @@ Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Vers
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-981 du 23 août 2011 - art. 2
+  - Décret n°2015-409 du 10 avril 2015 - art. 3
