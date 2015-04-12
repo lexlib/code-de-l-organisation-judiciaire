@@ -1,9 +1,9 @@
 # Article Annexe Tableau IV
 
-SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE
-INSTANCE, DES CHAMBRES DÉTACHÉES DES TRIBUNAUX DE GRANDE INSTANCE, DES SECTIONS DÉTACHÉES DES TRIBUNAUX DE PREMIÈRE INSTANCE,
-DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 212-19, D. 221-1, D. 231-1, D.
-311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26) 
+Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tribunaux de grande instance et de première
+instance, des chambres détachées des tribunaux de grande instance, des sections détachées des tribunaux de première instance,
+des tribunaux d'instance et des juridictions de proximité (annexe des articles D. 211-1, D. 212-19, D. 221-1, D. 231-1, D.
+311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 et D. 562-26) 
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="700">
   <tbody>
@@ -1097,10 +1097,14 @@ Roë. (3)]
 [Laval 
 
 </td>
-      <td>Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland,
-Cossé-le-Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-
-Est, Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine,
-Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] </td>
+      <td>
+
+Cantons d'Ambrières-les-Vallées, Argentré, Bais, Bierné, Château Gontier-Est, Château-Gontier-Ouest, Chailland, Cossé-le-
+Vivien, Couptrain, Craon, Ernée, Évron, Gorron, Grez-en-Bouère, Landivy, Lassay-les-Châteaux, Laval-Est, Laval-Nord-Est,
+Laval-Nord-Ouest, Laval-Saint-Nicolas, Laval-Sud-Ouest, Le Horps, Loiron, Mayenne Est, Mayenne-Ouest, Meslay-du-Maine,
+Montsûrs, Pré-en-Pail, Saint-Aignan-sur-Roë, Saint-Berthevin, Sainte-Suzanne et Villaines-la-Juhel. (4)] 
+
+</td>
     </tr>
     <tr>
       <td valign="top" width="109">
@@ -1985,10 +1989,14 @@ Cantons de Blaye, Bourg, Saint-Ciers-sur-Gironde et Saint-Savin. (3)]
 </td>
     </tr>
     <tr>
-      <td>[BordeauxCantons</td>
+      <td valign="top">
+
+[Bordeaux 
+
+</td>
       <td>
 
-d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er canton, Bordeaux 2e canton, Bordeaux 3e canton, Bordeaux 4e canton,
+Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er canton, Bordeaux 2e canton, Bordeaux 3e canton, Bordeaux 4e canton,
 Bordeaux 5e canton, Bordeaux 6e canton, Bordeaux 7e canton, Bordeaux 8e canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-
 de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont,
 Mérignac 1er canton, Mérignac 2e canton, Monségur, Pauillac, Pellegrue, Pessac 1er canton, Pessac 2e canton, Podensac, Saint-
@@ -2103,17 +2111,13 @@ Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'A
 </td>
     </tr>
     <tr>
-      <td valign="top">
-
-[Bourges 
-
-</td>
+      <td>[BourgesCantons</td>
       <td>
 
-Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e
-canton, Bourges 5e canton, Chârost, Graçay, Henrichemont, La Chapelle d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-
-Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er canton
-et Vierzon 2e canton. (4)] 
+d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton,
+Bourges 5e canton, Chârost, Graçay, Henrichemont, La Chapelle d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon,
+Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er canton et
+Vierzon 2e canton. (4)] 
 
 </td>
     </tr>
@@ -2369,7 +2373,7 @@ sur-Mer, Mortcaux Couliboeuf, Ouistreham, Ryes, Tilly-sur-Seulles, Trévières, 
       <td valign="top" width="333">
 
 Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e
-canton, Caen 9° canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
+canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-
 Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)] 
 
 </td>
@@ -6703,7 +6707,7 @@ Val-de-Marne
 </td>
     </tr>
     <tr>
-      <td rowspan="8" valign="top" width="154">
+      <td rowspan="9" valign="top" width="154">
 
 Créteil 
 
@@ -6781,6 +6785,19 @@ Saint-Maur-des-Fossés
 
 Cantons de Bonneuil-sur-Marne, Créteil-Nord, Créteil-Ouest, Créteil-Sud, Joinville-le-Pont, Saint-Maur-dcs-Fossés-Centre,
 Saint-Maur des-Fossés-Ouest et Saint-Maur-La Varenne. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Sucy-en-Brie 
+
+</td>
+      <td align="left" valign="top">
+
+A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons de Boissy-Saint-Léger, Chennevières-sur-Marne, Ormesson-sur-
+Marne, Sucy-en-Brie, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges et Villiers-sur-Marne. 
 
 </td>
     </tr>
@@ -8208,7 +8225,7 @@ Cantons de Châteaubriant, Derval, Moisdon-la-Rivière, Nozay, Rougé et Saint-J
       <td valign="top" width="333">
 
 Cantons d'Aigrefeuille-sur-Maine, Ancenis, Bouaye, Carquefou, Clisson, La Chapelle-sur-Erdre, Le Loroux-Bottereau, Le
-Pellerin, Legé, Ligné, Machecoul, Nantes 1er canton, Nantes 2e canton, Nantes 3° canton, Nantes 4e canton, Nantes 5e canton,
+Pellerin, Legé, Ligné, Machecoul, Nantes 1er canton, Nantes 2e canton, Nantes 3e canton, Nantes 4e canton, Nantes 5e canton,
 Nantes 6e canton, Nantes 7e canton, Nantes 8e canton, Nantes 9e canton, Nantes 10e canton, Nantes 11e canton, Nort-sur-Erdre,
 Orvault, Rezé, Riaillé, Saint-Étienne-de-Montluc, Saint-Herblain-Est, Saint-Herblain-Ouest Indre, Saint-Mars-la-Jaille,
 Saint-Philbert-de-Grand-Lieu, Vallet, Varades, Vertou et Vertou-Vignoble. (3)] 
@@ -9090,7 +9107,7 @@ Saint-Pierre
       <td valign="top" width="333">
 
 Cantons d'Entre-Deux, Le Tampon 1er canton, Le Tampon 2e canton, Le Tampon 3e canton, Le Tampon 4e canton, Les Avirons, Les
-Trois-Bassins, L'Étang-Salé, Petite-Île, Saint-Joseph 1e, canton, Saint-Joseph 2e canton, Saint-Leu 1er canton, Saint-Leu 2e
+Trois-Bassins, L'Étang-Salé, Petite-Île, Saint-Joseph 1er canton, Saint-Joseph 2e canton, Saint-Leu 1er canton, Saint-Leu 2e
 canton, Saint-Louis 1er canton, Saint-Louis 2e canton, Saint-Louis 3e canton, Saint-Philippe, Saint-Pierre 1er canton, Saint-
 Pierre 2e canton, Saint-Pierre 3e canton et Saint-Pierre 4e canton. 
 
@@ -10059,6 +10076,10 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. D552-1 (V)
   - Code de l'organisation judiciaire - art. D552-17 (V)
   - Code de l'organisation judiciaire - art. D562-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-409 du 10 avril 2015 - art. 1
 
 _Cite_:
 
