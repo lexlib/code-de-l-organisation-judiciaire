@@ -3211,6 +3211,18 @@ Ressort du tribunal d'instance de Saint-Maur-des-Fossés.
 </td>
     </tr>
     <tr>
+      <td>
+
+Sucy-en-Brie
+
+</td>
+      <td>
+
+Ressort du tribunal d'instance de Sucy-en-Brie.
+
+</td>
+    </tr>
+    <tr>
       <td width="300">
 
 Villejuif 
@@ -3347,10 +3359,10 @@ Ressort du tribunal d'instance de Dax.
 </td>
     </tr>
     <tr>
-      <td>[Mont-de-Marsan  
+      <td>[Mont-de-Marsan 
 
 </td>
-      <td>Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)]  
+      <td>Ressort des tribunaux d'instance de Mont-de-Marsan et Saint-Sever. (7)] 
 
 </td>
     </tr>
@@ -3546,12 +3558,12 @@ Vendée
 </td>
     </tr>
     <tr>
-      <td width="300">
+      <td align="left" valign="top">
 
 La Roche-sur-Yon 
 
 </td>
-      <td width="314">
+      <td align="left" valign="top">
 
 Ressort des tribunaux d'instance de Fontenay-le-Comte, La Roche-sur-Yon et Les Sables-d'Olonne. 
 
@@ -3801,12 +3813,12 @@ Ille-et-Vilaine
 </td>
     </tr>
     <tr>
-      <td width="300">
+      <td align="left" valign="top">
 
 [Rennes 
 
 </td>
-      <td width="314">
+      <td align="left" valign="top">
 
 Ressort des tribunaux d'instance de Fougères, Montfort-sur-Meu, Redon, Rennes, Saint-Malo et Vitré. (3)] 
 
@@ -4245,7 +4257,11 @@ Mayotte
 </td>
     </tr>
     <tr>
-      <td width="300">Mamoudzou </td>
+      <td width="300">
+
+Mamoudzou 
+
+</td>
       <td width="314">
 
 Ressort du tribunal d'instance de Mamoudzou 
@@ -4819,4 +4835,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
+  - Décret n°2015-409 du 10 avril 2015 - art. 2
