@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-04-13
+Version Consolidée au 2015-08-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -4697,15 +4697,18 @@ Avant de statuer sur une question de droit nouvelle, présentant une difficulté
 litiges, les juridictions de l'ordre judiciaire peuvent, par une décision non susceptible de recours, solliciter l'avis de la
 Cour de cassation.
 
+Elles peuvent, dans les mêmes conditions, solliciter l'avis de la Cour de cassation avant de statuer sur l'interprétation
+d'une convention ou d'un accord collectif présentant une difficulté sérieuse et se posant dans de nombreux litiges.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2015-990 du 6 août 2015 - art. 258
 
 _Anciens textes_:
 
