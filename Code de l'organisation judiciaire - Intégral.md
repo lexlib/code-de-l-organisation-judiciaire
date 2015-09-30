@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-09-10
+Version Consolidée au 2015-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -26664,8 +26664,8 @@ Basse-Terre
       <td valign="top" width="333">
 
 Cantons de Basse-Terre 1er canton, Basse-Terre 2e canton, Bouillante, Capesterre-Belle-Eau 1er canton, Capesterre-Belle-Eau
-2e canton, Gourbeyre, Goyave (uniquement la commune de Goyave), Les Saintes, Pointe-Noire, Saint-Claude, Sainte-Rose 1er
-canton, Sainte-Rose 2e canton (uniquement la commune de Deshaies), Trois-Rivières et Vieux-Habitants. 
+2e canton, Gourbeyre, Goyave (uniquement la commune de Goyave), Les Saintes, Pointe-Noire, Saint-Claude, Sainte-Rose 2e
+canton (uniquement la commune de Deshaies), Trois-Rivières et Vieux-Habitants. 
 
 </td>
     </tr>
@@ -26689,38 +26689,7 @@ Pointe-à-Pitre
 </td>
       <td valign="top" width="109">
 
-[Marie-Galante 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons de Capesterre-de-Marie-Galante, Grand-Bourg et Saint-Louis. (3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-      </td><td valign="top" width="109">
-
-[Pointe-à-Pitre 
-
-</td>
-      <td valign="top" width="333">
-
-Cantons d'Anse-Bertrand, Baie-Mahault, Goyave (uniquement la fraction de la commune de Petit-Bourg), La Désirade, Lamentin,
-Le Gosier 1er canton, Le Gosier 2e canton, Le Moule 1er canton, Le Moule 2e canton, Les Abymes 1er canton, Les Abymes 2e
-canton, Les Abymes 3e canton, Les Abymes 4e canton, Les Abymes 5e canton, Morne-à-l'Eau 1er canton, Morne-à-l'Eau 2e canton,
-Petit-Bourg, Petit-Canal, Pointe-à-Pitre 1er canton, Pointe-à-Pitre 2e canton, Pointe-à-Pitre 3e canton, Sainte-Anne 1er
-canton, Sainte-Anne 2e canton, Sainte-Rose 2e canton (uniquement la fraction de la commune de Sainte-Rose) et Saint-François.
-(3)] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="154">
-      </td><td valign="top" width="109">
-
-[Pointe-à-Pitre 
+Pointe-à-Pitre 
 
 </td>
       <td valign="top" width="333">
@@ -26729,8 +26698,8 @@ Cantons d'Anse-Bertrand, Baie-Mahault, Capesterre-de-Marie-Galante, Grand-Bourg,
 de Petit-Bourg), La Désirade, Lamentin, Le Gosier 1er canton, Le Gosier 2e canton, Le Moule 1er canton, Le Moule 2e canton,
 Les Abymes 1er canton, Les Abymes 2e canton, Les Abymes 3e canton, Les Abymes 4e canton, Les Abymes 5e canton, Morne-à-l'Eau
 1er canton, Morne-à-l'Eau 2e canton, Petit-Bourg, Petit-Canal, Pointe-à-Pitre 1er canton, Pointe-à-Pitre 2e canton, Pointe-à-
-Pitre 3e canton, Sainte-Anne 1er canton, Sainte-Anne 2e canton, Sainte-Rose 2e canton (uniquement la fraction de la commune
-de Sainte-Rose), Saint-François et Saint-Louis. (4)] 
+Pitre 3e canton, Sainte-Anne 1er canton, Sainte-Anne 2e canton, Sainte-Rose 1er canton, Sainte-Rose 2e canton (uniquement la
+fraction de la commune de Sainte-Rose), Saint-François et Saint-Louis. 
 
 </td>
     </tr>
@@ -27510,13 +27479,17 @@ Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'A
 </td>
     </tr>
     <tr>
-      <td>[BourgesCantons</td>
+      <td valign="top">
+
+[Bourges 
+
+</td>
       <td>
 
-d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton,
-Bourges 5e canton, Chârost, Graçay, Henrichemont, La Chapelle d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon,
-Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er canton et
-Vierzon 2e canton. (4)] 
+Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e
+canton, Bourges 5e canton, Chârost, Graçay, Henrichemont, La Chapelle d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-
+Arnon, Mehun sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er canton
+et Vierzon 2e canton. (4)] 
 
 </td>
     </tr>
@@ -29601,8 +29574,8 @@ Bourgoin-Jallieu
 </td>
       <td valign="top" width="333">
 
-Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin,
-Morestel, Saint-Geoire-en-Valdaine et Virieu. 
+Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud (comprenant la commune d'Eclose-Badinières), Crémieu, La Tour-du-Pin,
+Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et Virieu. 
 
 </td>
     </tr>
@@ -29640,8 +29613,8 @@ Vienne
 </td>
       <td valign="top" width="333">
 
-Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean
-de-Bournay, Vienne-Nord et Vienne-Sud. 
+Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-
+Jean-de-Bournay (à l'exception de la fraction de la commune d'Eclose-Badinières), Vienne-Nord et Vienne-Sud. 
 
 </td>
     </tr>
@@ -35478,7 +35451,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-409 du 10 avril 2015 - art. 1
+  - Décret n°2015-936 du 30 juillet 2015 - art.
 
 _Cite_:
 
