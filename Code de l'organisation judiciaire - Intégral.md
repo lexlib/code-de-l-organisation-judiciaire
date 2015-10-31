@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-10-01
+Version Consolidée au 2015-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -8062,23 +8062,20 @@ _Cité par_:
 ###### Article R111-6
 
 Les costumes des magistrats de la Cour de cassation, de la cour d'appel, du tribunal de grande instance, du tribunal
-d'instance, des auditeurs de justice, des greffiers en chef et greffiers de ces juridictions ainsi que les insignes portés
-par les juges de proximité sont fixés par décret conformément au tableau I annexé au présent code.
+d'instance, des auditeurs de justice, des  directeurs des services de greffe judiciaires et greffiers de ces juridictions
+ainsi que les insignes portés par les juges de proximité sont fixés par décret conformément au tableau I annexé au présent
+code.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 _Cité par_:
 
   - Décret n°2014-65 du 29 janvier 2014 (V)
   - Code de l'organisation judiciaire - art. R217-1 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R741-6 ecqc COJ (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R111-7
@@ -8454,7 +8451,7 @@ Les services du greffe sont dirigés par un directeur de greffe.
 
 Dans les secrétariats de parquet autonomes, le secrétaire en chef du parquet est directeur de greffe.
 
-Le directeur de greffe est un greffier en chef.
+Le directeur de greffe est un directeur des services de greffe judiciaires.
 
 Les chefs de juridiction exercent leur autorité et un contrôle hiérarchique sur le directeur de greffe, dans les conditions
 définies à la présente section. Ils ne peuvent toutefois se substituer à lui dans l'exercice de ses fonctions.
@@ -8464,13 +8461,9 @@ les chefs de juridiction. Il tient ces derniers informés de ses diligences.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-1 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cité par_:
 
@@ -8559,69 +8552,56 @@ _Anciens textes_:
 ###### Article R123-7
 
 Pour l'exercice des attributions qui lui sont dévolues, le directeur de greffe de la juridiction peut donner délégation à un
-greffier en chef de la même juridiction. 
+directeur des services de greffe judiciaires de la même juridiction.
 
 Selon les besoins du service, le directeur de greffe peut désigner sous sa responsabilité un ou plusieurs agents du greffe
 pour exercer partie des fonctions qui lui sont attribuées aux articles R. 123-4 et R. 123-5.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L811-2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-6 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-4 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-5 (V)
+  - Code de l'organisation judiciaire - art. R123-4
+  - Code de l'organisation judiciaire - art. R123-5
 
 
 ###### Article R123-8
 
-Lorsque le directeur de greffe est absent ou empêché, sa suppléance est assurée par le greffier en chef adjoint. S'il existe
-plusieurs greffiers en chef adjoints, le directeur de greffe désigne, dans la première quinzaine du mois de décembre, le
-greffier en chef adjoint ayant vocation à le suppléer. A défaut de greffier en chef adjoint, ou en cas d'absence ou
-d'empêchement de celui-ci, le directeur de greffe désigne un chef de service ou un autre agent du greffe.
+Lorsque le directeur de greffe est absent ou empêché, sa suppléance est assurée par son adjoint. S'il existe plusieurs
+adjoints, le directeur de greffe désigne, dans la première quinzaine du mois de décembre, celui ayant vocation à le suppléer.
+A défaut d'adjoint, ou en cas d'absence ou d'empêchement de celui-ci, le directeur de greffe désigne un chef de service ou un
+autre agent du greffe.
 
 Lorsque l'emploi du directeur de greffe est vacant, les chefs de juridiction désignent un fonctionnaire chargé de l'intérim,
 selon les distinctions prévues au premier alinéa.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-7 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R123-9
 
-Les greffiers en chef adjoints assistent le directeur de greffe dans les tâches prévues aux articles R. 123-4 et R. 123-5. 
+Dans les tâches prévues aux articles R. 123-4 et R. 123-5, le directeur de greffe peut être assisté par un ou plusieurs
+adjoints.
 
-Ils peuvent diriger plusieurs services du greffe ou contrôler l'activité de tout ou partie du personnel.
+Ces derniers peuvent diriger plusieurs services du greffe ou contrôler l'activité de tout ou partie du personnel.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-8 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-4 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-5 (V)
+  - Code de l'organisation judiciaire - art. R123-4
 
 _Cité par_:
 
@@ -8633,17 +8613,13 @@ _Cité par_:
 ###### Article R123-10
 
 Les chefs de service de greffe sont placés à la tête d'un ou plusieurs services. Ils assistent le directeur de greffe en
-l'absence de greffier en chef adjoint.
+l'absence d'adjoint au directeur de greffe.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-9 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cité par_:
 
@@ -8657,38 +8633,30 @@ _Cité par_:
 Les greffiers sont chargés de coordonner l'exécution des diverses tâches confiées à tout ou partie du personnel du greffe.
 
 Ils peuvent être placés à la tête d'un service lorsque l'importance de celui-ci ne justifie pas que ces fonctions soient
-confiées à un fonctionnaire appartenant au corps des greffiers en chef.
+confiées à un fonctionnaire appartenant au corps des directeurs des services de greffe judiciaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-10 al 1 et 2 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R123-12
 
 Prennent rang après les magistrats de la juridiction :
 
-― le directeur de greffe de la juridiction ;
+– le directeur de greffe de la juridiction ;
 
-― les greffiers en chef ;
+– les directeurs des services de greffe judiciaires ;
 
-― les greffiers.
+– les greffiers.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*741-5 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R123-13
@@ -8697,21 +8665,16 @@ A la Cour de cassation, à la cour d'appel, au tribunal de grande instance et au
 assiste aux audiences solennelles, aux audiences des chambres lorsque le service de la juridiction l'exige ainsi qu'aux
 assemblées générales.
 
-Le directeur de greffe, les greffiers en chef adjoints, les greffiers de chambre, les chefs de services de greffe et les
-greffiers assistent les magistrats à l'audience et dans les cas prévus par les lois et règlements.
+Le directeur de greffe, ses adjoints, les greffiers de chambre, les chefs de services de greffe et les greffiers assistent
+les magistrats à l'audience et dans les cas prévus par les lois et règlements.
 
 Ils dressent les actes de greffe, notes et procès-verbaux dans les cas prévus par les lois et règlements.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*7-11-1-1 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*812-11 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cité par_:
 
@@ -11089,7 +11052,7 @@ Le secrétaire en chef du parquet préside l'assemblée des fonctionnaires du se
 
 Chacune de ces assemblées comprend :
 
-1° Les greffiers en chef ;
+1° Les directeurs des services de greffe judiciaires ;
 
 2° Les greffiers ;
 
@@ -11104,20 +11067,13 @@ fonctionnaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cité par_:
 
   - Arrêté du 10 novembre 2016 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-2 ecqc TGI greffe (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-27 ecqc TGI (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-28 ecqc TGI (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-29 ecqc TGI (Ab)
 
 
 ###### Article R212-46
@@ -13887,7 +13843,7 @@ Le directeur de greffe préside l'assemblée des fonctionnaires du greffe.
 
 Cette assemblée comprend :
 
-1° Les greffiers en chef ;
+1° Les directeurs des services de greffe judiciaires ;
 
 2° Les greffiers ;
 
@@ -13902,20 +13858,13 @@ fonctionnaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cité par_:
 
   - Arrêté du 10 novembre 2016 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-27 ecqc TI (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-28 ecqc TI (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-29 ecqc TI (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-6 al 3 ecqc composition (Ab)
 
 
 ###### Article R222-29
@@ -14308,8 +14257,8 @@ _Modifié par_:
 ###### Article D223-9
 
 La vérification de la tenue du livre foncier est faite par un magistrat de la cour d'appel désigné à cette fin par le premier
-président. Ce magistrat est assisté du greffier en chef vérificateur. Il peut faire procéder, par celui-ci, à des
-investigations déterminées.
+président. Ce magistrat est assisté du directeur des services de greffe judiciaires vérificateur. Il peut faire procéder, par
+celui-ci, à des investigations déterminées.
 
 Le résultat des vérifications et investigations est consigné dans un procès-verbal qui est porté à la connaissance des
 magistrats et greffiers intéressés.
@@ -14317,18 +14266,14 @@ magistrats et greffiers intéressés.
 Le magistrat vérificateur notifie aux juges intéressés ses observations et suggestions. Le premier président se prononce sur
 les désaccords que ces derniers pourraient manifester.
 
-Le greffier en chef vérificateur procède pareillement en ce qui concerne les opérations de la compétence exclusive des
-greffiers du livre foncier. Il demande, en cas de nécessité, au procureur général de se prononcer.
+Le directeur des services de greffe judiciaires vérificateur procède pareillement en ce qui concerne les opérations de la
+compétence exclusive des greffiers du livre foncier. Il demande, en cas de nécessité, au procureur général de se prononcer.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-12 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R223-5
@@ -16647,7 +16592,7 @@ Le directeur de greffe préside l'assemblée des fonctionnaires du greffe.
 
 Cette assemblée comprend :
 
-1° Les greffiers en chef ;
+1° Les directeurs des services de greffe judiciaires ;
 
 2° Les greffiers ;
 
@@ -16662,20 +16607,13 @@ fonctionnaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cité par_:
 
   - Arrêté du 10 novembre 2016 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-2 ecqc CA greffe (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-27 ecqc CA (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-28 ecqc CA (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-29 al 2 ecqc CA (Ab)
 
 
 ###### Article R312-53
@@ -17162,33 +17100,26 @@ _Anciens textes_:
 ###### Article R312-71
 
 Le service administratif régional est dirigé, sous l'autorité conjointe du premier président de la cour d'appel et du
-procureur général près cette cour, par un directeur délégué à l'administration régionale judiciaire, magistrat ou greffier en
-chef, assisté le cas échéant d'un ou plusieurs adjoints.
+procureur général près cette cour, par un directeur délégué à l'administration régionale judiciaire, magistrat ou  directeur
+des services de greffe judiciaires, assisté le cas échéant d'un ou plusieurs adjoints.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*242-1 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R312-72
 
-Le service administratif régional est organisé en bureaux, dirigés par des responsables de gestion, greffiers en chef.
+Le service administratif régional est organisé en bureaux, dirigés par des responsables de gestion,  directeurs des services
+de greffe judiciaires.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*242-2 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R312-73
@@ -17236,20 +17167,16 @@ _Anciens textes_:
 ###### Article R312-75
 
 En cas de vacance du poste de directeur délégué à l'administration régionale judiciaire sans que le premier président de la
-cour d'appel et le procureur général près cette cour aient désigné, conjointement, un magistrat ou un greffier en chef en
-fonction dans le ressort pour assurer l'intérim, celui-ci est exercé de droit par ses adjoints ou, à défaut, par le
-responsable de gestion du rang le plus élevé et, à égalité de rang, le plus ancien, en fonction au service administratif
-régional.
+cour d'appel et le procureur général près cette cour aient désigné, conjointement, un magistrat ou un  directeur des services
+de greffe judiciaires en fonction dans le ressort pour assurer l'intérim, celui-ci est exercé de droit par ses adjoints ou, à
+défaut, par le responsable de gestion du rang le plus élevé et, à égalité de rang, le plus ancien, en fonction au service
+administratif régional.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*242-5 (Ab)
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article R312-76
@@ -21512,7 +21439,7 @@ _Modifié par_:
 
 ###### Article Annexe Tableau I
 
-Costumes et insignes (annexe de l'article R. 111-6) 
+Costumes et insignes (annexe de l'article R. 111-6)
 
 COUR DE CASSATION
 
@@ -21523,83 +21450,83 @@ et procureur général près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
 Ordinaire.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Noire, à grandes manches.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 De soie noire.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Bordée de fourrure blanche.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Sans.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 De velours noir, bordée de deux galons d'or.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Blanche, plissée.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 Chambres réunies (et cérémonies publiques).
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Rouge, à grandes manches ; manteau et cape de fourrure.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Sans.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 De soie rouge à glands d'or.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 En dentelle.
 
@@ -21615,87 +21542,59 @@ et premiers avocats généraux près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie rouge à glands d'or.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De velours noir, bordée de deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-De soie rouge à glands d'or.
-
-</td>
-      <td valign="top" align="left">
-
-De velours noir, bordée de deux galons d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Chambres réunies (et cérémonies publiques).
+Chambres réunies (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches ; garniture de fourrure.</td>
+      <td align="left">
 
-Rouge, à grandes manches ; garniture de fourrure.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+De soie rouge à glands d'or.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-De soie rouge à glands d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-En dentelle.
-
-</td>
+En dentelle.</td>
     </tr>
   </tbody>
 </table>
@@ -21707,87 +21606,59 @@ et avocats généraux près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De velours noir, bordée d'un galon d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-Sans.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir, bordée d'un galon d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Chambres réunies (et cérémonies publiques).
+Chambres réunies (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+De soie rouge à glands d'or.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-De soie rouge à glands d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-En dentelle.
-
-</td>
+En dentelle.</td>
     </tr>
   </tbody>
 </table>
@@ -21799,87 +21670,59 @@ et avocats généraux référendaires près ladite cour
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De velours noir, avec deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-De soie noire, avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir, avec deux galons d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -21893,87 +21736,59 @@ et procureurs généraux près lesdites cours
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De velours noir, avec quatre galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire, avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir, avec quatre galons d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Rouge, à grandes manches, à revers bordés d'hermine.</td>
+      <td align="left">
 
-Rouge, à grandes manches, à revers bordés d'hermine.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -21985,83 +21800,69 @@ et avocats généraux près lesdites cours
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Audience ordinaire.
+Audience ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De velours noir avec trois galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire, avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir avec trois galons d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
 Solennelle (et cérémonies publiques).
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Rouge, à grandes manches, à revers bordés d'hermine.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left">
 
 Comme ci-dessus.
 
@@ -22077,87 +21878,59 @@ et substituts généraux près lesdites cours
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire avec franges.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De velours noir, avec deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire avec franges.
-
-</td>
-      <td valign="top" align="left">
-
-De velours noir, avec deux galons d'or.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -22172,90 +21945,62 @@ financier près le tribunal de grande instance de Paris
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De laine noire, avec un double galon d'argent.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-Sans.
-
-</td>
-      <td align="left" valign="top">
-
-De laine noire, avec un double galon d'argent.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
-
-</td>
-      <td valign="top" align="left">
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
 Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
-procureur de la République financier près cette juridiction : rouge, à grandes manches. 
+procureur de la République financier près cette juridiction : rouge, à grandes manches.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
 De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec
-franges. 
-
-</td>
-      <td align="left" valign="top">
+franges.</td>
+      <td align="left">
 
 Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
-procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or. 
+procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -22267,88 +22012,60 @@ procureurs de République adjoints, vice-procureurs et substituts près lesdits 
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De laine noire, avec un galon d'argent.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td align="left" valign="top">
-
-Sans.
-
-</td>
-      <td valign="top" align="left">
-
-De laine noire, avec un galon d'argent.
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
 De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec
-franges.
+franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -22362,87 +22079,59 @@ et procureurs de la République près lesdits tribunaux
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+De soie noire avec franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De velours noir, avec deux galons d'or.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-De soie noire avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De velours noir, avec deux galons d'or.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Rouge, à grandes manches.</td>
+      <td align="left">
 
-Rouge, à grandes manches.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td align="left" valign="top">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -22454,87 +22143,59 @@ et substituts près lesdits tribunaux
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> ROBE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">ROBE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ordinaire.
+Ordinaire.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Noire, à grandes manches.</td>
+      <td align="left">
 
-Noire, à grandes manches.
+De soie noire.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Bordée de fourrure blanche.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De laine noire, avec un galon d'argent.</td>
+      <td align="left">
 
-Bordée de fourrure blanche.
-
-</td>
-      <td valign="top" align="left">
-
-Sans.
-
-</td>
-      <td valign="top" align="left">
-
-De laine noire, avec un galon d'argent. 
-
-</td>
-      <td align="left" valign="top">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Solennelle (et cérémonies publiques).
+Solennelle (et cérémonies publiques).</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+Comme ci-dessus.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
+De soie bleu-clair, avec franges.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Comme ci-dessus.</td>
+      <td align="left">
 
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-De soie bleu-clair, avec franges.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
-      <td valign="top" align="left">
-
-Comme ci-dessus.
-
-</td>
+Comme ci-dessus.</td>
     </tr>
   </tbody>
 </table>
@@ -22544,44 +22205,32 @@ Auditeurs de justice
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> SIMARRE</td>
-      <td align="center"> ÉPITOGE</td>
-      <td align="center"> CEINTURE</td>
-      <td align="center"> TOQUE</td>
-      <td align="center"> CRAVATE</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">SIMARRE</td>
+      <td align="center">ÉPITOGE</td>
+      <td align="center">CEINTURE</td>
+      <td align="center">TOQUE</td>
+      <td align="center">CRAVATE</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Noire, à grandes manches.
+Noire, à grandes manches.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+De soie noire.</td>
+      <td align="left">
 
-De soie noire.
+Sans.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+De soie bleu-clair, avec franges.</td>
+      <td align="left">
 
-Sans.
+De laine noire, avec un galon d'argent.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
-
-De soie bleu-clair, avec franges.
-
-</td>
-      <td align="left" valign="top">
-
-De laine noire, avec un galon d'argent.
-
-</td>
-      <td valign="top" align="left">
-
-Blanche, plissée.
-
-</td>
+Blanche, plissée.</td>
     </tr>
   </tbody>
 </table>
@@ -22593,140 +22242,101 @@ Juges de proximité
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> BRONZE</td>
-      <td align="center"> AVERS</td>
-      <td align="center"> ATTACHE</td>
-      <td align="center"> RUBAN</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">BRONZE</td>
+      <td align="center">AVERS</td>
+      <td align="center">ATTACHE</td>
+      <td align="center">RUBAN</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.
+D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Doré.</td>
+      <td align="left">
 
-Doré.
+Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Largeur de 75 mm, portant un rameau d'olivier.</td>
+      <td align="left">
 
-Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.
-
-</td>
-      <td align="left" valign="top">
-
-Largeur de 75 mm, portant un rameau d'olivier.
-
-</td>
-      <td align="left" valign="top">
-
-Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5 mm.
-
-</td>
+Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5
+mm.</td>
     </tr>
   </tbody>
 </table>
 
-Greffiers en chef et greffiers
+Directeurs des services de greffe judiciaires et greffiers
 
 <table border="1">
   <tbody>
     <tr>
-      <td align="center"> AUDIENCE</td>
-      <td align="center"> GRADE</td>
-      <td align="center"> COSTUME</td>
+      <td align="center">AUDIENCE</td>
+      <td align="center">GRADE</td>
+      <td align="center">COSTUME</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Cour de cassation.
+Cour de cassation.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
+Greffier en chef.</td>
+      <td align="left">
 
-Greffier en chef.
-
-</td>
-      <td align="left" valign="top">
-
-Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.
-
-</td>
+Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.</td>
     </tr>
     <tr>
-      <td valign="top" align="left"> </td>
-      <td align="left" valign="top">
+      <td align="left">
+      </td><td align="left">
 
-Greffier.
+Greffier.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
-
-Robe noire sans simarre ni toque noire.
-
-</td>
+Robe noire sans simarre ni toque noire.</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-Cour d'appel.
+Cour d'appel.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Greffier en chef.</td>
+      <td align="left">
 
-Greffier en chef.
-
-</td>
-      <td valign="top" align="left">
-
-Même costume que les conseillers de la cour d'appel, sans galon à la toque.
-
-</td>
+Même costume que les conseillers de la cour d'appel, sans galon à la toque.</td>
     </tr>
     <tr>
-      <td align="left" valign="top"> </td>
-      <td valign="top" align="left">
+      <td align="left">
+      </td><td align="left">
 
-Greffier.
+Greffier.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
-
-Robe noire sans simarre ni toque noire.
-
-</td>
+Robe noire sans simarre ni toque noire.</td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-Tribunal de grande instance et tribunal d'instance
+Tribunal de grande instance et tribunal d'instance</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="top">
+Greffier en chef.</td>
+      <td align="left">
 
-Greffier en chef.
-
-</td>
-      <td valign="top" align="left">
-
-Même costume que les juges du tribunal de grande instance, sans galon à la toque.
-
-</td>
+Même costume que les juges du tribunal de grande instance, sans galon à la toque.</td>
     </tr>
     <tr>
-      <td align="left" valign="top"> </td>
-      <td valign="top" align="left">
+      <td align="left">
+      </td><td align="left">
 
-Greffier.
+Greffier.</td>
+      <td align="left">
 
-</td>
-      <td valign="top" align="left">
-
-Robe noire sans simarre ni toque noire.
-
-</td>
+Robe noire sans simarre ni toque noire.</td>
     </tr>
   </tbody>
 </table>
@@ -22735,7 +22345,7 @@ Robe noire sans simarre ni toque noire.
 
 _Modifié par_:
 
-  - Décret n°2014-65 du 29 janvier 2014 - art. 2
+  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 
 ###### Article Annexe Tableau II
