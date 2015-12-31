@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2015-11-14
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -2365,13 +2365,23 @@ Le juge des tutelles connaît :
 à passer seul un acte pour lequel le concours ou le consentement de ce dernier serait nécessaire, ou aux fins d'être habilité
 à le représenter ; 
 
-4° De la constatation de la présomption d'absence.
+4° De la constatation de la présomption d'absence ; 
+
+5° De l'habilitation familiale prévue par la section 6 du chapitre II du titre XI du livre Ier du code civil.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
+  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 15
+
+_Abrogé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+
+_Cite_:
+
+  - Code civil
 
 _Anciens textes_:
 
@@ -27499,7 +27509,7 @@ Sourdeval. (3)]
     <tr>
       <td rowspan="3" valign="top" width="154">
 
-Cherbourb Octeville 
+Cherbourg Octeville 
 
 </td>
       <td valign="top" width="109">
@@ -35012,6 +35022,80 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
   </tbody>
 </table>
 
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="700">
+  <tbody>
+    <tr>
+      <td colspan="3" width="700">
+
+Cour d'appel de Basse-Terre 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Basse-Terre 
+
+</td>
+      <td valign="top" width="109">
+
+Basse-Terre 
+
+</td>
+      <td valign="top" width="449">
+
+Cantons de Basse-Terre 1er canton, Basse-Terre 2e canton, Bouillante, Capesterre-Belle-Eau 1er canton, Capesterre-Belle-Eau
+2e canton, Gourbeyre, Goyave (uniquement la commune de Goyave), Les Saintes, Pointe-Noire, Saint-Claude, Sainte-Rose 1er
+canton, Sainte-Rose 2e canton (uniquement la commune de Deshaies), Trois-Rivières et Vieux-Habitants. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="109">
+
+Saint-Martin 
+
+</td>
+      <td valign="top" width="449">
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton. 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Dont une chambre détachée à Saint-Martin 
+
+</td>
+      <td valign="top" width="109">
+      </td><td valign="top" width="449">
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton. 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td valign="top" width="109">
+
+Pointe-à-Pitre 
+
+</td>
+      <td valign="top" width="449">
+
+Cantons d'Anse-Bertrand, Baie-Mahault, Capesterre-de-Marie-Galante, Grand-Bourg, Goyave (uniquement la fraction de la commune
+de Petit-Bourg), La Désirade, Lamentin, Le Gosier 1er canton, Le Gosier 2e canton, Le Moule 1er canton, Le Moule 2e canton,
+Les Abymes 1er canton, Les Abymes 2e canton, Les Abymes 3e canton, Les Abymes 4e canton, Les Abymes 5e canton, Morne-à-l'Eau
+1er canton, Morne-à-l'Eau 2e canton, Petit-Bourg, Petit-Canal, Pointe-à-Pitre 1er canton, Pointe-à-Pitre 2e canton, Pointe-à-
+Pitre 3e canton, Sainte-Anne 1er canton, Sainte-Anne 2e canton, Sainte-Rose 2e canton (uniquement la fraction de la commune
+de Sainte-Rose), Saint-François et Saint-Louis. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
 (2) applicable à compter du 1er janvier 2009. 
 
 (3) applicable jusqu'au 31 décembre 2009. 
@@ -35064,7 +35148,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-936 du 30 juillet 2015 - art.
+  - Décret n°2015-1843 du 30 décembre 2015 - art.
 
 _Cite_:
 
@@ -42814,6 +42898,19 @@ Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins
     <tr>
       <td colspan="4">
 
+Cour d'appel de Basse-Terre
+
+</td>
+    </tr>
+    <tr>
+      <td> Basse-Terre</td>
+      <td> </td>
+      <td> Saint-Martin</td>
+      <td> Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
 Cour d'appel de Besançon 
 
 </td>
@@ -42970,7 +43067,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-944 du 21 août 2014 - art. 3
+  - Décret n°2015-1844 du 30 décembre 2015 - art. 2
 
 
 ###### Article Annexe Tableau XII
@@ -46412,7 +46509,7 @@ _Cité par_:
 
 ###### Article Tableau IV bis
 
-Compétence civile et pénale de certaines chambres détachées
+Compétence civile et pénale de certaines chambres détachées 
 
 <table border="1">
   <tbody>
@@ -46421,144 +46518,179 @@ Compétence civile et pénale de certaines chambres détachées
 
 TRIBUNAL 
 
-de grande instance
+de grande instance 
 
 </th>
       <th>
 
 CHAMBRE 
 
-détachée
+détachée 
 
 </th>
       <th>
 
-COMPÉTENCE CIVILE
+COMPÉTENCE CIVILE 
 
 </th>
       <th>
 
-COMPÉTENCE PÉNALE
+COMPÉTENCE PÉNALE 
 
 </th>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Agen
+Agen 
 
 </td>
       <td align="left" valign="top">
 
-Marmande
+Marmande 
 
 </td>
       <td align="left" valign="top">
 
 Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant du 1° et du d
-du 3° de cet article, et de celles relevant des articles 233, 237, 242 et 296 du code civil.
+du 3° de cet article, et de celles relevant des articles 233,237,242 et 296 du code civil. 
 
-Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire.
+Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire. 
 
 </td>
       <td align="left" valign="top">
 
-Délits dont la liste est fixée aux 2° et 3° de l'article 398-1 du code de procédure pénale.
+Délits dont la liste est fixée aux 2° et 3° de l'article 398-1 du code de procédure pénale. 
 
 Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les
-articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
+articles 495-9 et 495-11 à 495-16 du code de procédure pénale. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Lons-le-Saunier
+Lons-le-Saunier 
 
 </td>
       <td align="left" valign="top">
 
-Dole
+Dole 
 
 </td>
       <td align="left" valign="top">
 
 Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant du 1° et du d
-du 3° de cet article, et de celles relevant des articles 376 à 377-3 du code civil.
+du 3° de cet article, et de celles relevant des articles 376 à 377-3 du code civil. 
 
 </td>
       <td align="left" valign="top">
 
-Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale.
+Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Rodez
+Rodez 
 
 </td>
       <td align="left" valign="top">
 
-Millau
+Millau 
 
 </td>
       <td align="left" valign="top">
 
 Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant des articles
-377 à 377-3 du code civil.
+377 à 377-3 du code civil. 
 
-Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire.
+Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire. 
 
 </td>
       <td align="left" valign="top">
 
-Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale.
+Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale. 
 
 Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les
-articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
+articles 495-9 et 495-11 à 495-16 du code de procédure pénale. 
 
 </td>
     </tr>
     <tr>
       <td align="left" valign="top">
 
-Saint-Brieuc
+Saint-Brieuc 
 
 </td>
       <td align="left" valign="top">
 
-Guingamp
+Guingamp 
 
 </td>
       <td align="left" valign="top">
 
-Matières relevant de l'article 311-20 du code civil.
+Matières relevant de l'article 311-20 du code civil. 
 
 Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant des articles
-205, 206 et 376 à 377-3 du code civil, et de celles relevant des articles 233, 237, 242, 296, 371-4, 515-7, 515-8, 840, 1400,
-1536 et 1569 du code civil pour lesquelles l'assignation a été enrôlée au tribunal de grande instance de Saint-Brieuc avant
-le 1er septembre 2014.
+205,206 et 376 à 377-3 du code civil, et de celles relevant des articles 233,237,242,296,371-4,515-7,515-8,840,1400,1536 et
+1569 du code civil pour lesquelles l'assignation a été enrôlée au tribunal de grande instance de Saint-Brieuc avant le 1er
+septembre 2014. 
 
-Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire.
+Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire. 
 
 </td>
       <td align="left" valign="top">
 
-Aucune compétence pénale du 1er janvier 2015 au 28 février 2015 inclus.
+Aucune compétence pénale du 1er janvier 2015 au 28 février 2015 inclus. 
 
-A compter du 1er mars 2015, délits dont la liste est fixée à l'article 398-1 du code de procédure pénale.
+A compter du 1er mars 2015, délits dont la liste est fixée à l'article 398-1 du code de procédure pénale. 
 
 </td>
+    </tr>
+    <tr>
+      <td>Basse-Terre </td>
+      <td>Saint-Martin 
+
+Saint-Barthélemy </td>
+      <td>
+      </td><td>Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie
+par les articles 495-9 et 495-11 à 495-16 du code de procédure pénale, compositions pénales régies par l'article 41-2 du code
+de procédure pénale, les procédures d'hospitalisation d'office régies par les articles L. 3211-12 à L. 3211-12-4 du code de
+la santé publique et l'article 706-137 du code de procédure pénale.</td>
     </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1405 du 25 novembre 2014 - art. 2
+  - Décret n°2015-1843 du 30 décembre 2015 - art.
+
+_Cite_:
+
+  - Code civil - art. 1400 (V)
+  - Code civil - art. 1536 (V)
+  - Code civil - art. 1569 (V)
+  - Code civil - art. 205 (V)
+  - Code civil - art. 233 (V)
+  - Code civil - art. 237 (V)
+  - Code civil - art. 242 (V)
+  - Code civil - art. 296 (V)
+  - Code civil - art. 311-20 (V)
+  - Code civil - art. 376 (V)
+  - Code civil - art. 377 (V)
+  - Code civil - art. 515-7 (VT)
+  - Code civil - art. 840 (V)
+  - Code de procédure pénale - art. 398-1 (V)
+  - Code de procédure pénale - art. 41-2 (V)
+  - Code de procédure pénale - art. 495-11 (V)
+  - Code de procédure pénale - art. 495-9 (V)
+  - Code de procédure pénale - art. 706-137 (V)
+  - Code de l'organisation judiciaire - art. L213-3 (V)
+  - Code de l'organisation judiciaire - art. L213-3-1 (V)
+  - Code de la santé publique - art. L3211-12 (V)
 
 
