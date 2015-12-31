@@ -4,7 +4,7 @@ SIÈGE ET RESSORT DES GREFFES DÉTACHÉS
 
 (annexe des articles D. 212-17-2 et D. 222-7) 
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -61,6 +61,19 @@ Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillè
 Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins 
 
 </td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Basse-Terre
+
+</td>
+    </tr>
+    <tr>
+      <td> Basse-Terre</td>
+      <td> </td>
+      <td> Saint-Martin</td>
+      <td> Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.</td>
     </tr>
     <tr>
       <td colspan="4">
@@ -221,4 +234,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-944 du 21 août 2014 - art. 3
+  - Décret n°2015-1844 du 30 décembre 2015 - art. 2
