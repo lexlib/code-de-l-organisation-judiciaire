@@ -2487,7 +2487,7 @@ Sourdeval. (3)]
     <tr>
       <td rowspan="3" valign="top" width="154">
 
-Cherbourb Octeville 
+Cherbourg Octeville 
 
 </td>
       <td valign="top" width="109">
@@ -10000,6 +10000,80 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
   </tbody>
 </table>
 
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="700">
+  <tbody>
+    <tr>
+      <td colspan="3" width="700">
+
+Cour d'appel de Basse-Terre 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Basse-Terre 
+
+</td>
+      <td valign="top" width="109">
+
+Basse-Terre 
+
+</td>
+      <td valign="top" width="449">
+
+Cantons de Basse-Terre 1er canton, Basse-Terre 2e canton, Bouillante, Capesterre-Belle-Eau 1er canton, Capesterre-Belle-Eau
+2e canton, Gourbeyre, Goyave (uniquement la commune de Goyave), Les Saintes, Pointe-Noire, Saint-Claude, Sainte-Rose 1er
+canton, Sainte-Rose 2e canton (uniquement la commune de Deshaies), Trois-Rivières et Vieux-Habitants. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="109">
+
+Saint-Martin 
+
+</td>
+      <td valign="top" width="449">
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton. 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Dont une chambre détachée à Saint-Martin 
+
+</td>
+      <td valign="top" width="109">
+      </td><td valign="top" width="449">
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton. 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td valign="top" width="109">
+
+Pointe-à-Pitre 
+
+</td>
+      <td valign="top" width="449">
+
+Cantons d'Anse-Bertrand, Baie-Mahault, Capesterre-de-Marie-Galante, Grand-Bourg, Goyave (uniquement la fraction de la commune
+de Petit-Bourg), La Désirade, Lamentin, Le Gosier 1er canton, Le Gosier 2e canton, Le Moule 1er canton, Le Moule 2e canton,
+Les Abymes 1er canton, Les Abymes 2e canton, Les Abymes 3e canton, Les Abymes 4e canton, Les Abymes 5e canton, Morne-à-l'Eau
+1er canton, Morne-à-l'Eau 2e canton, Petit-Bourg, Petit-Canal, Pointe-à-Pitre 1er canton, Pointe-à-Pitre 2e canton, Pointe-à-
+Pitre 3e canton, Sainte-Anne 1er canton, Sainte-Anne 2e canton, Sainte-Rose 2e canton (uniquement la fraction de la commune
+de Sainte-Rose), Saint-François et Saint-Louis. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
 (2) applicable à compter du 1er janvier 2009. 
 
 (3) applicable jusqu'au 31 décembre 2009. 
@@ -10052,7 +10126,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-936 du 30 juillet 2015 - art.
+  - Décret n°2015-1843 du 30 décembre 2015 - art.
 
 _Cite_:
 
