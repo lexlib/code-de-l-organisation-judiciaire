@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-05-01
+Version Consolidée au 2016-05-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -17818,6 +17818,24 @@ _Cite_:
 _Créé par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
+
+
+###### Article R411-4-1
+
+La Cour de cassation connaît des recours formés contre les décisions prises en matière de règlement des litiges nés à
+l'occasion d'un contrat de travail d'un avocat au Conseil d'Etat et à la Cour de cassation salarié ou de la convention de
+rupture, de l'homologation ou du refus d'homologation de cette convention dans les conditions prévues aux articles 12,18 et
+22 du décret n° 2016-652 du 20 mai 2016 relatif aux avocats au Conseil d'Etat et à la Cour de cassation salariés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2016-652 du 20 mai 2016
+
+_Créé par_:
+
+  - Décret n°2016-651 du 20 mai 2016 - art. 26
 
 
 ###### Article R411-5
