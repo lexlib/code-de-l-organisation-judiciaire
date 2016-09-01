@@ -6674,24 +6674,11 @@ Val-de-Marne
 </td>
     </tr>
     <tr>
-      <td rowspan="9">
+      <td rowspan="8">
 
 Créteil
 
 </td>
-      <td>
-
-Boissy-Saint-Léger
-
-</td>
-      <td>
-
-A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons de Boissy-Saint-Léger, Chennevières-sur-Marne, Ormesson-sur-
-Marne, Sucy-en-Brie, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges et Villiers-sur-Marne.
-
-</td>
-    </tr>
-    <tr>
       <td>
 
 Charenton-le-Pont
@@ -10045,16 +10032,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1843 du 30 décembre 2015 - art.
-
-_Cite_:
-
-  - Code de l'organisation judiciaire - art. D211-1
-  - Code de l'organisation judiciaire - art. D212-19
-  - Code de l'organisation judiciaire - art. D221-1
-  - Code de l'organisation judiciaire - art. D231-1
-  - Code de l'organisation judiciaire - art. D311-1
-  - Code de l'organisation judiciaire - art. D522-1
-  - Code de l'organisation judiciaire - art. D522-10
-  - Code de l'organisation judiciaire - art. D522-22
-  - Code de l'organisation judiciaire - art. D562-26
+  - Décret n°2016-1186 du 30 août 2016 - art. 2
+  - Décret n°2016-1186 du 30 août 2016 - art. 3 (V)

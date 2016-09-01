@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-09-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -32228,24 +32228,11 @@ Val-de-Marne
 </td>
     </tr>
     <tr>
-      <td rowspan="9">
+      <td rowspan="8">
 
 Créteil
 
 </td>
-      <td>
-
-Boissy-Saint-Léger
-
-</td>
-      <td>
-
-A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons de Boissy-Saint-Léger, Chennevières-sur-Marne, Ormesson-sur-
-Marne, Sucy-en-Brie, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges et Villiers-sur-Marne.
-
-</td>
-    </tr>
-    <tr>
       <td>
 
 Charenton-le-Pont
@@ -35599,19 +35586,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1843 du 30 décembre 2015 - art.
-
-_Cite_:
-
-  - Code de l'organisation judiciaire - art. D211-1
-  - Code de l'organisation judiciaire - art. D212-19
-  - Code de l'organisation judiciaire - art. D221-1
-  - Code de l'organisation judiciaire - art. D231-1
-  - Code de l'organisation judiciaire - art. D311-1
-  - Code de l'organisation judiciaire - art. D522-1
-  - Code de l'organisation judiciaire - art. D522-10
-  - Code de l'organisation judiciaire - art. D522-22
-  - Code de l'organisation judiciaire - art. D562-26
+  - Décret n°2016-1186 du 30 août 2016 - art. 2
+  - Décret n°2016-1186 du 30 août 2016 - art. 3 (V)
 
 
 ###### Article Annexe Tableau IX
@@ -36635,24 +36611,24 @@ Manche
     <tr>
       <td width="300">
 
-[Cherbourg-Octeville 
+[Cherbourg-en-Cotentin 
 
 </td>
       <td width="314">
 
-Ressort des tribunaux d'instance de Cherbourg-Octeville et Valognes. (3)] 
+Ressort des tribunaux d'instance de Cherbourg-en-Cotentin et Valognes. (3)] 
 
 </td>
     </tr>
     <tr>
       <td width="300">
 
-[Cherbourg-Octeville 
+[Cherbourg-en-Cotentin 
 
 </td>
       <td width="314">
 
-Ressort du tribunal d'instance de Cherbourg-Octeville. (4)] 
+Ressort du tribunal d'instance de Cherbourg-en-Cotentin. (4)] 
 
 </td>
     </tr>
@@ -38769,18 +38745,6 @@ Val-de-Marne
     <tr>
       <td width="300">
 
-Boissy-Saint-Léger 
-
-</td>
-      <td width="314">
-
-Ressort du tribunal d'instance de Boissy-Saint-Léger. 
-
-</td>
-    </tr>
-    <tr>
-      <td width="300">
-
 Charenton-le-Pont 
 
 </td>
@@ -40451,7 +40415,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-409 du 10 avril 2015 - art. 2
+  - Décret n°2016-1186 du 30 août 2016 - art. 1
+  - Décret n°2016-1186 du 30 août 2016 - art. 2
 
 
 ###### Article Annexe Tableau IX-1
@@ -44536,12 +44501,12 @@ Manche
     <tr>
       <td>
 
-Cherbourg-Octeville 
+Cherbourg-en-Cotentin 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Cherbourg-Octeville. 
+Ressort du tribunal de grande instance de Cherbourg-en-Cotentin. 
 
 </td>
     </tr>
@@ -46558,7 +46523,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1258 du 27 décembre 2013 - art. 4
+  - Décret n°2016-1186 du 30 août 2016 - art. 1
 
 
 ###### Article Annexe Tableau XV
