@@ -4,7 +4,7 @@ Siège et ressort des tribunaux pour enfants
 
 (annexe de l'article D. 251-1) 
 
-<table cellpadding="0" width="720" align="center" border="1">
+<table align="center" width="720" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -705,12 +705,12 @@ Manche
     <tr>
       <td>
 
-Cherbourg-Octeville 
+Cherbourg-en-Cotentin 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Cherbourg-Octeville. 
+Ressort du tribunal de grande instance de Cherbourg-en-Cotentin. 
 
 </td>
     </tr>
@@ -2727,4 +2727,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1258 du 27 décembre 2013 - art. 4
+  - Décret n°2016-1186 du 30 août 2016 - art. 1
