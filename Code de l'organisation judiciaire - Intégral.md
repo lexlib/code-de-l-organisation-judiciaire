@@ -1,10 +1,10 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
-      - [TITRE Ier : PRINCIPES GÉNÉRAUX (art. L111-1 à L111-12)](#3)
-        - [Chapitre unique (art. L111-1 à L111-12)](#4)
+      - [TITRE Ier : PRINCIPES GÉNÉRAUX (art. L111-1 à L111-13)](#3)
+        - [Chapitre unique (art. L111-1 à L111-13)](#4)
       - [TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT (art. L121-1 à L123-2)](#5)
         - [Chapitre Ier : Les juges (art. L121-1 à L121-4)](#6)
           - [Section 1 : Composition des juridictions (art. L121-1 à L121-2)](#7)
@@ -637,6 +637,39 @@ _Modifié par_:
 _Cite_:
 
   - Code du patrimoine - art. L221-1
+
+
+###### Article L111-13
+
+Sans préjudice des dispositions particulières qui régissent l'accès aux décisions de justice et leur publicité, les décisions
+rendues par les juridictions judiciaires sont mises à la disposition du public à titre gratuit dans le respect de la vie
+privée des personnes concernées.
+
+Cette mise à disposition du public est précédée d'une analyse du risque de ré-identification des personnes.
+
+Les articles L. 321-1 à L. 326-1 du code des relations entre le public et l'administration sont également applicables à la
+réutilisation des informations publiques figurant dans ces décisions.
+
+Un décret en Conseil d'Etat fixe, pour les décisions de premier ressort, d'appel ou de cassation, les conditions
+d'application du présent article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 9 (VD)
+
+_Créé par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 21
+
+_Cite_:
+
+  - Code des relations entre le public et l'adminis... - art. L321-1 (V)
 
 
 ### TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT<a id=5></a>
