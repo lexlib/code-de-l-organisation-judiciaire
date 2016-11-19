@@ -1,350 +1,355 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2016-10-14
+Version Consolidée au 2016-11-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
       - [TITRE Ier : PRINCIPES GÉNÉRAUX (art. L111-1 à L111-13)](#3)
         - [Chapitre unique (art. L111-1 à L111-13)](#4)
-      - [TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT (art. L121-1 à L123-2)](#5)
+      - [TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT (art. L121-1 à L123-4)](#5)
         - [Chapitre Ier : Les juges (art. L121-1 à L121-4)](#6)
           - [Section 1 : Composition des juridictions (art. L121-1 à L121-2)](#7)
           - [Section 2 : Le service juridictionnel (art. L121-3 à L121-4)](#8)
         - [Chapitre II : Le ministère public (art. L122-1 à L122-4)](#9)
           - [Section 1 : Organisation (art. L122-1 à L122-3)](#10)
           - [Section 2 : Fonctionnement (art. L122-4)](#11)
-        - [Chapitre III : Le greffe (art. L123-1 à L123-2)](#12)
-      - [TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE (art. L141-1 à L141-3)](#13)
-        - [Chapitre unique (art. L141-1 à L141-3)](#14)
-    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#15)
-      - [TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE (art. L211-1 à L217-4)](#16)
-        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-15)](#17)
-          - [Section 1 : Compétence matérielle (art. L211-3 à L211-15)](#18)
-            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. L211-3 à L211-9)](#19)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. L211-10 à L211-15)](#20)
-        - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-6)](#21)
-          - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5)](#22)
-          - [Section 2 : Le parquet (art. L212-6)](#23)
-        - [Chapitre III : Fonctions particulières (art. L213-1 à L213-11)](#24)
-          - [Section 1 : Fonctions particulières exercées en matière civile (art. L213-1 à L213-8)](#25)
-            - [Sous-section 1 : Le président du tribunal de grande instance (art. L213-1 à L213-2)](#26)
-            - [Sous-section 3 : Le juge aux affaires familiales (art. L213-3 à L213-4)](#27)
-            - [Sous-section 4 : Le juge de l'exécution (art. L213-5 à L213-7)](#28)
-            - [Sous-section 5 : Le juge des libertés et de la détention (art. L213-8)](#29)
-          - [Section 2 : Fonctions particulières exercées en matière pénale (art. L213-9 à L213-11)](#30)
-        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. L214-1 à L214-2)](#31)
-        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L215-1 à L215-2)](#32)
-        - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. L216-1 à L216-2)](#33)
-        - [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris (art. L217-1 à L217-4)](#34)
-      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. L221-1 à L223-8)](#35)
-        - [Chapitre Ier : Institution et compétence (art. L221-1 à L221-10)](#36)
-          - [Section 1 : Compétence matérielle (art. L221-4 à L221-10)](#37)
-            - [Sous-section 1 : Compétence civile du tribunal d'instance (art. L221-4 à L221-5)](#38)
-            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. L221-6 à L221-8-1)](#39)
-            - [Sous-section 3 : Compétence du juge des tutelles (art. L221-9)](#40)
-            - [Sous-section 4 : Compétence du tribunal de police (art. L221-10)](#41)
-        - [Chapitre II : Organisation et fonctionnement (art. L222-1 à L222-3)](#42)
-          - [Section 1 : Le service juridictionnel (art. L222-1 à L222-2)](#43)
-          - [Section 2 : Le ministère public (art. L222-3)](#44)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L223-1 à L223-8)](#45)
-      - [TITRE III : LA JURIDICTION DE PROXIMITÉ (art. L231-1 à L232-3)](#46)
-        - [Chapitre Ier : Institution et compétence (art. L231-1 à L231-6)](#47)
-          - [Section 1 : Compétence civile (art. L231-3 à L231-5)](#48)
-          - [Section 2 : Compétence pénale (art. L231-6)](#49)
-        - [Chapitre II : Organisation et fonctionnement (art. L232-1 à L232-3)](#50)
-          - [Section 1 : Le service juridictionnel (art. L232-1 à L232-2)](#51)
-          - [Section 2 : Le ministère public (art. L232-3)](#52)
-      - [TITRE IV : LA COUR D'ASSISES (art. L241-1)](#53)
-        - [Chapitre unique (art. L241-1)](#54)
-      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. L251-1 à L254-1)](#55)
-        - [Chapitre Ier : Le tribunal pour enfants (art. L251-1 à L251-6)](#56)
-          - [Section 1 : Institution et compétence (art. L251-1 à L251-2)](#57)
-          - [Section 2 : Organisation et fonctionnement (art. L251-3 à L251-6)](#58)
-        - [Chapitre Ier bis : Le tribunal correctionnel pour mineurs (art. L251-7 à L251-8)](#59)
-        - [Chapitre II : Le juge des enfants (art. L252-1 à L252-5)](#60)
-        - [Chapitre IV : La cour d'assises des mineurs (art. L254-1)](#61)
-      - [TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION (art. L261-1)](#62)
-        - [Chapitre unique (art. L261-1)](#63)
-    - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ (art. L311-1 à L331-1)](#64)
-      - [TITRE Ier : LA COUR D'APPEL (art. L311-1 à L314-1)](#65)
-        - [Chapitre Ier : Compétence (art. L311-1 à L311-14)](#66)
-          - [Section 1 : Dispositions générales (art. L311-1)](#67)
-          - [Section 2 : Dispositions particulières (art. L311-2 à L311-6)](#68)
-          - [Section 3 : Dispositions relatives au premier président (art. L311-7 à L311-7-1)](#69)
-          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. L311-8)](#70)
-          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. L311-10 à L311-14)](#71)
-        - [Chapitre II : Organisation et fonctionnement (art. L312-1 à L312-7)](#72)
-          - [Section 1 : Les formations de la cour d'appel (art. L312-1 à L312-6-1)](#73)
-            - [Sous-section 1 : Dispositions générales (art. L312-1 à L312-3)](#74)
-            - [Sous-section 2 : Dispositions particulières à certaines formations (art. L312-4 à L312-6-1)](#75)
-          - [Section 2 : Le parquet général (art. L312-7)](#76)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L313-1 à L313-2)](#77)
-        - [Chapitre IV : Dispositions particulières au Département de Mayotte (art. L314-1)](#78)
-      - [TITRE II : LA COUR D'ASSISES STATUANT EN APPEL (art. L321-1)](#79)
-        - [Chapitre unique (art. L321-1)](#80)
-      - [TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL (art. L331-1)](#81)
-        - [Chapitre unique (art. L331-1)](#82)
-    - [LIVRE IV : LA COUR DE CASSATION (art. L411-1 à LO461-2)](#83)
-      - [TITRE Ier : INSTITUTION ET COMPÉTENCE (art. L411-1 à L411-4)](#84)
-        - [Chapitre unique (art. L411-1 à L411-4)](#85)
-      - [TITRE II : ORGANISATION (art. L421-1 à L421-8)](#86)
-        - [Chapitre unique (art. L421-1 à L421-8)](#87)
-      - [TITRE III : FONCTIONNEMENT (art. L431-1 à L432-5)](#88)
-        - [Chapitre Ier : Les chambres de la cour (art. L431-1 à L431-10)](#89)
-          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#90)
-          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. L431-5 à L431-10)](#91)
-        - [Chapitre II : Le parquet général (art. L432-1 à L432-5)](#92)
-      - [TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION (art. L441-1 à L441-4)](#93)
-        - [Chapitre unique (art. L441-1 à L441-4)](#94)
-      - [TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION (art. L451-1 à L451-2)](#95)
-        - [Chapitre unique (art. L451-1 à L451-2)](#96)
-      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. LO461-1 à LO461-2)](#97)
-    - [LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE (art. L511-1 à L563-1)](#98)
-      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L511-1 à L513-11)](#99)
-        - [Chapitre Ier : Dispositions générales (art. L511-1)](#100)
-        - [Chapitre II : Des fonctions judiciaires (art. L512-1 à L512-4)](#101)
-        - [Chapitre III : Des juridictions (art. L513-1 à L513-11)](#102)
-          - [Section 1 : Le tribunal de première instance (art. L513-1 à L513-5-1)](#103)
-          - [Section 2 : Le tribunal supérieur d'appel (art. L513-6 à L513-11)](#104)
-      - [TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA (art. L531-1 à L533-1)](#105)
-        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#106)
-        - [Chapitre II : Des juridictions (art. L532-1 à L532-28)](#107)
-          - [Section 1 : Le tribunal de première instance (art. L532-1 à L532-18)](#108)
-          - [Section 2 : La juridiction de proximité (art. L532-19 à L532-24)](#109)
-          - [Section 3 : Les juridictions des mineurs (art. L532-25 à L532-26)](#110)
-          - [Section 4 : La cour d'assises (art. L532-27 à L532-28)](#111)
-        - [Chapitre III : Du greffe (art. L533-1)](#112)
-      - [TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE (art. L551-1 à L553-1)](#113)
-        - [Chapitre Ier : Dispositions générales (art. L551-1 à L551-2)](#114)
-        - [Chapitre II : Des juridictions (art. L552-1 à L552-21)](#115)
-          - [Section 1 : Le tribunal de première instance (art. L552-1 à L552-9-11)](#116)
-            - [Sous-section 1 : Dispositions générales (art. L552-1 à L552-9)](#117)
-            - [Sous-section 2 : Dispositions spécifiques au tribunal foncier (art. L552-9-1 à L552-9-11)](#118)
-          - [Section 2 : La cour d'appel (art. L552-10 à L552-12)](#119)
-          - [Section 3 : La juridiction de proximité (art. L552-13 à L552-18)](#120)
-          - [Section 4 : Les juridictions des mineurs (art. L552-19)](#121)
-          - [Section 5 : La cour d'assises (art. L552-20 à L552-21)](#122)
-        - [Chapitre III : Du greffe (art. L553-1)](#123)
-      - [TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE (art. L561-1 à L563-1)](#124)
-        - [Chapitre Ier : Dispositions générales (art. L561-1 à L561-2)](#125)
-        - [Chapitre II : Des juridictions (art. L562-1 à L562-37)](#126)
-          - [Section 1 : Le tribunal de première instance (art. L562-1 à L562-24-1)](#127)
-          - [Section 2 : La cour d'appel (art. L562-25 à L562-28)](#128)
-          - [Section 3 : La juridiction de proximité (art. L562-29 à L562-34)](#129)
-          - [Section 4 : Les juridictions des mineurs (art. L562-35)](#130)
-          - [Section 5 : La cour d'assises (art. L562-36 à L562-37)](#131)
-        - [Chapitre III : Du greffe (art. L563-1)](#132)
-  - [Partie réglementaire (art. R111-1 à Tableau IV bis)](#133)
-    - [LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES (art. R111-1 à R131-12)](#134)
-      - [TITRE IER : PRINCIPES GENERAUX (art. R111-1 à R111-9)](#135)
-        - [Chapitre Ier : Dispositions générales (art. R111-1 à R111-8)](#136)
-        - [Chapitre II : Le règlement des conflits de compétence entre les ordres de juridiction (art. R111-9)](#137)
-      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-2)](#138)
-        - [Chapitre Ier : Les juges (art. R121-1 à R121-5)](#139)
-          - [Section 2 : Le service juridictionnel (art. R121-1 à R121-5)](#140)
-        - [Chapitre II : Le ministère public (art. R122-1 à R122-5)](#141)
-          - [Section 1 : Organisation (art. R122-1)](#142)
-          - [Section 2 : Fonctionnement (art. R122-2 à R122-5)](#143)
-        - [Chapitre III : Le greffe (art. R123-1 à R123-25)](#144)
-          - [Section 1 : Organisation (art. R123-1 à R123-2)](#145)
-          - [Section 2 : Fonctionnement (art. R123-3 à R123-19)](#146)
-          - [Section 3 : Régies (art. R123-20 à R123-25)](#147)
-        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-2)](#148)
-      - [TITRE III : MAISONS DE JUSTICE ET DU DROIT (art. R131-1 à R131-11)](#149)
-        - [Chapitre unique (art. R131-1 à R131-11)](#150)
-      - [TITRE V : CONCILIATEURS DE JUSTICE (art. R131-12)](#151)
-    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRE (art. D211-1 à R253-1)](#152)
-      - [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE (art. D211-1 à R217-6)](#153)
-        - [Chapitre Ier : Institution et compétence (art. D211-1 à R211-13)](#154)
-          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7-1)](#155)
-            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. R211-3 à R211-4)](#156)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7-1)](#157)
-          - [Section 2 : Compétence territoriale (art. R211-11 à R211-13)](#158)
-        - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-64)](#159)
-          - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#160)
-          - [Section 2 : Le parquet (art. R212-12 à R212-15)](#161)
-          - [Section 3 : Le greffe (art. D212-17-2 à R212-17-1)](#162)
-          - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#163)
-          - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#164)
-            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#165)
-            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R212-34 à R212-37-1)](#166)
-            - [Sous-section 3 : L'assemblée des magistrats du parquet (art. R212-38 à R212-40)](#167)
-            - [Sous-section 4 : L'assemblée des magistrats du siège et du parquet (art. R212-41 à R212-44)](#168)
-            - [Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome (art. R212-45 à R212-48)](#169)
-            - [Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R212-49 à R212-50)](#170)
-            - [Sous-section 7 :  La commission plénière (art. R212-51 à R212-54-1)](#171)
-            - [Sous-section 8 : La commission restreinte (art. R212-55 à R212-57)](#172)
-          - [Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance (art. R212-58 à R212-61)](#173)
-          - [Section 7 : Les pôles (art. R212-62)](#174)
-          - [Section 8 :  Le projet de juridiction (art. R212-63)](#175)
-          - [Section 9 :  Le conseil de juridiction (art. R212-64)](#176)
-        - [Chapitre III : Fonctions particulières (art. R213-1 à R213-13)](#177)
-          - [Section 1 : Fonctions particulières exercées en matière civile (art. R213-1 à R213-12-1)](#178)
-            - [Sous-section 1 : Le président du tribunal de grande instance (art. R213-1 à R213-6)](#179)
-            - [Sous-section 2 : Le juge de la mise en état (art. R213-7)](#180)
-            - [Sous-section 3 : Le juge aux affaires familiales (art. R213-8 à R213-9)](#181)
-            - [Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes (art. R213-9-1)](#182)
-            - [Sous-section 4 : Le juge de l'exécution (art. R213-10 à R213-12)](#183)
-            - [Sous-Section 5 : Le juge chargé de contrôler   l'exécution des mesures d'instruction (art. R213-12-1)](#184)
-          - [Section 2 : Fonctions particulières exercées en matière pénale (art. R213-13)](#185)
-        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. D214-5 à R214-6)](#186)
-        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R215-1 à R215-2)](#187)
-        - [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris (art. R217-1 à R217-6)](#188)
-      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. D221-1 à R224-1)](#189)
-        - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#190)
-          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45-1)](#191)
-            - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#192)
-              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#193)
-              - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#194)
-              - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39-1)](#195)
-              - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#196)
-            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45-1)](#197)
-          - [Section 2 : Compétence territoriale (art. R221-46 à R221-52)](#198)
-        - [Chapitre II : Organisation et fonctionnement (art. R222-1 à R222-41)](#199)
-          - [Section 1 : Le service juridictionnel (art. R222-1 à R222-4)](#200)
-          - [Section 3 : Le greffe (art. D222-7 à R222-9)](#201)
-          - [Section 4 : Les assemblées générales (art. R222-10 à R222-38)](#202)
-            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R222-11 à R222-21)](#203)
-            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R222-22 à R222-23)](#204)
-            - [Sous-section 3 : L'assemblée des magistrats du siège et du parquet (art. R222-24 à R222-27)](#205)
-            - [Sous-section 4 : L'assemblée des fonctionnaires du greffe (art. R222-28 à R222-29)](#206)
-            - [Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires (art. R222-30 à R222-31)](#207)
-            - [Sous-section 6 : La commission plénière (art. R222-32 à R222-35)](#208)
-            - [Sous-section 7 : La commission restreinte (art. R222-36 à R222-38)](#209)
-          - [Section 5 : La coordination des tribunaux d'instance (art. R222-39 à R222-41)](#210)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle (art. D223-2 à R223-13)](#211)
-          - [Section 1 : Institution et compétence (art. D223-2 à R223-1)](#212)
-          - [Section 2 : Organisation et fonctionnement (art. D223-3 à R223-13)](#213)
-            - [Sous-Section 1 : Le livre foncier (art. D223-3 à R223-7)](#214)
-            - [Sous-Section 2 : Le greffe (art. R223-10 à R223-13)](#215)
-        - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. R224-1)](#216)
-      - [TITRE III : LA JURIDICTION DE PROXIMITE (art. D231-1 à R232-10)](#217)
-        - [Chapitre Ier : Institution et compétence (art. D231-1 à R231-6)](#218)
-          - [Section 1 : Compétence matérielle (art. R231-3 à R231-5)](#219)
-            - [Sous-Section 1 : Compétence civile (art. R231-3 à R231-5)](#220)
-          - [Section 2 : Compétence territoriale (art. R231-6)](#221)
-        - [Chapitre II : Organisation et fonctionnement (art. R232-1 à R232-10)](#222)
-          - [Section 1 : Le service juridictionnel (art. R232-3)](#223)
-          - [Section 3 : Le greffe (art. R232-4)](#224)
-          - [Section 4 : Les assemblées générales (art. R232-5 à R232-10)](#225)
-            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R232-6)](#226)
-            - [Sous-Section 2 : L'assemblée des juges de proximité (art. R232-7 à R232-8)](#227)
-            - [Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet (art. R232-9 à R232-10)](#228)
-      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. D251-1 à R253-1)](#229)
-        - [Chapitre Ier : Le tribunal pour enfants (art. D251-1 à R251-13)](#230)
-          - [Section 1 : Institution et compétence (art. D251-1)](#231)
-          - [Section 2 : Organisation et fonctionnement (art. D251-2 à R251-13)](#232)
-        - [Chapitre II : Le juge des enfants (art. R252-1 à R252-2)](#233)
-          - [Section 1 : Institution et compétence (art. R252-1 à R252-2)](#234)
-        - [Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants (art. R253-1)](#235)
-    - [LIVRE III : JURIDICTIONS DU SECOND DEGRE (art. D311-1 à R314-7)](#236)
-      - [TITRE IER : LA COUR D'APPEL (art. D311-1 à R314-7)](#237)
-        - [Chapitre Ier : Compétence (art. D311-1 à D311-11)](#238)
-          - [Section 1 : Dispositions générales (art. D311-1 à R311-3)](#239)
-          - [Section 3 : Dispositions relatives au premier président (art. R311-4 à R311-5)](#240)
-          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. R311-6 à R311-7)](#241)
-          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. D311-8 à D311-11)](#242)
-        - [Chapitre II : Organisation et fonctionnement (art. R312-1 à R312-85)](#243)
-          - [Section 1 : Les formations de la cour d'appel (art. R312-1 à R312-13-2)](#244)
-            - [Sous-Section 1 : Dispositions générales (art. R312-1 à R312-8)](#245)
-            - [Sous-Section 2 : Dispositions particulières à certaines formations (art. R312-9 à R312-13-2)](#246)
-          - [Section 2 : Le parquet général (art. R312-14 à R312-18)](#247)
-          - [Section 3 : Le greffe (art. R312-19)](#248)
-          - [Section 5 : Les assemblées générales (art. R312-27 à R312-64)](#249)
-            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R312-28 à R312-38)](#250)
-            - [Sous-Section 2 : L'assemblée des magistrats du siège (art. R312-39 à R312-43)](#251)
-            - [Sous-Section 3 : L'assemblée des magistrats du parquet (art. R312-45 à R312-47)](#252)
-            - [Sous-Section 4 : L'assemblée des magistrats du siège et du parquet (art. R312-48 à R312-51)](#253)
-            - [Sous-Section 5 : L'assemblée des fonctionnaires du greffe (art. R312-52 à R312-55)](#254)
-            - [Sous-Section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R312-56 à R312-57)](#255)
-            - [Sous-Section 7 :  La commission plénière (art. R312-58 à R312-61-1)](#256)
-            - [Sous-Section 8 : La commission restreinte (art. R312-62 à R312-64)](#257)
-          - [Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel (art. D312-66 à R312-69-3)](#258)
-          - [Section 7 : Le service administratif régional (art. R312-70 à R312-82)](#259)
-            - [Sous-Section 1 : Missions (art. R312-70)](#260)
-            - [Sous-Section 2 : Organisation et fonctionnement (art. R312-71 à R312-76)](#261)
-            - [Sous-Section 3 : Assemblée des membres du service administratif régional (art. R312-77 à R312-82)](#262)
-          - [Section 8 : Les pôles (art. R312-83)](#263)
-          - [Section 9 :  Le projet de juridiction (art. R312-84)](#264)
-          - [Section 10 :  Le conseil de juridiction (art. R312-85)](#265)
-        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. D313-1 à R313-3)](#266)
-        - [Chapitre IV : Dispositions particulières au département de Mayotte (art. D314-1 à R314-7)](#267)
-    - [LIVRE IV : LA COUR DE CASSATION (art. R411-1 à R*461-1)](#268)
-      - [TITRE IER : INSTITUTION ET COMPETENCE (art. R411-1 à R411-7)](#269)
-        - [Chapitre unique (art. R411-1 à R411-7)](#270)
-      - [TITRE II : ORGANISATION (art. R421-1 à R421-10)](#271)
-        - [Chapitre unique (art. R421-1 à R421-10)](#272)
-      - [TITRE III : FONCTIONNEMENT (art. R431-1 à R435-3)](#273)
-        - [Chapitre Ier : Les chambres de la Cour (art. R431-1 à R431-14)](#274)
-          - [Section 1 : Dispositions générales (art. R431-1 à R431-10)](#275)
-          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. R431-11 à R431-14)](#276)
-        - [Chapitre II : Le parquet général (art. R432-1 à R432-4)](#277)
-        - [Chapitre III : Le service de documentation et d'études (art. R433-1 à R433-4)](#278)
-        - [Chapitre IV : Le greffe (art. R434-1 à R434-2)](#279)
-        - [Chapitre V : Les assemblées générales (art. R435-1 à R435-3)](#280)
-      - [TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE  POUR AVIS DE LA COUR DE CASSATION (art. R441-1)](#281)
-        - [Chapitre unique (art. R441-1)](#282)
-      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. R*461-1)](#283)
-    - [LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON,   A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE (art. R511-1 à R563-4)](#284)
-      - [TITRE IER : DISPOSITIONS PARTICULIERES  A SAINT-PIERRE-ET-MIQUELON (art. R511-1 à R513-12)](#285)
-        - [Chapitre Ier : Dispositions générales (art. R511-1)](#286)
-        - [Chapitre II : Des fonctions judiciaires (art. R512-1 à R512-7)](#287)
-        - [Chapitre III : Des juridictions (art. R513-1 à R513-12)](#288)
-          - [Section 1 : Le tribunal de première instance (art. R513-1 à R513-6)](#289)
-            - [Sous-Section 1 : Compétence (art. R513-1)](#290)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R513-2 à R513-6)](#291)
-          - [Section 2 : Le tribunal supérieur d'appel (art. R513-7 à R513-12)](#292)
-      - [TITRE III : DISPOSITIONS APPLICABLES A WALLIS ET FUTUNA (art. R531-1 à R533-4)](#293)
-        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#294)
-        - [Chapitre II : Des juridictions (art. D532-1 à R532-24)](#295)
-          - [Section 1 : Le tribunal de première instance (art. D532-2 à R532-23)](#296)
-            - [Sous-section 1 : Institution et compétence (art. D532-2 à R532-6)](#297)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R532-8 à R532-22)](#298)
-            - [Sous-section 3 : La commission  d'indemnisation des victimes d'infractions (art. R532-23)](#299)
-          - [Section 3 : Les juridictions des mineurs (art. R532-24)](#300)
-        - [Chapitre III : Du greffe (art. R533-1 à R533-4)](#301)
-      - [TITRE IV : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. R541-1)](#302)
-        - [Chapitre unique (art. R541-1)](#303)
-      - [TITRE V : DISPOSITIONS APPLICABLES  A LA POLYNESIE FRANCAISE (art. R551-1 à R553-4)](#304)
-        - [Chapitre Ier : Dispositions générales (art. R551-1 à R551-2)](#305)
-        - [Chapitre  II : Des juridictions (art. D552-1 à R552-35)](#306)
-          - [Section 1 : Le tribunal de première instance (art. D552-1 à R552-22-3)](#307)
-            - [Sous-section 1 : Institution et compétence (art. D552-1 à R552-6)](#308)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R552-8 à R552-22-3)](#309)
-              - [Paragraphe 1 : Le service juridictionnel (art. R552-9 à R552-13)](#310)
-              - [Paragraphe 2 : Le parquet (art. R552-14 à R552-15)](#311)
-              - [Paragraphe 3 : Les sections détachées (art. D552-17 à R552-20)](#312)
-              - [Paragraphe 4 : Les assemblées générales (art. R552-21)](#313)
-              - [Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance (art. R552-22)](#314)
-              - [Paragraphe 6 : Les pôles (art. R552-22-1)](#315)
-              - [Paragraphe 7 : Le projet de juridiction (art. R552-22-2)](#316)
-              - [Paragraphe 8 : Le conseil de juridiction (art. R552-22-3)](#317)
-          - [Section 2 : La cour d'appel (art. R552-23 à R552-27)](#318)
-            - [Sous-section 1 : Institution et compétence (art. R552-23)](#319)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R552-24 à R552-27)](#320)
-          - [Section 4 : Les juridictions des mineurs (art. R552-28 à R552-30)](#321)
-          - [Section 6 : Le tribunal du travail (art. R552-31 à R552-35)](#322)
-        - [Chapitre III : Du greffe (art. R553-1 à R553-4)](#323)
-      - [TITRE VI : DISPOSITIONS APPLICABLES  A LA NOUVELLE-CALEDONIE (art. R561-1 à R563-4)](#324)
-        - [Chapitre Ier : Dispositions générales (art. R561-1 à R561-2)](#325)
-        - [Chapitre II : Des juridictions (art. D562-1 à R562-44)](#326)
-          - [Section 1 : Le tribunal de première instance (art. D562-1 à R562-31-3)](#327)
-            - [Sous-section 1 : Institution et compétence (art. D562-1 à R562-6)](#328)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R562-8 à R562-31-3)](#329)
-              - [Paragraphe 1 : Le service juridictionnel (art. R562-9 à R562-22)](#330)
-              - [Paragraphe 2 : Le parquet (art. R562-23 à R562-24)](#331)
-              - [Paragraphe 3 : Les sections détachées (art. D562-26 à R562-29)](#332)
-              - [Paragraphe 4 : Les assemblées générales (art. R562-30)](#333)
-              - [Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance (art. R562-31)](#334)
-              - [Paragraphe 6 : Les pôles (art. R562-31-1)](#335)
-              - [Paragraphe 7 : Le projet de juridiction (art. R562-31-2)](#336)
-              - [Paragraphe 8 : Le conseil de juridiction (art. R562-31-3)](#337)
-          - [Section 2 : La cour d'appel (art. R562-32 à R562-36)](#338)
-            - [Sous-section 1 : Institution et compétence (art. R562-32)](#339)
-            - [Sous-section 2 : Organisation et fonctionnement (art. R562-33 à R562-36)](#340)
-          - [Section 4 : Les juridictions des mineurs (art. R562-37 à R562-39)](#341)
-          - [Section 6 : Le tribunal du travail (art. R562-40 à R562-44)](#342)
-        - [Chapitre III : Du greffe (art. R563-1 à R563-4)](#343)
-    - [Annexes (art. Annexe Tableau I à Tableau IV bis)](#344)
+        - [Chapitre III : Le greffe (art. L123-1 à L123-3)](#12)
+        - [Chapitre III bis : Les juristes assistants (art. L123-4)](#13)
+      - [TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE (art. L141-1 à L141-3)](#14)
+        - [Chapitre unique (art. L141-1 à L141-3)](#15)
+      - [TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE PUBLIC DE LA JUSTICE (art.  à L141-3)](#16)
+        - [Chapitre unique (art.  à L141-3)](#17)
+    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#18)
+      - [TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE (art. L211-1 à L217-4)](#19)
+        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-14)](#20)
+          - [Section 1 : Compétence matérielle (art. L 211-9-2 à L211-14)](#21)
+            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. L 211-9-2 à L211-9)](#22)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. L211-10 à L211-14)](#23)
+        - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-6)](#24)
+          - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5)](#25)
+          - [Section 2 : Le parquet (art. L212-6)](#26)
+        - [Chapitre III : Fonctions particulières (art. L213-1 à L213-11)](#27)
+          - [Section 1 : Fonctions particulières exercées en matière civile (art. L213-1 à L213-8)](#28)
+            - [Sous-section 1 : Le président du tribunal de grande instance (art. L213-1 à L213-2)](#29)
+            - [Sous-section 3 : Le juge aux affaires familiales (art. L213-3 à L213-4)](#30)
+            - [Sous-section 4 : Le juge de l'exécution (art. L213-5 à L213-7)](#31)
+            - [Sous-section 5 : Le juge des libertés et de la détention (art. L213-8)](#32)
+          - [Section 2 : Fonctions particulières exercées en matière pénale (art. L213-9 à L213-11)](#33)
+        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. L214-1 à L214-2)](#34)
+        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L215-1 à L215-2)](#35)
+        - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. L216-1 à L216-2)](#36)
+        - [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris (art. L217-1 à L217-4)](#37)
+      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. L221-1 à L223-8)](#38)
+        - [Chapitre Ier : Institution et compétence (art. L221-1 à L221-10)](#39)
+          - [Section 1 : Compétence matérielle (art. L221-4 à L221-10)](#40)
+            - [Sous-section 1 : Compétence civile du tribunal d'instance (art. L221-4 à L221-5)](#41)
+            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. L221-6 à L221-8-1)](#42)
+            - [Sous-section 3 : Compétence du juge des tutelles (art. L221-9)](#43)
+            - [Sous-section 4 : Compétence du tribunal de police (art. L221-10)](#44)
+        - [Chapitre II : Organisation et fonctionnement (art. L222-1 à L222-4)](#45)
+          - [Section 1 : Le service juridictionnel (art. L222-1 à L222-2)](#46)
+          - [Section 2 : Le ministère public (art. L222-3)](#47)
+          - [Section 3 : Le greffe (art. L222-4)](#48)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L223-1 à L223-8)](#49)
+      - [TITRE III : LA JURIDICTION DE PROXIMITÉ (art. L231-1 à L232-3)](#50)
+        - [Chapitre Ier : Institution et compétence (art. L231-1 à L231-6)](#51)
+          - [Section 1 : Compétence civile (art. L231-3 à L231-5)](#52)
+          - [Section 2 : Compétence pénale (art. L231-6)](#53)
+        - [Chapitre II : Organisation et fonctionnement (art. L232-1 à L232-3)](#54)
+          - [Section 1 : Le service juridictionnel (art. L232-1 à L232-2)](#55)
+          - [Section 2 : Le ministère public (art. L232-3)](#56)
+      - [TITRE IV : LA COUR D'ASSISES (art. L241-1)](#57)
+        - [Chapitre unique (art. L241-1)](#58)
+      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. L251-1 à L254-1)](#59)
+        - [Chapitre Ier : Le tribunal pour enfants (art. L251-1 à L251-6)](#60)
+          - [Section 1 : Institution et compétence (art. L251-1 à L251-2)](#61)
+          - [Section 2 : Organisation et fonctionnement (art. L251-3 à L251-6)](#62)
+        - [Chapitre Ier bis : Le tribunal correctionnel pour mineurs (art. L251-7 à L251-8)](#63)
+        - [Chapitre II : Le juge des enfants (art. L252-1 à L252-5)](#64)
+        - [Chapitre IV : La cour d'assises des mineurs (art. L254-1)](#65)
+      - [TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION (art. L261-1)](#66)
+        - [Chapitre unique (art. L261-1)](#67)
+    - [LIVRE III : JURIDICTIONS DU SECOND DEGRÉ (art. L311-1 à L331-1)](#68)
+      - [TITRE Ier : LA COUR D'APPEL (art. L311-1 à L314-1)](#69)
+        - [Chapitre Ier : Compétence (art. L311-1 à L311-14)](#70)
+          - [Section 1 : Dispositions générales (art. L311-1)](#71)
+          - [Section 2 : Dispositions particulières (art. L311-2 à L311-6)](#72)
+          - [Section 3 : Dispositions relatives au premier président (art. L311-7 à L311-7-1)](#73)
+          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. L311-8)](#74)
+          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. L311-10 à L311-14)](#75)
+        - [Chapitre II : Organisation et fonctionnement (art. L312-1 à L312-7)](#76)
+          - [Section 1 : Les formations de la cour d'appel (art. L312-1 à L312-6-1)](#77)
+            - [Sous-section 1 : Dispositions générales (art. L312-1 à L312-3)](#78)
+            - [Sous-section 2 : Dispositions particulières à certaines formations (art. L312-4 à L312-6-1)](#79)
+          - [Section 2 : Le parquet général (art. L312-7)](#80)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L313-1 à L313-2)](#81)
+        - [Chapitre IV : Dispositions particulières au Département de Mayotte (art. L314-1)](#82)
+      - [TITRE II : LA COUR D'ASSISES STATUANT EN APPEL (art. L321-1)](#83)
+        - [Chapitre unique (art. L321-1)](#84)
+      - [TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL (art. L331-1)](#85)
+        - [Chapitre unique (art. L331-1)](#86)
+    - [LIVRE IV : LA COUR DE CASSATION (art. L411-1 à LO461-2)](#87)
+      - [TITRE Ier : INSTITUTION ET COMPÉTENCE (art. L411-1 à L411-4)](#88)
+        - [Chapitre unique (art. L411-1 à L411-4)](#89)
+      - [TITRE II : ORGANISATION (art. L421-1 à L421-8)](#90)
+        - [Chapitre unique (art. L421-1 à L421-8)](#91)
+      - [TITRE III : FONCTIONNEMENT (art. L431-1 à L432-5)](#92)
+        - [Chapitre Ier : Les chambres de la cour (art. L431-1 à L431-10)](#93)
+          - [Section 1 : Dispositions générales (art. L431-1 à L431-4)](#94)
+          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. L431-5 à L431-10)](#95)
+        - [Chapitre II : Le parquet général (art. L432-1 à L432-5)](#96)
+      - [TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION (art. L 441-2-1 à L441-4)](#97)
+        - [Chapitre unique (art. L 441-2-1 à L441-4)](#98)
+      - [TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION (art.  à L451-2)](#99)
+        - [Chapitre unique (art.  à L441-4)](#100)
+        - [Chapitre Ier : Révision et réexamen en matière pénale (art. L451-1 à L451-2)](#101)
+      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. LO461-1 à LO461-2)](#102)
+    - [LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE (art. L511-1 à L563-1)](#103)
+      - [TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L511-1 à L513-11)](#104)
+        - [Chapitre Ier : Dispositions générales (art. L511-1)](#105)
+        - [Chapitre II : Des fonctions judiciaires (art. L512-1 à L512-4)](#106)
+        - [Chapitre III : Des juridictions (art. L513-1 à L513-11)](#107)
+          - [Section 1 : Le tribunal de première instance (art. L513-1 à L513-5-1)](#108)
+          - [Section 2 : Le tribunal supérieur d'appel (art. L513-6 à L513-11)](#109)
+      - [TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA (art. L531-1 à L533-1)](#110)
+        - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#111)
+        - [Chapitre II : Des juridictions (art. L532-1 à L532-28)](#112)
+          - [Section 1 : Le tribunal de première instance (art. L532-1 à L532-18)](#113)
+          - [Section 2 : La juridiction de proximité (art. L532-19 à L532-24)](#114)
+          - [Section 3 : Les juridictions des mineurs (art. L532-25 à L532-26)](#115)
+          - [Section 4 : La cour d'assises (art. L532-27 à L532-28)](#116)
+        - [Chapitre III : Du greffe (art. L533-1)](#117)
+      - [TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE (art. L551-1 à L553-1)](#118)
+        - [Chapitre Ier : Dispositions générales (art. L551-1 à L551-2)](#119)
+        - [Chapitre II : Des juridictions (art. L552-1 à L552-21)](#120)
+          - [Section 1 : Le tribunal de première instance (art. L552-1 à L552-9-11)](#121)
+            - [Sous-section 1 : Dispositions générales (art. L552-1 à L552-9)](#122)
+            - [Sous-section 2 : Dispositions spécifiques au tribunal foncier (art. L552-9-1 à L552-9-11)](#123)
+          - [Section 2 : La cour d'appel (art. L552-10 à L552-12)](#124)
+          - [Section 3 : La juridiction de proximité (art. L552-13 à L552-18)](#125)
+          - [Section 4 : Les juridictions des mineurs (art. L552-19)](#126)
+          - [Section 5 : La cour d'assises (art. L552-20 à L552-21)](#127)
+        - [Chapitre III : Du greffe (art. L553-1)](#128)
+      - [TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE (art. L561-1 à L563-1)](#129)
+        - [Chapitre Ier : Dispositions générales (art. L561-1 à L561-2)](#130)
+        - [Chapitre II : Des juridictions (art. L562-1 à L562-37)](#131)
+          - [Section 1 : Le tribunal de première instance (art. L562-1 à L562-24-1)](#132)
+          - [Section 2 : La cour d'appel (art. L562-25 à L562-28)](#133)
+          - [Section 3 : La juridiction de proximité (art. L562-29 à L562-34)](#134)
+          - [Section 4 : Les juridictions des mineurs (art. L562-35)](#135)
+          - [Section 5 : La cour d'assises (art. L562-36 à L562-37)](#136)
+        - [Chapitre III : Du greffe (art. L563-1)](#137)
+  - [Partie réglementaire (art. R111-1 à Tableau IV bis)](#138)
+    - [LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES (art. R111-1 à R131-12)](#139)
+      - [TITRE IER : PRINCIPES GENERAUX (art. R111-1 à R111-9)](#140)
+        - [Chapitre Ier : Dispositions générales (art. R111-1 à R111-8)](#141)
+        - [Chapitre II : Le règlement des conflits de compétence entre les ordres de juridiction (art. R111-9)](#142)
+      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-2)](#143)
+        - [Chapitre Ier : Les juges (art. R121-1 à R121-5)](#144)
+          - [Section 2 : Le service juridictionnel (art. R121-1 à R121-5)](#145)
+        - [Chapitre II : Le ministère public (art. R122-1 à R122-5)](#146)
+          - [Section 1 : Organisation (art. R122-1)](#147)
+          - [Section 2 : Fonctionnement (art. R122-2 à R122-5)](#148)
+        - [Chapitre III : Le greffe (art. R123-1 à R123-25)](#149)
+          - [Section 1 : Organisation (art. R123-1 à R123-2)](#150)
+          - [Section 2 : Fonctionnement (art. R123-3 à R123-19)](#151)
+          - [Section 3 : Régies (art. R123-20 à R123-25)](#152)
+        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-2)](#153)
+      - [TITRE III : MAISONS DE JUSTICE ET DU DROIT (art. R131-1 à R131-11)](#154)
+        - [Chapitre unique (art. R131-1 à R131-11)](#155)
+      - [TITRE V : CONCILIATEURS DE JUSTICE (art. R131-12)](#156)
+    - [LIVRE II : JURIDICTIONS DU PREMIER DEGRE (art. D211-1 à R253-1)](#157)
+      - [TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE (art. D211-1 à R217-6)](#158)
+        - [Chapitre Ier : Institution et compétence (art. D211-1 à R211-13)](#159)
+          - [Section 1 : Compétence matérielle (art. R211-3 à R211-7-1)](#160)
+            - [Sous-section 1 : Compétence commune à tous les tribunaux de grande instance (art. R211-3 à R211-4)](#161)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux de grande instance (art. D211-5 à R211-7-1)](#162)
+          - [Section 2 : Compétence territoriale (art. R211-11 à R211-13)](#163)
+        - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-64)](#164)
+          - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#165)
+          - [Section 2 : Le parquet (art. R212-12 à R212-15)](#166)
+          - [Section 3 : Le greffe (art. D212-17-2 à R212-17-1)](#167)
+          - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#168)
+          - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#169)
+            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#170)
+            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R212-34 à R212-37-1)](#171)
+            - [Sous-section 3 : L'assemblée des magistrats du parquet (art. R212-38 à R212-40)](#172)
+            - [Sous-section 4 : L'assemblée des magistrats du siège et du parquet (art. R212-41 à R212-44)](#173)
+            - [Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome (art. R212-45 à R212-48)](#174)
+            - [Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R212-49 à R212-50)](#175)
+            - [Sous-section 7 :  La commission plénière (art. R212-51 à R212-54-1)](#176)
+            - [Sous-section 8 : La commission restreinte (art. R212-55 à R212-57)](#177)
+          - [Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance (art. R212-58 à R212-61)](#178)
+          - [Section 7 : Les pôles (art. R212-62)](#179)
+          - [Section 8 :  Le projet de juridiction (art. R212-63)](#180)
+          - [Section 9 :  Le conseil de juridiction (art. R212-64)](#181)
+        - [Chapitre III : Fonctions particulières (art. R213-1 à R213-13)](#182)
+          - [Section 1 : Fonctions particulières exercées en matière civile (art. R213-1 à R213-12-1)](#183)
+            - [Sous-section 1 : Le président du tribunal de grande instance (art. R213-1 à R213-6)](#184)
+            - [Sous-section 2 : Le juge de la mise en état (art. R213-7)](#185)
+            - [Sous-section 3 : Le juge aux affaires familiales (art. R213-8 à R213-9)](#186)
+            - [Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes (art. R213-9-1)](#187)
+            - [Sous-section 4 : Le juge de l'exécution (art. R213-10 à R213-12)](#188)
+            - [Sous-Section 5 : Le juge chargé de contrôler   l'exécution des mesures d'instruction (art. R213-12-1)](#189)
+          - [Section 2 : Fonctions particulières exercées en matière pénale (art. R213-13)](#190)
+        - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. D214-5 à R214-6)](#191)
+        - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R215-1 à R215-2)](#192)
+        - [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris (art. R217-1 à R217-6)](#193)
+      - [TITRE II : LE TRIBUNAL D'INSTANCE (art. D221-1 à R224-1)](#194)
+        - [Chapitre Ier : Institution et compétence (art. D221-1 à R221-52)](#195)
+          - [Section 1 : Compétence matérielle (art. R221-3 à R221-45-1)](#196)
+            - [Sous-section 1 : Compétence civile du  tribunal d'instance (art. R221-3 à R221-40)](#197)
+              - [Paragraphe 1 : Compétence à charge d'appel (art. R221-3 à R221-22-1)](#198)
+              - [Paragraphe 2 : Compétence en dernier ressort (art. R221-23 à R221-36)](#199)
+              - [Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande (art. R221-37 à R221-39-1)](#200)
+              - [Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense (art. R221-40)](#201)
+            - [Sous-section 2 : Compétence du juge du tribunal d'instance (art. R221-41 à R221-45-1)](#202)
+          - [Section 2 : Compétence territoriale (art. R221-46 à R221-52)](#203)
+        - [Chapitre II : Organisation et fonctionnement (art. R222-1 à R222-41)](#204)
+          - [Section 1 : Le service juridictionnel (art. R222-1 à R222-4)](#205)
+          - [Section 3 : Le greffe (art. D222-7 à R222-9)](#206)
+          - [Section 4 : Les assemblées générales (art. R222-10 à R222-38)](#207)
+            - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R222-11 à R222-21)](#208)
+            - [Sous-section 2 : L'assemblée des magistrats du siège (art. R222-22 à R222-23)](#209)
+            - [Sous-section 3 : L'assemblée des magistrats du siège et du parquet (art. R222-24 à R222-27)](#210)
+            - [Sous-section 4 : L'assemblée des fonctionnaires du greffe (art. R222-28 à R222-29)](#211)
+            - [Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires (art. R222-30 à R222-31)](#212)
+            - [Sous-section 6 : La commission plénière (art. R222-32 à R222-35)](#213)
+            - [Sous-section 7 : La commission restreinte (art. R222-36 à R222-38)](#214)
+          - [Section 5 : La coordination des tribunaux d'instance (art. R222-39 à R222-41)](#215)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle (art. D223-2 à R223-13)](#216)
+          - [Section 1 : Institution et compétence (art. D223-2 à R223-1)](#217)
+          - [Section 2 : Organisation et fonctionnement (art. D223-3 à R223-13)](#218)
+            - [Sous-Section 1 : Le livre foncier (art. D223-3 à R223-7)](#219)
+            - [Sous-Section 2 : Le greffe (art. R223-10 à R223-13)](#220)
+        - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. R224-1)](#221)
+      - [TITRE III : LA JURIDICTION DE PROXIMITE (art. D231-1 à R232-10)](#222)
+        - [Chapitre Ier : Institution et compétence (art. D231-1 à R231-6)](#223)
+          - [Section 1 : Compétence matérielle (art. R231-3 à R231-5)](#224)
+            - [Sous-Section 1 : Compétence civile (art. R231-3 à R231-5)](#225)
+          - [Section 2 : Compétence territoriale (art. R231-6)](#226)
+        - [Chapitre II : Organisation et fonctionnement (art. R232-1 à R232-10)](#227)
+          - [Section 1 : Le service juridictionnel (art. R232-3)](#228)
+          - [Section 3 : Le greffe (art. R232-4)](#229)
+          - [Section 4 : Les assemblées générales (art. R232-5 à R232-10)](#230)
+            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R232-6)](#231)
+            - [Sous-Section 2 : L'assemblée des juges de proximité (art. R232-7 à R232-8)](#232)
+            - [Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet (art. R232-9 à R232-10)](#233)
+      - [TITRE V : LES JURIDICTIONS DES MINEURS (art. D251-1 à R253-1)](#234)
+        - [Chapitre Ier : Le tribunal pour enfants (art. D251-1 à R251-13)](#235)
+          - [Section 1 : Institution et compétence (art. D251-1)](#236)
+          - [Section 2 : Organisation et fonctionnement (art. D251-2 à R251-13)](#237)
+        - [Chapitre II : Le juge des enfants (art. R252-1 à R252-2)](#238)
+          - [Section 1 : Institution et compétence (art. R252-1 à R252-2)](#239)
+        - [Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants (art. R253-1)](#240)
+    - [LIVRE III : JURIDICTIONS DU SECOND DEGRE (art. D311-1 à R314-7)](#241)
+      - [TITRE IER : LA COUR D'APPEL (art. D311-1 à R314-7)](#242)
+        - [Chapitre Ier : Compétence (art. D311-1 à D311-11)](#243)
+          - [Section 1 : Dispositions générales (art. D311-1 à R311-3)](#244)
+          - [Section 3 : Dispositions relatives au premier président (art. R311-4 à R311-5)](#245)
+          - [Section 4 : Dispositions particulières à certaines chambres de la cour d'appel (art. R311-6 à R311-7)](#246)
+          - [Section 5 : Dispositions particulières à certaines cours d'appel (art. D311-8 à D311-11)](#247)
+        - [Chapitre II : Organisation et fonctionnement (art. R312-1 à R312-85)](#248)
+          - [Section 1 : Les formations de la cour d'appel (art. R312-1 à R312-13-2)](#249)
+            - [Sous-Section 1 : Dispositions générales (art. R312-1 à R312-8)](#250)
+            - [Sous-Section 2 : Dispositions particulières à certaines formations (art. R312-9 à R312-13-2)](#251)
+          - [Section 2 : Le parquet général (art. R312-14 à R312-18)](#252)
+          - [Section 3 : Le greffe (art. R312-19)](#253)
+          - [Section 5 : Les assemblées générales (art. R312-27 à R312-64)](#254)
+            - [Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R312-28 à R312-38)](#255)
+            - [Sous-Section 2 : L'assemblée des magistrats du siège (art. R312-39 à R312-43)](#256)
+            - [Sous-Section 3 : L'assemblée des magistrats du parquet (art. R312-45 à R312-47)](#257)
+            - [Sous-Section 4 : L'assemblée des magistrats du siège et du parquet (art. R312-48 à R312-51)](#258)
+            - [Sous-Section 5 : L'assemblée des fonctionnaires du greffe (art. R312-52 à R312-55)](#259)
+            - [Sous-Section 6 : L'assemblée plénière des magistrats et des fonctionnaires (art. R312-56 à R312-57)](#260)
+            - [Sous-Section 7 :  La commission plénière (art. R312-58 à R312-61-1)](#261)
+            - [Sous-Section 8 : La commission restreinte (art. R312-62 à R312-64)](#262)
+          - [Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel (art. D312-66 à R312-69-3)](#263)
+          - [Section 7 : Le service administratif régional (art. R312-70 à R312-82)](#264)
+            - [Sous-Section 1 : Missions (art. R312-70)](#265)
+            - [Sous-Section 2 : Organisation et fonctionnement (art. R312-71 à R312-76)](#266)
+            - [Sous-Section 3 : Assemblée des membres du service administratif régional (art. R312-77 à R312-82)](#267)
+          - [Section 8 : Les pôles (art. R312-83)](#268)
+          - [Section 9 :  Le projet de juridiction (art. R312-84)](#269)
+          - [Section 10 :  Le conseil de juridiction (art. R312-85)](#270)
+        - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. D313-1 à R313-3)](#271)
+        - [Chapitre IV : Dispositions particulières au département de Mayotte (art. D314-1 à R314-7)](#272)
+    - [LIVRE IV : LA COUR DE CASSATION (art. R411-1 à R*461-1)](#273)
+      - [TITRE IER : INSTITUTION ET COMPETENCE (art. R411-1 à R411-7)](#274)
+        - [Chapitre unique (art. R411-1 à R411-7)](#275)
+      - [TITRE II : ORGANISATION (art. R421-1 à R421-10)](#276)
+        - [Chapitre unique (art. R421-1 à R421-10)](#277)
+      - [TITRE III : FONCTIONNEMENT (art. R431-1 à R435-3)](#278)
+        - [Chapitre Ier : Les chambres de la Cour (art. R431-1 à R431-14)](#279)
+          - [Section 1 : Dispositions générales (art. R431-1 à R431-10)](#280)
+          - [Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière (art. R431-11 à R431-14)](#281)
+        - [Chapitre II : Le parquet général (art. R432-1 à R432-4)](#282)
+        - [Chapitre III : Le service de documentation et d'études (art. R433-1 à R433-4)](#283)
+        - [Chapitre IV : Le greffe (art. R434-1 à R434-2)](#284)
+        - [Chapitre V : Les assemblées générales (art. R435-1 à R435-3)](#285)
+      - [TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE  POUR AVIS DE LA COUR DE CASSATION (art. R441-1)](#286)
+        - [Chapitre unique (art. R441-1)](#287)
+      - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ (art. R*461-1)](#288)
+    - [LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON,   A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE (art. R511-1 à R563-4)](#289)
+      - [TITRE IER : DISPOSITIONS PARTICULIERES  A SAINT-PIERRE-ET-MIQUELON (art. R511-1 à R513-12)](#290)
+        - [Chapitre Ier : Dispositions générales (art. R511-1)](#291)
+        - [Chapitre II : Des fonctions judiciaires (art. R512-1 à R512-7)](#292)
+        - [Chapitre III : Des juridictions (art. R513-1 à R513-12)](#293)
+          - [Section 1 : Le tribunal de première instance (art. R513-1 à R513-6)](#294)
+            - [Sous-Section 1 : Compétence (art. R513-1)](#295)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R513-2 à R513-6)](#296)
+          - [Section 2 : Le tribunal supérieur d'appel (art. R513-7 à R513-12)](#297)
+      - [TITRE III : DISPOSITIONS APPLICABLES A WALLIS ET FUTUNA (art. R531-1 à R533-4)](#298)
+        - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#299)
+        - [Chapitre II : Des juridictions (art. D532-1 à R532-24)](#300)
+          - [Section 1 : Le tribunal de première instance (art. D532-2 à R532-23)](#301)
+            - [Sous-section 1 : Institution et compétence (art. D532-2 à R532-6)](#302)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R532-8 à R532-22)](#303)
+            - [Sous-section 3 : La commission  d'indemnisation des victimes d'infractions (art. R532-23)](#304)
+          - [Section 3 : Les juridictions des mineurs (art. R532-24)](#305)
+        - [Chapitre III : Du greffe (art. R533-1 à R533-4)](#306)
+      - [TITRE IV : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. R541-1)](#307)
+        - [Chapitre unique (art. R541-1)](#308)
+      - [TITRE V : DISPOSITIONS APPLICABLES  A LA POLYNESIE FRANCAISE (art. R551-1 à R553-4)](#309)
+        - [Chapitre Ier : Dispositions générales (art. R551-1 à R551-2)](#310)
+        - [Chapitre  II : Des juridictions (art. D552-1 à R552-35)](#311)
+          - [Section 1 : Le tribunal de première instance (art. D552-1 à R552-22-3)](#312)
+            - [Sous-section 1 : Institution et compétence (art. D552-1 à R552-6)](#313)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R552-8 à R552-22-3)](#314)
+              - [Paragraphe 1 : Le service juridictionnel (art. R552-9 à R552-13)](#315)
+              - [Paragraphe 2 : Le parquet (art. R552-14 à R552-15)](#316)
+              - [Paragraphe 3 : Les sections détachées (art. D552-17 à R552-20)](#317)
+              - [Paragraphe 4 : Les assemblées générales (art. R552-21)](#318)
+              - [Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance (art. R552-22)](#319)
+              - [Paragraphe 6 : Les pôles (art. R552-22-1)](#320)
+              - [Paragraphe 7 : Le projet de juridiction (art. R552-22-2)](#321)
+              - [Paragraphe 8 : Le conseil de juridiction (art. R552-22-3)](#322)
+          - [Section 2 : La cour d'appel (art. R552-23 à R552-27)](#323)
+            - [Sous-section 1 : Institution et compétence (art. R552-23)](#324)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R552-24 à R552-27)](#325)
+          - [Section 4 : Les juridictions des mineurs (art. R552-28 à R552-30)](#326)
+          - [Section 6 : Le tribunal du travail (art. R552-31 à R552-35)](#327)
+        - [Chapitre III : Du greffe (art. R553-1 à R553-4)](#328)
+      - [TITRE VI : DISPOSITIONS APPLICABLES  A LA NOUVELLE-CALEDONIE (art. R561-1 à R563-4)](#329)
+        - [Chapitre Ier : Dispositions générales (art. R561-1 à R561-2)](#330)
+        - [Chapitre II : Des juridictions (art. D562-1 à R562-44)](#331)
+          - [Section 1 : Le tribunal de première instance (art. D562-1 à R562-31-3)](#332)
+            - [Sous-section 1 : Institution et compétence (art. D562-1 à R562-6)](#333)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R562-8 à R562-31-3)](#334)
+              - [Paragraphe 1 : Le service juridictionnel (art. R562-9 à R562-22)](#335)
+              - [Paragraphe 2 : Le parquet (art. R562-23 à R562-24)](#336)
+              - [Paragraphe 3 : Les sections détachées (art. D562-26 à R562-29)](#337)
+              - [Paragraphe 4 : Les assemblées générales (art. R562-30)](#338)
+              - [Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance (art. R562-31)](#339)
+              - [Paragraphe 6 : Les pôles (art. R562-31-1)](#340)
+              - [Paragraphe 7 : Le projet de juridiction (art. R562-31-2)](#341)
+              - [Paragraphe 8 : Le conseil de juridiction (art. R562-31-3)](#342)
+          - [Section 2 : La cour d'appel (art. R562-32 à R562-36)](#343)
+            - [Sous-section 1 : Institution et compétence (art. R562-32)](#344)
+            - [Sous-section 2 : Organisation et fonctionnement (art. R562-33 à R562-36)](#345)
+          - [Section 4 : Les juridictions des mineurs (art. R562-37 à R562-39)](#346)
+          - [Section 6 : Le tribunal du travail (art. R562-40 à R562-44)](#347)
+        - [Chapitre III : Du greffe (art. R563-1 à R563-4)](#348)
+    - [Annexes (art. Annexe Tableau I à Tableau IV bis)](#349)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES<a id=2></a>
@@ -370,17 +375,19 @@ _Créé par_:
 
 ###### Article L111-2
 
-La gratuité du service de la justice est assurée selon les modalités fixées par la loi et le règlement.
+Le service public de la justice concourt à l'accès au droit et assure un égal accès à la justice.
+
+Sa gratuité est assurée selon les modalités fixées par la loi et le règlement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 1
 
 
 ###### Article L111-3
@@ -404,17 +411,17 @@ _Cité par_:
 
 ###### Article L111-4
 
-La permanence et la continuité du service de la justice demeurent toujours assurées.
+La permanence et la continuité du service public de la justice demeurent toujours assurées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 1
 
 
 ###### Article L111-5
@@ -436,36 +443,39 @@ _Créé par_:
 
 ###### Article L111-6
 
-Sous réserve de dispositions particulières à certaines juridictions, la récusation d'un juge peut être demandée :
+Sous réserve de dispositions particulières à certaines juridictions, la récusation d'un juge peut être demandée : 
 
-1° Si lui-même ou son conjoint a un intérêt personnel à la contestation ;
+1° Si lui-même ou son conjoint a un intérêt personnel à la contestation ; 
 
-2° Si lui-même ou son conjoint est créancier, débiteur, héritier présomptif ou donataire de l'une des parties ;
+2° Si lui-même ou son conjoint est créancier, débiteur, héritier présomptif ou donataire de l'une des parties ; 
 
 3° Si lui-même ou son conjoint est parent ou allié de l'une des parties ou de son conjoint jusqu'au quatrième degré
-inclusivement ;
+inclusivement ; 
 
-4° S'il y a eu ou s'il y a procès entre lui ou son conjoint et l'une des parties ou son conjoint ;
+4° S'il y a eu ou s'il y a procès entre lui ou son conjoint et l'une des parties ou son conjoint ; 
 
-5° S'il a précédemment connu de l'affaire comme juge ou comme arbitre ou s'il a conseillé l'une des parties ;
+5° S'il a précédemment connu de l'affaire comme juge ou comme arbitre ou s'il a conseillé l'une des parties ; 
 
-6° Si le juge ou son conjoint est chargé d'administrer les biens de l'une des parties ;
+6° Si le juge ou son conjoint est chargé d'administrer les biens de l'une des parties ; 
 
-7° S'il existe un lien de subordination entre le juge ou son conjoint et l'une des parties ou son conjoint ;
+7° S'il existe un lien de subordination entre le juge ou son conjoint et l'une des parties ou son conjoint ; 
 
-8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
+8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties ; 
+
+9° S'il existe un conflit d'intérêts, au sens de l'article 7-1 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi
+organique relative au statut de la magistrature. 
 
 Les magistrats du ministère public, partie jointe, peuvent être récusés dans les mêmes cas.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 7-1 (V)
+
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
-
-_Créé par_:
-
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
 _Cité par_:
 
@@ -479,25 +489,33 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R242-100 (V)
   - Code rural et de la pêche maritime - art. R242-94 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 18
 
 
 ###### Article L111-7
 
 Le juge qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer par un
-autre juge spécialement désigné.
+autre juge spécialement désigné. 
+
+Le magistrat du ministère public qui suppose en sa personne un conflit d'intérêts, au sens de l'article 7-1 de l'ordonnance
+n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature, ou estime en conscience devoir
+s'abstenir se fait remplacer.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 7-1 (V)
+
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 18
 
 
 ###### Article L111-8
@@ -945,13 +963,61 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L261-1 (V)
 
 
-### TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE<a id=13></a>
+###### Article L123-3
 
-#### Chapitre unique<a id=14></a>
+Il est institué un service d'accueil unique du justiciable dont la compétence s'étend au delà de celle de la juridiction où
+il est implanté. Le service informe les personnes sur les procédures qui les concernent et reçoit de leur part des actes
+afférents à ces procédures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 2
+
+_Cité par_:
+
+  - Décret n°2017-897 du 9 mai 2017 - art. 2
+  - Code de procédure pénale - art. R15-33-66-8 (V)
+  - Code du travail - art. R1423-50-1 (V)
+
+
+#### Chapitre III bis : Les juristes assistants<a id=13></a>
+
+###### Article L123-4
+
+Des juristes assistants sont institués auprès des juridictions. Peuvent être nommées en qualité de juristes assistants auprès
+des magistrats des tribunaux d'instance, des tribunaux de grande instance et de première instance, des cours d'appel ainsi
+qu'à la Cour de cassation les personnes titulaires d'un diplôme de doctorat en droit ou sanctionnant une formation juridique
+au moins égale à cinq années d'études supérieures après le baccalauréat avec deux années d'expérience professionnelle dans le
+domaine juridique et que leur compétence qualifie particulièrement pour exercer ces fonctions. Ces juristes assistants sont
+nommés, à temps partiel ou complet, pour une durée maximale de trois années, renouvelable une fois. Ils sont tenus au secret
+professionnel et peuvent accéder aux dossiers de procédure pour l'exercice des tâches qui leur sont confiées. Un décret en
+Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 18 avril 2013 - art. 2 (V)
+  - Arrêté du 3 juillet 2014 - art. 1 (V)
+  - Arrêté du 9 décembre 2016 - art. 3
+  - Arrêté du 29 mai 2018 - art. 2
+  - Code de l'organisation judiciaire - art. R123-30 (V)
+  - Code de procédure pénale - art. R15-33-66-8 (V)
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 24
+
+
+### TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE DE LA JUSTICE<a id=14></a>
+
+#### Chapitre unique<a id=15></a>
 
 ###### Article L141-1
 
-L'Etat est tenu de réparer le dommage causé par le fonctionnement défectueux du service de la justice.
+L'Etat est tenu de réparer le dommage causé par le fonctionnement défectueux du service public de la justice.
 
 Sauf dispositions particulières, cette responsabilité n'est engagée que par une faute lourde ou par un déni de justice.
 
@@ -959,15 +1025,11 @@ Sauf dispositions particulières, cette responsabilité n'est engagée que par u
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1, alinéa 1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 1
 
 _Cité par_:
 
@@ -1029,11 +1091,15 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1, alinéas 3 et 4 (Ab)
 
 
-## LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ<a id=15></a>
+### TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE PUBLIC DE LA JUSTICE<a id=16></a>
 
-### TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE<a id=16></a>
+#### Chapitre unique<a id=17></a>
 
-#### Chapitre Ier : Institution et compétence<a id=17></a>
+## LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ<a id=18></a>
+
+### TITRE Ier : LE TRIBUNAL DE GRANDE INSTANCE<a id=19></a>
+
+#### Chapitre Ier : Institution et compétence<a id=20></a>
 
 ###### Article L211-1
 
@@ -1078,9 +1144,25 @@ _Cité par_:
   - Code de procédure civile - art. 1210-4 (V)
 
 
-##### Section 1 : Compétence matérielle<a id=18></a>
+##### Section 1 : Compétence matérielle<a id=21></a>
 
-##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=19></a>
+##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=22></a>
+
+###### Article L 211-9-2
+
+Le tribunal de grande instance connaît des actions de groupe définies au chapitre III du titre II du livre VI du code de la
+consommation et par la loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 84
+
+_Cite_:
+
+  - Code de la consommation -  Chapitre III : Action de groupe (V)
+
 
 ###### Article L211-3
 
@@ -1227,7 +1309,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1, alinéa 2, ecqc compétence (Ab)
 
 
-##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=20></a>
+##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=23></a>
 
 ###### Article L211-10
 
@@ -1366,29 +1448,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R213-5-1 (V)
 
 
-###### Article L211-15
+#### Chapitre II : Organisation et fonctionnement<a id=24></a>
 
-Les tribunaux de grande instance connaissent des actions de groupe définies au chapitre III du titre II du livre IV du code
-de la consommation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
-
-_Abrogé par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 84
-
-_Cité par_:
-
-  - Code de l'organisation judiciaire - art. L532-2 (M)
-
-
-#### Chapitre II : Organisation et fonctionnement<a id=21></a>
-
-##### Section 1 : Le service juridictionnel<a id=22></a>
+##### Section 1 : Le service juridictionnel<a id=25></a>
 
 ###### Article L212-1
 
@@ -1512,7 +1574,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1, alinéa 2 (Ab)
 
 
-##### Section 2 : Le parquet<a id=23></a>
+##### Section 2 : Le parquet<a id=26></a>
 
 ###### Article L212-6
 
@@ -1538,11 +1600,11 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L217-2 (VD)
 
 
-#### Chapitre III : Fonctions particulières<a id=24></a>
+#### Chapitre III : Fonctions particulières<a id=27></a>
 
-##### Section 1 : Fonctions particulières exercées en matière civile<a id=25></a>
+##### Section 1 : Fonctions particulières exercées en matière civile<a id=28></a>
 
-##### Sous-section 1 : Le président du tribunal de grande instance<a id=26></a>
+##### Sous-section 1 : Le président du tribunal de grande instance<a id=29></a>
 
 ###### Article L213-1
 
@@ -1582,7 +1644,7 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-##### Sous-section 3 : Le juge aux affaires familiales<a id=27></a>
+##### Sous-section 3 : Le juge aux affaires familiales<a id=30></a>
 
 ###### Article L213-3
 
@@ -1696,7 +1758,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L213-3 (V)
 
 
-##### Sous-section 4 : Le juge de l'exécution<a id=28></a>
+##### Sous-section 4 : Le juge de l'exécution<a id=31></a>
 
 ###### Article L213-5
 
@@ -1783,7 +1845,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 ecqc phrase 2 (Ab)
 
 
-##### Sous-section 5 : Le juge des libertés et de la détention<a id=29></a>
+##### Sous-section 5 : Le juge des libertés et de la détention<a id=32></a>
 
 ###### Article L213-8
 
@@ -1804,7 +1866,7 @@ _Cité par_:
   - Code de procédure civile - art. 346 (V)
 
 
-##### Section 2 : Fonctions particulières exercées en matière pénale<a id=30></a>
+##### Section 2 : Fonctions particulières exercées en matière pénale<a id=33></a>
 
 ###### Article L213-9
 
@@ -1888,7 +1950,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-1 (Ab)
 
 
-#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=31></a>
+#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=34></a>
 
 ###### Article L214-1
 
@@ -1954,7 +2016,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L532-17-1 (V)
 
 
-#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=32></a>
+#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=35></a>
 
 ###### Article L215-1
 
@@ -1995,7 +2057,7 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-#### Chapitre VI : Dispositions particulières au Département de Mayotte<a id=33></a>
+#### Chapitre VI : Dispositions particulières au Département de Mayotte<a id=36></a>
 
 ###### Article L216-1
 
@@ -2021,7 +2083,7 @@ _Créé par_:
   - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
 
 
-#### Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris<a id=34></a>
+#### Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris<a id=37></a>
 
 ###### Article L217-1
 
@@ -2080,9 +2142,9 @@ _Créé par_:
   - Loi n°2013-1117 du 6 décembre 2013 - art. 69
 
 
-### TITRE II : LE TRIBUNAL D'INSTANCE<a id=35></a>
+### TITRE II : LE TRIBUNAL D'INSTANCE<a id=38></a>
 
-#### Chapitre Ier : Institution et compétence<a id=36></a>
+#### Chapitre Ier : Institution et compétence<a id=39></a>
 
 ###### Article L221-1
 
@@ -2139,9 +2201,9 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
-##### Section 1 : Compétence matérielle<a id=37></a>
+##### Section 1 : Compétence matérielle<a id=40></a>
 
-##### Sous-section 1 : Compétence civile du tribunal d'instance<a id=38></a>
+##### Sous-section 1 : Compétence civile du tribunal d'instance<a id=41></a>
 
 ###### Article L221-4
 
@@ -2207,7 +2269,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L321-2-4 (Ab)
 
 
-##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=39></a>
+##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=42></a>
 
 ###### Article L221-6
 
@@ -2306,7 +2368,7 @@ _Cité par_:
   - Code de la consommation - art. R713-1 (V)
 
 
-##### Sous-section 3 : Compétence du juge des tutelles<a id=40></a>
+##### Sous-section 3 : Compétence du juge des tutelles<a id=43></a>
 
 ###### Article L221-9
 
@@ -2335,7 +2397,7 @@ _Cite_:
   - Code civil -  Section 6 : De l'habilitation familiale (V)
 
 
-##### Sous-section 4 : Compétence du tribunal de police<a id=41></a>
+##### Sous-section 4 : Compétence du tribunal de police<a id=44></a>
 
 ###### Article L221-10
 
@@ -2357,9 +2419,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L623-1, alinéa 2 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=42></a>
+#### Chapitre II : Organisation et fonctionnement<a id=45></a>
 
-##### Section 1 : Le service juridictionnel<a id=43></a>
+##### Section 1 : Le service juridictionnel<a id=46></a>
 
 ###### Article L222-1
 
@@ -2405,7 +2467,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-34 (Ab)
 
 
-##### Section 2 : Le ministère public<a id=44></a>
+##### Section 2 : Le ministère public<a id=47></a>
 
 ###### Article L222-3
 
@@ -2431,7 +2493,29 @@ _Cite_:
   - Code de procédure pénale - art. 45
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=45></a>
+##### Section 3 : Le greffe<a id=48></a>
+
+###### Article L222-4
+
+A titre exceptionnel, les attributions du directeur des services de greffe mentionnées aux articles 26, 26-1, 26-3, 31, 31-2,
+31-3, 33-1,511 et 512 du code civil peuvent être exercées par un directeur des services de greffe du ressort ou, à défaut,
+par le greffier chef de greffe du tribunal d'instance concerné, par décision des chefs de cour.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+
+_Cite_:
+
+  - Code civil - art. 26 (V)
+  - Code civil - art. 31 (V)
+  - Code civil - art. 33-1 (V)
+  - Code civil - art. 511 (V)
+
+
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=49></a>
 
 ###### Article L223-1
 
@@ -2627,9 +2711,9 @@ _Créé par_:
   - Loi n°2007-1787 du 20 décembre 2007 - art. 26
 
 
-### TITRE III : LA JURIDICTION DE PROXIMITÉ<a id=46></a>
+### TITRE III : LA JURIDICTION DE PROXIMITÉ<a id=50></a>
 
-#### Chapitre Ier : Institution et compétence<a id=47></a>
+#### Chapitre Ier : Institution et compétence<a id=51></a>
 
 ###### Article L231-1
 
@@ -2697,7 +2781,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-1 (Ab)
 
 
-##### Section 1 : Compétence civile<a id=48></a>
+##### Section 1 : Compétence civile<a id=52></a>
 
 ###### Article L231-3
 
@@ -2819,7 +2903,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-4 (Ab)
 
 
-##### Section 2 : Compétence pénale<a id=49></a>
+##### Section 2 : Compétence pénale<a id=53></a>
 
 ###### Article L231-6
 
@@ -2862,9 +2946,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L331-5, alinéa 1 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=50></a>
+#### Chapitre II : Organisation et fonctionnement<a id=54></a>
 
-##### Section 1 : Le service juridictionnel<a id=51></a>
+##### Section 1 : Le service juridictionnel<a id=55></a>
 
 ###### Article L232-1
 
@@ -2945,7 +3029,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R212-37 (M)
 
 
-##### Section 2 : Le ministère public<a id=52></a>
+##### Section 2 : Le ministère public<a id=56></a>
 
 ###### Article L232-3
 
@@ -2983,9 +3067,9 @@ _Cite_:
   - Code de procédure pénale - art. 45
 
 
-### TITRE IV : LA COUR D'ASSISES<a id=53></a>
+### TITRE IV : LA COUR D'ASSISES<a id=57></a>
 
-#### Chapitre unique<a id=54></a>
+#### Chapitre unique<a id=58></a>
 
 ###### Article L241-1
 
@@ -3007,11 +3091,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L621-1 (Ab)
 
 
-### TITRE V : LES JURIDICTIONS DES MINEURS<a id=55></a>
+### TITRE V : LES JURIDICTIONS DES MINEURS<a id=59></a>
 
-#### Chapitre Ier : Le tribunal pour enfants<a id=56></a>
+#### Chapitre Ier : Le tribunal pour enfants<a id=60></a>
 
-##### Section 1 : Institution et compétence<a id=57></a>
+##### Section 1 : Institution et compétence<a id=61></a>
 
 ###### Article L251-1
 
@@ -3057,7 +3141,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L521-1 (Ab)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=58></a>
+##### Section 2 : Organisation et fonctionnement<a id=62></a>
 
 ###### Article L251-3
 
@@ -3118,21 +3202,17 @@ _Cité par_:
 ###### Article L251-5
 
 Avant d'entrer en fonctions, les assesseurs titulaires et suppléants prêtent serment devant le tribunal de grande instance de
-bien et fidèlement remplir leurs fonctions et de garder religieusement le secret des délibérations.
+bien et fidèlement remplir leurs fonctions et de garder le secret des délibérations.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-4 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 19
 
 
 ###### Article L251-6
@@ -3158,7 +3238,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-5 (Ab)
 
 
-#### Chapitre Ier bis : Le tribunal correctionnel pour mineurs<a id=59></a>
+#### Chapitre Ier bis : Le tribunal correctionnel pour mineurs<a id=63></a>
 
 ###### Article L251-7
 
@@ -3197,7 +3277,7 @@ _Abrogé par_:
   - Loi n°2016-1547 du 18 novembre 2016 - art. 29 (V)
 
 
-#### Chapitre II : Le juge des enfants<a id=60></a>
+#### Chapitre II : Le juge des enfants<a id=64></a>
 
 ###### Article L252-1
 
@@ -3291,7 +3371,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L531-2 (Ab)
 
 
-#### Chapitre IV : La cour d'assises des mineurs<a id=61></a>
+#### Chapitre IV : La cour d'assises des mineurs<a id=65></a>
 
 ###### Article L254-1
 
@@ -3323,9 +3403,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L512-3 (Ab)
 
 
-### TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION<a id=62></a>
+### TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION<a id=66></a>
 
-#### Chapitre unique<a id=63></a>
+#### Chapitre unique<a id=67></a>
 
 ###### Article L261-1
 
@@ -3367,13 +3447,13 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. L561-1 (VD)
 
 
-## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=64></a>
+## LIVRE III : JURIDICTIONS DU SECOND DEGRÉ<a id=68></a>
 
-### TITRE Ier : LA COUR D'APPEL<a id=65></a>
+### TITRE Ier : LA COUR D'APPEL<a id=69></a>
 
-#### Chapitre Ier : Compétence<a id=66></a>
+#### Chapitre Ier : Compétence<a id=70></a>
 
-##### Section 1 : Dispositions générales<a id=67></a>
+##### Section 1 : Dispositions générales<a id=71></a>
 
 ###### Article L311-1
 
@@ -3403,7 +3483,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
 
 
-##### Section 2 : Dispositions particulières<a id=68></a>
+##### Section 2 : Dispositions particulières<a id=72></a>
 
 ###### Article L311-2
 
@@ -3515,7 +3595,7 @@ _Modifié par_:
   - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
-##### Section 3 : Dispositions relatives au premier président<a id=69></a>
+##### Section 3 : Dispositions relatives au premier président<a id=73></a>
 
 ###### Article L311-7
 
@@ -3559,7 +3639,7 @@ _Créé par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
-##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=70></a>
+##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=74></a>
 
 ###### Article L311-8
 
@@ -3582,7 +3662,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L612-1, ecqc compétence (Ab)
 
 
-##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=71></a>
+##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=75></a>
 
 ###### Article L311-10
 
@@ -3684,11 +3764,11 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=72></a>
+#### Chapitre II : Organisation et fonctionnement<a id=76></a>
 
-##### Section 1 : Les formations de la cour d'appel<a id=73></a>
+##### Section 1 : Les formations de la cour d'appel<a id=77></a>
 
-##### Sous-section 1 : Dispositions générales<a id=74></a>
+##### Sous-section 1 : Dispositions générales<a id=78></a>
 
 ###### Article L312-1
 
@@ -3752,7 +3832,7 @@ _Modifié par_:
   - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
-##### Sous-section 2 : Dispositions particulières à certaines formations<a id=75></a>
+##### Sous-section 2 : Dispositions particulières à certaines formations<a id=79></a>
 
 ###### Article L312-4
 
@@ -3834,7 +3914,7 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 
-##### Section 2 : Le parquet général<a id=76></a>
+##### Section 2 : Le parquet général<a id=80></a>
 
 ###### Article L312-7
 
@@ -3860,7 +3940,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L562-25 (V)
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=77></a>
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=81></a>
 
 ###### Article L313-1
 
@@ -3912,7 +3992,7 @@ _Cité par_:
   - Code des transports - art. L4262-4 (V)
 
 
-#### Chapitre IV : Dispositions particulières au Département de Mayotte<a id=78></a>
+#### Chapitre IV : Dispositions particulières au Département de Mayotte<a id=82></a>
 
 ###### Article L314-1
 
@@ -3926,9 +4006,9 @@ _Créé par_:
   - Ordonnance n°2011-337 du 29 mars 2011 - art. 1
 
 
-### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL<a id=79></a>
+### TITRE II : LA COUR D'ASSISES STATUANT EN APPEL<a id=83></a>
 
-#### Chapitre unique<a id=80></a>
+#### Chapitre unique<a id=84></a>
 
 ###### Article L321-1
 
@@ -3946,9 +4026,9 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL<a id=81></a>
+### TITRE III : LA COUR NATIONALE DE L'INCAPACITÉ ET DE LA TARIFICATION DE L'ASSURANCE DES ACCIDENTS DU TRAVAIL<a id=85></a>
 
-#### Chapitre unique<a id=82></a>
+#### Chapitre unique<a id=86></a>
 
 ###### Article L331-1
 
@@ -3974,11 +4054,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L450-1, ecqc CNITAAT (Ab)
 
 
-## LIVRE IV : LA COUR DE CASSATION<a id=83></a>
+## LIVRE IV : LA COUR DE CASSATION<a id=87></a>
 
-### TITRE Ier : INSTITUTION ET COMPÉTENCE<a id=84></a>
+### TITRE Ier : INSTITUTION ET COMPÉTENCE<a id=88></a>
 
-#### Chapitre unique<a id=85></a>
+#### Chapitre unique<a id=89></a>
 
 ###### Article L411-1
 
@@ -4025,8 +4105,10 @@ _Anciens textes_:
 
 La Cour de cassation peut casser sans renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond.
 
-Elle peut aussi, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été souverainement constatés
-et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée.
+Elle peut aussi, en matière civile, statuer au fond lorsque l'intérêt d'une bonne administration de la justice le justifie.
+
+En matière pénale, elle peut, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été
+souverainement constatés et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée.
 
 En ces cas, elle se prononce sur la charge des dépens afférents aux instances civiles devant les juges du fond.
 
@@ -4038,16 +4120,11 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-5 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc art. L131-5 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 38
 
 _Cité par_:
 
@@ -4076,9 +4153,9 @@ _Créé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
 
 
-### TITRE II : ORGANISATION<a id=86></a>
+### TITRE II : ORGANISATION<a id=90></a>
 
-#### Chapitre unique<a id=87></a>
+#### Chapitre unique<a id=91></a>
 
 ###### Article L421-1
 
@@ -4245,11 +4322,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 2 (Ab)
 
 
-### TITRE III : FONCTIONNEMENT<a id=88></a>
+### TITRE III : FONCTIONNEMENT<a id=92></a>
 
-#### Chapitre Ier : Les chambres de la cour<a id=89></a>
+#### Chapitre Ier : Les chambres de la cour<a id=93></a>
 
-##### Section 1 : Dispositions générales<a id=90></a>
+##### Section 1 : Dispositions générales<a id=94></a>
 
 ###### Article L431-1
 
@@ -4329,6 +4406,23 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R431-7 (V)
 
 
+###### Article L431-3-1
+
+Lors de l'examen du pourvoi, la Cour de cassation peut inviter toute personne dont la compétence ou les connaissances sont de
+nature à l'éclairer utilement sur la solution à donner à un litige à produire des observations d'ordre général sur les points
+qu'elle détermine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 39
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1015-2 (V)
+
+
 ###### Article L431-4
 
 En cas de cassation, l'affaire est renvoyée, sous réserve des dispositions de l'article L. 411-3, devant une autre
@@ -4361,7 +4455,7 @@ _Cité par_:
   - Code de procédure civile - art. 626 (V)
 
 
-##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=91></a>
+##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=95></a>
 
 ###### Article L431-5
 
@@ -4492,32 +4586,31 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et chambres (Ab)
 
 
-#### Chapitre II : Le parquet général<a id=92></a>
+#### Chapitre II : Le parquet général<a id=96></a>
 
 ###### Article L432-1
 
 Le procureur général porte la parole aux audiences des chambres mixtes et de l'assemblée plénière ainsi que dans les
 assemblées générales de la cour. 
 
-Il peut la porter aux audiences des chambres et devant la formation prévue à l'article L. 441-2.
+Il peut la porter aux audiences des chambres et devant les formations prévues à l'article L. 441-2.
+
+Il rend des avis dans l'intérêt de la loi et du bien commun. Il éclaire la cour sur la portée de la décision à intervenir.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 40
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 41
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L441-2 (V)
+  - Code de l'organisation judiciaire - art. L441-2 (V)
 
 
 ###### Article L432-2
@@ -4593,9 +4686,23 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L132-5, ecqc titre 3 et parquet général (Ab)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION<a id=93></a>
+### TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION<a id=97></a>
 
-#### Chapitre unique<a id=94></a>
+#### Chapitre unique<a id=98></a>
+
+###### Article L 441-2-1
+
+Le renvoi devant une formation mixte ou plénière pour avis est décidé soit par ordonnance non motivée du premier président,
+soit par décision non motivée de la chambre saisie.
+
+Le renvoi est de droit lorsque le procureur général le requiert.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 41
+
 
 ###### Article L441-1
 
@@ -4632,26 +4739,29 @@ _Cite_:
 
 ###### Article L441-2
 
-La formation de la Cour de cassation qui se prononce sur la demande d'avis est présidée par le premier président ou, en cas
-d'empêchement, par le président de chambre le plus ancien.
+La chambre compétente de la Cour de cassation se prononce sur la demande d'avis.
+
+Lorsque la demande relève normalement des attributions de plusieurs chambres, elle est portée devant une formation mixte pour
+avis.
+
+Lorsque la demande pose une question de principe, elle est portée devant la formation plénière pour avis.
+
+La formation mixte et la formation plénière pour avis sont présidées par le premier président ou, en cas d'empêchement, par
+le doyen des présidents de chambre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-2, alinéa 1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 41
 
 _Cité par_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L432-1 (M)
+  - Code de l'organisation judiciaire - art. L432-1 (V)
 
 
 ###### Article L441-3
@@ -4693,9 +4803,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-3 (Ab)
 
 
-### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION<a id=95></a>
+### TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION<a id=99></a>
 
-#### Chapitre unique<a id=96></a>
+#### Chapitre unique<a id=100></a>
+
+#### Chapitre Ier : Révision et réexamen en matière pénale<a id=101></a>
 
 ###### Article L451-1
 
@@ -4730,7 +4842,7 @@ _Modifié par_:
   - Loi n°2014-640 du 20 juin 2014 - art. 6
 
 
-### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=97></a>
+### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=102></a>
 
 ###### Article LO461-1
 
@@ -4765,11 +4877,11 @@ _Créé par_:
   - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
 
 
-## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE<a id=98></a>
+## LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE<a id=103></a>
 
-### TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=99></a>
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=104></a>
 
-#### Chapitre Ier : Dispositions générales<a id=100></a>
+#### Chapitre Ier : Dispositions générales<a id=105></a>
 
 ###### Article L511-1
 
@@ -4802,7 +4914,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-13 (Ab)
 
 
-#### Chapitre II : Des fonctions judiciaires<a id=101></a>
+#### Chapitre II : Des fonctions judiciaires<a id=106></a>
 
 ###### Article L512-1
 
@@ -4906,9 +5018,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L951-4 (Ab)
 
 
-#### Chapitre III : Des juridictions<a id=102></a>
+#### Chapitre III : Des juridictions<a id=107></a>
 
-##### Section 1 : Le tribunal de première instance<a id=103></a>
+##### Section 1 : Le tribunal de première instance<a id=108></a>
 
 ###### Article L513-1
 
@@ -5058,7 +5170,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L214-2 (V)
 
 
-##### Section 2 : Le tribunal supérieur d'appel<a id=104></a>
+##### Section 2 : Le tribunal supérieur d'appel<a id=109></a>
 
 ###### Article L513-6
 
@@ -5225,9 +5337,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L952-14 (Ab)
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA<a id=105></a>
+### TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA<a id=110></a>
 
-#### Chapitre Ier : Dispositions générales<a id=106></a>
+#### Chapitre Ier : Dispositions générales<a id=111></a>
 
 ###### Article L531-1
 
@@ -5268,9 +5380,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc WF (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=107></a>
+#### Chapitre II : Des juridictions<a id=112></a>
 
-##### Section 1 : Le tribunal de première instance<a id=108></a>
+##### Section 1 : Le tribunal de première instance<a id=113></a>
 
 ###### Article L532-1
 
@@ -5293,19 +5405,18 @@ _Anciens textes_:
 
 ###### Article L532-2
 
-Les dispositions des articles L. 211-10, L. 211-12 et L. 211-15 sont applicables à Wallis-et-Futuna.
+Les dispositions des articles L. 211-9-2, L. 211-10 et L. 211-12 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 2 (V)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 _Cite_:
 
-  - Code de la consommation - art. L211-10
-  - Code de la consommation - art. L211-12
-  - Code de l'organisation judiciaire - art. L211-15
+  - Code de l'organisation judiciaire - art. L211-10 (V)
+  - Code de l'organisation judiciaire - art. L211-12 (V)
 
 
 ###### Article L532-3
@@ -5750,7 +5861,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8, alinéa 2 (Ab)
 
 
-##### Section 2 : La juridiction de proximité<a id=109></a>
+##### Section 2 : La juridiction de proximité<a id=114></a>
 
 ###### Article L532-19
 
@@ -5985,26 +6096,23 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-8-1, alinéa 1, ecqc L331-9 (Ab)
 
 
-##### Section 3 : Les juridictions des mineurs<a id=110></a>
+##### Section 3 : Les juridictions des mineurs<a id=115></a>
 
 ###### Article L532-25
 
 Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables à
-Wallis-et-Futuna.
+Wallis-et-Futuna, dans leur rédaction résultant de l'article 19 et des II et III de  l'article 29 de la loi n° 2016-1547 du
+18 novembre 2016 de modernisation  de la justice du XXIe siècle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc WF (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
 ###### Article L532-26
@@ -6026,7 +6134,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-9 (Ab)
 
 
-##### Section 4 : La cour d'assises<a id=111></a>
+##### Section 4 : La cour d'assises<a id=116></a>
 
 ###### Article L532-27
 
@@ -6067,7 +6175,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc WF (Ab)
 
 
-#### Chapitre III : Du greffe<a id=112></a>
+#### Chapitre III : Du greffe<a id=117></a>
 
 ###### Article L533-1
 
@@ -6090,9 +6198,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc WF (Ab)
 
 
-### TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE<a id=113></a>
+### TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE<a id=118></a>
 
-#### Chapitre Ier : Dispositions générales<a id=114></a>
+#### Chapitre Ier : Dispositions générales<a id=119></a>
 
 ###### Article L551-1
 
@@ -6133,11 +6241,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc PF (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=115></a>
+#### Chapitre II : Des juridictions<a id=120></a>
 
-##### Section 1 : Le tribunal de première instance<a id=116></a>
+##### Section 1 : Le tribunal de première instance<a id=121></a>
 
-##### Sous-section 1 : Dispositions générales<a id=117></a>
+##### Sous-section 1 : Dispositions générales<a id=122></a>
 
 ###### Article L552-1
 
@@ -6156,13 +6264,18 @@ _Codifié par_:
 
 ###### Article L552-2
 
-Les dispositions des articles L. 211-10 et L. 211-12 sont applicables en Polynésie française.
+Les articles L. 211-9-2, L. 211-10 et L. 211-12 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L211-10 (V)
+  - Code de l'organisation judiciaire - art. L211-12 (V)
 
 
 ###### Article L552-3
@@ -6317,7 +6430,7 @@ _Codifié par_:
   - DEPLACE: Loi n°2015-177 du 16 février 2015 - art. 23
 
 
-##### Sous-section 2 : Dispositions spécifiques au tribunal foncier<a id=118></a>
+##### Sous-section 2 : Dispositions spécifiques au tribunal foncier<a id=123></a>
 
 ###### Article L552-9-1
 
@@ -6526,7 +6639,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L552-9-9
 
 
-##### Section 2 : La cour d'appel<a id=119></a>
+##### Section 2 : La cour d'appel<a id=124></a>
 
 ###### Article L552-10
 
@@ -6602,7 +6715,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-4, ecqc PF (Ab)
 
 
-##### Section 3 : La juridiction de proximité<a id=120></a>
+##### Section 3 : La juridiction de proximité<a id=125></a>
 
 ###### Article L552-13
 
@@ -6837,29 +6950,26 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc PF ecqc L331-9 (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=121></a>
+##### Section 4 : Les juridictions des mineurs<a id=126></a>
 
 ###### Article L552-19
 
 Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables en
-Polynésie française.
+Polynésie française, dans leur rédaction résultant de l'article 19 et des II et III de  l'article 29 de la loi n° 2016-1547
+du 18 novembre 2016 de modernisation  de la justice du XXIe siècle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc PF (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
-##### Section 5 : La cour d'assises<a id=122></a>
+##### Section 5 : La cour d'assises<a id=127></a>
 
 ###### Article L552-20
 
@@ -6901,7 +7011,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc PF (Ab)
 
 
-#### Chapitre III : Du greffe<a id=123></a>
+#### Chapitre III : Du greffe<a id=128></a>
 
 ###### Article L553-1
 
@@ -6924,9 +7034,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc PF (Ab)
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE<a id=124></a>
+### TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE<a id=129></a>
 
-#### Chapitre Ier : Dispositions générales<a id=125></a>
+#### Chapitre Ier : Dispositions générales<a id=130></a>
 
 ###### Article L561-1
 
@@ -6963,9 +7073,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-1, ecqc NC (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=126></a>
+#### Chapitre II : Des juridictions<a id=131></a>
 
-##### Section 1 : Le tribunal de première instance<a id=127></a>
+##### Section 1 : Le tribunal de première instance<a id=132></a>
 
 ###### Article L562-1
 
@@ -6988,18 +7098,18 @@ _Anciens textes_:
 
 ###### Article L562-2
 
-Les dispositions des articles L. 211-10 et L. 211-12 sont applicables en Nouvelle-Calédonie.
+Les articles L. 211-9-2, L. 211-10 et L. 211-12 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-537 du 14 mai 2009 - art. 1
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 _Cite_:
 
   - Code de l'organisation judiciaire - art. L211-10 (V)
-  - Code de l'organisation judiciaire - art. L211-12 (V)
+  - Code de l'organisation judiciaire - art. L211-12
 
 
 ###### Article L562-3
@@ -7568,7 +7678,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L213-3
 
 
-##### Section 2 : La cour d'appel<a id=128></a>
+##### Section 2 : La cour d'appel<a id=133></a>
 
 ###### Article L562-25
 
@@ -7671,7 +7781,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L562-20 (V)
 
 
-##### Section 3 : La juridiction de proximité<a id=129></a>
+##### Section 3 : La juridiction de proximité<a id=134></a>
 
 ###### Article L562-29
 
@@ -7906,29 +8016,26 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-9-1, alinéa 1, ecqc NC ecqc L331-9 (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=130></a>
+##### Section 4 : Les juridictions des mineurs<a id=135></a>
 
 ###### Article L562-35
 
 Les dispositions du titre V du livre II (partie Législative) relatives aux juridictions des mineurs sont applicables en
-Nouvelle-Calédonie.
+Nouvelle-Calédonie, dans leur rédaction résultant de l'article 19 et des II et III de  l'article 29 de la loi n° 2016-1547 du
+18 novembre 2016 de modernisation  de la justice du XXIe siècle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-13, ecqc NC (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
 
 
-##### Section 5 : La cour d'assises<a id=131></a>
+##### Section 5 : La cour d'assises<a id=136></a>
 
 ###### Article L562-36
 
@@ -7970,7 +8077,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-15, ecqc NC (Ab)
 
 
-#### Chapitre III : Du greffe<a id=132></a>
+#### Chapitre III : Du greffe<a id=137></a>
 
 ###### Article L563-1
 
@@ -7993,13 +8100,13 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-17, ecqc NC (Ab)
 
 
-# Partie réglementaire<a id=133></a>
+# Partie réglementaire<a id=138></a>
 
-## LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES<a id=134></a>
+## LIVRE IER : DISPOSITIONS COMMUNES  AUX JURIDICTIONS JUDICIAIRES<a id=139></a>
 
-### TITRE IER : PRINCIPES GENERAUX<a id=135></a>
+### TITRE IER : PRINCIPES GENERAUX<a id=140></a>
 
-#### Chapitre Ier : Dispositions générales<a id=136></a>
+#### Chapitre Ier : Dispositions générales<a id=141></a>
 
 ###### Article R111-1
 
@@ -8173,7 +8280,7 @@ _Créé par_:
   - Décret n°2010-1234 du 20 octobre 2010 - art. 2
 
 
-#### Chapitre II : Le règlement des conflits de compétence entre les ordres de juridiction<a id=137></a>
+#### Chapitre II : Le règlement des conflits de compétence entre les ordres de juridiction<a id=142></a>
 
 ###### Article R111-9
 
@@ -8193,11 +8300,11 @@ _Créé par_:
   - Décret n°2015-233 du 27 février 2015 - art. 46
 
 
-### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT<a id=138></a>
+### TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT<a id=143></a>
 
-#### Chapitre Ier : Les juges<a id=139></a>
+#### Chapitre Ier : Les juges<a id=144></a>
 
-##### Section 2 : Le service juridictionnel<a id=140></a>
+##### Section 2 : Le service juridictionnel<a id=145></a>
 
 ###### Article R121-1
 
@@ -8317,9 +8424,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*791-1 (Ab)
 
 
-#### Chapitre II : Le ministère public<a id=141></a>
+#### Chapitre II : Le ministère public<a id=146></a>
 
-##### Section 1 : Organisation<a id=142></a>
+##### Section 1 : Organisation<a id=147></a>
 
 ###### Article R122-1
 
@@ -8336,7 +8443,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*751-1 (Ab)
 
 
-##### Section 2 : Fonctionnement<a id=143></a>
+##### Section 2 : Fonctionnement<a id=148></a>
 
 ###### Article R122-2
 
@@ -8446,9 +8553,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R217-1 (V)
 
 
-#### Chapitre III : Le greffe<a id=144></a>
+#### Chapitre III : Le greffe<a id=149></a>
 
-##### Section 1 : Organisation<a id=145></a>
+##### Section 1 : Organisation<a id=150></a>
 
 ###### Article R123-1
 
@@ -8493,7 +8600,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-##### Section 2 : Fonctionnement<a id=146></a>
+##### Section 2 : Fonctionnement<a id=151></a>
 
 ###### Article R123-3
 
@@ -8891,7 +8998,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-##### Section 3 : Régies<a id=147></a>
+##### Section 3 : Régies<a id=152></a>
 
 ###### Article R123-20
 
@@ -9050,7 +9157,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-24 (V)
 
 
-#### Chapitre IV : Siège et ressort des juridictions<a id=148></a>
+#### Chapitre IV : Siège et ressort des juridictions<a id=153></a>
 
 ###### Article R124-1
 
@@ -9114,9 +9221,9 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-### TITRE III : MAISONS DE JUSTICE ET DU DROIT<a id=149></a>
+### TITRE III : MAISONS DE JUSTICE ET DU DROIT<a id=154></a>
 
-#### Chapitre unique<a id=150></a>
+#### Chapitre unique<a id=155></a>
 
 ###### Article R131-1
 
@@ -9398,7 +9505,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. Annexe Tableau III (V)
 
 
-### TITRE V : CONCILIATEURS DE JUSTICE<a id=151></a>
+### TITRE V : CONCILIATEURS DE JUSTICE<a id=156></a>
 
 ###### Article R131-12
 
@@ -9418,11 +9525,11 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R561-1 (V)
 
 
-## LIVRE II : JURIDICTIONS DU PREMIER DEGRE<a id=152></a>
+## LIVRE II : JURIDICTIONS DU PREMIER DEGRE<a id=157></a>
 
-### TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE<a id=153></a>
+### TITRE IER : LE TRIBUNAL DE GRANDE INSTANCE<a id=158></a>
 
-#### Chapitre Ier : Institution et compétence<a id=154></a>
+#### Chapitre Ier : Institution et compétence<a id=159></a>
 
 ###### Article D211-1
 
@@ -9492,9 +9599,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-7 (Ab)
 
 
-##### Section 1 : Compétence matérielle<a id=155></a>
+##### Section 1 : Compétence matérielle<a id=160></a>
 
-##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=156></a>
+##### Sous-section 1 : Compétence commune à tous les tribunaux de grande instance<a id=161></a>
 
 ###### Article R211-3
 
@@ -9571,7 +9678,7 @@ _Cite_:
   - Code des douanes
 
 
-##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=157></a>
+##### Sous-section 2 : Compétence particulière à certains tribunaux de grande instance<a id=162></a>
 
 ###### Article D211-5
 
@@ -9789,7 +9896,7 @@ _Cite_:
   - Code civil - art. 2450
 
 
-##### Section 2 : Compétence territoriale<a id=158></a>
+##### Section 2 : Compétence territoriale<a id=163></a>
 
 ###### Article R211-11
 
@@ -9842,7 +9949,7 @@ _Créé par_:
   - Décret n°2009-1693 du 29 décembre 2009 - art. 2
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=159></a>
+#### Chapitre II : Organisation et fonctionnement<a id=164></a>
 
 ###### Article R212-1
 
@@ -9882,7 +9989,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-10 (Ab)
 
 
-##### Section 1 : Le service juridictionnel<a id=160></a>
+##### Section 1 : Le service juridictionnel<a id=165></a>
 
 ###### Article R212-3
 
@@ -10188,7 +10295,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-9 (V)
 
 
-##### Section 2 : Le parquet<a id=161></a>
+##### Section 2 : Le parquet<a id=166></a>
 
 ###### Article R212-12
 
@@ -10297,7 +10404,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-23 (V)
 
 
-##### Section 3 : Le greffe<a id=162></a>
+##### Section 3 : Le greffe<a id=167></a>
 
 ###### Article D212-17-2
 
@@ -10373,7 +10480,7 @@ _Créé par_:
   - Décret n°2014-899 du 18 août 2014 - art. 2
 
 
-##### Section 4 : Les chambres détachées<a id=163></a>
+##### Section 4 : Les chambres détachées<a id=168></a>
 
 ###### Article D212-19
 
@@ -10492,7 +10599,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R522-8 (Ab)
 
 
-##### Section 5 : Les assemblées générales<a id=164></a>
+##### Section 5 : Les assemblées générales<a id=169></a>
 
 ###### Article R212-22
 
@@ -10523,7 +10630,7 @@ _Modifié par_:
   - Décret n°2014-1458 du 8 décembre 2014 - art. 6
 
 
-##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=165></a>
+##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=170></a>
 
 ###### Article R212-23
 
@@ -10757,7 +10864,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-14 ecqc TGI (Ab)
 
 
-##### Sous-section 2 : L'assemblée des magistrats du siège<a id=166></a>
+##### Sous-section 2 : L'assemblée des magistrats du siège<a id=171></a>
 
 ###### Article R212-34
 
@@ -10934,7 +11041,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R212-37
 
 
-##### Sous-section 3 : L'assemblée des magistrats du parquet<a id=167></a>
+##### Sous-section 3 : L'assemblée des magistrats du parquet<a id=172></a>
 
 ###### Article R212-38
 
@@ -11009,7 +11116,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-26 ecqc TGI (Ab)
 
 
-##### Sous-section 4 : L'assemblée des magistrats du siège et du parquet<a id=168></a>
+##### Sous-section 4 : L'assemblée des magistrats du siège et du parquet<a id=173></a>
 
 ###### Article R212-41
 
@@ -11134,7 +11241,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R217-1 (V)
 
 
-##### Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome<a id=169></a>
+##### Sous-section 5 : Les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome<a id=174></a>
 
 ###### Article R212-45
 
@@ -11228,7 +11335,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-33 al 2 ecqc TGI (Ab)
 
 
-##### Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=170></a>
+##### Sous-section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=175></a>
 
 ###### Article R212-49
 
@@ -11290,7 +11397,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R212-32
 
 
-##### Sous-section 7 :  La commission plénière<a id=171></a>
+##### Sous-section 7 :  La commission plénière<a id=176></a>
 
 ###### Article R212-51
 
@@ -11401,7 +11508,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R212-60
 
 
-##### Sous-section 8 : La commission restreinte<a id=172></a>
+##### Sous-section 8 : La commission restreinte<a id=177></a>
 
 ###### Article R212-55
 
@@ -11471,7 +11578,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-50 ecqc TGI (Ab)
 
 
-##### Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance<a id=173></a>
+##### Section 6 : Administration et inspection des juridictions du ressort du tribunal de grande instance<a id=178></a>
 
 ###### Article R212-58
 
@@ -11557,7 +11664,7 @@ _Créé par_:
   - Décret n°2014-1458 du 8 décembre 2014 - art. 4
 
 
-##### Section 7 : Les pôles<a id=174></a>
+##### Section 7 : Les pôles<a id=179></a>
 
 ###### Article R212-62
 
@@ -11590,7 +11697,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R312-69-3 (V)
 
 
-##### Section 8 :  Le projet de juridiction<a id=175></a>
+##### Section 8 :  Le projet de juridiction<a id=180></a>
 
 ###### Article R212-63
 
@@ -11608,7 +11715,7 @@ _Créé par_:
   - Décret n°2016-514 du 26 avril 2016 - art. 8
 
 
-##### Section 9 :  Le conseil de juridiction<a id=176></a>
+##### Section 9 :  Le conseil de juridiction<a id=181></a>
 
 ###### Article R212-64
 
@@ -11643,11 +11750,11 @@ _Créé par_:
   - Décret n°2016-514 du 26 avril 2016 - art. 9
 
 
-#### Chapitre III : Fonctions particulières<a id=177></a>
+#### Chapitre III : Fonctions particulières<a id=182></a>
 
-##### Section 1 : Fonctions particulières exercées en matière civile<a id=178></a>
+##### Section 1 : Fonctions particulières exercées en matière civile<a id=183></a>
 
-##### Sous-section 1 : Le président du tribunal de grande instance<a id=179></a>
+##### Sous-section 1 : Le président du tribunal de grande instance<a id=184></a>
 
 ###### Article R213-1
 
@@ -11795,7 +11902,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
 
 
-##### Sous-section 2 : Le juge de la mise en état<a id=180></a>
+##### Sous-section 2 : Le juge de la mise en état<a id=185></a>
 
 ###### Article R213-7
 
@@ -11821,7 +11928,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L121-3 (V)
 
 
-##### Sous-section 3 : Le juge aux affaires familiales<a id=181></a>
+##### Sous-section 3 : Le juge aux affaires familiales<a id=186></a>
 
 ###### Article R213-8
 
@@ -11864,7 +11971,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1, alinéa 5, phrase 2 (Ab)
 
 
-##### Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes<a id=182></a>
+##### Sous-section 3-1 : Le magistrat coordonnateur de l'activité en matière de droit de la famille et des personnes<a id=187></a>
 
 ###### Article R213-9-1
 
@@ -11891,7 +11998,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-10 (V)
 
 
-##### Sous-section 4 : Le juge de l'exécution<a id=183></a>
+##### Sous-section 4 : Le juge de l'exécution<a id=188></a>
 
 ###### Article R213-10
 
@@ -11955,7 +12062,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-13, ecqc JEX (Ab)
 
 
-##### Sous-Section 5 : Le juge chargé de contrôler   l'exécution des mesures d'instruction<a id=184></a>
+##### Sous-Section 5 : Le juge chargé de contrôler   l'exécution des mesures d'instruction<a id=189></a>
 
 ###### Article R213-12-1
 
@@ -11978,7 +12085,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R562-10 (V)
 
 
-##### Section 2 : Fonctions particulières exercées en matière pénale<a id=185></a>
+##### Section 2 : Fonctions particulières exercées en matière pénale<a id=190></a>
 
 ###### Article R213-13
 
@@ -11996,7 +12103,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L522-6, ecqc juge d'instruction (Ab)
 
 
-#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=186></a>
+#### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=191></a>
 
 ###### Article D214-5
 
@@ -12155,7 +12262,7 @@ _Anciens textes_:
   - CODE DE PROCEDURE PENALE - art. R50-6 (Ab)
 
 
-#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=187></a>
+#### Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=192></a>
 
 ###### Article R215-1
 
@@ -12195,7 +12302,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*915-3 al 1 (Ab)
 
 
-#### Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris<a id=188></a>
+#### Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris<a id=193></a>
 
 ###### Article R217-1
 
@@ -12323,9 +12430,9 @@ _Créé par_:
   - Décret n°2014-64 du 29 janvier 2014 - art. 2
 
 
-### TITRE II : LE TRIBUNAL D'INSTANCE<a id=189></a>
+### TITRE II : LE TRIBUNAL D'INSTANCE<a id=194></a>
 
-#### Chapitre Ier : Institution et compétence<a id=190></a>
+#### Chapitre Ier : Institution et compétence<a id=195></a>
 
 ###### Article D221-1
 
@@ -12407,11 +12514,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 al 3 et 4 (Ab)
 
 
-##### Section 1 : Compétence matérielle<a id=191></a>
+##### Section 1 : Compétence matérielle<a id=196></a>
 
-##### Sous-section 1 : Compétence civile du  tribunal d'instance<a id=192></a>
+##### Sous-section 1 : Compétence civile du  tribunal d'instance<a id=197></a>
 
-##### Paragraphe 1 : Compétence à charge d'appel<a id=193></a>
+##### Paragraphe 1 : Compétence à charge d'appel<a id=198></a>
 
 ###### Article R221-3
 
@@ -12727,7 +12834,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-48 (V)
 
 
-##### Paragraphe 2 : Compétence en dernier ressort<a id=194></a>
+##### Paragraphe 2 : Compétence en dernier ressort<a id=199></a>
 
 ###### Article R221-23
 
@@ -12989,7 +13096,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-##### Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande<a id=195></a>
+##### Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande<a id=200></a>
 
 ###### Article R221-37
 
@@ -13064,7 +13171,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R221-51-1 (V)
 
 
-##### Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense<a id=196></a>
+##### Paragraphe 4 : Compétence en matière de demandes incidentes et de moyens de défense<a id=201></a>
 
 ###### Article R221-40
 
@@ -13085,7 +13192,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-22 (Ab)
 
 
-##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=197></a>
+##### Sous-section 2 : Compétence du juge du tribunal d'instance<a id=202></a>
 
 ###### Article R221-41
 
@@ -13192,7 +13299,7 @@ _Créé par_:
   - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
-##### Section 2 : Compétence territoriale<a id=198></a>
+##### Section 2 : Compétence territoriale<a id=203></a>
 
 ###### Article R221-46
 
@@ -13401,9 +13508,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-30-1 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=199></a>
+#### Chapitre II : Organisation et fonctionnement<a id=204></a>
 
-##### Section 1 : Le service juridictionnel<a id=200></a>
+##### Section 1 : Le service juridictionnel<a id=205></a>
 
 ###### Article R222-1
 
@@ -13499,7 +13606,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*323-3 (Ab)
 
 
-##### Section 3 : Le greffe<a id=201></a>
+##### Section 3 : Le greffe<a id=206></a>
 
 ###### Article D222-7
 
@@ -13601,7 +13708,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-3 ecqc TI (Ab)
 
 
-##### Section 4 : Les assemblées générales<a id=202></a>
+##### Section 4 : Les assemblées générales<a id=207></a>
 
 ###### Article R222-10
 
@@ -13631,7 +13738,7 @@ _Modifié par_:
   - Décret n°2014-1458 du 8 décembre 2014 - art. 21
 
 
-##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=203></a>
+##### Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=208></a>
 
 ###### Article R222-11
 
@@ -13859,7 +13966,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-8 (Ab)
 
 
-##### Sous-section 2 : L'assemblée des magistrats du siège<a id=204></a>
+##### Sous-section 2 : L'assemblée des magistrats du siège<a id=209></a>
 
 ###### Article R222-22
 
@@ -13904,7 +14011,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-4 al 2  (Ab)
 
 
-##### Sous-section 3 : L'assemblée des magistrats du siège et du parquet<a id=205></a>
+##### Sous-section 3 : L'assemblée des magistrats du siège et du parquet<a id=210></a>
 
 ###### Article R222-24
 
@@ -14011,7 +14118,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-3 al 3 (Ab)
 
 
-##### Sous-section 4 : L'assemblée des fonctionnaires du greffe<a id=206></a>
+##### Sous-section 4 : L'assemblée des fonctionnaires du greffe<a id=211></a>
 
 ###### Article R222-28
 
@@ -14079,7 +14186,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R222-31 (VD)
 
 
-##### Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires<a id=207></a>
+##### Sous-section 5 : L'assemblée plénière des magistrats et des fonctionnaires<a id=212></a>
 
 ###### Article R222-30
 
@@ -14138,7 +14245,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R222-29
 
 
-##### Sous-section 6 : La commission plénière<a id=208></a>
+##### Sous-section 6 : La commission plénière<a id=213></a>
 
 ###### Article R222-32
 
@@ -14233,7 +14340,7 @@ _Modifié par_:
   - Décret n°2014-1458 du 8 décembre 2014 - art. 27
 
 
-##### Sous-section 7 : La commission restreinte<a id=209></a>
+##### Sous-section 7 : La commission restreinte<a id=214></a>
 
 ###### Article R222-36
 
@@ -14306,7 +14413,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-7 ecqc r761-50 (Ab)
 
 
-##### Section 5 : La coordination des tribunaux d'instance<a id=210></a>
+##### Section 5 : La coordination des tribunaux d'instance<a id=215></a>
 
 ###### Article R222-39
 
@@ -14352,9 +14459,9 @@ _Créé par_:
   - Décret n°2016-514 du 26 avril 2016 - art. 11
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle<a id=211></a>
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut Rhin et de la Moselle<a id=216></a>
 
-##### Section 1 : Institution et compétence<a id=212></a>
+##### Section 1 : Institution et compétence<a id=217></a>
 
 ###### Article D223-2
 
@@ -14402,9 +14509,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*911-3 ecqc appel (Ab)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=213></a>
+##### Section 2 : Organisation et fonctionnement<a id=218></a>
 
-##### Sous-Section 1 : Le livre foncier<a id=214></a>
+##### Sous-Section 1 : Le livre foncier<a id=219></a>
 
 ###### Article D223-3
 
@@ -14529,7 +14636,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R911-8 ecqc plusieurs livres (Ab)
 
 
-##### Sous-Section 2 : Le greffe<a id=215></a>
+##### Sous-Section 2 : Le greffe<a id=220></a>
 
 ###### Article R223-10
 
@@ -14620,7 +14727,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*915-4 (Ab)
 
 
-#### Chapitre IV : Dispositions particulières aux départements d'outre-mer<a id=216></a>
+#### Chapitre IV : Dispositions particulières aux départements d'outre-mer<a id=221></a>
 
 ###### Article R224-1
 
@@ -14639,9 +14746,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-5 al 2 (Ab)
 
 
-### TITRE III : LA JURIDICTION DE PROXIMITE<a id=217></a>
+### TITRE III : LA JURIDICTION DE PROXIMITE<a id=222></a>
 
-#### Chapitre Ier : Institution et compétence<a id=218></a>
+#### Chapitre Ier : Institution et compétence<a id=223></a>
 
 ###### Article D231-1
 
@@ -14703,9 +14810,9 @@ _Abrogé par_:
   - Décret n°2017-683 du 28 avril 2017 - art. 1
 
 
-##### Section 1 : Compétence matérielle<a id=219></a>
+##### Section 1 : Compétence matérielle<a id=224></a>
 
-##### Sous-Section 1 : Compétence civile<a id=220></a>
+##### Sous-Section 1 : Compétence civile<a id=225></a>
 
 ###### Article R231-3
 
@@ -14785,7 +14892,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-2 (Ab)
 
 
-##### Section 2 : Compétence territoriale<a id=221></a>
+##### Section 2 : Compétence territoriale<a id=226></a>
 
 ###### Article R231-6
 
@@ -14807,7 +14914,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-3 (Ab)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=222></a>
+#### Chapitre II : Organisation et fonctionnement<a id=227></a>
 
 ###### Article R232-1
 
@@ -14849,7 +14956,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*331-6 (Ab)
 
 
-##### Section 1 : Le service juridictionnel<a id=223></a>
+##### Section 1 : Le service juridictionnel<a id=228></a>
 
 ###### Article R232-3
 
@@ -14884,7 +14991,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L121-3
 
 
-##### Section 3 : Le greffe<a id=224></a>
+##### Section 3 : Le greffe<a id=229></a>
 
 ###### Article R232-4
 
@@ -14905,7 +15012,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*811-7 (Ab)
 
 
-##### Section 4 : Les assemblées générales<a id=225></a>
+##### Section 4 : Les assemblées générales<a id=230></a>
 
 ###### Article R232-5
 
@@ -14932,7 +15039,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 (Ab)
 
 
-##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=226></a>
+##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=231></a>
 
 ###### Article R232-6
 
@@ -14954,7 +15061,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-11 al 2 (Ab)
 
 
-##### Sous-Section 2 : L'assemblée des juges de proximité<a id=227></a>
+##### Sous-Section 2 : L'assemblée des juges de proximité<a id=232></a>
 
 ###### Article R232-7
 
@@ -14998,7 +15105,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-10 phrase 3 (Ab)
 
 
-##### Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet<a id=228></a>
+##### Sous-Section 3 : L'assemblée des juges de proximité et des magistrats du parquet<a id=233></a>
 
 ###### Article R232-9
 
@@ -15057,11 +15164,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*762-9 al 2 à 6 (Ab)
 
 
-### TITRE V : LES JURIDICTIONS DES MINEURS<a id=229></a>
+### TITRE V : LES JURIDICTIONS DES MINEURS<a id=234></a>
 
-#### Chapitre Ier : Le tribunal pour enfants<a id=230></a>
+#### Chapitre Ier : Le tribunal pour enfants<a id=235></a>
 
-##### Section 1 : Institution et compétence<a id=231></a>
+##### Section 1 : Institution et compétence<a id=236></a>
 
 ###### Article D251-1
 
@@ -15083,7 +15190,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Annexe Tableau XIV (V)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=232></a>
+##### Section 2 : Organisation et fonctionnement<a id=237></a>
 
 ###### Article D251-2
 
@@ -15373,9 +15480,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*522-10 (Ab)
 
 
-#### Chapitre II : Le juge des enfants<a id=233></a>
+#### Chapitre II : Le juge des enfants<a id=238></a>
 
-##### Section 1 : Institution et compétence<a id=234></a>
+##### Section 1 : Institution et compétence<a id=239></a>
 
 ###### Article R252-1
 
@@ -15405,7 +15512,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R531-1 (Ab)
 
 
-#### Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants<a id=235></a>
+#### Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants<a id=240></a>
 
 ###### Article R253-1
 
@@ -15423,13 +15530,13 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L871-2 (Ab)
 
 
-## LIVRE III : JURIDICTIONS DU SECOND DEGRE<a id=236></a>
+## LIVRE III : JURIDICTIONS DU SECOND DEGRE<a id=241></a>
 
-### TITRE IER : LA COUR D'APPEL<a id=237></a>
+### TITRE IER : LA COUR D'APPEL<a id=242></a>
 
-#### Chapitre Ier : Compétence<a id=238></a>
+#### Chapitre Ier : Compétence<a id=243></a>
 
-##### Section 1 : Dispositions générales<a id=239></a>
+##### Section 1 : Dispositions générales<a id=244></a>
 
 ###### Article D311-1
 
@@ -15500,7 +15607,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*212-2 (Ab)
 
 
-##### Section 3 : Dispositions relatives au premier président<a id=240></a>
+##### Section 3 : Dispositions relatives au premier président<a id=245></a>
 
 ###### Article R311-4
 
@@ -15533,7 +15640,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=241></a>
+##### Section 4 : Dispositions particulières à certaines chambres de la cour d'appel<a id=246></a>
 
 ###### Article R311-6
 
@@ -15565,7 +15672,7 @@ _Modifié par_:
   - Décret n°2011-2022 du 28 décembre 2011 - art. 2
 
 
-##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=242></a>
+##### Section 5 : Dispositions particulières à certaines cours d'appel<a id=247></a>
 
 ###### Article D311-8
 
@@ -15660,11 +15767,11 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-#### Chapitre II : Organisation et fonctionnement<a id=243></a>
+#### Chapitre II : Organisation et fonctionnement<a id=248></a>
 
-##### Section 1 : Les formations de la cour d'appel<a id=244></a>
+##### Section 1 : Les formations de la cour d'appel<a id=249></a>
 
-##### Sous-Section 1 : Dispositions générales<a id=245></a>
+##### Sous-Section 1 : Dispositions générales<a id=250></a>
 
 ###### Article R312-1
 
@@ -15854,7 +15961,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-4 (V)
 
 
-##### Sous-Section 2 : Dispositions particulières à certaines formations<a id=246></a>
+##### Sous-Section 2 : Dispositions particulières à certaines formations<a id=251></a>
 
 ###### Article R312-9
 
@@ -16058,7 +16165,7 @@ _Créé par_:
   - Décret n°2010-1395 du 12 novembre 2010 - art. 7
 
 
-##### Section 2 : Le parquet général<a id=247></a>
+##### Section 2 : Le parquet général<a id=252></a>
 
 ###### Article R312-14
 
@@ -16169,7 +16276,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-26 (Ab)
 
 
-##### Section 3 : Le greffe<a id=248></a>
+##### Section 3 : Le greffe<a id=253></a>
 
 ###### Article R312-19
 
@@ -16194,7 +16301,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-3 ecqc CA (Ab)
 
 
-##### Section 5 : Les assemblées générales<a id=249></a>
+##### Section 5 : Les assemblées générales<a id=254></a>
 
 ###### Article R312-27
 
@@ -16228,7 +16335,7 @@ _Modifié par_:
   - Décret n°2014-1458 du 8 décembre 2014 - art. 15
 
 
-##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=250></a>
+##### Sous-Section 1 : Dispositions communes aux différentes formations de l'assemblée générale<a id=255></a>
 
 ###### Article R312-28
 
@@ -16450,7 +16557,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-14 ecqc CA (Ab)
 
 
-##### Sous-Section 2 : L'assemblée des magistrats du siège<a id=251></a>
+##### Sous-Section 2 : L'assemblée des magistrats du siège<a id=256></a>
 
 ###### Article R312-39
 
@@ -16629,7 +16736,7 @@ _Modifié par_:
   - Décret n°2009-285 du 12 mars 2009 - art. 11
 
 
-##### Sous-Section 3 : L'assemblée des magistrats du parquet<a id=252></a>
+##### Sous-Section 3 : L'assemblée des magistrats du parquet<a id=257></a>
 
 ###### Article R312-45
 
@@ -16700,7 +16807,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-26 (Ab)
 
 
-##### Sous-Section 4 : L'assemblée des magistrats du siège et du parquet<a id=253></a>
+##### Sous-Section 4 : L'assemblée des magistrats du siège et du parquet<a id=258></a>
 
 ###### Article R312-48
 
@@ -16814,7 +16921,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-20 ecqc CA (Ab)
 
 
-##### Sous-Section 5 : L'assemblée des fonctionnaires du greffe<a id=254></a>
+##### Sous-Section 5 : L'assemblée des fonctionnaires du greffe<a id=259></a>
 
 ###### Article R312-52
 
@@ -16906,7 +17013,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-33 al 2 ecqc CA (Ab)
 
 
-##### Sous-Section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=255></a>
+##### Sous-Section 6 : L'assemblée plénière des magistrats et des fonctionnaires<a id=260></a>
 
 ###### Article R312-56
 
@@ -16968,7 +17075,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R312-37
 
 
-##### Sous-Section 7 :  La commission plénière<a id=256></a>
+##### Sous-Section 7 :  La commission plénière<a id=261></a>
 
 ###### Article R312-58
 
@@ -17077,7 +17184,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R312-69-1
 
 
-##### Sous-Section 8 : La commission restreinte<a id=257></a>
+##### Sous-Section 8 : La commission restreinte<a id=262></a>
 
 ###### Article R312-62
 
@@ -17147,7 +17254,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*761-50 ecqc CA (Ab)
 
 
-##### Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel<a id=258></a>
+##### Section 6 : Administration et inspection des juridictions du ressort de la Cour d'appel<a id=263></a>
 
 ###### Article D312-66
 
@@ -17316,9 +17423,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R212-62 (V)
 
 
-##### Section 7 : Le service administratif régional<a id=259></a>
+##### Section 7 : Le service administratif régional<a id=264></a>
 
-##### Sous-Section 1 : Missions<a id=260></a>
+##### Sous-Section 1 : Missions<a id=265></a>
 
 ###### Article R312-70
 
@@ -17347,7 +17454,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*241-1 (Ab)
 
 
-##### Sous-Section 2 : Organisation et fonctionnement<a id=261></a>
+##### Sous-Section 2 : Organisation et fonctionnement<a id=266></a>
 
 ###### Article R312-71
 
@@ -17446,7 +17553,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*242-6 (Ab)
 
 
-##### Sous-Section 3 : Assemblée des membres du service administratif régional<a id=262></a>
+##### Sous-Section 3 : Assemblée des membres du service administratif régional<a id=267></a>
 
 ###### Article R312-77
 
@@ -17567,7 +17674,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*764-6 (Ab)
 
 
-##### Section 8 : Les pôles<a id=263></a>
+##### Section 8 : Les pôles<a id=268></a>
 
 ###### Article R312-83
 
@@ -17599,7 +17706,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R312-42 (V)
 
 
-##### Section 9 :  Le projet de juridiction<a id=264></a>
+##### Section 9 :  Le projet de juridiction<a id=269></a>
 
 ###### Article R312-84
 
@@ -17617,7 +17724,7 @@ _Créé par_:
   - Décret n°2016-514 du 26 avril 2016 - art. 8
 
 
-##### Section 10 :  Le conseil de juridiction<a id=265></a>
+##### Section 10 :  Le conseil de juridiction<a id=270></a>
 
 ###### Article R312-85
 
@@ -17652,7 +17759,7 @@ _Créé par_:
   - Décret n°2016-514 du 26 avril 2016 - art. 9
 
 
-#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=266></a>
+#### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=271></a>
 
 ###### Article D313-1
 
@@ -17707,7 +17814,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-20 (V)
 
 
-#### Chapitre IV : Dispositions particulières au département de Mayotte<a id=267></a>
+#### Chapitre IV : Dispositions particulières au département de Mayotte<a id=272></a>
 
 ###### Article D314-1
 
@@ -17797,11 +17904,11 @@ _Créé par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 2 (V)
 
 
-## LIVRE IV : LA COUR DE CASSATION<a id=268></a>
+## LIVRE IV : LA COUR DE CASSATION<a id=273></a>
 
-### TITRE IER : INSTITUTION ET COMPETENCE<a id=269></a>
+### TITRE IER : INSTITUTION ET COMPETENCE<a id=274></a>
 
-#### Chapitre unique<a id=270></a>
+#### Chapitre unique<a id=275></a>
 
 ###### Article R411-1
 
@@ -17965,9 +18072,9 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-### TITRE II : ORGANISATION<a id=271></a>
+### TITRE II : ORGANISATION<a id=276></a>
 
-#### Chapitre unique<a id=272></a>
+#### Chapitre unique<a id=277></a>
 
 ###### Article R421-1
 
@@ -18247,11 +18354,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-18 (Ab)
 
 
-### TITRE III : FONCTIONNEMENT<a id=273></a>
+### TITRE III : FONCTIONNEMENT<a id=278></a>
 
-#### Chapitre Ier : Les chambres de la Cour<a id=274></a>
+#### Chapitre Ier : Les chambres de la Cour<a id=279></a>
 
-##### Section 1 : Dispositions générales<a id=275></a>
+##### Section 1 : Dispositions générales<a id=280></a>
 
 ###### Article R431-1
 
@@ -18462,7 +18569,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-13 (Ab)
 
 
-##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=276></a>
+##### Section 2 : Dispositions particulières aux chambres mixtes et à l'assemblée plénière<a id=281></a>
 
 ###### Article R431-11
 
@@ -18544,7 +18651,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-3, alinéa 5 (Ab)
 
 
-#### Chapitre II : Le parquet général<a id=277></a>
+#### Chapitre II : Le parquet général<a id=282></a>
 
 ###### Article R432-1
 
@@ -18640,7 +18747,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R122-5 (V)
 
 
-#### Chapitre III : Le service de documentation et d'études<a id=278></a>
+#### Chapitre III : Le service de documentation et d'études<a id=283></a>
 
 ###### Article R433-1
 
@@ -18740,7 +18847,7 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R433-3 (V)
 
 
-#### Chapitre IV : Le greffe<a id=279></a>
+#### Chapitre IV : Le greffe<a id=284></a>
 
 ###### Article R434-1
 
@@ -18782,7 +18889,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*813-4 (Ab)
 
 
-#### Chapitre V : Les assemblées générales<a id=280></a>
+#### Chapitre V : Les assemblées générales<a id=285></a>
 
 ###### Article R435-1
 
@@ -18835,9 +18942,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*131-9 (Ab)
 
 
-### TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE  POUR AVIS DE LA COUR DE CASSATION<a id=281></a>
+### TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE  POUR AVIS DE LA COUR DE CASSATION<a id=286></a>
 
-#### Chapitre unique<a id=282></a>
+#### Chapitre unique<a id=287></a>
 
 ###### Article R441-1
 
@@ -18872,7 +18979,7 @@ _Modifié par_:
   - Décret n°2016-660 du 20 mai 2016 - art. 42
 
 
-### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=283></a>
+### TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ<a id=288></a>
 
 ###### Article R*461-1
 
@@ -18894,11 +19001,11 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L431-1
 
 
-## LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON,   A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE<a id=284></a>
+## LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON,   A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE<a id=289></a>
 
-### TITRE IER : DISPOSITIONS PARTICULIERES  A SAINT-PIERRE-ET-MIQUELON<a id=285></a>
+### TITRE IER : DISPOSITIONS PARTICULIERES  A SAINT-PIERRE-ET-MIQUELON<a id=290></a>
 
-#### Chapitre Ier : Dispositions générales<a id=286></a>
+#### Chapitre Ier : Dispositions générales<a id=291></a>
 
 ###### Article R511-1
 
@@ -18924,7 +19031,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-1 (Ab)
 
 
-#### Chapitre II : Des fonctions judiciaires<a id=287></a>
+#### Chapitre II : Des fonctions judiciaires<a id=292></a>
 
 ###### Article R512-1
 
@@ -19059,11 +19166,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R951-6 (Ab)
 
 
-#### Chapitre III : Des juridictions<a id=288></a>
+#### Chapitre III : Des juridictions<a id=293></a>
 
-##### Section 1 : Le tribunal de première instance<a id=289></a>
+##### Section 1 : Le tribunal de première instance<a id=294></a>
 
-##### Sous-Section 1 : Compétence<a id=290></a>
+##### Sous-Section 1 : Compétence<a id=295></a>
 
 ###### Article R513-1
 
@@ -19081,7 +19188,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-5 (Ab)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=291></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=296></a>
 
 ###### Article R513-2
 
@@ -19208,7 +19315,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-1 (V)
 
 
-##### Section 2 : Le tribunal supérieur d'appel<a id=292></a>
+##### Section 2 : Le tribunal supérieur d'appel<a id=297></a>
 
 ###### Article R513-7
 
@@ -19317,9 +19424,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-11 (Ab)
 
 
-### TITRE III : DISPOSITIONS APPLICABLES A WALLIS ET FUTUNA<a id=293></a>
+### TITRE III : DISPOSITIONS APPLICABLES A WALLIS ET FUTUNA<a id=298></a>
 
-#### Chapitre Ier : Dispositions générales<a id=294></a>
+#### Chapitre Ier : Dispositions générales<a id=299></a>
 
 ###### Article R531-1
 
@@ -19377,7 +19484,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-21, alinéa 2, ecqc WF (Ab)
 
 
-#### Chapitre II : Des juridictions<a id=295></a>
+#### Chapitre II : Des juridictions<a id=300></a>
 
 ###### Article D532-1
 
@@ -19395,9 +19502,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L934-1 (Ab)
 
 
-##### Section 1 : Le tribunal de première instance<a id=296></a>
+##### Section 1 : Le tribunal de première instance<a id=301></a>
 
-##### Sous-section 1 : Institution et compétence<a id=297></a>
+##### Sous-section 1 : Institution et compétence<a id=302></a>
 
 ###### Article D532-2
 
@@ -19506,7 +19613,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-14 ecqc WF (Ab)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=298></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=303></a>
 
 ###### Article R532-8
 
@@ -19825,7 +19932,7 @@ _Cité par_:
   - Code des pensions militaires d'invalidité et de... - art. R741-4 (V)
 
 
-##### Sous-section 3 : La commission  d'indemnisation des victimes d'infractions<a id=299></a>
+##### Sous-section 3 : La commission  d'indemnisation des victimes d'infractions<a id=304></a>
 
 ###### Article R532-23
 
@@ -19842,7 +19949,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-4 (V)
 
 
-##### Section 3 : Les juridictions des mineurs<a id=300></a>
+##### Section 3 : Les juridictions des mineurs<a id=305></a>
 
 ###### Article R532-24
 
@@ -19860,7 +19967,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-15 al 1 ecqc WF (Ab)
 
 
-#### Chapitre III : Du greffe<a id=301></a>
+#### Chapitre III : Du greffe<a id=306></a>
 
 ###### Article R533-1
 
@@ -19932,9 +20039,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-20, ecqc WF (Ab)
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=302></a>
+### TITRE IV : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=307></a>
 
-#### Chapitre unique<a id=303></a>
+#### Chapitre unique<a id=308></a>
 
 ###### Article R541-1
 
@@ -19958,9 +20065,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R958-11 (VD)
 
 
-### TITRE V : DISPOSITIONS APPLICABLES  A LA POLYNESIE FRANCAISE<a id=304></a>
+### TITRE V : DISPOSITIONS APPLICABLES  A LA POLYNESIE FRANCAISE<a id=309></a>
 
-#### Chapitre Ier : Dispositions générales<a id=305></a>
+#### Chapitre Ier : Dispositions générales<a id=310></a>
 
 ###### Article R551-1
 
@@ -20013,11 +20120,11 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-21, alinéa 2, ecqc PF (Ab)
 
 
-#### Chapitre  II : Des juridictions<a id=306></a>
+#### Chapitre  II : Des juridictions<a id=311></a>
 
-##### Section 1 : Le tribunal de première instance<a id=307></a>
+##### Section 1 : Le tribunal de première instance<a id=312></a>
 
-##### Sous-section 1 : Institution et compétence<a id=308></a>
+##### Sous-section 1 : Institution et compétence<a id=313></a>
 
 ###### Article D552-1
 
@@ -20149,7 +20256,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-10-4 ecqc PF (Ab)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=309></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=314></a>
 
 ###### Article R552-8
 
@@ -20166,7 +20273,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-13 ecqc PF (Ab)
 
 
-##### Paragraphe 1 : Le service juridictionnel<a id=310></a>
+##### Paragraphe 1 : Le service juridictionnel<a id=315></a>
 
 ###### Article R552-9
 
@@ -20263,7 +20370,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-1 (V)
 
 
-##### Paragraphe 2 : Le parquet<a id=311></a>
+##### Paragraphe 2 : Le parquet<a id=316></a>
 
 ###### Article R552-14
 
@@ -20305,7 +20412,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-2, ecqc PF (Ab)
 
 
-##### Paragraphe 3 : Les sections détachées<a id=312></a>
+##### Paragraphe 3 : Les sections détachées<a id=317></a>
 
 ###### Article D552-17
 
@@ -20434,7 +20541,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-9, ecqc PF (Ab)
 
 
-##### Paragraphe 4 : Les assemblées générales<a id=313></a>
+##### Paragraphe 4 : Les assemblées générales<a id=318></a>
 
 ###### Article R552-21
 
@@ -20455,7 +20562,7 @@ _Modifié par_:
   - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
-##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance<a id=314></a>
+##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance<a id=319></a>
 
 ###### Article R552-22
 
@@ -20474,7 +20581,7 @@ _Modifié par_:
   - Décret n°2014-1458 du 8 décembre 2014 - art. 28
 
 
-##### Paragraphe 6 : Les pôles<a id=315></a>
+##### Paragraphe 6 : Les pôles<a id=320></a>
 
 ###### Article R552-22-1
 
@@ -20492,7 +20599,7 @@ _Cite_:
   - Code de l'organisation judiciaire -  Section 7 : Les pôles (V)
 
 
-##### Paragraphe 7 : Le projet de juridiction<a id=316></a>
+##### Paragraphe 7 : Le projet de juridiction<a id=321></a>
 
 ###### Article R552-22-2
 
@@ -20510,7 +20617,7 @@ _Cite_:
   - Code de l'organisation judiciaire -  Section 8 :  Le projet de juridiction (V)
 
 
-##### Paragraphe 8 : Le conseil de juridiction<a id=317></a>
+##### Paragraphe 8 : Le conseil de juridiction<a id=322></a>
 
 ###### Article R552-22-3
 
@@ -20528,9 +20635,9 @@ _Cite_:
   - Code de l'organisation judiciaire -  Section 9 :  Le conseil de juridiction (V)
 
 
-##### Section 2 : La cour d'appel<a id=318></a>
+##### Section 2 : La cour d'appel<a id=323></a>
 
-##### Sous-section 1 : Institution et compétence<a id=319></a>
+##### Sous-section 1 : Institution et compétence<a id=324></a>
 
 ###### Article R552-23
 
@@ -20549,7 +20656,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. D311-8
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=320></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=325></a>
 
 ###### Article R552-24
 
@@ -20622,7 +20729,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-6  ecqc PF (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=321></a>
+##### Section 4 : Les juridictions des mineurs<a id=326></a>
 
 ###### Article R552-28
 
@@ -20690,7 +20797,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R552-16 (V)
 
 
-##### Section 6 : Le tribunal du travail<a id=322></a>
+##### Section 6 : Le tribunal du travail<a id=327></a>
 
 ###### Article R552-31
 
@@ -20762,7 +20869,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-#### Chapitre III : Du greffe<a id=323></a>
+#### Chapitre III : Du greffe<a id=328></a>
 
 ###### Article R553-1
 
@@ -20834,9 +20941,9 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-20, ecqc PF (Ab)
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES  A LA NOUVELLE-CALEDONIE<a id=324></a>
+### TITRE VI : DISPOSITIONS APPLICABLES  A LA NOUVELLE-CALEDONIE<a id=329></a>
 
-#### Chapitre Ier : Dispositions générales<a id=325></a>
+#### Chapitre Ier : Dispositions générales<a id=330></a>
 
 ###### Article R561-1
 
@@ -20882,11 +20989,11 @@ _Modifié par_:
   - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 
-#### Chapitre II : Des juridictions<a id=326></a>
+#### Chapitre II : Des juridictions<a id=331></a>
 
-##### Section 1 : Le tribunal de première instance<a id=327></a>
+##### Section 1 : Le tribunal de première instance<a id=332></a>
 
-##### Sous-section 1 : Institution et compétence<a id=328></a>
+##### Sous-section 1 : Institution et compétence<a id=333></a>
 
 ###### Article D562-1
 
@@ -21018,7 +21125,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-10-4 ecqc NC (Ab)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=329></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=334></a>
 
 ###### Article R562-8
 
@@ -21035,7 +21142,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-13 ecqc NC (Ab)
 
 
-##### Paragraphe 1 : Le service juridictionnel<a id=330></a>
+##### Paragraphe 1 : Le service juridictionnel<a id=335></a>
 
 ###### Article R562-9
 
@@ -21322,7 +21429,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-1 (V)
 
 
-##### Paragraphe 2 : Le parquet<a id=331></a>
+##### Paragraphe 2 : Le parquet<a id=336></a>
 
 ###### Article R562-23
 
@@ -21364,7 +21471,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-2, ecqc NC (Ab)
 
 
-##### Paragraphe 3 : Les sections détachées<a id=332></a>
+##### Paragraphe 3 : Les sections détachées<a id=337></a>
 
 ###### Article D562-26
 
@@ -21500,7 +21607,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-9, ecqc NC (Ab)
 
 
-##### Paragraphe 4 : Les assemblées générales<a id=333></a>
+##### Paragraphe 4 : Les assemblées générales<a id=338></a>
 
 ###### Article R562-30
 
@@ -21521,7 +21628,7 @@ _Modifié par_:
   - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
 
 
-##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance<a id=334></a>
+##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance<a id=339></a>
 
 ###### Article R562-31
 
@@ -21539,7 +21646,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R212-59
 
 
-##### Paragraphe 6 : Les pôles<a id=335></a>
+##### Paragraphe 6 : Les pôles<a id=340></a>
 
 ###### Article R562-31-1
 
@@ -21557,7 +21664,7 @@ _Cite_:
   - Code de l'organisation judiciaire -  Section 7 : Les pôles (V)
 
 
-##### Paragraphe 7 : Le projet de juridiction<a id=336></a>
+##### Paragraphe 7 : Le projet de juridiction<a id=341></a>
 
 ###### Article R562-31-2
 
@@ -21575,7 +21682,7 @@ _Cite_:
   - Code de l'organisation judiciaire -  Section 8 :  Le projet de juridiction (V)
 
 
-##### Paragraphe 8 : Le conseil de juridiction<a id=337></a>
+##### Paragraphe 8 : Le conseil de juridiction<a id=342></a>
 
 ###### Article R562-31-3
 
@@ -21593,9 +21700,9 @@ _Cite_:
   - Code de l'organisation judiciaire -  Section 9 :  Le conseil de juridiction (V)
 
 
-##### Section 2 : La cour d'appel<a id=338></a>
+##### Section 2 : La cour d'appel<a id=343></a>
 
-##### Sous-section 1 : Institution et compétence<a id=339></a>
+##### Sous-section 1 : Institution et compétence<a id=344></a>
 
 ###### Article R562-32
 
@@ -21619,7 +21726,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-7 ecqc NC ecqc r221-1 (Ab)
 
 
-##### Sous-section 2 : Organisation et fonctionnement<a id=340></a>
+##### Sous-section 2 : Organisation et fonctionnement<a id=345></a>
 
 ###### Article R562-33
 
@@ -21692,7 +21799,7 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-6 ecqc NC (Ab)
 
 
-##### Section 4 : Les juridictions des mineurs<a id=341></a>
+##### Section 4 : Les juridictions des mineurs<a id=346></a>
 
 ###### Article R562-37
 
@@ -21760,7 +21867,7 @@ _Cite_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R562-25 (V)
 
 
-##### Section 6 : Le tribunal du travail<a id=342></a>
+##### Section 6 : Le tribunal du travail<a id=347></a>
 
 ###### Article R562-40
 
@@ -21834,7 +21941,7 @@ _Créé par_:
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 
-#### Chapitre III : Du greffe<a id=343></a>
+#### Chapitre III : Du greffe<a id=348></a>
 
 ###### Article R563-1
 
@@ -21902,7 +22009,7 @@ _Modifié par_:
   - Décret n°2011-579 du 25 mai 2011 - art. 2
 
 
-## Annexes<a id=344></a>
+## Annexes<a id=349></a>
 
 ###### Article Annexe Tableau I
 
