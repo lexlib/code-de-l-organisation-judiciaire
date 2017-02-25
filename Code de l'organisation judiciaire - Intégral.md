@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-02-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -22897,7 +22897,7 @@ MAISONS DE JUSTICE ET DU DROIT
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Aix-en-Provence 
 
@@ -22923,7 +22923,7 @@ Menton, Nice (Ariane).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Bouches-du-Rhône
 
@@ -22985,7 +22985,7 @@ La Seyne-sur-Mer, Toulon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Amiens
 
@@ -23075,7 +23075,7 @@ Angers.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Sarthe
 
@@ -23090,6 +23090,25 @@ Le Mans
       <td align="center">
 
 Allonnes.
+
+</td>
+    </tr>
+    <tr align="center">
+      <td colspan="2">
+
+Cour d'appel de Basse-Terre  
+
+Guadeloupe 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Pointe-à-Pitre
+
+</td>
+      <td>Les Abymes 
 
 </td>
     </tr>
@@ -23115,7 +23134,7 @@ Porto-Vecchio.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bordeaux 
 
@@ -23256,7 +23275,7 @@ Saint-Laurent-du-Maroni.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Chambéry 
 
@@ -23277,7 +23296,7 @@ Annemasse, Saint-Julien-en-Genevois.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Savoie
 
@@ -23308,7 +23327,7 @@ Aix-les-Bains, Chambéry.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Colmar 
 
@@ -23388,7 +23407,7 @@ Chenôve.
       <td>Saint-Dizier. </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Saône-et-Loire
 
@@ -23419,7 +23438,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Douai 
 
@@ -23528,7 +23547,7 @@ Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Grenoble 
 
@@ -23568,7 +23587,7 @@ Briançon
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Isère
 
@@ -23599,7 +23618,7 @@ Villefontaine.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Limoges 
 
@@ -23620,7 +23639,7 @@ Brive-la-Gaillarde.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Vienne
 
@@ -23639,7 +23658,7 @@ Limoges.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Lyon 
 
@@ -23698,7 +23717,7 @@ Bron, Givors, Lyon-Sud, Vaulx-en-Velin, Villeurbanne, Vénissieux.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Metz 
 
@@ -23731,7 +23750,7 @@ Forbach.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Montpellier 
 
@@ -23783,7 +23802,7 @@ Lodève, Lunel, Montpellier (La Paillade).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nancy 
 
@@ -23846,7 +23865,7 @@ Joué-lès-Tours.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loir-et-Cher
 
@@ -23884,7 +23903,7 @@ Orléans.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Paris 
 
@@ -23924,7 +23943,7 @@ Paris (10e), Paris (14e), Paris (17e).
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Seine-et-Marne
 
@@ -24035,7 +24054,7 @@ Charleville-Mézières, Sedan.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Aube
 
@@ -24054,7 +24073,7 @@ Romilly-sur-Seine, Troyes.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Marne
 
@@ -24073,7 +24092,7 @@ Reims.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Rennes 
 
@@ -24094,7 +24113,7 @@ Lannion, Loudéac
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loire-Atlantique
 
@@ -24120,7 +24139,7 @@ Nantes, Nantes-Rezé, Châteaubriant.
       <td>Pontivy. </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Riom 
 
@@ -24186,7 +24205,7 @@ Evreux, Louviers, Pont-Audemer, Vernon (4).]
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-Maritime
 
@@ -24257,7 +24276,7 @@ Mazamet.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Versailles 
 
@@ -24297,7 +24316,7 @@ Bagneux, Châtenay-Malabry, Gennevilliers.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-d'Oise
 
@@ -24316,7 +24335,7 @@ Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Vill
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Yvelines
 
@@ -24350,7 +24369,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 28 août 2015 - art.
+  - Arrêté du 16 février 2017 - art.
 
 _Cité par_:
 
