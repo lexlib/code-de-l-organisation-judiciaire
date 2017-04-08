@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-03-27
+Version Consolidée au 2017-04-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -164,7 +164,7 @@ Version Consolidée au 2017-03-27
         - [Chapitre II : Organisation et fonctionnement (art. R212-1 à R212-64)](#161)
           - [Section 1 : Le service juridictionnel (art. R212-3 à R212-11)](#162)
           - [Section 2 : Le parquet (art. R212-12 à R212-15)](#163)
-          - [Section 3 : Le greffe (art. D212-17-2 à R212-17-1)](#164)
+          - [Section 3 : Le greffe (art. D212-17-2 à R212-17-3)](#164)
           - [Section 4 : Les chambres détachées (art. D212-19 à R212-21)](#165)
           - [Section 5 : Les assemblées générales (art. R212-22 à R212-57)](#166)
             - [Sous-section 1 : Dispositions communes aux différentes formations de l'assemblée générale (art. R212-23 à R212-33)](#167)
@@ -9186,19 +9186,27 @@ _Cité par_:
 Selon les besoins du service, les agents des greffes peuvent être délégués dans les services d'une autre juridiction du
 ressort de la même cour d'appel.
 
-Cette délégation est prononcée par décision du premier président de la cour d'appel et du procureur général près cette cour.
-Elle ne peut excéder une durée de deux mois. Toutefois, le garde des sceaux, ministre de la justice, peut la renouveler dans
-la limite d'une durée totale de huit mois. Dans les départements d'outre-mer, elle ne peut excéder une durée de six mois.
-Toutefois, le garde des sceaux, ministre de la justice, peut la renouveler ou lui assigner une durée supérieure.
+Cette délégation est prononcée par décision du premier président de la cour d'appel et du procureur général près cette cour
+après consultation, selon le cas, du président du tribunal de grande instance, du magistrat chargé de la direction et de
+l'administration du tribunal d'instance, du procureur de la République et du directeur de greffe de la juridiction
+d'affectation de l'agent. Elle ne peut excéder une durée de quatre mois.
+
+Lorsque l'agent est délégué dans les services d'une autre juridiction ayant son siège dans le ressort du même tribunal de
+grande instance, les chefs de cour peuvent renouveler la délégation pour des durées qui ne peuvent excéder quatre mois, sans
+que la durée totale de la délégation n'excède douze mois.
+
+Lorsque l'agent est délégué dans les services d'une juridiction ayant son siège dans le ressort d'un autre tribunal de grande
+instance, les chefs de cour peuvent renouveler la délégation pour une durée qui ne peut excéder deux mois. La délégation peut
+être de nouveau renouvelée, pour des durées qui ne peuvent excéder deux mois, par décision du garde des sceaux, ministre de
+la justice, sans que la durée totale de la délégation n'excède douze mois.
+
+Un bilan annuel écrit des délégations prononcées au sein du ressort de la cour d'appel est présenté au comité technique de
+service déconcentré placé auprès du premier président de cette cour.
 
 Les agents délégués dans une autre juridiction perçoivent les indemnités dans les mêmes conditions que les fonctionnaires de
 leur catégorie et suivant les mêmes taux.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 _Cité par_:
 
@@ -9206,6 +9214,10 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R531-1 (VD)
   - Code de l'organisation judiciaire - art. R551-1 (VD)
   - Code de l'organisation judiciaire - art. R561-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-501 du 6 avril 2017 - art. 1
 
 _Anciens textes_:
 
@@ -10856,6 +10868,26 @@ Un tribunal de grande instance peut comporter un ou plusieurs greffes détachés
 _Créé par_:
 
   - Décret n°2014-899 du 18 août 2014 - art. 2
+
+
+###### Article R212-17-3
+
+Selon les besoins du service, les agents du greffe du tribunal de grande instance peuvent être délégués dans les services
+d'un greffe détaché de ce tribunal.
+
+Cette délégation est prononcée par décision du président du tribunal de grande instance et du procureur de la République près
+ce tribunal, après consultation du directeur de greffe. Elle ne peut excéder une durée de quatre mois, renouvelable une fois.
+Les agents délégués dans les services du greffe détaché du tribunal de grande instance perçoivent les indemnités dans les
+mêmes conditions que les fonctionnaires de leur catégorie et suivant les mêmes taux.
+
+Les agents du greffe détaché peuvent, dans les mêmes conditions, être délégués dans les services du greffe du tribunal de
+grande instance ou d'un autre greffe détaché de ce tribunal, qui lui est limitrophe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-501 du 6 avril 2017 - art. 1
 
 
 ##### Section 4 : Les chambres détachées<a id=165></a>
