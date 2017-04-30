@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-04-09
+Version Consolidée au 2017-05-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -1196,6 +1196,23 @@ _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-2 (Ab)
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-3 al 2  (Ab)
+
+
+###### Article L211-4-1
+
+Le tribunal de grande instance connaît des actions en réparation d'un dommage corporel.
+
+**Nota:**
+
+Conformément au II de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le
+premier jour du sixième mois suivant la publication de ladite loi. Se reporter aux dispositions du II dudit article
+concernant modalités de transferts des procédures en cours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 14
 
 
 ###### Article L211-5
@@ -19461,9 +19478,12 @@ _Anciens textes_:
 
 ###### Article R531-1
 
-Le livre Ier du présent code (partie Réglementaire) est applicable à Wallis-et-Futuna dans sa rédaction en vigueur le
-lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012, à l'exception du second alinéa de l'article R. 111-3
-et des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25 et R. 124-2.
+Le livre Ier du présent code (partie Réglementaire) est applicable à Wallis-et-Futuna dans sa rédaction résultant du décret
+n° 2017-683 du 28 avril 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9, R.
+123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12. 
+
+Les dispositions de l'article R. 121-1 sont applicables à Wallis-et-Futuna dans sa rédaction résultant du décret n° 2008-522
+du 2 juin 2008.
 
 **Liens relatifs à cet article**
 
@@ -19474,20 +19494,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1451 du 24 décembre 2012 - art. 16, v. init.
-  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
+  - Décret n°2017-683 du 28 avril 2017 - art. 4
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R111-3 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-10 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-15 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-17 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-19 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-20 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R123-9 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R124-2 (V)
+  - Code de l'organisation judiciaire - art. R111-3
+  - Code de l'organisation judiciaire - art. R121-1
+  - Code de l'organisation judiciaire - art. R123-10
+  - Code de l'organisation judiciaire - art. R123-15
+  - Code de l'organisation judiciaire - art. R123-17
+  - Code de l'organisation judiciaire - art. R123-19
+  - Code de l'organisation judiciaire - art. R123-2
+  - Code de l'organisation judiciaire - art. R123-20
+  - Code de l'organisation judiciaire - art. R123-9
+  - Code de l'organisation judiciaire - art. R124-2
+  - Code de l'organisation judiciaire - art. R131-12
 
 
 ###### Article R531-2
@@ -20103,14 +20124,17 @@ _Cité par_:
 ###### Article R551-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Polynésie française dans sa rédaction résultant du
-décret n° 2016-514 du 26 avril 2016 , à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R.
-123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25 et R. 124-2.
+décret n° 2017-683 du 28 avril 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9,
+R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 123-20 à R. 123-25, R. 124-2 et R. 131-12.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2017-683 du 28 avril 2017 - art. 4
+
 _Cite_:
 
-  - Décret n°2014-1458 du 8 décembre 2014
   - Code de l'organisation judiciaire - art. R111-3
   - Code de l'organisation judiciaire - art. R123-10
   - Code de l'organisation judiciaire - art. R123-15
@@ -20120,10 +20144,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R123-20
   - Code de l'organisation judiciaire - art. R123-9
   - Code de l'organisation judiciaire - art. R124-2
-
-_Modifié par_:
-
-  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+  - Code de l'organisation judiciaire - art. R131-12
 
 
 ###### Article R551-2
@@ -20578,19 +20599,17 @@ _Anciens textes_:
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
 aux assemblées générales du tribunal de grande instance, sont applicables en Polynésie française dans leur rédaction
-résultant du         décret n° 2016-514 du 26 avril 2016  .
+résultant du décret n° 2017-683 du 28 avril 2017.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2014-1458 du 8 décembre 2014
-  - Décret n°2015-261 du 5 mars 2015
-  - Code de l'organisation judiciaire - art. R212-37
-
 _Modifié par_:
 
-  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+  - Décret n°2017-683 du 28 avril 2017 - art. 4
+
+_Cite_:
+
+  - Code de l'organisation judiciaire -  Section 5 : Les assemblées générales (V)
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance<a id=317></a>
@@ -20979,8 +20998,8 @@ _Anciens textes_:
 ###### Article R561-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Nouvelle-Calédonie dans sa rédaction résultant du
-décret n° 2016-514 du 26 avril 2016 , à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R.
-123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19 et R. 124-2.
+décret n° 2017-683 du 28 avril 2017, à l'exception du second alinéa de l'article R. 111-3 et des articles R. 123-2, R. 123-9,
+R. 123-10, R. 123-15, R. 123-17, R. 123-19, R. 124-2 et R. 131-12.
 
 **Liens relatifs à cet article**
 
@@ -20995,10 +21014,11 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R123-2
   - Code de l'organisation judiciaire - art. R123-9
   - Code de l'organisation judiciaire - art. R124-2
+  - Code de l'organisation judiciaire - art. R131-12
 
 _Modifié par_:
 
-  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+  - Décret n°2017-683 du 28 avril 2017 - art. 4
 
 
 ###### Article R561-2
@@ -21644,19 +21664,17 @@ _Anciens textes_:
 
 Les dispositions de la section 5 du chapitre II du titre Ier du livre II du présent code (partie Réglementaire), relatives
 aux assemblées générales du tribunal de grande instance, sont applicables en Nouvelle-Calédonie dans leur rédaction résultant
-du         décret n° 2016-514 du 26 avril 2016  .
+du décret n° 2017-683 du 28 avril 2017.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2014-1458 du 8 décembre 2014
-  - Décret n°2015-261 du 5 mars 2015
-  - Code de l'organisation judiciaire - art. R212-37
-
 _Modifié par_:
 
-  - Décret n°2016-514 du 26 avril 2016 - art. 24 (V)
+  - Décret n°2017-683 du 28 avril 2017 - art. 4
+
+_Cite_:
+
+  - Code de l'organisation judiciaire -  Section 5 : Les assemblées générales (V)
 
 
 ##### Paragraphe 5 : Administration des juridictions du ressort du tribunal de première instance<a id=337></a>
