@@ -19,7 +19,7 @@ MAISONS DE JUSTICE ET DU DROIT
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Aix-en-Provence
 
@@ -86,7 +86,7 @@ Arles
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Var</td>
     </tr>
@@ -103,12 +103,12 @@ La Seyne-sur-Mer, Toulon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Amiens</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Oise</td>
     </tr>
@@ -149,7 +149,7 @@ Creil.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Somme</td>
     </tr>
@@ -280,7 +280,7 @@ Bergerac.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Gironde</td>
     </tr>
@@ -297,7 +297,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Bourges
 
@@ -318,7 +318,7 @@ Vierzon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Caen
 
@@ -400,7 +400,7 @@ Annemasse, Saint-Julien-en-Genevois.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Savoie</td>
     </tr>
@@ -429,7 +429,7 @@ Aix-les-Bains, Chambéry.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Colmar
 
@@ -450,7 +450,7 @@ Strasbourg.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haut-Rhin</td>
     </tr>
@@ -479,7 +479,7 @@ Mulhouse.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Dijon
 
@@ -536,7 +536,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Douai
 
@@ -683,7 +683,7 @@ Briançon
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Isère</td>
     </tr>
@@ -790,7 +790,7 @@ Saint-Etienne.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Rhône</td>
     </tr>
@@ -840,7 +840,11 @@ Forbach.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td>Thionville</td>
+      <td>Hayange (Val de Fensch).</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
 
 Cour d'appel de Montpellier
 
@@ -890,7 +894,7 @@ Lodève, Lunel, Montpellier (La Paillade).
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Nancy
 
@@ -953,7 +957,7 @@ Joué-lès-Tours.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loir-et-Cher</td>
     </tr>
@@ -970,7 +974,7 @@ Blois.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loiret</td>
     </tr>
@@ -1008,7 +1012,7 @@ Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Paris</td>
     </tr>
@@ -1054,7 +1058,7 @@ Pontault-Combault, Savigny-le-Temple.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-Saint-Denis</td>
     </tr>
@@ -1071,7 +1075,7 @@ Aubervilliers, Clichy-sous-Bois-Montfermeil, Epinay-sur-Seine, La Courneuve, Le 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-de-Marne</td>
     </tr>
@@ -1088,7 +1092,7 @@ Champigny-sur-Marne, Val de Bièvre.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Poitiers
 
@@ -1130,7 +1134,7 @@ Charleville-Mézières, Sedan.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Aube</td>
     </tr>
@@ -1185,7 +1189,7 @@ Lannion, Loudéac
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loire-Atlantique</td>
     </tr>
@@ -1209,7 +1213,7 @@ Nantes, Nantes-Rezé, Châteaubriant.
       <td>Pontivy.</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Riom
 
@@ -1230,7 +1234,7 @@ Montluçon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Rouen
 
@@ -1275,7 +1279,7 @@ Evreux, Louviers, Pont-Audemer, Vernon (4).]
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Seine-Maritime</td>
     </tr>
@@ -1304,7 +1308,7 @@ Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Toulouse
 
@@ -1342,7 +1346,7 @@ Mazamet.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Versailles
 
@@ -1363,7 +1367,7 @@ Dreux, Nogent-le-Rotrou.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Hauts-de-Seine</td>
     </tr>
@@ -1429,7 +1433,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 16 février 2017 - art.
+  - Arrêté du 28 avril 2017 - art.
 
 _Cité par_:
 
