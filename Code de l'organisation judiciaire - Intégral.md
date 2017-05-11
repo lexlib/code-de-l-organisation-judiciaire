@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-05-11 00:00:01 +0200
+Version Consolidée au 2017-05-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -22914,8 +22914,8 @@ Blanche, plissée.</td>
 Solennelle (et cérémonies publiques).</td>
       <td align="left">
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
-procureur de la République financier près cette juridiction : rouge, à grandes manches.</td>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et
+le procureur de la République financier de Paris : rouge, à grandes manches.</td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -22928,8 +22928,8 @@ De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Pari
 franges.</td>
       <td align="left">
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le
-procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or.</td>
+Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris et
+le procureur de la République financier de Paris : de velours noir, avec quatre galons d'or.</td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -22981,7 +22981,11 @@ Blanche, plissée.</td>
 Solennelle (et cérémonies publiques).</td>
       <td align="left">
 
-Comme ci-dessus.</td>
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre,
+Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints
+près le tribunal de grande instance de Paris : rouge, à grandes manches.
+
+</td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -22994,7 +22998,11 @@ De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Pari
 franges.</td>
       <td align="left">
 
-Comme ci-dessus.</td>
+Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre,
+Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints
+près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.
+
+</td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -23277,7 +23285,7 @@ Robe noire sans simarre ni toque noire.</td>
 
 _Modifié par_:
 
-  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
+  - Décret n°2017-1015 du 10 mai 2017 - art.
 
 
 ###### Article Annexe Tableau II
