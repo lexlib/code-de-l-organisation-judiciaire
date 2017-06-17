@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-06-16
+Version Consolidée au 2017-06-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -13844,27 +13844,6 @@ _Créé par_:
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-17 al 1, 2 et 4 (Ab)
-
-
-###### Article R221-25
-
-Le tribunal d'instance connaît des contestations des décisions prises par le préfet et relatives à l'électorat des assesseurs
-des tribunaux paritaires des baux ruraux.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2017-1100 du 15 juin 2017 - art. 4
-
-_Anciens textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1, alinéa 2, ecqc recours TI (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-17 al 6 (Ab)
 
 
 ###### Article R221-26
