@@ -1,11 +1,11 @@
 # Article Annexe Tableau IV
 
 Siège et ressort des cours d'appel et des tribunaux supérieurs d'appel, des tribunaux de grande instance et de première
-instance, des chambres détachées des tribunaux de grande instance, des sections détachées des tribunaux de première instance,
-des tribunaux d'instance et des juridictions de proximité
+instance, des chambres détachées des tribunaux de grande instance, des sections détachées des tribunaux de première instance
+et des tribunaux d'instance
 
-(Annexe des articles D. 211-1, D. 212-19, D. 221-1, D. 231-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1,
-D. 552-17, D. 562-1 et D. 562-26)
+(Annexe des articles D. 211-1, D. 212-19, D. 221-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17,
+D. 562-1 et D. 562-26)
 
 <table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
@@ -23,11 +23,7 @@ de grande instance
 
 Siège
 
-du tribunal d'instance et
-
-de la juridiction
-
-de proximité
+du tribunal d'instance
 
 </td>
       <td>
@@ -680,7 +676,7 @@ Aisne
 </td>
     </tr>
     <tr>
-      <td rowspan="2">
+      <td>
 
 Laon
 
@@ -695,18 +691,6 @@ Laon
 Cantons d'Anizy-le-Château, Aubenton, Chauny, Coucy-le-Château-Auffrique, Craonne, Crécy-sur-Serre, Hirson, La Capelle, La
 Fère, Laon-Nord, Laon-Sud, Le Nouvion-en-Thiérache, Marle, Neufchâtel-sur-Aisne (à l'exception de la fraction de commune de
 Cormicy), Rozoy-sur-Serre, Sains-Richaumont, Sissonne, Tergnier et Vervins.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Vervins
-
-</td>
-      <td>
-
-Cantons d'Aubenton, Hirson, La Capelle, Le Nouvion-en-Thiérache, Sains-Richaumont et Vervins. (3)]
 
 </td>
     </tr>
@@ -1437,13 +1421,9 @@ Besançon
 Besançon
 
 </td>
-      <td>
-
-Cantons d'Amancey (à l'exception de la fraction de commune de Levier), Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-
-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le-Doubs,
-Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans.
-
-</td>
+      <td>Cantons d'Amancey (à l'exception de la fraction de commune de Levier), Audeux, Baume-les-Dames, Besançon-Est,
+Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le-
+Doubs, Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans.</td>
     </tr>
     <tr>
       <td>
@@ -2216,23 +2196,11 @@ Calvados
 </td>
     </tr>
     <tr>
-      <td rowspan="4">
+      <td rowspan="2">
 
 Caen
 
 </td>
-      <td>
-
-Bayeux
-
-</td>
-      <td>
-
-Cantons de Balleroy, Bayeux, Caumont-l'Éventé, Isigny-sur-Mer, Ryes et Trévières. (3)]
-
-</td>
-    </tr>
-    <tr>
       <td>
 
 Caen
@@ -2251,18 +2219,6 @@ Seulles, Trévières, Troarn, Thury-Harcourt et Villers-Bocage et communes des M
     <tr>
       <td>
 
-Falaise
-
-</td>
-      <td>
-
-Cantons de Bretteville-sur-Laize, Falaise-Nord, Falaise-Sud, Morteaux-Couliboeuf et Thury-Harcourt. (11)]
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
 Vire
 
 </td>
@@ -2274,7 +2230,7 @@ Le Bény-Bocage, Saint-Sever-Calvados, Vassy et Vire.
 </td>
     </tr>
     <tr>
-      <td rowspan="2">
+      <td>
 
 Lisieux
 
@@ -2288,18 +2244,6 @@ Lisieux
 
 Cantons de Blangy-le-Château, Cambremer, Dozulé, Honfleur, Lisieux 1er Canton, Lisieux 2e Canton, Lisieux 3e Canton, Livarot,
 Mézidon-Canon, Orbec, Pont-l'Evêque, Saint-Pierre-sur-Dives et Trouville-sur-Mer et commune de Mézidon Vallée d'Auge.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-[Pont-l'Évêque
-
-</td>
-      <td>
-
-Cantons de Blangy-le-Château, Cambremer, Dozulé, Honfleur, Pont l'Évêque et Trouville-sur-Mer. (3)]
 
 </td>
     </tr>
@@ -9440,4 +9384,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1097 du 13 juin 2017 - art.
+  - Décret n°2017-824 du 5 mai 2017 - art. 1
