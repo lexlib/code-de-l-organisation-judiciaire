@@ -612,9 +612,7 @@ Solennelle (et cérémonies publiques).</td>
 
 Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre,
 Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints
-près le tribunal de grande instance de Paris : rouge, à grandes manches.
-
-</td>
+près le tribunal de grande instance de Paris : rouge, à grandes manches.</td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -629,9 +627,7 @@ franges.</td>
 
 Comme ci-dessus, sauf pour les premiers vice-présidents des tribunaux de grande instance de Bobigny, Créteil, Nanterre,
 Paris, les procureurs de la République adjoints près lesdits tribunaux et les procureurs de la République financiers adjoints
-près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.
-
-</td>
+près le tribunal de grande instance de Paris : de laine noire, avec un double galon d'argent.</td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -804,40 +800,6 @@ Blanche, plissée.</td>
   </tbody>
 </table>
 
-Juridictions de proximité
-
-Juges de proximité
-
-<table border="1">
-  <tbody>
-    <tr>
-      <td align="center">AUDIENCE</td>
-      <td align="center">BRONZE</td>
-      <td align="center">AVERS</td>
-      <td align="center">ATTACHE</td>
-      <td align="center">RUBAN</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.</td>
-      <td align="left">
-
-Doré.</td>
-      <td align="left">
-
-Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.</td>
-      <td align="left">
-
-Largeur de 75 mm, portant un rameau d'olivier.</td>
-      <td align="left">
-
-Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5
-mm.</td>
-    </tr>
-  </tbody>
-</table>
-
 Directeurs des services de greffe judiciaires et greffiers
 
 <table border="1">
@@ -914,4 +876,4 @@ Robe noire sans simarre ni toque noire.</td>
 
 _Modifié par_:
 
-  - Décret n°2017-1015 du 10 mai 2017 - art.
+  - Décret n°2017-824 du 5 mai 2017 - art. 1
