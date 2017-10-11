@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-08-31
+Version Consolidée au 2017-10-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -15509,18 +15509,24 @@ L'assemblée des magistrats du siège de la cour d'appel dresse :
 décembre 2004 relatif aux experts judiciaires ; 
 
 2° La liste des enquêteurs sociaux près la cour d'appel dans les conditions prévues par les articles 4 et 5 du décret n°
-2009-285 du 12 mars 2009.
+2009-285 du 12 mars 2009 ; 
+
+3° La liste des médiateurs en matière civile, commerciale et sociale près la cour d'appel dans les conditions fixées par l'
+article 5 du décret n° 2017-1457 du 9 octobre 2017
+.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2004-1463 du 23 décembre 2004 - art. 6
+  - Décret n°2004-1463 du 23 décembre 2004
   - Décret n°2009-285 du 12 mars 2009 - art. 4
+  - Décret n°2009-285 du 12 mars 2009 - art. 5
+  - Décret n°2017-1457 du 9 octobre 2017 - art. 5
 
 _Modifié par_:
 
-  - Décret n°2009-285 du 12 mars 2009 - art. 11
+  - Décret n°2017-1457 du 9 octobre 2017 - art. 6
 
 
 ##### Sous-Section 3 : L'assemblée des magistrats du parquet<a id=233></a>
