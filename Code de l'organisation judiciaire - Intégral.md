@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-10-12
+Version Consolidée au 2017-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -9155,7 +9155,7 @@ desquelles figurent les matières suivantes :
 
 1° Etat des personnes : mariage, filiation, adoption, déclaration d'absence ;
 
-2° Rectification des actes d'état civil ;
+2° Annulation des actes d'état civil ;
 
 3° Successions ;
 
@@ -9189,7 +9189,7 @@ l'administration des douanes et les autres affaires de douanes, dans les cas et 
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 30
+  - Décret n°2017-890 du 6 mai 2017 - art. 54 (VD)
 
 _Anciens textes_:
 
@@ -11538,6 +11538,21 @@ desquelles figurent les matières mentionnées à la présente sous-section.
 _Créé par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
+
+_Modifié par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+
+
+###### Article R213-1-1
+
+Le président du tribunal de grande instance connaît de la rectification des actes de l'état civil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-890 du 6 mai 2017 - art. 54 (VD)
 
 _Modifié par_:
 
