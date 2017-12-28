@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-12-04
+Version Consolidée au 2017-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -12334,6 +12334,32 @@ centraux d'entreprise et aux comités de groupe ;
 _Créé par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. (V)
+
+
+###### Article R221-28-1
+
+Le tribunal d'instance connaît des contestations relatives : 
+
+1° Aux modalités d'organisation, à la liste des salariés devant être consultés et à la régularité des procédures de
+consultation sur les accords d'entreprise prévues par les articles L. 2232-12, L. 2232-23-1, L. 2232-24 et L. 2232-26 ; 
+
+2° A la liste des salariés devant être consultés et à la régularité des procédures de consultation prévues par les articles
+L. 2232-21 et L. 2232-23.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1767 du 26 décembre 2017 - art. 2
+
+_Cite_:
+
+  - Code du travail - art. L2232-12 (V)
+  - Code du travail - art. L2232-21 (V)
+  - Code du travail - art. L2232-23 (V)
+  - Code du travail - art. L2232-23-1 (V)
+  - Code du travail - art. L2232-24 (V)
+  - Code du travail - art. L2232-26 (V)
 
 
 ###### Article R221-29
