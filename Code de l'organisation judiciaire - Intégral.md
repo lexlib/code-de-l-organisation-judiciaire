@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2017-12-04
+Version Consolidée au 2017-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -13118,6 +13118,36 @@ _Créé par_:
 _Abrogé par_:
 
   - Décret n°2019-912 du 30 août 2019 - art. 21
+
+
+###### Article R221-28-1
+
+Le tribunal d'instance connaît des contestations relatives : 
+
+1° Aux modalités d'organisation, à la liste des salariés devant être consultés et à la régularité des procédures de
+consultation sur les accords d'entreprise prévues par les articles L. 2232-12, L. 2232-23-1, L. 2232-24 et L. 2232-26 ; 
+
+2° A la liste des salariés devant être consultés et à la régularité des procédures de consultation prévues par les articles
+L. 2232-21 et L. 2232-23.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1767 du 26 décembre 2017 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 21
+
+_Cite_:
+
+  - Code du travail - art. L2232-12
+  - Code du travail - art. L2232-21
+  - Code du travail - art. L2232-23
+  - Code du travail - art. L2232-23-1
+  - Code du travail - art. L2232-24
+  - Code du travail - art. L2232-26
 
 
 ###### Article R221-29
