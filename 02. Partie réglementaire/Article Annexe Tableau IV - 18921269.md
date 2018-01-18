@@ -7,7 +7,7 @@ et des tribunaux d'instance
 (Annexe des articles D. 211-1, D. 212-19, D. 221-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17,
 D. 562-1 et D. 562-26)
 
-<table align="center" cellspacing="0" border="1" cellpadding="0">
+<table align="center" cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -6709,7 +6709,7 @@ La Rochelle
 </td>
       <td>
 
-Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarric, La Rochelle 1er canton, La Rochelle 2e canton, La Rochelle 3e canton, La
+Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarrie, La Rochelle 1er canton, La Rochelle 2e canton, La Rochelle 3e canton, La
 Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e canton, La Rochelle 8e canton, La Rochelle
 9e canton, Marans et Saint-Martin-de-Ré.
 
@@ -6718,13 +6718,13 @@ Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e
     <tr>
       <td>
 
-[Rochefort (6)]
+Rochefort
 
 </td>
       <td>
 
 Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud,
-Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente.
+Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente et commune de La Devise.
 
 </td>
     </tr>
@@ -6790,13 +6790,12 @@ Cantons d'Archiac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde et
     <tr>
       <td>
 
-[Jonzac
+Jonzac
 
 </td>
       <td>
 
 Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge.
-(4)]
 
 </td>
     </tr>
@@ -6816,13 +6815,14 @@ Saujon. (3)]
     <tr>
       <td>
 
-[Saintes
+Saintes
 
 </td>
       <td>
 
-Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély,
-Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne. (4)]
+Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan-Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély,
+Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne (à l'exception de la
+fraction de commune de La Devise).
 
 </td>
     </tr>
@@ -9061,7 +9061,7 @@ et Viroflay.
   </tbody>
 </table>
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -9208,7 +9208,7 @@ Nuku-Hiva
   </tbody>
 </table>
 
-<table border="1" align="center" cellspacing="0" cellpadding="0">
+<table align="center" cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -9253,7 +9253,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
   </tbody>
 </table>
 
-<table align="center" cellspacing="0" border="1" cellpadding="0">
+<table cellpadding="0" cellspacing="0" align="center" border="1">
   <tbody>
     <tr>
       <td colspan="3">
@@ -9384,4 +9384,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-824 du 5 mai 2017 - art. 1
+  - Décret n°2018-19 du 16 janvier 2018 - art.
