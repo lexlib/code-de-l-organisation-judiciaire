@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -31606,7 +31606,7 @@ La Rochelle
 </td>
       <td>
 
-Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarric, La Rochelle 1er canton, La Rochelle 2e canton, La Rochelle 3e canton, La
+Cantons d'Ars-en-Ré, Aytré, Courçon, La Jarrie, La Rochelle 1er canton, La Rochelle 2e canton, La Rochelle 3e canton, La
 Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e canton, La Rochelle 8e canton, La Rochelle
 9e canton, Marans et Saint-Martin-de-Ré.
 
@@ -31615,13 +31615,13 @@ Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e
     <tr>
       <td>
 
-[Rochefort (6)]
+Rochefort
 
 </td>
       <td>
 
 Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud,
-Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente.
+Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente et commune de La Devise.
 
 </td>
     </tr>
@@ -31687,13 +31687,12 @@ Cantons d'Archiac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde et
     <tr>
       <td>
 
-[Jonzac
+Jonzac
 
 </td>
       <td>
 
 Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge.
-(4)]
 
 </td>
     </tr>
@@ -31713,13 +31712,14 @@ Saujon. (3)]
     <tr>
       <td>
 
-[Saintes
+Saintes
 
 </td>
       <td>
 
-Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély,
-Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne. (4)]
+Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan-Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély,
+Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne (à l'exception de la
+fraction de commune de La Devise).
 
 </td>
     </tr>
@@ -34281,7 +34281,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-824 du 5 mai 2017 - art. 1
+  - Décret n°2018-19 du 16 janvier 2018 - art.
 
 
 ###### Article Annexe Tableau IV bis
