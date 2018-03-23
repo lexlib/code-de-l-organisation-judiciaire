@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2018-01-19
+Version Consolidée au 2018-03-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -21744,6 +21744,103 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-8, alinéa 3, ecqc NC (Ab)
 
 
+###### Article R562-11-1
+
+La liste arrêtée par le premier président de la cour d'appel de Paris conformément aux dispositions du premier alinéa de
+l'article L. 562-6-1 ne peut comprendre que des magistrats du siège ayant donné leur accord pour y figurer et dont le nombre
+et les compétences répondent aux besoins exprimés dans la demande du premier président de la cour d'appel de Nouméa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-195 du 21 mars 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L562-6-1
+
+
+###### Article R562-11-2
+
+L'ordonnance par laquelle le premier président de la cour d'appel de Paris désigne les magistrats du siège mentionnés à
+l'article précédent précise la durée de la délégation de chaque magistrat concerné et la nature des fonctions ou des
+attributions que celui-ci exercera au sein du tribunal de première instance de Nouméa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-195 du 21 mars 2018 - art. 1
+
+
+###### Article R562-11-3
+
+L'assemblée générale des magistrats du siège des juridictions auxquelles appartiennent les magistrats délégués est informée
+chaque année du nombre et de la nature des délégations ordonnées conformément à l'article L. 562-6-1, de l'identité des
+magistrats délégués et de l'incidence des délégations sur le fonctionnement de la juridiction concernée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-195 du 21 mars 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L562-6-1
+
+
+###### Article R562-11-4
+
+Les magistrats délégués au sein du tribunal de première instance en application du premier alinéa de l'article L. 562-6-1
+sont indemnisés dans les conditions fixées par le décret n° 2006-781 du 3 juillet 2006.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-781 du 3 juillet 2006
+  - Code de l'organisation judiciaire - art. L562-6-1
+
+_Créé par_:
+
+  - Décret n°2018-195 du 21 mars 2018 - art. 1
+
+
+###### Article R562-11-5
+
+Dans les cas où, en application des dispositions du deuxième alinéa de l'article L. 562-6-1, sont mis en œuvre des moyens de
+communication audiovisuelle pour la tenue d'une audience, la répartition des diligences du service de greffe est fixée par
+décision conjointe des chefs de la cour d'appel de Paris et de la cour d'appel de Nouméa et la disposition, à l'intérieur de
+la salle d'audience et à l'intérieur de la juridiction accueillant le ou les magistrats qui participent à l'audience et au
+délibéré, du matériel nécessaire à la transmission audiovisuelle est déterminée, respectivement, pour ce qui les concerne,
+par les chefs de l'une et l'autre cours d'appel. Ces magistrats disposent des pièces du dossier qu'ils estiment nécessaires
+au jugement de l'affaire. Il est tenu un procès-verbal du déroulement des débats par le greffe de l'une et l'autre des
+juridictions concernées. 
+
+Les prises de vue et de son sont assurées par des agents des services du ministère de la justice ou, à défaut, par tous
+autres agents publics. 
+
+Lorsque l'audience se tient à huis clos ou en chambre du conseil, ces agents sont nécessairement des fonctionnaires des
+greffes. 
+
+Les caractéristiques techniques des moyens de communication audiovisuelle utilisés doivent assurer une transmission fidèle,
+loyale et confidentielle à l'égard des tiers, dans les mêmes conditions que celles définies par l'arrêté mentionné à
+l'article R. 513-5.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-195 du 21 mars 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L562-6-1
+  - Code de l'organisation judiciaire - art. R513-5
+
+
 ###### Article R562-12
 
 En application de l'article L. 562-7, les assesseurs de la formation collégiale du tribunal de première instance sont au
@@ -22547,6 +22644,51 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de l'organisation judiciaire - art. R563-3-1 (VD)
+
+
+###### Article R563-3-1
+
+Lorsque la mise en œuvre de l'article R. 563-3 par le premier président de la cour d'appel de Nouméa n'est pas de nature à
+répondre aux besoins du service du tribunal de première instance et sous les mêmes conditions que celles prévues au premier
+alinéa de l'article L. 562-6-1, le premier président de la cour d'appel de Paris et le procureur général près cette cour
+peuvent déléguer un ou plusieurs agents de greffe d'une juridiction du ressort de cette cour dans les services de ce tribunal
+pour une durée n'excédant pas trois mois par année civile. 
+
+Ces agents sont inscrits, avec leur accord, sur une liste arrêtée chaque année civile par le directeur délégué à
+l'administration régionale judiciaire de la cour d'appel de Paris. 
+
+Cette délégation est prise après consultation, selon le cas, du président du tribunal de grande instance, du magistrat chargé
+de la direction et de l'administration du tribunal d'instance, du procureur de la République et du directeur de greffe de la
+juridiction d'affectation de l'agent. 
+
+Un bilan annuel écrit des délégations ordonnées par les chefs de la cour d'appel de Paris est présenté au comité technique de
+service déconcentré placé auprès du premier président de cette cour.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-195 du 21 mars 2018 - art. 2
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. R563-3
+
+
+###### Article R563-3-2
+
+Les agents délégués au sein du tribunal de première instance en application de l'article précédent sont indemnisés dans les
+conditions fixées par le décret n° 2006-781 du 3 juillet 2006.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-781 du 3 juillet 2006
+
+_Créé par_:
+
+  - Décret n°2018-195 du 21 mars 2018 - art. 2
 
 
 ###### Article R563-4
