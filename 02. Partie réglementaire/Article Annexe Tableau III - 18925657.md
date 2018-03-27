@@ -19,7 +19,7 @@ MAISONS DE JUSTICE ET DU DROIT
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Aix-en-Provence
 
@@ -45,7 +45,7 @@ Menton, Nice (Ariane).
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Bouches-du-Rhône</td>
     </tr>
@@ -103,7 +103,7 @@ La Seyne-sur-Mer, Toulon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Amiens</td>
     </tr>
@@ -166,7 +166,7 @@ Amiens.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Angers
 
@@ -297,7 +297,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Bourges
 
@@ -318,7 +318,7 @@ Vierzon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Caen
 
@@ -379,7 +379,7 @@ Saint-Laurent-du-Maroni.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Chambéry
 
@@ -400,7 +400,7 @@ Annemasse, Saint-Julien-en-Genevois.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Savoie</td>
     </tr>
@@ -429,7 +429,7 @@ Aix-les-Bains, Chambéry.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Colmar
 
@@ -479,7 +479,7 @@ Mulhouse.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Dijon
 
@@ -589,7 +589,7 @@ Roubaix, Tourcoing.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Pas-de-Calais</td>
     </tr>
@@ -691,7 +691,7 @@ Briançon
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Isère</td>
     </tr>
@@ -798,7 +798,7 @@ Saint-Etienne.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Rhône</td>
     </tr>
@@ -921,7 +921,7 @@ Perpignan
       <td>Perpignan</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Nancy
 
@@ -984,7 +984,7 @@ Joué-lès-Tours.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loir-et-Cher</td>
     </tr>
@@ -1001,7 +1001,7 @@ Blois.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loiret</td>
     </tr>
@@ -1216,7 +1216,7 @@ Lannion, Loudéac
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loire-Atlantique</td>
     </tr>
@@ -1269,6 +1269,17 @@ Montluçon.
 </td>
     </tr>
     <tr>
+      <td align="center" colspan="2">Puy-de-Dôme</td>
+    </tr>
+    <tr>
+      <td>
+
+Clermont-Ferrand</td>
+      <td>
+
+Clermont-Ferrand</td>
+    </tr>
+    <tr>
       <td align="center" colspan="2">
 
 Cour d'appel de Rouen
@@ -1314,7 +1325,7 @@ Evreux, Louviers, Pont-Audemer, Vernon (4).]
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-Maritime</td>
     </tr>
@@ -1343,7 +1354,7 @@ Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Toulouse
 
@@ -1364,7 +1375,7 @@ Toulouse, Toulouse-Nord, Toulouse-Ouest.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Tarn</td>
     </tr>
@@ -1402,7 +1413,7 @@ Dreux, Nogent-le-Rotrou.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Hauts-de-Seine</td>
     </tr>
@@ -1436,7 +1447,7 @@ Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Vill
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Yvelines</td>
     </tr>
@@ -1468,7 +1479,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 23 octobre 2017 - art.
+  - Arrêté du 19 mars 2018 - art.
 
 _Cité par_:
 
