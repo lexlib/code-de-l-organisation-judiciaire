@@ -7,7 +7,7 @@ et des tribunaux d'instance
 (Annexe des articles D. 211-1, D. 212-19, D. 221-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17,
 D. 562-1 et D. 562-26)
 
-<table cellspacing="0" align="center" cellpadding="0" border="1">
+<table cellpadding="0" border="1" cellspacing="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -994,10 +994,10 @@ Angers
       <td>
 
 Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord-Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-
-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé,
-Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir (à l'exception de la fraction de commune de Mazé-Milon),
-Thouarcé (à l'exception de la fraction de commune de Chemillé-en-Anjou) et Tiercé et communes de Brissac Loire Aubance,
-Ingrandes-Le Fresne-sur-Loire, Loire-Authion et Terranjou.
+Trélazé, Candé (à l'exception de la fraction de commune de Vallons-de-l'Erdre), Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe,
+Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir
+(à l'exception de la fraction de commune de Mazé-Milon), Thouarcé (à l'exception de la fraction de commune de Chemillé-en-
+Anjou) et Tiercé et communes de Brissac Loire Aubance, Ingrandes-Le Fresne-sur-Loire, Loire-Authion et Terranjou.
 
 </td>
     </tr>
@@ -2225,7 +2225,7 @@ Vire
       <td>
 
 Cantons d'Aunay-sur-Odon (à l'exception des fractions de communes des Monts d'Aunay et de Val de Drôme), Condé-sur-Noireau,
-Le Bény-Bocage, Saint-Sever-Calvados, Vassy et Vire.
+Le Bény-Bocage, Saint-Sever-Calvados (à l'exception de la fraction de commune de Tessy-Bocage), Vassy et Vire.
 
 </td>
     </tr>
@@ -2302,8 +2302,8 @@ Coutances
 
 Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception de la fraction de
 commune de Picauville), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye,
-Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et commune
-de Carentan les Marais.
+Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et communes
+de Carentan les Marais et de Tessy-Bocage.
 
 </td>
     </tr>
@@ -3334,7 +3334,7 @@ Marquion, Pas-en-Artois, Rouvroy, Vimy et Vitry-en-Artois. (3)]
       <td>
 
 Cantons d'Arras-Nord, Arras-Ouest, Arras-Sud, Aubigny-en-Artois, Auxi-le-Château, Avesnes-le-Comte, Avion, Bapaume, Beaumetz-
-lès Loges, Bertincourt, Croisilles, Dainville, Heuchin, Le Parcq, Marquion, Pas-en-Artois, Rouvroy, Saint-Pol-sur-Ternoise,
+lès Loges, Bertincourt, Croisilles, Dainville, Heuchin, Le Parcq , Marquion, Pas-en-Artois, Rouvroy, Saint-Pol-sur-Ternoise,
 Vimy et Vitry-en-Artois. (4)]
 
 </td>
@@ -7603,9 +7603,10 @@ Nantes
 Cantons d'Aigrefeuille-sur-Maine, Ancenis, Bouaye, Carquefou, Châteaubriant, Clisson, Derval, La Chapelle-sur-Erdre, Le
 Loroux-Bottereau, Le Pellerin, Legé, Ligné, Machecoul, Moisdon-la-Rivière, Nantes 1er Canton, Nantes 2e Canton, Nantes 3e
 Canton, Nantes 4e Canton, Nantes 5e Canton, Nantes 6e Canton, Nantes 7e Canton, Nantes 8e Canton, Nantes 9e Canton, Nantes
-10e Canton, Nantes 11e Canton, Nort-sur-Erdre, Nozay, Orvault, Rezé, Riaillé, Rougé, Saint-Etienne-de-Montluc, Saint-
+10e Canton, Nantes 11e Canton, Nort-sur-Erdre, Nozay, Orvault, Rezé, Riaillé, Rougé, Saint-Étienne-de-Montluc, Saint-
 Herblain-Est, Saint-Herblain-Ouest-Indre, Saint-Julien-de-Vouvantes, Saint-Mars-la-Jaille, Saint-Philbert-de-Grand-Lieu,
-Vallet, Varades (à l'exception de la fraction de commune d'Ingrandes-Le Fresne sur Loire), Vertou et Vertou-Vignoble.
+Vallet, Varades (à l'exception de la fraction de commune d'Ingrandes-Le Fresne sur Loire), Vertou et Vertou-Vignoble et
+commune de Vallons-de-l'Erdre.
 
 </td>
     </tr>
@@ -9061,7 +9062,7 @@ et Viroflay.
   </tbody>
 </table>
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -9208,7 +9209,7 @@ Nuku-Hiva
   </tbody>
 </table>
 
-<table align="center" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -9253,7 +9254,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
   </tbody>
 </table>
 
-<table cellspacing="0" border="1" cellpadding="0" align="center">
+<table align="center" cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td colspan="3">
@@ -9384,4 +9385,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-19 du 16 janvier 2018 - art.
+  - Décret n°2018-244 du 5 avril 2018 - art.
