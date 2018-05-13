@@ -4,7 +4,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 recevoir et enregistrer les déclarations de nationalité française et délivrer les certificats de nationalité française
 (annexe de l'article D. 221-1)
 
-<table cellspacing="0" border="1" align="center" cellpadding="0">
+<table border="1" align="center" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -2935,16 +2935,12 @@ Paris
     <tr>
       <td>
 
-Paris 1er arrondissement
+Paris
 
 </td>
       <td>
 
-Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e
-arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e
-arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris
-14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement,
-Paris 19e arrondissement et Paris 20e arrondissement.
+Ressort du tribunal d'instance de Paris.
 
 </td>
     </tr>
@@ -3133,12 +3129,12 @@ Ressort du tribunal d'instance de Saint-Denis.
     <tr>
       <td>
 
-Saint-Ouen
+Saint-Ouen*
 
 </td>
       <td>
 
-Ressort du tribunal d'instance de Saint-Ouen.
+Ressort du tribunal d'instance de Saint-Ouen*.
 
 </td>
     </tr>
@@ -4779,6 +4775,10 @@ Ressort du tribunal de Première instance de Saint-Pierre.
 
 (14) applicable à compter du 1er juillet 2009.
 
+* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de 
+          _Saint-Ouen_ est désormais dénommée 
+          _Saint-Ouen-sur-Seine_.
+
 </td>
     </tr>
   </tbody>
@@ -4786,8 +4786,7 @@ Ressort du tribunal de Première instance de Saint-Pierre.
 
 **Nota:**
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
-instances introduites après le 1er janvier 2017.
+Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
 
 **Liens relatifs à cet article**
 
@@ -4799,4 +4798,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1097 du 13 juin 2017 - art.
+  - Décret n°2017-1643 du 30 novembre 2017 - art.
