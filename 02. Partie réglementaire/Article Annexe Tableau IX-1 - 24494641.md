@@ -4,7 +4,7 @@ Siège et ressort des tribunaux d'instance compétents, dans le ressort de certa
 connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement
 personnel (annexe de l'article D. 221-1)
 
-<table cellpadding="0" cellspacing="0" border="1" align="center">
+<table align="center" cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -156,34 +156,6 @@ Ressort des tribunaux d'instance de La Flèche et Le Mans
       <td colspan="3">
 
 Cour d'appel de Paris
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Paris
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris
-
-</td>
-      <td>
-
-Paris 19e arrondissement
-
-</td>
-      <td>
-
-Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e
-arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e
-arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris
-14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement,
-Paris 19e arrondissement et Paris 20e arrondissement
 
 </td>
     </tr>
@@ -405,8 +377,12 @@ Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Vers
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-409 du 10 avril 2015 - art. 3
+  - Décret n°2017-1643 du 30 novembre 2017 - art. 1
