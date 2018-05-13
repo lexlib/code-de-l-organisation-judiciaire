@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2018-04-16
+Version Consolidée au 2018-05-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -12485,21 +12485,21 @@ _Modifié par_:
 
 ###### Article R221-36
 
-Le tribunal d'instance du 1er arrondissement de Paris connaît des contestations des décisions de la commission administrative
-relatives à l'établissement et à la révision des listes électorales consulaires, dans les cas et conditions du décret n°
-2005-1613 du 22 décembre 2005 portant application de la loi organique n° 76-97 du 31 janvier 1976 relative aux listes
-électorales consulaires et au vote des Français établis hors de France pour l'élection du Président de la République.
+Le tribunal d'instance de Paris connaît des contestations des décisions de la commission administrative relatives à
+l'établissement et à la révision des listes électorales consulaires, dans les cas et conditions du décret n° 2005-1613 du 22
+décembre 2005 portant application de la loi organique n° 76-97 du 31 janvier 1976 relative aux listes électorales consulaires
+et au vote des Français établis hors de France pour l'élection du Président de la République.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°76-97 du 31 janvier 1976 (V)
-  - Décret n°2005-1613 du 22 décembre 2005 (V)
+  - Loi n°76-97 du 31 janvier 1976
+  - Décret n°2005-1613 du 22 décembre 2005
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2017-1643 du 30 novembre 2017 - art. 1
 
 
 ##### Paragraphe 3 : Compétence à charge d'appel ou en dernier ressort selon le montant de la demande<a id=188></a>
@@ -12888,21 +12888,21 @@ Dans le cas prévu à l'article 31-1 du code civil, la demande est portée devan
 2° Le tribunal dans le ressort duquel est situé le lieu de naissance du demandeur, si celui-ci est né en France et réside à
 l'étranger ;
 
-3° Le tribunal d'instance du 1er arrondissement de Paris, si le demandeur est né et réside à l'étranger.
+3° Le tribunal d'instance de Paris, si le demandeur est né et réside à l'étranger.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 _Cité par_:
 
   - Décret n°2009-561 du 19 mai 2009 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-1643 du 30 novembre 2017 - art. 1
+
 _Cite_:
 
-  - Code civil - art. 31-1 (V)
+  - Code civil - art. 31-1
 
 _Anciens textes_:
 
@@ -23639,7 +23639,7 @@ et des tribunaux d'instance
 (Annexe des articles D. 211-1, D. 212-19, D. 221-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17,
 D. 562-1 et D. 562-26)
 
-<table cellpadding="0" cellspacing="0" align="center" border="1">
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -26966,7 +26966,7 @@ Marquion, Pas-en-Artois, Rouvroy, Vimy et Vitry-en-Artois. (3)]
       <td>
 
 Cantons d'Arras-Nord, Arras-Ouest, Arras-Sud, Aubigny-en-Artois, Auxi-le-Château, Avesnes-le-Comte, Avion, Bapaume, Beaumetz-
-lès Loges, Bertincourt, Croisilles, Dainville, Heuchin, Le Parcq , Marquion, Pas-en-Artois, Rouvroy, Saint-Pol-sur-Ternoise,
+lès Loges, Bertincourt, Croisilles, Dainville, Heuchin, Le Parcq, Marquion, Pas-en-Artois, Rouvroy, Saint-Pol-sur-Ternoise,
 Vimy et Vitry-en-Artois. (4)]
 
 </td>
@@ -29320,249 +29320,13 @@ Paris
 </td>
     </tr>
     <tr>
-      <td rowspan="20">
+      <td>
 
 Paris
 
 </td>
-      <td>
-
-Paris 1er arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 1er canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 2e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 2e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 3e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 3e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 4e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 4e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 5e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 5e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 6e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 6e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 7e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 7e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 8e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 8e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 9e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 9e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 10e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 10e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 11e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 11e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 12e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 12e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 13e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 13e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 14'arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 14e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 15e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 15e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 16e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 16e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 17e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 17e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 18e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 18e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 19e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 19e canton.
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris 20e arrondissement
-
-</td>
-      <td>
-
-Canton de Paris 20e canton.
-
-</td>
+      <td>Paris</td>
+      <td>Ville de Paris</td>
     </tr>
     <tr>
       <td colspan="3">
@@ -30329,7 +30093,7 @@ Charente-Maritime
 </td>
     </tr>
     <tr>
-      <td rowspan="2">
+      <td rowspan="3">
 
 La Rochelle
 
@@ -30350,15 +30114,20 @@ Rochelle 4e canton, La Rochelle 5e canton, La Rochelle 6e canton, La Rochelle 7e
     <tr>
       <td>
 
-Rochefort
+[Rochefort (6)]
 
 </td>
       <td>
 
 Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord, Rochefort-Sud,
-Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente et commune de La Devise.
+Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente.
 
 </td>
+    </tr>
+    <tr>
+      <td>Rochefort</td>
+      <td>Cantons d'Aigrefeuille-d'Aunis, La Tremblade, Le Château-d'Oléron, Marennes, Rochefort-Centre, Rochefort-Nord,
+Rochefort-Sud, Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente et commune de La Devise</td>
     </tr>
     <tr>
       <td rowspan="3">
@@ -30403,7 +30172,7 @@ Saint-Agnant, Saint-Pierre-d'Oléron, Surgères et Tonnay-Charente. (4)]
 </td>
     </tr>
     <tr>
-      <td rowspan="5">
+      <td rowspan="7">
 
 Saintes
 
@@ -30422,14 +30191,20 @@ Cantons d'Archiac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde et
     <tr>
       <td>
 
-Jonzac
+[Jonzac
 
 </td>
       <td>
 
 Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-Saintonge.
+(4)]
 
 </td>
+    </tr>
+    <tr>
+      <td>Jonzac</td>
+      <td>Cantons d'Archiac, Gémozac, Jonzac, Mirambeau, Montendre, Montguyon, Montlieu-la-Garde, Pons et Saint-Genis-de-
+Saintonge.</td>
     </tr>
     <tr>
       <td>
@@ -30447,14 +30222,13 @@ Saujon. (3)]
     <tr>
       <td>
 
-Saintes
+[Saintes
 
 </td>
       <td>
 
-Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan-Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély,
-Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne (à l'exception de la
-fraction de commune de La Devise).
+Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély,
+Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne. (4)]
 
 </td>
     </tr>
@@ -30469,6 +30243,12 @@ fraction de commune de La Devise).
 Cantons d'Aulnay, Loulay, Matha, Saint-Hilaire-de-Villefranche, Saint-Jean-d'Angély, Saint-Savinien et Tonnay-Boutonne. (3)]
 
 </td>
+    </tr>
+    <tr>
+      <td>Saintes</td>
+      <td>Cantons d'Aulnay, Burie, Cozes, Loulay, Matha, Royan-Est, Royan Ouest, Saint-Hilaire-de-Villefranche, Saint-Jean-
+d'Angély, Saint-Savinien, Saintes-Est, Saintes-Nord, Saintes-Ouest, Saint-Porchaire, Saujon et Tonnay-Boutonne (à l'exception
+de la fraction de commune de La Devise).</td>
     </tr>
     <tr>
       <td colspan="3">
@@ -32694,7 +32474,7 @@ et Viroflay.
   </tbody>
 </table>
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table cellspacing="0" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -32841,7 +32621,7 @@ Nuku-Hiva
   </tbody>
 </table>
 
-<table cellspacing="0" align="center" cellpadding="0" border="1">
+<table cellpadding="0" align="center" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -32886,7 +32666,7 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
   </tbody>
 </table>
 
-<table cellspacing="0" cellpadding="0" border="1" align="center">
+<table align="center" cellpadding="0" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td colspan="3">
@@ -33000,8 +32780,7 @@ de Sainte-Rose), Saint-François et Saint-Louis.
 
 **Nota:**
 
-Conformément à l'article 2 du décret n° 2016-1633 du 29 novembre 2016 et à l'article 5 du décret n° 2016-1996 du 30 décembre
-2016, ces dispositions sont applicables aux instances introduites après le 1er janvier 2017.
+Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
 
 **Liens relatifs à cet article**
 
@@ -33017,6 +32796,8 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Décret n°2017-1643 du 30 novembre 2017 - art.
+  - Décret n°2018-19 du 16 janvier 2018 - art.
   - Décret n°2018-244 du 5 avril 2018 - art.
 
 
@@ -33185,12 +32966,12 @@ Tableau IV-I
 JURIDICTION D'IMPLANTATION</th>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Agen</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Gers</td>
     </tr>
@@ -33340,7 +33121,7 @@ Nice</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Bouches-du-Rhône</td>
     </tr>
@@ -33401,7 +33182,7 @@ Tarascon</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Var</td>
     </tr>
@@ -33501,7 +33282,7 @@ Senlis</td>
 Tribunal de grande instance (y compris la maison de justice et du droit de Creil), tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Somme</td>
     </tr>
@@ -33530,12 +33311,12 @@ Péronne</td>
 Tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Angers</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Maine-et-Loire</td>
     </tr>
@@ -33564,7 +33345,7 @@ Saumur</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Mayenne</td>
     </tr>
@@ -33577,7 +33358,7 @@ Laval</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Sarthe</td>
     </tr>
@@ -33603,7 +33384,7 @@ Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
 Cour d'appel de Basse-Terre</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Guadeloupe</td>
     </tr>
@@ -33660,7 +33441,7 @@ Tribunal de grande instance, tribunal d'instance</td>
 Cour d'appel de Besançon</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Doubs</td>
     </tr>
@@ -33710,7 +33491,7 @@ Vesoul</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Jura</td>
     </tr>
@@ -33757,7 +33538,7 @@ Tribunal de grande instance</td>
 Cour d'appel de Bordeaux</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Charente</td>
     </tr>
@@ -33836,7 +33617,7 @@ Libourne</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bourges</td>
     </tr>
@@ -33875,7 +33656,7 @@ Châteauroux</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Nièvre</td>
     </tr>
@@ -33896,7 +33677,7 @@ Nevers</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Caen</td>
     </tr>
@@ -33930,7 +33711,7 @@ Vire</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Manche</td>
     </tr>
@@ -33988,12 +33769,12 @@ Flers</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Cayenne</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Guyane</td>
     </tr>
@@ -34011,7 +33792,7 @@ Tribunal de grande instance (y compris le greffe détaché de Saint-Laurent-du-M
 Cour d'appel de Chambéry</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Savoie</td>
     </tr>
@@ -34048,7 +33829,7 @@ Thonon-les-Bains</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Savoie</td>
     </tr>
@@ -34143,7 +33924,7 @@ Strasbourg</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haut-Rhin</td>
     </tr>
@@ -34180,12 +33961,12 @@ Thann</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Dijon</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Côte-d'Or</td>
     </tr>
@@ -34214,7 +33995,7 @@ Montbard</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Marne</td>
     </tr>
@@ -34235,7 +34016,7 @@ Saint-Dizier</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Saône-et-Loire</td>
     </tr>
@@ -34264,12 +34045,12 @@ Mâcon</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Douai</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Nord</td>
     </tr>
@@ -34423,7 +34204,7 @@ Saint-Omer</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Fort-de-France</td>
     </tr>
@@ -34475,7 +34256,7 @@ Valence</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Hautes-Alpes</td>
     </tr>
@@ -34522,7 +34303,7 @@ Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
 Cour d'appel de Limoges</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Corrèze</td>
     </tr>
@@ -34543,7 +34324,7 @@ Tulle</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Creuse</td>
     </tr>
@@ -34569,12 +34350,12 @@ Limoges</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Lyon</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Ain</td>
     </tr>
@@ -34677,12 +34458,12 @@ Villeurbanne</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Metz</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Moselle</td>
     </tr>
@@ -34735,7 +34516,7 @@ Thionville</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Montpellier</td>
     </tr>
@@ -34761,7 +34542,7 @@ Narbonne</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Aveyron</td>
     </tr>
@@ -34782,7 +34563,7 @@ Rodez</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Hérault</td>
     </tr>
@@ -34908,7 +34689,7 @@ Saint-Dié-des-Vosges</td>
 Tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nîmes</td>
     </tr>
@@ -35039,7 +34820,7 @@ Nouméa</td>
 Tribunal de première instance (y compris la section détachée de Koné)</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Wallis-et-Futuna</td>
     </tr>
@@ -35070,7 +34851,7 @@ Tours</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loiret</td>
     </tr>
@@ -35122,7 +34903,7 @@ Papeete</td>
 Tribunal de première instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Paris</td>
     </tr>
@@ -35172,20 +34953,18 @@ Palaiseau</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">Paris
-
-</td>
+      <td align="center" colspan="2">Paris</td>
     </tr>
     <tr>
       <td align="left">Paris</td>
       <td align="left">
 
-Tribunal de grande instance
+Tribunal de grande instance, tribunal d'instance
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-et-Marne
 
@@ -35362,7 +35141,7 @@ Villeneuve-Saint-Georges</td>
 Conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Yonne</td>
     </tr>
@@ -35383,7 +35162,7 @@ Sens</td>
 Tribunal de grande instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Pau</td>
     </tr>
@@ -35401,7 +35180,7 @@ Tarbes</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Landes</td>
     </tr>
@@ -35422,7 +35201,7 @@ Mont-de-Marsan</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Pyrénées-Atlantiques</td>
     </tr>
@@ -35493,7 +35272,7 @@ Saintes</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Deux-Sèvres</td>
     </tr>
@@ -35522,7 +35301,7 @@ Thouars</td>
 Conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Vendée</td>
     </tr>
@@ -35551,7 +35330,7 @@ Les Sables-d'Olonne</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Vienne</td>
     </tr>
@@ -35572,12 +35351,12 @@ Poitiers</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Reims</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Ardennes</td>
     </tr>
@@ -35611,7 +35390,7 @@ Troyes</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Marne</td>
     </tr>
@@ -35666,7 +35445,7 @@ Saint-Brieuc</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Finistère</td>
     </tr>
@@ -35695,7 +35474,7 @@ Quimper</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Ille-et-Vilaine</td>
     </tr>
@@ -35740,7 +35519,7 @@ Saint-Malo</td>
 Tribunal de grande instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loire-Atlantique</td>
     </tr>
@@ -35761,7 +35540,7 @@ Saint-Nazaire</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Morbihan</td>
     </tr>
@@ -35783,7 +35562,7 @@ Vannes</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Riom</td>
     </tr>
@@ -35825,7 +35604,7 @@ Vichy</td>
 Tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cantal</td>
     </tr>
@@ -35888,7 +35667,7 @@ Thiers</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Rouen</td>
     </tr>
@@ -35930,7 +35709,7 @@ Louviers</td>
 Conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Seine-Maritime</td>
     </tr>
@@ -35959,12 +35738,12 @@ Rouen</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Saint-Denis</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 La Réunion</td>
     </tr>
@@ -36032,12 +35811,12 @@ Saint-Pierre</td>
 Tribunal de première instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Toulouse</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Ariège</td>
     </tr>
@@ -36087,7 +35866,7 @@ Toulouse</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Tarn</td>
     </tr>
@@ -36108,7 +35887,7 @@ Castres</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Tarn-et-Garonne</td>
     </tr>
@@ -36129,12 +35908,12 @@ Montauban</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Versailles</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-d'Oise</td>
     </tr>
@@ -36179,7 +35958,7 @@ Sannois</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Yvelines</td>
     </tr>
@@ -36228,10 +36007,6 @@ Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Arrêté du 10 avril 2018 - art.
-
 _Cité par_:
 
   - Code de l'organisation judiciaire - art. R123-26 (V)
@@ -36243,7 +36018,7 @@ Siège et ressort des tribunaux d'instance, des tribunaux de première instance 
 recevoir et enregistrer les déclarations de nationalité française et délivrer les certificats de nationalité française
 (annexe de l'article D. 221-1)
 
-<table cellpadding="0" cellspacing="0" border="1" align="center">
+<table cellspacing="0" cellpadding="0" align="center" border="1">
   <tbody>
     <tr>
       <td>
@@ -39174,16 +38949,12 @@ Paris
     <tr>
       <td>
 
-Paris 1er arrondissement
+Paris
 
 </td>
       <td>
 
-Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e
-arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e
-arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris
-14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement,
-Paris 19e arrondissement et Paris 20e arrondissement.
+Ressort du tribunal d'instance de Paris.
 
 </td>
     </tr>
@@ -41025,8 +40796,7 @@ Ressort du tribunal de Première instance de Saint-Pierre.
 
 **Nota:**
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
-instances introduites après le 1er janvier 2017.
+Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
 
 **Liens relatifs à cet article**
 
@@ -41038,7 +40808,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1097 du 13 juin 2017 - art.
+  - Décret n°2017-1643 du 30 novembre 2017 - art.
 
 
 ###### Article Annexe Tableau IX-1
@@ -41047,7 +40817,7 @@ Siège et ressort des tribunaux d'instance compétents, dans le ressort de certa
 connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement
 personnel (annexe de l'article D. 221-1)
 
-<table border="1" cellpadding="0" cellspacing="0" align="center">
+<table cellspacing="0" align="center" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -41199,34 +40969,6 @@ Ressort des tribunaux d'instance de La Flèche et Le Mans
       <td colspan="3">
 
 Cour d'appel de Paris
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Paris
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Paris
-
-</td>
-      <td>
-
-Paris 19e arrondissement
-
-</td>
-      <td>
-
-Ressort des tribunaux d'instance de Paris 1er arrondissement, Paris 2e arrondissement, Paris 3e arrondissement, Paris 4e
-arrondissement, Paris 5e arrondissement, Paris 6e arrondissement, Paris 7e arrondissement, Paris 8e arrondissement, Paris 9e
-arrondissement, Paris 10e arrondissement, Paris 11e arrondissement, Paris 12e arrondissement, Paris 13e arrondissement, Paris
-14e arrondissement, Paris 15e arrondissement, Paris 16e arrondissement, Paris 17e arrondissement, Paris 18e arrondissement,
-Paris 19e arrondissement et Paris 20e arrondissement
 
 </td>
     </tr>
@@ -41448,11 +41190,15 @@ Ressort des tribunaux d'instance de Mantes-la-Jolie, Poissy, Rambouillet et Vers
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces dispositions peuvent être modifiées par décret.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-409 du 10 avril 2015 - art. 3
+  - Décret n°2017-1643 du 30 novembre 2017 - art. 1
 
 
 ###### Article Annexe Tableau V
