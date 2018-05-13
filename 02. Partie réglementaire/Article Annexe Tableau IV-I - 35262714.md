@@ -2000,15 +2000,13 @@ Palaiseau</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">Paris
-
-</td>
+      <td align="center" colspan="2">Paris</td>
     </tr>
     <tr>
       <td align="left">Paris</td>
       <td align="left">
 
-Tribunal de grande instance
+Tribunal de grande instance, tribunal d'instance
 
 </td>
     </tr>
@@ -3055,10 +3053,6 @@ Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
 </table>
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté du 10 avril 2018 - art.
 
 _Cité par_:
 
