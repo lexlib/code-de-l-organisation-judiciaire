@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2018-10-31
+Version Consolidée au 2018-11-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -34230,7 +34230,7 @@ Tableau IV-I
 JURIDICTION D'IMPLANTATION</th>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Agen</td>
     </tr>
@@ -34256,7 +34256,7 @@ Condom</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Lot</td>
     </tr>
@@ -34311,7 +34311,7 @@ Tribunal d'instance</td>
 Cour d'appel d'Aix-en-Provence</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Alpes-de-Haute-Provence</td>
     </tr>
@@ -34332,7 +34332,7 @@ Manosque</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Alpes-Maritimes</td>
     </tr>
@@ -34385,7 +34385,7 @@ Nice</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Bouches-du-Rhône</td>
     </tr>
@@ -34446,7 +34446,7 @@ Tarascon</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Var</td>
     </tr>
@@ -34483,7 +34483,7 @@ Toulon</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Amiens</td>
     </tr>
@@ -34546,7 +34546,7 @@ Senlis</td>
 Tribunal de grande instance (y compris la maison de justice et du droit de Creil), tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Somme</td>
     </tr>
@@ -34575,7 +34575,7 @@ Péronne</td>
 Tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Angers</td>
     </tr>
@@ -34643,7 +34643,7 @@ Le Mans</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Basse-Terre</td>
     </tr>
@@ -34653,20 +34653,16 @@ Cour d'appel de Basse-Terre</td>
 Guadeloupe</td>
     </tr>
     <tr>
-      <td align="left">
-
-Basse-Terre</td>
-      <td align="left">
-
-Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
+      <td align="left">Basse-Terre</td>
+      <td align="left">Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="left">
-
-Saint-Martin</td>
-      <td align="left">
-
-Tribunal d'instance</td>
+      <td align="left">Saint-Martin</td>
+      <td align="left">Tribunal d'instance</td>
+    </tr>
+    <tr>
+      <td align="left">Pointe-à-Pitre</td>
+      <td align="left">Tribunal de grande instance</td>
     </tr>
     <tr>
       <td colspan="2" align="center">
@@ -34674,7 +34670,7 @@ Tribunal d'instance</td>
 Cour d'appel de Bastia</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Corse-du-Sud</td>
     </tr>
@@ -34705,7 +34701,7 @@ Tribunal de grande instance, tribunal d'instance</td>
 Cour d'appel de Besançon</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Doubs</td>
     </tr>
@@ -34755,7 +34751,7 @@ Vesoul</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Jura</td>
     </tr>
@@ -34784,7 +34780,7 @@ Saint-Claude</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Territoire de Belfort</td>
     </tr>
@@ -34802,7 +34798,7 @@ Tribunal de grande instance</td>
 Cour d'appel de Bordeaux</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Charente</td>
     </tr>
@@ -34823,7 +34819,7 @@ Cognac</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Dordogne</td>
     </tr>
@@ -34852,7 +34848,7 @@ Sarlat-la-Canéda</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Gironde</td>
     </tr>
@@ -34881,12 +34877,12 @@ Libourne</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bourges</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cher</td>
     </tr>
@@ -34907,7 +34903,7 @@ Saint-Amand-Montrond</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Indre</td>
     </tr>
@@ -34920,7 +34916,7 @@ Châteauroux</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Nièvre</td>
     </tr>
@@ -34941,12 +34937,12 @@ Nevers</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Caen</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Calvados</td>
     </tr>
@@ -35033,7 +35029,7 @@ Flers</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Cayenne</td>
     </tr>
@@ -35056,7 +35052,7 @@ Tribunal de grande instance (y compris le greffe détaché de Saint-Laurent-du-M
 Cour d'appel de Chambéry</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Savoie</td>
     </tr>
@@ -35259,7 +35255,7 @@ Montbard</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Marne</td>
     </tr>
@@ -35280,7 +35276,7 @@ Saint-Dizier</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Saône-et-Loire</td>
     </tr>
@@ -35314,7 +35310,7 @@ Tribunal de grande instance, tribunal d'instance</td>
 Cour d'appel de Douai</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Nord</td>
     </tr>
@@ -35468,12 +35464,12 @@ Saint-Omer</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Fort-de-France</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Martinique</td>
     </tr>
@@ -35486,7 +35482,7 @@ Fort-de-France</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Grenoble</td>
     </tr>
@@ -35520,7 +35516,7 @@ Valence</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Hautes-Alpes</td>
     </tr>
@@ -35533,7 +35529,7 @@ Gap</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Isère</td>
     </tr>
@@ -35567,7 +35563,7 @@ Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
 Cour d'appel de Limoges</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Corrèze</td>
     </tr>
@@ -35601,7 +35597,7 @@ Guéret</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Vienne</td>
     </tr>
@@ -35614,12 +35610,12 @@ Limoges</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Lyon</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Ain</td>
     </tr>
@@ -35664,7 +35660,7 @@ Trévoux</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loire</td>
     </tr>
@@ -35780,12 +35776,12 @@ Thionville</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Montpellier</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Aude</td>
     </tr>
@@ -35806,7 +35802,7 @@ Narbonne</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Aveyron</td>
     </tr>
@@ -35827,7 +35823,7 @@ Rodez</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Hérault</td>
     </tr>
@@ -35869,12 +35865,12 @@ Perpignan</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Nancy</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Meurthe-et-Moselle</td>
     </tr>
@@ -35911,7 +35907,7 @@ Nancy</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Meuse</td>
     </tr>
@@ -35953,7 +35949,7 @@ Saint-Dié-des-Vosges</td>
 Tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Nîmes</td>
     </tr>
@@ -35987,7 +35983,7 @@ Privas</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Gard</td>
     </tr>
@@ -36016,7 +36012,7 @@ Uzès</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Lozère</td>
     </tr>
@@ -36029,7 +36025,7 @@ Mende</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Vaucluse</td>
     </tr>
@@ -36084,7 +36080,7 @@ Nouméa</td>
 Tribunal de première instance (y compris la section détachée de Koné)</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Wallis-et-Futuna</td>
     </tr>
@@ -36097,7 +36093,7 @@ Mata-Utu</td>
 Tribunal de première instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Orléans</td>
     </tr>
@@ -36115,7 +36111,7 @@ Tours</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loiret</td>
     </tr>
@@ -36136,7 +36132,7 @@ Orléans</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loir-et-Cher</td>
     </tr>
@@ -36149,7 +36145,7 @@ Blois</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Papeete</td>
     </tr>
@@ -36330,7 +36326,7 @@ Tribunal d'instance</td>
     <tr>
       <td align="left">
 
-Saint-Ouen</td>
+Saint-Ouen*</td>
       <td align="left">
 
 Tribunal d'instance</td>
@@ -36405,7 +36401,7 @@ Villeneuve-Saint-Georges</td>
 Conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Yonne</td>
     </tr>
@@ -36426,7 +36422,7 @@ Sens</td>
 Tribunal de grande instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Pau</td>
     </tr>
@@ -36444,7 +36440,7 @@ Tarbes</td>
 Tribunal de grande instance, tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Landes</td>
     </tr>
@@ -36465,7 +36461,7 @@ Mont-de-Marsan</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Pyrénées-Atlantiques</td>
     </tr>
@@ -36565,7 +36561,7 @@ Thouars</td>
 Conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Vendée</td>
     </tr>
@@ -36615,12 +36611,12 @@ Poitiers</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Reims</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Ardennes</td>
     </tr>
@@ -36641,7 +36637,7 @@ Sedan</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Aube</td>
     </tr>
@@ -36654,7 +36650,7 @@ Troyes</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Marne</td>
     </tr>
@@ -36688,7 +36684,7 @@ Tribunal de grande instance, tribunal d'instance</td>
 Cour d'appel de Rennes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Côtes-d'Armor</td>
     </tr>
@@ -36709,7 +36705,7 @@ Saint-Brieuc</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Finistère</td>
     </tr>
@@ -36780,10 +36776,10 @@ Tribunal de grande instance, tribunal d'instance</td>
 Saint-Malo</td>
       <td align="left">
 
-Tribunal de grande instance, conseil de prud'hommes</td>
+Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Loire-Atlantique</td>
     </tr>
@@ -36889,7 +36885,7 @@ Saint-Flour</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Loire</td>
     </tr>
@@ -36931,12 +36927,12 @@ Thiers</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Rouen</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Eure</td>
     </tr>
@@ -36973,7 +36969,7 @@ Louviers</td>
 Conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Seine-Maritime</td>
     </tr>
@@ -37002,12 +36998,12 @@ Rouen</td>
 Tribunal de grande instance</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Saint-Denis</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 La Réunion</td>
     </tr>
@@ -37062,7 +37058,7 @@ Tribunal de grande instance, tribunal d'instance (y compris le greffe détaché 
 Tribunal supérieur d'appel de Saint-Pierre</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Saint-Pierre-et-Miquelon</td>
     </tr>
@@ -37075,7 +37071,7 @@ Saint-Pierre</td>
 Tribunal de première instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Toulouse</td>
     </tr>
@@ -37101,7 +37097,7 @@ Saint-Girons</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haute-Garonne</td>
     </tr>
@@ -37130,7 +37126,7 @@ Toulouse</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Tarn</td>
     </tr>
@@ -37172,12 +37168,12 @@ Montauban</td>
 Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Versailles</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Val-d'Oise</td>
     </tr>
@@ -37222,7 +37218,7 @@ Sannois</td>
 Tribunal d'instance</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Yvelines</td>
     </tr>
@@ -37259,17 +37255,25 @@ Saint-Germain-en-Laye</td>
 Tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
+      <td align="left">Versailles</td>
       <td align="left">
 
-Versailles</td>
-      <td align="left">
+Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes
 
-Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
+</td>
     </tr>
   </tbody>
 </table>
 
+* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de 
+  _Saint-Ouen_ est désormais dénommée 
+  _Saint-Ouen-sur-Seine_.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 15 novembre 2018 - art.
 
 _Cité par_:
 
