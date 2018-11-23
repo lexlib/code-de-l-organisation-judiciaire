@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2018-10-31
+Version Consolidée au 2018-11-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -34947,20 +34947,16 @@ Cour d'appel de Basse-Terre</td>
 Guadeloupe</td>
     </tr>
     <tr>
-      <td align="left">
-
-Basse-Terre</td>
-      <td align="left">
-
-Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
+      <td align="left">Basse-Terre</td>
+      <td align="left">Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
-      <td align="left">
-
-Saint-Martin</td>
-      <td align="left">
-
-Tribunal d'instance</td>
+      <td align="left">Saint-Martin</td>
+      <td align="left">Tribunal d'instance</td>
+    </tr>
+    <tr>
+      <td align="left">Pointe-à-Pitre</td>
+      <td align="left">Tribunal de grande instance</td>
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -36624,7 +36620,7 @@ Tribunal d'instance</td>
     <tr>
       <td align="left">
 
-Saint-Ouen</td>
+Saint-Ouen*</td>
       <td align="left">
 
 Tribunal d'instance</td>
@@ -37074,7 +37070,7 @@ Tribunal de grande instance, tribunal d'instance</td>
 Saint-Malo</td>
       <td align="left">
 
-Tribunal de grande instance, conseil de prud'hommes</td>
+Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -37553,17 +37549,25 @@ Saint-Germain-en-Laye</td>
 Tribunal d'instance, conseil de prud'hommes</td>
     </tr>
     <tr>
+      <td align="left">Versailles</td>
       <td align="left">
 
-Versailles</td>
-      <td align="left">
+Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes
 
-Tribunal de grande instance, tribunal d'instance, conseil de prud'hommes</td>
+</td>
     </tr>
   </tbody>
 </table>
 
+* Aux termes de l'article 1er du décret n° 2018-956 du 5 novembre 2018 portant changement du nom de communes, la commune de 
+  _Saint-Ouen_ est désormais dénommée 
+  _Saint-Ouen-sur-Seine_.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Arrêté du 15 novembre 2018 - art.
 
 _Cité par_:
 
