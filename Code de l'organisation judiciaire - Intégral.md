@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2018-11-24
+Version Consolidée au 2018-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -23713,7 +23713,7 @@ MAISONS DE JUSTICE ET DU DROIT
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Aix-en-Provence
 
@@ -23797,12 +23797,12 @@ La Seyne-sur-Mer, Toulon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Amiens</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Oise</td>
     </tr>
@@ -23843,7 +23843,7 @@ Creil.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Somme</td>
     </tr>
@@ -23860,7 +23860,7 @@ Amiens.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel d'Angers
 
@@ -23936,7 +23936,7 @@ Porto-Vecchio.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Bordeaux
 
@@ -23957,7 +23957,7 @@ Angoulême.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Dordogne</td>
     </tr>
@@ -23991,7 +23991,7 @@ Bordeaux-Bastide, Bordeaux-Nord.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Bourges
 
@@ -24073,7 +24073,7 @@ Saint-Laurent-du-Maroni.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Chambéry
 
@@ -24144,7 +24144,7 @@ Strasbourg.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Haut-Rhin</td>
     </tr>
@@ -24238,7 +24238,7 @@ Mâcon.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Douai
 
@@ -24283,7 +24283,7 @@ Roubaix, Tourcoing.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Pas-de-Calais</td>
     </tr>
@@ -24324,7 +24324,7 @@ Calais.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Fort-de-France
 
@@ -24414,7 +24414,7 @@ Villefontaine.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Limoges
 
@@ -24435,7 +24435,7 @@ Brive-la-Gaillarde.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Haute-Vienne</td>
     </tr>
@@ -24550,7 +24550,7 @@ Thionville
       <td>Hayange (Val de Fensch).</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Montpellier
 
@@ -24588,16 +24588,12 @@ Agde.
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Montpellier
 
 </td>
-      <td align="center">
-
-Lodève, Lunel, Montpellier (La Paillade).
-
-</td>
+      <td>Lattes (Montpellier Méditerranée Métropole), Lodève, Lunel, Montpellier (La Paillade).</td>
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -24615,7 +24611,7 @@ Perpignan
       <td>Perpignan</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Nancy
 
@@ -24672,7 +24668,7 @@ Avignon
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel d'Orléans
 
@@ -24693,7 +24689,7 @@ Joué-lès-Tours.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loir-et-Cher</td>
     </tr>
@@ -24748,7 +24744,7 @@ Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Paris</td>
     </tr>
@@ -24811,7 +24807,7 @@ Aubervilliers, Clichy-sous-Bois-Montfermeil, Epinay-sur-Seine, La Courneuve, Le 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Val-de-Marne</td>
     </tr>
@@ -24828,7 +24824,7 @@ Champigny-sur-Marne, Val de Bièvre.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Poitiers
 
@@ -24904,7 +24900,7 @@ Reims.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Rennes
 
@@ -24925,7 +24921,7 @@ Lannion, Loudéac
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Loire-Atlantique</td>
     </tr>
@@ -24957,7 +24953,7 @@ Lorient
       <td>Pontivy.</td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Riom
 
@@ -24989,7 +24985,7 @@ Clermont-Ferrand</td>
 Clermont-Ferrand</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Rouen
 
@@ -25084,7 +25080,7 @@ Toulouse, Toulouse-Nord, Toulouse-Ouest.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Tarn</td>
     </tr>
@@ -25101,7 +25097,7 @@ Mazamet.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Cour d'appel de Versailles
 
@@ -25122,7 +25118,7 @@ Dreux, Nogent-le-Rotrou.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Hauts-de-Seine</td>
     </tr>
@@ -25139,7 +25135,7 @@ Bagneux, Châtenay-Malabry, Gennevilliers.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Val-d'Oise</td>
     </tr>
@@ -25156,7 +25152,7 @@ Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Vill
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Yvelines</td>
     </tr>
@@ -25188,7 +25184,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 8 juin 2018 - art.
+  - Arrêté du 18 décembre 2018 - art.
 
 _Cité par_:
 
