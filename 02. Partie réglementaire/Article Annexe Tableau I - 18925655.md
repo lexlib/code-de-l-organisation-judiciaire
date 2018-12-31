@@ -800,6 +800,42 @@ Blanche, plissée.</td>
   </tbody>
 </table>
 
+Assesseurs (L. 211-16 et L. 311-16)
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+MÉDAILLE</th>
+      <th>
+
+MÉTAL</th>
+      <th>
+
+AVERS</th>
+      <th>
+
+RUBAN</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D'un module de 45 mm sur 65 mm, suspendue à un ruban, en sautoir.</td>
+      <td align="justify">
+
+Doré.</td>
+      <td align="justify">
+
+Comportant la mention “ République française ” et la mention du nom de la juridiction à laquelle ils appartiennent entourant
+le motif d'une balance sur un fond noir et rouge.</td>
+      <td align="justify">
+
+Largeur de 35 mm, divisé dans le sens vertical en deux parties égales, noire et verte.</td>
+    </tr>
+  </tbody>
+</table>
+
 Directeurs des services de greffe judiciaires et greffiers
 
 <table border="1">
@@ -876,4 +912,4 @@ Robe noire sans simarre ni toque noire.</td>
 
 _Modifié par_:
 
-  - Décret n°2017-824 du 5 mai 2017 - art. 1
+  - Décret n°2018-928 du 29 octobre 2018 - art. 8
