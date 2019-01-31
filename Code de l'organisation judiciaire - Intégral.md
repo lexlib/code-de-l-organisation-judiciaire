@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -9879,6 +9879,26 @@ _Cité par_:
   - Code de la propriété intellectuelle - art. D716-12 (MMN)
   - Code de la propriété intellectuelle - art. D722-6 (VD)
   - Code de la propriété intellectuelle - art. R716-21 (VD)
+
+
+###### Article D211-7-2
+
+Le tribunal de grande instance de Paris est seul compétent pour connaître des actions fondées sur l' article L. 163-2 du code
+électoral .
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-53 du 30 janvier 2019 - art. 1
+
+_Modifié par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+
+_Cite_:
+
+  - Code électoral - art. L163-2
 
 
 ###### Article D211-8
