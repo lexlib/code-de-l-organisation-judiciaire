@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-02-01
+Version Consolidée au 2019-02-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -25464,7 +25464,7 @@ Evry
 </td>
       <td align="center">
 
-Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
+Athis-Mons, Etampes (Etampois sud Essonne), Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
 
 </td>
     </tr>
@@ -25909,7 +25909,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 18 décembre 2018 - art.
+  - Arrêté du 17 janvier 2019 - art.
 
 _Cité par_:
 
