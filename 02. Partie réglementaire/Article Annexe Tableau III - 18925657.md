@@ -1045,7 +1045,7 @@ Evry
 </td>
       <td align="center">
 
-Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
+Athis-Mons, Etampes (Etampois sud Essonne), Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
 
 </td>
     </tr>
@@ -1490,7 +1490,7 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 
 _Modifié par_:
 
-  - Arrêté du 18 décembre 2018 - art.
+  - Arrêté du 17 janvier 2019 - art.
 
 _Cité par_:
 
