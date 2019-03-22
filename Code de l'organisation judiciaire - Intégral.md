@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-03-15
+Version Consolidée au 2019-03-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -18183,17 +18183,25 @@ _Anciens textes_:
 
 ###### Article R421-3
 
-La Cour de cassation comprend cinq chambres civiles et une chambre criminelle.
+La Cour de cassation comprend cinq chambres civiles et une chambre criminelle. 
 
-Chaque chambre comprend une ou plusieurs sections.
+Chaque chambre comprend une ou plusieurs sections. 
 
-Chaque chambre siège soit en formation plénière, soit en formation de section.
+Chaque chambre siège soit en formation plénière, soit en formation de section, soit en formation restreinte, en matière
+civile, conformément aux deux premiers alinéas de l'article L. 431-1 et, en matière pénale, conformément à l'article L. 431-2
+et à l'article 567-1-1 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
+
+_Cite_:
+
+  - Code de procédure pénale - art. 567-1-1
+  - Code de l'organisation judiciaire - art. L431-1
+  - Code de l'organisation judiciaire - art. L431-2
 
 _Anciens textes_:
 
@@ -18204,9 +18212,9 @@ _Anciens textes_:
 
 Chacune des chambres de la Cour de cassation se compose :
 
-1° D'un président de chambre, président de section ;
+1° D'un président de chambre ;
 
-2° De conseillers, le cas échéant, présidents de section ;
+2° De conseillers ;
 
 3° De conseillers référendaires ;
 
@@ -18220,13 +18228,90 @@ Chacune des chambres de la Cour de cassation se compose :
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
 
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*121-4 (Ab)
+
+
+###### Article R421-4-1
+
+Lorsqu'elle se réunit en formation plénière, la chambre comprend :
+
+1° Le président, selon les modalités prévues au premier alinéa de l'article R. 431-1 ;
+
+2° Le doyen de chambre, ou, à défaut, le doyen de section dont le rang est le plus élevé ;
+
+3° Les doyens de section ;
+
+4° Les conseillers de la chambre ;
+
+5° Les conseillers référendaires de la chambre.
+
+Le président peut décider que la formation plénière sera composée de la façon suivante :
+
+1° Le président, selon les modalités prévues au premier alinéa de l'article R. 431-1 ;
+
+2° Le doyen de chambre, ou, à défaut, le doyen de section dont le rang est le plus élevé ;
+
+3° Les doyens de section ;
+
+4° Les deux conseillers de chaque section dont le rang est le plus élevé ;
+
+5° Le conseiller référendaire de chaque section dont le rang est le plus élevé ;
+
+6° Le rapporteur ; s'il n'est pas l'un des deux conseillers de sa section dont le rang est le plus élevé, le rapporteur se
+substitue à celui des conseillers visés au 4° dont le rang est le moins élevé ; s'il n'est pas le conseiller référendaire de
+sa section dont le rang est le plus élevé, le rapporteur se substitue au conseiller référendaire visé au 5°.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
+
+
+###### Article R421-4-2
+
+Lorsqu'elle se réunit en formation de section la chambre comprend :
+
+1° Le président, selon les modalités prévues au deuxième alinéa de l'article R. 431-1 ;
+
+2° Le doyen de section, ou, à défaut, le conseiller de la section dont le rang est le plus élevé ;
+
+3° Les conseillers de la section ;
+
+4° Les conseillers référendaires de la section.
+
+Lorsque la chambre comprend plus d'une section, la chambre siégeant en formation de section réunit une seule section ou, à la
+demande du président, deux ou plusieurs sections.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
+
+
+###### Article R421-4-3
+
+Lorsqu'elle se réunit en formation restreinte la chambre comprend :
+
+1° Le président, selon les modalités prévues au troisième alinéa de l'article R. 431-1 ;
+
+2° Le doyen de section, ou, à défaut, un conseiller de la section pris dans l'ordre du rang, à défaut, un conseiller de la
+section ;
+
+3° Le rapporteur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
 
 
 ###### Article R421-5
@@ -18247,17 +18332,23 @@ _Anciens textes_:
 
 ###### Article R421-6
 
-Dans chaque section, le doyen est le plus ancien des conseillers.
+Dans chaque section, le doyen est désigné, parmi les conseillers, par ordonnance du premier président, sur proposition du
+président de chambre concerné.
 
-Dans chaque chambre, le doyen est le plus ancien des doyens de section.
+Dans chaque chambre, le doyen est le doyen de section dont le rang est le plus élevé.
 
-Le plus ancien des doyens de chambre porte le titre de doyen de la Cour de cassation.
+Le doyen de chambre dont le rang est le plus élevé porte le titre de doyen de la Cour de cassation.
+
+**Nota:**
+
+Conformément à l’article 2 du décret n° 2019-213 du 20 mars 2019, ces dispositions sont applicables aux doyens désignés
+postérieurement à l'entrée en vigueur dudit décret.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
 
 _Anciens textes_:
 
@@ -18299,19 +18390,17 @@ Les magistrats sont inscrits sur cette liste, conformément à l'article R. 121-
 
 2° Les présidents de chambre ;
 
-3° Les présidents de section ;
+3° Le doyen de la Cour ;
 
-4° Le doyen de la Cour ;
+4° Les doyens de chambre ;
 
-5° Les doyens de chambre ;
+5° Les doyens de section ;
 
-6° Les doyens de section ;
+6° Les conseillers ;
 
-7° Les conseillers ;
+7° Les conseillers référendaires ;
 
-8° Les conseillers référendaires ;
-
-9° Les auditeurs.
+8° Les auditeurs.
 
 Toutefois, les avocats généraux nommés conseillers à la Cour de cassation prennent rang à ce titre du jour de leur nomination
 comme avocats généraux près cette Cour.
@@ -18322,9 +18411,9 @@ conseillers, prennent rang du jour de leur première nomination à la Cour.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
 
 _Anciens textes_:
 
@@ -18332,7 +18421,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R121-4 (V)
+  - Code de l'organisation judiciaire - art. R121-4
 
 
 ###### Article R421-9
@@ -18399,17 +18488,23 @@ _Anciens textes_:
 
 ###### Article R431-1
 
-Chaque chambre, à défaut de son président et du premier président, est présidée par le président de section dont le rang est
-le plus élevé et, à défaut, par le conseiller dont le rang est le plus élevé.
+A défaut de son président, chaque chambre est présidée par son doyen ou, à défaut, par le conseiller dont le rang est le plus
+élevé.
 
-Chaque section, à défaut de son président, du président de chambre et du premier président, est présidée par le conseiller
+A défaut du président de la chambre, chaque section est présidée par son doyen ou, à défaut, par le conseiller de la section
 dont le rang est le plus élevé.
+
+A défaut du président de la chambre, chaque formation restreinte est présidée par le doyen de section ou, à défaut, par le
+conseiller de la section dont le rang est le plus élevé.
+
+Toute chambre siégeant en formation plénière, en formation de section ou en formation restreinte peut être présidée par le
+premier président
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
 
 _Anciens textes_:
 
@@ -18482,13 +18577,14 @@ _Anciens textes_:
 
 ###### Article R431-5
 
-A l'audience de la chambre, au moins cinq de ses membres ayant voix délibérative sont présents.
+A l'audience de la chambre siégeant en formation plénière ou en formation de section, au moins cinq de ses membres ayant voix
+délibérative sont présents.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
 
 _Anciens textes_:
 
@@ -18497,14 +18593,15 @@ _Anciens textes_:
 
 ###### Article R431-6
 
-A l'audience d'une chambre, si, par l'effet des absences ou des empêchements, le nombre des membres ayant voix délibérative
-est inférieur à cinq, il peut être fait appel, en suivant l'ordre du rang, à des conseillers appartenant à d'autres chambres.
+A l'audience d'une chambre siégeant en formation plénière ou de section, si, par l'effet des absences ou des empêchements, le
+nombre des membres ayant voix délibérative est inférieur à cinq, il peut être fait appel, en suivant l'ordre du rang, à des
+conseillers appartenant à d'autres sections ou d'autres chambres.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
 
 _Anciens textes_:
 
