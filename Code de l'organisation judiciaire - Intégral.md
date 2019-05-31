@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-04-01
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -285,7 +285,7 @@ Version Consolidée au 2019-04-01
         - [Chapitre Ier : Dispositions générales (art. R531-1 à R531-2)](#282)
         - [Chapitre II : Des juridictions (art. D532-1 à R532-24)](#283)
           - [Section 1 : Le tribunal de première instance (art. D532-2 à R532-23)](#284)
-            - [Sous-section 1 : Institution et compétence (art. D532-2 à R532-6)](#285)
+            - [Sous-section 1 : Institution et compétence (art. D532-2 à R532-6-1)](#285)
             - [Sous-section 2 : Organisation et fonctionnement (art. R532-8 à R532-22)](#286)
             - [Sous-section 3 : La commission  d'indemnisation des victimes d'infractions (art. R532-23)](#287)
           - [Section 3 : Les juridictions des mineurs (art. R532-24)](#288)
@@ -12244,9 +12244,9 @@ _Créé par_:
 
 ###### Article R213-5
 
-Le président du tribunal de grande instance connaît de la demande formée, sur le fondement du     IV de l'article 46 de la
-loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'encontre des personnes ou des
-organismes autres que ceux mentionnés à l'article R. 555-1 du code de justice administrative.
+Le président du tribunal de grande instance connaît de la demande formée, sur le fondement du IV de l'article 21 de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'encontre des personnes ou des organismes
+autres que ceux mentionnés à l'article R. 555-1 du code de justice administrative.
 
 **Liens relatifs à cet article**
 
@@ -12257,7 +12257,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-687 du 1er août 2018 - art. 30
+  - Décret n°2019-536 du 29 mai 2019 - art. 158
 
 _Anciens textes_:
 
@@ -20719,6 +20719,24 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-14 ecqc WF (Ab)
 
 
+###### Article R532-6-1
+
+Le président du tribunal de première instance connaît de la demande formée sur le fondement du IV de l'article 21 de la loi
+n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'encontre des personnes ou des
+organismes autres que ceux mentionnés à l'article R. 555-1 du code de justice administrative.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 21
+  - Code de justice administrative - art. R555-1
+
+_Créé par_:
+
+  - Décret n°2019-536 du 29 mai 2019 - art. 158
+
+
 ##### Sous-section 2 : Organisation et fonctionnement<a id=286></a>
 
 ###### Article R532-8
@@ -21360,7 +21378,7 @@ _Anciens textes_:
 
 ###### Article R552-6
 
-Le président du tribunal de première instance connaît de la demande formée sur le fondement du III de l'article 45 de la loi
+Le président du tribunal de première instance connaît de la demande formée sur le fondement du IV de l'article 21 de la loi
 n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'encontre des personnes ou des
 organismes autres que ceux mentionnés à l'article R. 555-1 du code de justice administrative.
 
@@ -21368,12 +21386,12 @@ organismes autres que ceux mentionnés à l'article R. 555-1 du code de justice 
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 45 (V)
-  - Code de justice administrative - art. R555-1 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 45
+  - Code de justice administrative - art. R555-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-536 du 29 mai 2019 - art. 158
 
 _Anciens textes_:
 
@@ -22372,7 +22390,7 @@ _Anciens textes_:
 
 ###### Article R562-6
 
-Le président du tribunal de première instance connaît de la demande formée sur le fondement du III de l'article 45 de la loi
+Le président du tribunal de première instance connaît de la demande formée sur le fondement du IV de l'article 21 de la loi
 n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'encontre des personnes ou des
 organismes autres que ceux mentionnés à l'article R. 555-1 du code de justice administrative.
 
@@ -22380,12 +22398,12 @@ organismes autres que ceux mentionnés à l'article R. 555-1 du code de justice 
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 45 (V)
-  - Code de justice administrative - art. R555-1 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 45
+  - Code de justice administrative - art. R555-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-536 du 29 mai 2019 - art. 158
 
 _Anciens textes_:
 
