@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-06-26
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -26,18 +26,18 @@ Version Consolidée au 2019-06-26
         - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-6)](#23)
           - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5-1)](#24)
           - [Section 2 : Le parquet (art. L212-6)](#25)
-        - [Chapitre III : Fonctions particulières (art. L213-1 à L213-11)](#26)
+        - [Chapitre III : Fonctions particulières (art. L213-1 à L213-12)](#26)
           - [Section 1 : Fonctions particulières exercées en matière civile (art. L213-1 à L213-8)](#27)
             - [Sous-section 1 : Le président du tribunal de grande instance (art. L213-1 à L213-2)](#28)
             - [Sous-section 3 : Le juge aux affaires familiales (art. L213-3 à L213-4)](#29)
             - [Sous-section 4 : Le juge de l'exécution (art. L213-5 à L213-7)](#30)
             - [Sous-section 5 : Le juge des libertés et de la détention (art. L213-8)](#31)
-          - [Section 2 : Fonctions particulières exercées en matière pénale (art. L213-9 à L213-11)](#32)
+          - [Section 2 : Fonctions particulières exercées en matière pénale (art. L213-9 à L213-12)](#32)
         - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. L214-1 à L214-2)](#33)
         - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L215-1 à L215-2)](#34)
         - [Chapitre VI : Dispositions particulières au Département de Mayotte (art. L216-1 à L216-2)](#35)
         - [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris (art. L217-1 à L217-6)](#36)
-          - [Section 1 : Les parquets spécialisés près le tribunal de grande instance de Paris (art. L217-1 à L217-4)](#37)
+          - [Section 1 : Les parquets spécialisés près le tribunal de grande instance de Paris (art. L217-1 à L217-5)](#37)
           - [Section 2 : L'indemnisation des victimes d'actes de terrorisme (art. L217-6)](#38)
         - [Chapitre VIII : Dispositions particulières au tribunal de grande instance spécialement désigné au titre de l'article L. 211-16 (art. L218-1 à L218-12)](#39)
       - [TITRE II : LE TRIBUNAL D'INSTANCE (art. L221-1 à L223-8)](#40)
@@ -184,7 +184,7 @@ Version Consolidée au 2019-06-26
           - [Section 2 : Fonctions particulières exercées en matière pénale (art. R213-13)](#181)
         - [Chapitre IV : La commission d'indemnisation des victimes d'infractions (art. D214-5 à R214-6)](#182)
         - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R215-1 à R215-2)](#183)
-        - [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris (art. R217-1 à R217-6)](#184)
+        - [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris (art. R217-1 à R217-8)](#184)
         - [Chapitre VIII : Dispositions particulières au tribunal de grande instance spécialement désigné au titre de l'article L. 211-16 (art. R218-6 à R218-17)](#185)
           - [Section 1 : De la désignation et du mandat des assesseurs (art. R218-1 à R218-12)](#186)
           - [Section 2 :  De l'obligation de formation initiale (art. D218-13 à R218-17)](#187)
@@ -903,18 +903,26 @@ _Cité par_:
 
 ###### Article L122-3
 
-Le ministère public est exercé, en toutes matières, devant toutes les juridictions du second degré et les cours d'assises
-instituées dans le ressort de la cour d'appel par le procureur général.
+Sous réserve des dispositions particulières du code de procédure pénale, le ministère public est exercé, en toutes matières,
+devant toutes les juridictions du second degré et les cours d'assises instituées dans le ressort de la cour d'appel par le
+procureur général.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
 
 _Anciens textes_:
 
@@ -2200,6 +2208,38 @@ _Anciens textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L650-1 (Ab)
 
 
+###### Article L213-12
+
+Au sein des tribunaux de grande instance dans le ressort desquels est susceptible de se trouver une forte concentration de
+personnes soutenant ou adhérant à des thèses incitant à la commission d'actes de terrorisme, dont la liste est fixée par le
+ministre de la justice, un magistrat du ministère public, désigné par le procureur de la République, est chargé des missions
+suivantes :
+
+1° L'information du procureur de la République antiterroriste de tous les faits en lien avec des affaires en cours
+susceptibles de faire l'objet d'investigations de sa part ;
+
+2° L'information du procureur de la République antiterroriste sur l'état de la menace terroriste dans son ressort ;
+
+3° La participation aux instances locales de prévention, de détection et de suivi du terrorisme et de la radicalisation ;
+
+4° Le suivi des personnes placées sous main de justice dans son ressort et qui sont identifiées comme étant radicalisées ;
+
+5° La diffusion auprès des magistrats du ressort des informations permettant d'aider à prévenir les actes de terrorisme.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
+
+
 #### Chapitre IV : La commission d'indemnisation des victimes d'infractions<a id=33></a>
 
 ###### Article L214-1
@@ -2339,10 +2379,26 @@ _Créé par_:
 
 ###### Article L217-1
 
-Est placé auprès du tribunal de grande instance de Paris, aux côtés du procureur de la République, un procureur de la
-République financier, dont les attributions sont fixées par le code de procédure pénale.
+Sont placés auprès du tribunal judiciaire de Paris, aux côtés du procureur de la République, un procureur de la République
+financier et un procureur de la République antiterroriste, dont les attributions sont fixées par le code de procédure pénale.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 95
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
+
+**Liens**:
+
+  - DEPLACE: Loi n°2019-222 du 23 mars 2019 - art. 64 (V)
 
 _Cité par_:
 
@@ -2383,6 +2439,41 @@ _Cite_:
 Les dispositions législatives du code de l'organisation judiciaire faisant mention du procureur de la République ne sont
 applicables au procureur de la République financier que si elles le prévoient expressément.
 
+
+
+###### Article L217-5
+
+Lorsque le renforcement temporaire et immédiat du parquet antiterroriste près le tribunal de grande instance de Paris
+apparaît indispensable pour assurer le traitement des procédures, le procureur de la République antiterroriste peut requérir
+un ou plusieurs magistrats du parquet de Paris dont les noms figurent sur une liste arrêtée par le procureur général près la
+cour d'appel de Paris pour chaque année civile, après avis du procureur de la République et du procureur de la République
+antiterroriste.
+
+Le procureur de la République antiterroriste informe le procureur général et le procureur de la République de Paris des
+réquisitions de magistrats auxquelles il procède.
+
+Le procureur général veille à ce que ce dispositif soit utilisé le temps strictement nécessaire au traitement de
+l'accroissement temporaire d'activité du parquet antiterroriste.
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément au XVIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret, et au plus tard le 1er janvier 2020.
+
+Conformément à l’article 1er du décret n° 2019-628 du 24 juin 2019, ces dispositions entrent en vigueur le 1er juillet 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 69
+
+_Cité par_:
+
+  - Code de l'organisation judiciaire - art. R217-7 (VD)
+  - Code de l'organisation judiciaire - art. R217-8 (VD)
 
 
 ##### Section 2 : L'indemnisation des victimes d'actes de terrorisme<a id=38></a>
@@ -12994,17 +13085,17 @@ _Anciens textes_:
 
 Les articles R. 111-6, R. 122-2, R. 122-3, R. 122-4, R. 122-5, R. 212-1, R. 212-6, R. 212-12, R. 212-14, R. 212-15, R.
 212-16, R. 212-24, R. 212-25, R. 212-31, 
-R. 212-35, R. 212-42, R. 212-44, R. 212-45, R. 212-51 et R. 212-55 sont applicables selon les cas au parquet financier ou aux
-membres intéressés du parquet financier, dans la limite de leurs attributions. 
+R. 212-35, R. 212-42, R. 212-44, R. 212-45, R. 212-51 et R. 212-55 sont applicables selon les cas au parquet financier, au
+parquet antiterroriste ou aux membres intéressés de ces parquets, dans la limite de leurs attributions.
 
 Les autres dispositions réglementaires du présent code faisant mention du parquet ou de membres du parquet ne sont
-applicables au parquet financier ou aux membres du parquet financier que si elles le prévoient expressément.
+applicables au parquet financier, au parquet antiterroriste ou à leurs membres que si elles le prévoient expressément.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-899 du 18 août 2014 - art. 5
+  - Décret n°2019-626 du 24 juin 2019 - art. 4
 
 _Cite_:
 
@@ -13045,46 +13136,50 @@ _Cite_:
 
 ###### Article R217-3
 
-L'assemblée des magistrats du parquet financier est une formation de l'assemblée générale du tribunal de grande instance de
-Paris. Cette assemblée comprend :
+L'assemblée des magistrats du parquet financier et l'assemblée des magistrats du parquet antiterroriste sont des formations
+de l'assemblée générale du tribunal de grande instance de Paris. Ces assemblées comprennent respectivement :
 
-1° Les magistrats du parquet financier ;
+1° Les magistrats du parquet financier ou du parquet antiterroriste ;
 
-2° Les magistrats placés auprès du procureur général exerçant leurs fonctions au parquet financier.
+2° Les magistrats placés auprès du procureur général exerçant leurs fonctions au parquet financier ou au parquet
+antiterroriste.
 
-Les auditeurs de justice, en stage au parquet financier, assistent à l'assemblée des magistrats du parquet financier.
+Les auditeurs de justice, en stage au parquet financier ou au parquet antiterroriste, assistent à l'assemblée des magistrats
+du parquet financier ou du parquet antiterroriste.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-64 du 29 janvier 2014 - art. 2
+  - Décret n°2019-626 du 24 juin 2019 - art. 4
 
 
 ###### Article R217-4
 
-Le procureur de la République financier préside l'assemblée des magistrats du parquet financier. Celle-ci peut entendre le
-président du tribunal de grande instance à l'initiative de son président, à la demande de la majorité de ses membres ou à
-celle du président lui-même.
+Le procureur de la République financier et le procureur de la République antiterroriste président chacun l'assemblée des
+magistrats du parquet qu'ils dirigent. Celles-ci peuvent entendre le président du tribunal de grande instance à l'initiative
+de son président, à la demande de la majorité de leurs membres ou à celle du président lui-même.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-64 du 29 janvier 2014 - art. 2
+  - Décret n°2019-626 du 24 juin 2019 - art. 4
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
 
 
 ###### Article R217-5
 
-L'assemblée des magistrats du parquet financier émet un avis sur :
+L'assemblée des magistrats du parquet financier et l'assemblée des magistrats du parquet antiterroriste émettent
+respectivement un avis sur :
 
-1° L'organisation des services du parquet financier ;
+1° L'organisation de leurs services ;
 
-2° Les relations avec les services de police judiciaire ;
+2° Leurs relations avec les services de police judiciaire ;
 
 3° Les conditions dans lesquelles le ministère public exerce ses attributions ;
 
-4° Le projet de décision fixant le nombre et le jour des audiences correctionnelles relevant de ses attributions,
+4° Le projet de décision fixant le nombre et le jour des audiences correctionnelles relevant de leurs attributions,
 conformément au code de procédure pénale ;
 
 5° Les critères généraux de répartition des dossiers entre les chambres et de distribution des affaires entre les magistrats
@@ -13092,9 +13187,9 @@ spécialisés du tribunal.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-64 du 29 janvier 2014 - art. 2
+  - Décret n°2019-626 du 24 juin 2019 - art. 4
 
 
 ###### Article R217-6
@@ -13107,13 +13202,61 @@ Paris :
 2° Il y a lieu de lire : " secrétariat des parquets autonome " à la place de : " secrétariat de parquet autonome " ;
 
 3° L'assemblée des magistrats du siège et des parquets comprend les membres de l'assemblée des magistrats du siège, de
-l'assemblée des magistrats du parquet et de l'assemblée des magistrats du parquet financier.
+l'assemblée des magistrats du parquet de l'assemblée des magistrats du parquet financier et de l'assemblée des magistrats du
+parquet antiterroriste.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-626 du 24 juin 2019 - art. 4
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+
+
+###### Article R217-7
+
+Lorsque le procureur de la République antiterroriste requiert un ou plusieurs magistrats du parquet de Paris en application
+de l'article L. 217-5, il précise le motif et la durée des réquisitions auxquelles il procède.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 6 du décret n° 2019-626 du 24 juin 2019, ces dispositions entrent en vigueur à la
+date fixée par le décret prévu au XVIII de l'article 109 de la loi n° 2019-222 du 23 mars 2019.
+
+Le décret n° 2019-628 du 24 juin 2019 a fixé cette date au 1er juillet 2019.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2014-64 du 29 janvier 2014 - art. 2
+  - Décret n°2019-626 du 24 juin 2019 - art. 5
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L217-5
+
+
+###### Article R217-8
+
+La liste arrêtée par le procureur général en application de l'article L. 217-5 peut être modifiée en cours d'année, pour
+prendre en compte un changement dans la composition du parquet de Paris.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 6 du décret n° 2019-626 du 24 juin 2019, ces dispositions entrent en vigueur à la
+date fixée par le décret prévu au XVIII de l'article 109 de la loi n° 2019-222 du 23 mars 2019.
+
+Le décret n° 2019-628 du 24 juin 2019 a fixé cette date au 1er juillet 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-626 du 24 juin 2019 - art. 5
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L217-5
 
 
 #### Chapitre VIII : Dispositions particulières au tribunal de grande instance spécialement désigné au titre de l'article L. 211-16<a id=185></a>
