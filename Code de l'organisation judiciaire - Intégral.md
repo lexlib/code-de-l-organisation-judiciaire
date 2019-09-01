@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-09-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -132,7 +132,7 @@ Version Consolidée au 2019-07-01
       - [TITRE IER : PRINCIPES GENERAUX (art. R111-1 à R111-9)](#129)
         - [Chapitre Ier : Dispositions générales (art. R111-1 à R111-8)](#130)
         - [Chapitre II : Le règlement des conflits de compétence entre les ordres de juridiction (art. R111-9)](#131)
-      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-2)](#132)
+      - [TITRE II : REGLES GENERALES D'ORGANISATION  ET DE FONCTIONNEMENT (art. R121-1 à R124-3)](#132)
         - [Chapitre Ier : Les juges (art. R121-1 à R121-5)](#133)
           - [Section 2 : Le service juridictionnel (art. R121-1 à R121-5)](#134)
         - [Chapitre II : Le ministère public (art. R122-1 à R122-5)](#135)
@@ -144,7 +144,7 @@ Version Consolidée au 2019-07-01
           - [Section 3 : Régies (art. R123-20 à R123-25)](#141)
           - [Section 4 : Le service d'accueil unique du justiciable (art. R123-26 à R123-29)](#142)
         - [Chapitre III bis : Les juristes assistants (art. R123-30 à R123-39)](#143)
-        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-2)](#144)
+        - [Chapitre IV : Siège et ressort des juridictions (art. R124-1 à R124-3)](#144)
       - [TITRE III : MAISONS DE JUSTICE ET DU DROIT (art. R131-1 à R131-11)](#145)
         - [Chapitre unique (art. R131-1 à R131-11)](#146)
       - [TITRE V : CONCILIATEURS DE JUSTICE (art. R131-12)](#147)
@@ -8874,16 +8874,19 @@ les magistrats à l'audience et dans les cas prévus par les lois et règlements
 
 Ils dressent les actes de greffe, notes et procès-verbaux dans les cas prévus par les lois et règlements.
 
+Les greffiers exercent, dans les conditions prévues à l'article 4 du décret n° 2015-1275 du 13 octobre 2015 portant statut
+particulier des greffiers des services judiciaires, des fonctions d'assistance des magistrats du siège et du parquet.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
 
 _Cité par_:
 
   - Décret n°2018-928 du 29 octobre 2018 - art. 10 (VD)
   - Code de l'organisation judiciaire - art. R123-14 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 26
 
 _Anciens textes_:
 
@@ -9528,38 +9531,24 @@ _Créé par_:
 
 ###### Article R124-1
 
-Lorsque la continuité du service de la justice ne peut plus être assurée au sein du bâtiment où siège la juridiction, dans
-les conditions offrant les garanties nécessaires au maintien de la sécurité des personnes et des biens, tout ou partie des
-services de la juridiction peut, à titre provisoire, être transféré dans une autre commune du ressort.
+Pour l'application de l'article L. 124-1, lorsque l'ensemble des services de la juridiction est transféré, le siège de la
+juridiction est le lieu dans lequel elle est transférée. Lorsque certains services sont transférés, le siège de la
+juridiction est, pour chaque service, le lieu dans lequel son activité se déroule.
 
-Lorsque l'ensemble des services de la juridiction est transféré, le siège de la juridiction est le lieu dans lequel elle est
-transférée.
-
-Lorsque certains services sont transférés, le siège de la juridiction est, pour chaque service, le lieu dans lequel son
-activité se déroule.
-
-Dans tous les cas, la dénomination de la juridiction demeure celle du siège initial fixé par décret.
-
-La commission plénière de la juridiction, ou, pour les juridictions ne comportant pas de commission plénière, l'assemblée
-plénière ou l'assemblée générale est convoquée sans délai afin d'émettre un avis sur le projet de transfert.
-
-Le premier président de la cour d'appel, après avis du procureur général près cette cour, prend, par ordonnance, la décision
-portant transfert total ou partiel des services de la juridiction. L'ordonnance indique le motif du transfert, la date à
-laquelle il sera effectif, la durée prévisible, l'adresse du ou des services transférés.
+L'ordonnance mentionnée à l'article L. 124-1 indique le motif du transfert, la date à laquelle il sera effectif, la durée
+prévisible, l'adresse du ou des services transférés.
 
 Elle fait l'objet d'une publication dans deux journaux diffusés dans le ressort et de toute autre mesure de publicité dans
 tout lieu jugé utile.
 
-La durée du transfert ne peut excéder trois ans. Cependant, si la situation l'exige, elle peut faire l'objet d'une première
-prorogation pour une durée égale dans les conditions définies ci-dessus. Toute autre prorogation ne peut être décidée que par
-arrêté du garde des sceaux, ministre de la justice, pour la durée qu'il détermine et après avoir recueilli l'avis prévu au
-cinquième alinéa ainsi que celui du premier président et du procureur général.
+Un bilan annuel écrit des transferts ordonnés par le premier président de la cour d'appel est présenté au comité technique de
+service déconcentré placé auprès de ce dernier.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-1458 du 8 décembre 2014 - art. 15
+  - Décret n°2019-912 du 30 août 2019 - art. 24
 
 _Anciens textes_:
 
@@ -9590,6 +9579,18 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. R531-1 (VD)
   - Code de l'organisation judiciaire - art. R551-1 (VD)
   - Code de l'organisation judiciaire - art. R561-1 (V)
+
+
+###### Article R124-3
+
+Dans les cas prévus aux articles L. 124-1, L. 124-2, L. 124-3 et R. 124-2, la dénomination de la juridiction demeure celle du
+siège fixé par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 25
 
 
 ### TITRE III : MAISONS DE JUSTICE ET DU DROIT<a id=145></a>
@@ -9876,21 +9877,18 @@ _Cite_:
 
 ###### Article R131-11
 
-La liste des maisons de justice et du droit est fixée conformément au tableau III annexé au présent code.
+La liste des maisons de justice et du droit est fixée par arrêté du garde des sceaux, ministre de la justice, conformément au
+tableau III annexé au présent code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
+  - Décret n°2019-912 du 30 août 2019 - art. 27
 
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*7-12-1-10 (Ab)
-
-_Cite_:
-
-  - Code de l'organisation judiciaire - art. Annexe Tableau III (V)
 
 
 ### TITRE V : CONCILIATEURS DE JUSTICE<a id=147></a>
@@ -10064,7 +10062,7 @@ l'administration des douanes et les autres affaires de douanes, dans les cas et 
 
 _Modifié par_:
 
-  - Décret n°2017-890 du 6 mai 2017 - art. 54 (VD)
+  - Décret n°2019-912 du 30 août 2019 - art. 28
 
 _Anciens textes_:
 
@@ -12260,15 +12258,16 @@ Le président du tribunal de grande instance et le procureur de la République p
 tribunaux d'instance du ressort.
 
 Ils s'assurent, chacun en ce qui le concerne, de la bonne administration des services judiciaires et de l'expédition normale
-des affaires ; ils peuvent déléguer ces pouvoirs, pour des actes déterminés, à des magistrats du siège ou du parquet placés
-sous leur autorité ; ils rendent compte de leurs constatations ou de celles qui ont été faites par les magistrats qu'ils ont
-délégués au premier président de la cour d'appel et au procureur général près cette cour.
+des affaires ; ils sont assistés, le cas échéant, par le magistrat chargé du secrétariat général ; ils peuvent déléguer ces
+pouvoirs, pour des actes déterminés, à des magistrats du siège ou du parquet placés sous leur autorité ; ils rendent compte
+de leurs constatations ou de celles qui ont été faites par les magistrats qu'ils ont délégués au premier président de la cour
+d'appel et au procureur général près cette cour.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-683 du 28 avril 2017 - art. 1
+  - Décret n°2019-912 du 30 août 2019 - art. 30
 
 _Anciens textes_:
 
@@ -12405,8 +12404,8 @@ _Créé par_:
 
 ###### Article R212-64
 
-Le conseil de juridiction, coprésidé par le président du tribunal de grande instance et le procureur de la République, est un
-lieu d'échanges et de communication entre la juridiction et la cité. Il se réunit au moins une fois par an.
+I. - Le conseil de juridiction, coprésidé par le président du tribunal de grande instance et le procureur de la République,
+est un lieu d'échanges et de communication entre la juridiction et la cité. Il se réunit au moins une fois par an.
 
 L'ordre du jour est arrêté par les chefs de juridiction après avis du directeur de greffe en comité de gestion et de
 l'assemblée plénière des magistrats et des fonctionnaires, qui peuvent également faire des propositions d'ordre du jour.
@@ -12418,22 +12417,50 @@ ou l'assemblée plénière en fonction de la taille de la juridiction et, en fon
 
 2° De représentants locaux de l'Etat ;
 
-3° De représentants des collectivités territoriales et de parlementaires élus du ressort ;
+3° De représentants des collectivités territoriales ;
 
 4° De personnes exerçant une mission de service public auprès des juridictions ;
 
-5° De représentants des professions du droit ;
+5° Du bâtonnier de l'ordre des avocats du ressort et de représentants des autres professions du droit ;
 
-6° De représentants d'associations.
+6° De représentants d'associations ;
+
+7° De représentants des conciliateurs de justice désignés par le magistrat coordonnateur de la protection et de la
+conciliation de justice pour le ressort de la juridiction.
 
 Cet organe n'exerce aucun contrôle sur l'activité juridictionnelle ou sur l'organisation de la juridiction ni n'évoque les
 affaires individuelles dont la juridiction est saisie.
 
+II. ‒ Lorsque sa consultation est requise par des dispositions législatives ou réglementaires, le conseil de juridiction,
+coprésidé par le président du tribunal de grande instance et le procureur de la République près ce tribunal, est composé :
+
+1° Du directeur de greffe ;
+
+2° D'au moins un magistrat du siège désigné par l'assemblée des magistrats du siège ou son suppléant ;
+
+3° D'au moins un magistrat du parquet désigné par l'assemblée des magistrats du parquet ou son suppléant ;
+
+4° D'au moins un fonctionnaire désigné par l'assemblée des fonctionnaires du greffe et, le cas échéant, du secrétariat de
+parquet autonome, ou son suppléant ;
+
+5° Du maire de la commune siège du tribunal de grande instance ;
+
+6° Du président du conseil départemental ou du président de l'assemblée délibérante de la collectivité territoriale exerçant
+les compétences du département ou, en Guyane, du président de l'Assemblée de Guyane ;
+
+7° Du bâtonnier de l'ordre des avocats du ressort.
+
+Les personnes mentionnées aux 1°, 5°, 6° et 7° peuvent se faire représenter.
+
+Le président du tribunal de grande instance et le procureur de la République près ce tribunal recueillent l'ensemble des
+observations présentées lors de la réunion du conseil de juridiction. Ils rédigent, dans un délai de huit jours suivant la
+réunion, une synthèse de ces observations.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-514 du 26 avril 2016 - art. 9
+  - Décret n°2019-912 du 30 août 2019 - art. 14
 
 
 #### Chapitre III : Fonctions particulières<a id=173></a>
@@ -13441,6 +13468,23 @@ de la même catégorie.
 **Liens**:
 
   - DEPLACE: Décret n°2019-185 du 12 mars 2019 - art. 1
+
+
+###### Article R218-9-1
+
+Lorsque l'audience est reportée à une date ultérieure en application de l'article L. 218-1, les parties présentes en sont
+avisées verbalement par mention au dossier et les parties absentes sont convoquées à nouveau selon les modalités prévues à
+l'article R. 142-10-3 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 31
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. R142-10-3
 
 
 ###### Article R218-10
@@ -18794,14 +18838,10 @@ _Anciens textes_:
 
 Le premier président de la cour d'appel et le procureur général près cette cour procèdent à l'inspection des juridictions de
 leur ressort. Ils s'assurent, chacun en ce qui le concerne, de la bonne administration des services judiciaires et de
-l'expédition normale des affaires. Ils rendent compte chaque année au garde des sceaux, ministre de la justice, des
-constatations qu'ils ont faites.
+l'expédition normale des affaires. Ils sont assistés par le magistrat chargé du secrétariat général. Ils rendent compte
+chaque année au garde des sceaux, ministre de la justice, des constatations qu'ils ont faites.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. (V)
 
 _Cité par_:
 
@@ -18810,6 +18850,10 @@ _Cité par_:
   - Décret n°2016-1675 du 5 décembre 2016 - art. 22
   - Décret n°2016-1675 du 5 décembre 2016 - art. 4 (VD)
   - Décret n°2017-1010 du 10 mai 2017 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-912 du 30 août 2019 - art. 35
 
 _Anciens textes_:
 
@@ -18939,14 +18983,14 @@ _Modifié par_:
 
 ###### Article R312-72
 
-Le service administratif régional est organisé en bureaux, dirigés par des responsables de gestion,  directeurs des services
-de greffe judiciaires.
+Le service administratif régional est organisé en bureaux, dirigés par des responsables de gestion,     fonctionnaires de
+catégorie A.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1273 du 13 octobre 2015 - art. 42
+  - Décret n°2019-912 du 30 août 2019 - art. 34
 
 _Anciens textes_:
 
@@ -19200,7 +19244,7 @@ _Créé par_:
 
 ###### Article R312-85
 
-Le conseil de juridiction, coprésidé par le premier président de la cour d'appel et le procureur général, est un lieu
+I. - Le conseil de juridiction, coprésidé par le premier président de la cour d'appel et le procureur général, est un lieu
 d'échanges et de communication entre la juridiction et la cité. Il se réunit au moins une fois par an.
 
 L'ordre du jour est arrêté par les chefs de cour après consultation du directeur de greffe en comité de gestion et avis de
@@ -19213,22 +19257,49 @@ ou l'assemblée plénière en fonction de la taille de la juridiction et, en fon
 
 2° De représentants locaux de l'Etat ;
 
-3° De représentants des collectivités territoriales et de parlementaires élus du ressort ;
+3° De représentants des collectivités territoriales ;
 
 4° De personnes exerçant une mission de service public auprès des juridictions ;
 
-5° De représentants du barreau et des autres professions du droit ;
+5° Des bâtonniers des ordres des avocats du ressort et de représentants des autres professions du droit ;
 
-6° De représentants d'associations.
+6° De représentants d'associations ;
+
+7° De représentants des conciliateurs de justice désignés par le conseiller coordonnateur chargé de suivre l'activité des
+conciliateurs de justice et des médiateurs et de coordonner leur action dans le ressort de la cour d'appel.
 
 Cet organe n'exerce aucun contrôle sur l'activité juridictionnelle ou sur l'organisation de la juridiction ni n'évoque les
 affaires individuelles dont la juridiction est saisie.
 
+II. ‒ Lorsque sa consultation est requise par des dispositions législatives ou réglementaires, le conseil de juridiction,
+coprésidé par le premier président de la cour d'appel et le procureur général près cette cour, est composé :
+
+1° Du directeur de greffe ;
+
+2° D'au moins un magistrat du siège désigné par l'assemblée des magistrats du siège ou son suppléant ;
+
+3° D'au moins un magistrat du parquet désigné par l'assemblée des magistrats du parquet ou son suppléant ;
+
+4° D'au moins un fonctionnaire désigné par l'assemblée des fonctionnaires du greffe ou son suppléant ;
+
+5° Du maire de la commune siège de la cour d'appel ;
+
+6° Du président du conseil régional ou du président de l'assemblée délibérante de la collectivité territoriale exerçant les
+compétences de la région ou, en Guyane, du président de l'Assemblée de Guyane ;
+
+7° Des bâtonniers des ordres des avocats du ressort de la cour d'appel.
+
+Les personnes mentionnées aux 1°, 5°, 6° et 7° peuvent se faire représenter.
+
+Le premier président de la cour d'appel et le procureur général près cette cour recueillent l'ensemble des observations
+présentées lors de la réunion du conseil de juridiction. Ils rédigent, dans un délai de huit jours suivant la réunion, une
+synthèse de ces observations.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-514 du 26 avril 2016 - art. 9
+  - Décret n°2019-912 du 30 août 2019 - art. 14
 
 
 #### Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=254></a>
@@ -43609,7 +43680,7 @@ Siège et ressort des tribunaux d'instance compétents, dans le ressort de certa
 connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement
 personnel (annexe de l'article D. 221-1)
 
-<table cellspacing="0" align="center" border="1" cellpadding="0">
+<table border="1" cellspacing="0" align="center" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -43729,7 +43800,7 @@ Angers
 </td>
       <td>
 
-Ressort des tribunaux d'instance d'Angers, Cholet et Saumur
+Ressort des tribunaux d'instance d'Angers et Cholet
 
 </td>
     </tr>
@@ -43994,7 +44065,7 @@ Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces d
 
 _Modifié par_:
 
-  - Décret n°2017-1643 du 30 novembre 2017 - art. 1
+  - Décret n°2019-914 du 30 août 2019 - art. 10 (V)
 
 
 ###### Article Annexe Tableau V
