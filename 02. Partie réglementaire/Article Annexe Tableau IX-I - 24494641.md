@@ -4,7 +4,7 @@ Siège et ressort des tribunaux d'instance compétents, dans le ressort de certa
 connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement
 personnel (annexe de l'article D. 221-1)
 
-<table cellpadding="0" cellspacing="0" border="1" align="center">
+<table cellspacing="0" border="1" cellpadding="0" align="center">
   <tbody>
     <tr>
       <td>
@@ -124,7 +124,7 @@ Angers
 </td>
       <td>
 
-Ressort des tribunaux d'instance d'Angers, Cholet et Saumur
+Ressort des tribunaux d'instance d'Angers et Cholet
 
 </td>
     </tr>
@@ -389,4 +389,4 @@ Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces d
 
 _Modifié par_:
 
-  - Décret n°2017-1643 du 30 novembre 2017 - art. 1
+  - Décret n°2019-914 du 30 août 2019 - art. 10 (V)
