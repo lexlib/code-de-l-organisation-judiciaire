@@ -124,7 +124,7 @@ Angers
 </td>
       <td>
 
-Ressort des tribunaux d'instance d'Angers, Cholet et Saumur
+Ressort des tribunaux d'instance d'Angers et Cholet
 
 </td>
     </tr>
@@ -389,4 +389,4 @@ Conformément à l'article 6 du décret n° 2017-1643 du 30 novembre 2017, ces d
 
 _Modifié par_:
 
-  - Décret n°2017-1643 du 30 novembre 2017 - art. 1
+  - Décret n°2019-914 du 30 août 2019 - art. 10 (V)
