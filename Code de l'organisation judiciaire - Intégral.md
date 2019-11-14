@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-09-02
+Version Consolidée au 2019-11-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -1483,18 +1483,24 @@ _Cité par_:
 
 ###### Article L211-11
 
-Un tribunal de grande instance spécialement désigné connaît des actions et demandes en matière de marque communautaire, dans
-les cas et conditions prévus par le code de la propriété intellectuelle.
+Un tribunal de grande instance spécialement désigné connaît des actions et demandes en matière de marque de l'Union
+européenne, dans les cas et conditions prévus par le code de la propriété intellectuelle.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
