@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2019-12-11
+Version Consolidée au 2019-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -35825,12 +35825,10 @@ Guingamp
 </td>
       <td align="left">
 
-Matières relevant de l'article 311-20 du code civil.
-
 Matières relevant de l'article L. 213-3 du code de l'organisation judiciaire, à l'exception de celles relevant des articles
-205,206 et 376 à 377-3 du code civil, et de celles relevant des articles 233,237,242,296,371-4,515-7,515-8,840,1400,1536 et
-1569 du code civil pour lesquelles l'assignation a été enrôlée au tribunal de grande instance de Saint-Brieuc avant le 1er
-septembre 2014.
+205, 206 et 376 à 377-3 du code civil, et de celles relevant des articles 233, 237, 242, 296, 371-4, 515-7, 515-8, 840, 1400,
+1536 et 1569 du code civil pour lesquelles l'assignation a été enrôlée au tribunal de grande instance de Saint-Brieuc avant
+le 1er septembre 2014.
 
 Matières relevant de l'article L. 213-3-1 du code de l'organisation judiciaire.
 
@@ -35850,11 +35848,7 @@ Contraventions.
 
 _Modifié par_:
 
-  - Décret n°2018-197 du 21 mars 2018 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-914 du 30 août 2019 - art. 9
+  - Décret n°2019-1408 du 19 décembre 2019 - art. 2
 
 _Cite_:
 
