@@ -9,7 +9,7 @@ Liste des maisons de justice et du droit
     <tr>
       <td>
 
-TRIBUNAUX DE GRANDE INSTANCE
+TRIBUNAUX JUDICIAIRES
 
 </td>
       <td>
@@ -1040,7 +1040,7 @@ Essonne
     <tr>
       <td align="center">
 
-Evry
+Evry-Courcouronnes
 
 </td>
       <td align="center">
@@ -1486,11 +1486,17 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 3 de l’arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont
+applicables aux procédures en cours dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 17 janvier 2019 - art.
+  - Arrêté du 30 août 2019 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
