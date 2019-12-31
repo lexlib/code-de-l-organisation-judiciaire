@@ -1,7 +1,7 @@
 # Article Annexe Tableau VIII-II
 
-Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des recours
-en matière de contrats de la commande publique (annexe de l'article D. 211-10-2) 
+Siège et ressort des   tribunaux judiciaires et des tribunaux de première instance compétents pour connaître des recours en
+matière de contrats de la commande publique (annexe de l'article D. 211-10-2) 
 
 <table align="center" border="1" width="720">
   <tbody>
@@ -13,7 +13,7 @@ SIÈGE
 </td>
       <td>
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
@@ -121,7 +121,7 @@ Fort-de-France
 </td>
       <td align="left" valign="top">
 
-Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France. 
 
 </td>
     </tr>
@@ -145,19 +145,23 @@ Saint-Pierre-et-Miquelon
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre. 
+Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
+2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
-  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (V)
 
 _Cité par_:
 
