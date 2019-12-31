@@ -1,41 +1,41 @@
 # Article Annexe Tableau VIII
 
-SIÈGE ET RESSORT DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE COMPÉTENTS POUR CONNAÎTRE DES CONTESTATIONS SUR LA
-NATIONALITÉ FRANÇAISE OU ÉTRANGÈRE DES PERSONNES PHYSIQUES (ANNEXE DE L'ARTICLE D. 211-10) 
+SIÈGE ET RESSORT DES TRIBUNAUX JUDICIAIRES ET DE PREMIÈRE INSTANCE COMPÉTENTS POUR CONNAÎTRE DES CONTESTATIONS SUR LA
+NATIONALITÉ FRANÇAISE OU ÉTRANGÈRE DES PERSONNES PHYSIQUES (ANNEXE DE L'ARTICLE D. 211-10)
 
-<table border="1" align="center" width="720">
+<table align="center" border="1">
   <tbody>
     <tr>
       <td align="center">
 
-SIÈGE 
+SIÈGE
 
 </td>
-      <td align="center">RESSORT </td>
+      <td align="center">RESSORT</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel d'Aix-en-Provence 
+Cour d'appel d'Aix-en-Provence
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Marseille. 
+Marseille.
 
 </td>
       <td align="center">
 
-Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
+Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
 </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Bordeaux 
+Cour d'appel de Bordeaux
 
 </td>
     </tr>
@@ -47,14 +47,14 @@ Bordeaux.
 </td>
       <td align="center">
 
-Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
+Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Douai 
+Cour d'appel de Douai
 
 </td>
     </tr>
@@ -92,7 +92,7 @@ Ressort de la cour d'appel de Cayenne.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Fort-de-France 
+Cour d'appel de Fort-de-France
 
 </td>
     </tr>
@@ -109,9 +109,9 @@ Ressort des cours d'appel de Basse-Terre et de Fort-de-France.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Lyon 
+Cour d'appel de Lyon
 
 </td>
     </tr>
@@ -128,9 +128,9 @@ Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Nancy 
+Cour d'appel de Nancy
 
 </td>
     </tr>
@@ -149,7 +149,7 @@ Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Nouméa 
+Cour d'appel de Nouméa
 
 </td>
     </tr>
@@ -180,7 +180,7 @@ Ressort du tribunal de première instance de Mata-Utu.
     <tr>
       <td align="center" colspan="2">
 
-Cour d'appel de Papeete 
+Cour d'appel de Papeete
 
 </td>
     </tr>
@@ -197,9 +197,9 @@ Ressort de la cour d'appel.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Cour d'appel de Paris 
+Cour d'appel de Paris
 
 </td>
     </tr>
@@ -218,7 +218,7 @@ Ressort des cours d'appel de Bourges, Orléans, Paris et Versailles.
     <tr>
       <td colspan="2" align="center">
 
-Cour d'appel de Rennes 
+Cour d'appel de Rennes
 
 </td>
     </tr>
@@ -235,16 +235,16 @@ Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Cour d'appel de Saint-Denis 
+Cour d'appel de Saint-Denis
 
 </td>
     </tr>
     <tr align="center">
       <td colspan="2">
 
-La Réunion 
+La Réunion
 
 </td>
     </tr>
@@ -256,14 +256,14 @@ Saint-Denis.
 </td>
       <td align="center">
 
-Ressort de la cour d'appel, à l'exception du ressort du tribunal de grande instance de Mamoudzou 
+Ressort de la cour d'appel, à l'exception du ressort du tribunal judiciaire de Mamoudzou
 
 </td>
     </tr>
     <tr>
       <td colspan="2">
 
-Mayotte 
+Mayotte
 
 </td>
     </tr>
@@ -273,19 +273,19 @@ Mayotte
 Mamoudzou.
 
 </td>
-      <td>Ressort du tribunal de grande instance de Mamoudzou </td>
+      <td>Ressort du tribunal judiciaire de Mamoudzou</td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Tribunal supérieur d'appel de Saint-Pierre 
+Tribunal supérieur d'appel de Saint-Pierre
 
 </td>
     </tr>
     <tr align="center">
       <td colspan="2">
 
-Saint-Pierre-et-Miquelon 
+Saint-Pierre-et-Miquelon
 
 </td>
     </tr>
@@ -300,6 +300,11 @@ Ressort du tribunal supérieur d'appel.
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
+2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -309,5 +314,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
-  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (V)
