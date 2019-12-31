@@ -546,9 +546,8 @@ Solennelle (et cérémonies publiques).</td>
       <td align="left">
 
 Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, le
-procureur de la République antiterroriste et le procureur de la République financier de Paris : rouge, à grandes manches.
-
-</td>
+procureur de la République antiterroriste et le procureur de la République financier de Paris : rouge, à grandes manches.</
+td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -563,9 +562,7 @@ franges.</td>
 
 Comme ci-dessus, sauf pour les chefs de juridiction des tribunaux de grande instance de Bobigny, Créteil, Nanterre, Paris, le
 procureur de la République antiterroriste et le procureur de la République financier de Paris : de velours noir, avec quatre
-galons d'or.
-
-</td>
+galons d'or.</td>
       <td align="left">
 
 Comme ci-dessus.</td>
@@ -858,7 +855,7 @@ Directeurs des services de greffe judiciaires et greffiers
 Cour de cassation.</td>
       <td align="left">
 
-Greffier en chef.</td>
+Directeur des services de greffe judiciaires</td>
       <td align="left">
 
 Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.</td>
@@ -878,7 +875,7 @@ Robe noire sans simarre ni toque noire.</td>
 Cour d'appel.</td>
       <td align="left">
 
-Greffier en chef.</td>
+Directeur des services de greffe judiciaires</td>
       <td align="left">
 
 Même costume que les conseillers de la cour d'appel, sans galon à la toque.</td>
@@ -898,7 +895,7 @@ Robe noire sans simarre ni toque noire.</td>
 Tribunal de grande instance et tribunal d'instance</td>
       <td align="left">
 
-Greffier en chef.</td>
+Directeur des services de greffe judiciaires</td>
       <td align="left">
 
 Même costume que les juges du tribunal de grande instance, sans galon à la toque.</td>
@@ -915,8 +912,14 @@ Robe noire sans simarre ni toque noire.</td>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par
+les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-628 du 24 juin 2019 - art. 2
+  - Décret n°2019-914 du 30 août 2019 - art. 9
