@@ -1,9 +1,9 @@
 # Article Annexe Tableau VIII-II
 
-Siège et ressort des tribunaux de grande instance et des tribunaux de première instance compétents pour connaître des recours
-en matière de contrats de la commande publique (annexe de l'article D. 211-10-2) 
+Siège et ressort des   tribunaux judiciaires et des tribunaux de première instance compétents pour connaître des recours en
+matière de contrats de la commande publique (annexe de l'article D. 211-10-2) 
 
-<table align="center" width="720" border="1">
+<table width="720" align="center" border="1">
   <tbody>
     <tr>
       <td>
@@ -13,24 +13,24 @@ SIÈGE
 </td>
       <td>
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Bordeaux 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lille 
 
@@ -42,12 +42,12 @@ Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lyon 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
@@ -59,7 +59,7 @@ Ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 Marseille 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
@@ -71,7 +71,7 @@ Ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 Nanterre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort de la cour d'appel de Versailles. 
 
@@ -83,7 +83,7 @@ Ressort de la cour d'appel de Versailles.
 Nancy 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
 
@@ -102,7 +102,7 @@ Ressort des cours d'appel de Bourges, Paris et Orléans.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Rennes 
 
@@ -114,24 +114,24 @@ Ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Fort-de-France 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
+Ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Saint-Denis 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort de la cour d'appel de Saint-Denis. 
 
@@ -143,21 +143,25 @@ Ressort de la cour d'appel de Saint-Denis.
 Saint-Pierre-et-Miquelon 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre. 
+Ressort du tribunal supérieur d'appel de Saint-Pierre.
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
+2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 1
-  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (V)
 
 _Cité par_:
 

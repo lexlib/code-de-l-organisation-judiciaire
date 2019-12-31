@@ -1,16 +1,15 @@
 # Article Annexe Tableau XV
 
 Listes des tribunaux pour enfants dans lesquels les fonctions de président et, le cas échéant, celles de vice-président sont
-confiées à un vice-président du tribunal de grande instance chargé des fonctions de juge des enfants (annexe de l'article D.
-251-2)
+confiées à un vice-président du tribunal judiciaire chargé des fonctions de juge des enfants (annexe de l'article D. 251-2)
 
-<table border="1" align="center">
+<table align="center" border="1">
   <tbody>
     <tr align="center">
       <td colspan="2">
 
-TRIBUNAUX POUR ENFANTS DANS LESQUELS LES FONCTIONS DE PRÉSIDENT SONT CONFIÉES À UN VICE-PRÉSIDENT DU TRIBUNAL DE GRANDE
-INSTANCE CHARGÉ DES FONCTIONS DE JUGE DES ENFANTS
+TRIBUNAUX POUR ENFANTS DANS LESQUELS LES FONCTIONS DE PRÉSIDENT SONT CONFIÉES À UN VICE-PRÉSIDENT DU TRIBUNAL JUDICIAIRE
+CHARGÉ DES FONCTIONS DE JUGE DES ENFANTS
 
 </td>
     </tr>
@@ -108,13 +107,13 @@ Tribunal pour enfants de Nanterre.
     <tr align="center">
       <td colspan="2">
 
-TRIBUNAUX POUR ENFANTS DANS LESQUELS LES FONCTIONS DE VICE-PRÉSIDENT SONT CONFIÉES À UN VICE-PRÉSIDENT DU TRIBUNAL DE GRANDE
-INSTANCE CHARGÉ DES FONCTIONS DE JUGE DES ENFANTS
+TRIBUNAUX POUR ENFANTS DANS LESQUELS LES FONCTIONS DE VICE-PRÉSIDENT SONT CONFIÉES À UN VICE-PRÉSIDENT DU TRIBUNAL JUDICIAIRE
+CHARGÉ DES FONCTIONS DE JUGE DES ENFANTS
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Cour d'appel de Paris
 
@@ -123,18 +122,23 @@ Cour d'appel de Paris
     <tr>
       <td colspan="2" align="center">
 
-Tribunal de grande instance de Paris.
+Tribunal judiciaire de Paris.
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
+2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-912 du 30 août 2019 - art. 23 (VD)
+  - Décret n°2019-912 du 30 août 2019 - art. 23 (V)
 
 _Cité par_:
 
