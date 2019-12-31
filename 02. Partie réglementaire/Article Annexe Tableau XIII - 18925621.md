@@ -1,237 +1,189 @@
 # Article Annexe Tableau XIII
 
-Liste des bureaux fonciers
+Liste des bureaux fonciers 
 
-(annexe de l'article D. 223-3) 
+(annexe de l'article D. 215-4) 
 
-<table align="center" border="1" width="720">
+<table border="1" align="center">
   <tbody>
     <tr>
-      <td align="center">
+      <th>
 
-TRIBUNAL D'INSTANCE 
+SIEGE 
 
-</td>
-      <td align="center">
+DU TRIBUNAL 
 
-BUREAU FONCIER
+JUDICIAIRE </th>
+      <th>
 
-</td>
-      <td align="center">
+SIEGE 
 
-RESSORT 
+DE LA CHAMBRE 
 
-</td>
+DE PROXIMITE </th>
+      <th>
+
+BUREAU FONCIER </th>
+      <th>
+
+RESSORT </th>
     </tr>
     <tr>
-      <td colspan="3">
+      <td colspan="4" align="center">
 
-Cour d'appel de Colmar 
-
-</td>
+Cour d'appel de Colmar </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
 
-Thann 
+Colmar </td>
+      <td align="justify">
 
-</td>
-      <td align="center">
-
-Thann 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal d'instance de Thann 
-
-</td>
+Ressort du tribunal judiciaire de Colmar à l'exception du ressort des chambres de proximité de Guebwiller et de Sélestat </
+td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Colmar 
+Colmar </td>
+      <td align="left">
 
-</td>
-      <td align="center">
+Guebwiller </td>
+      <td align="left">
 
-Colmar 
+Guebwiller </td>
+      <td align="justify">
 
-</td>
-      <td align="center">
-
-Ressort du tribunal d'instance de Colmar 
-
-</td>
+Ressort de la chambre de proximité de Guebwiller </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
+      </td><td align="left">
 
-Guebwiller 
+Sélestat </td>
+      <td align="left">
 
-</td>
-      <td align="center">
+Sélestat </td>
+      <td align="justify">
 
-Guebwiller 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal d'instance de Guebwiller 
-
-</td>
+Ressort de la chambre de proximité de Sélestat </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Haguenau 
+Mulhouse </td>
+      <td align="left">
+      </td><td align="left">
 
-</td>
-      <td align="center">
+Mulhouse </td>
+      <td align="justify">
 
-Haguenau 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal d'instance de Haguenau 
-
-</td>
+Ressort du tribunal judiciaire de Mulhouse à l'exception du ressort de la chambre de proximité de Thann </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
+      </td><td align="left">
 
-Mulhouse 
+Thann </td>
+      <td align="left">
 
-</td>
-      <td align="center">
+Thann </td>
+      <td align="justify">
 
-Mulhouse 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal d'instance de Mulhouse 
-
-</td>
+Ressort de la chambre de proximité de Thann </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="left">
 
-Saverne 
+Saverne </td>
+      <td align="left">
 
-</td>
-      <td align="center">
+Saverne </td>
+      <td align="justify">
 
-Saverne 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal de grande instance de Saverne 
-
-</td>
+Ressort du tribunal judiciaire de Saverne </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Sélestat 
+Strasbourg </td>
+      <td align="left">
+      </td><td align="left">
 
-</td>
-      <td align="center">
+Strasbourg </td>
+      <td align="justify">
 
-Sélestat 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal d'instance de Sélestat 
-
-</td>
+Ressort du tribunal judiciaire de Strasbourg à l'exception du ressort de la chambre de proximité d'Haguenau </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
+      </td><td align="justify">
 
-Strasbourg 
+Haguenau </td>
+      <td align="justify">
 
-</td>
-      <td align="center">
+Haguenau </td>
+      <td align="justify">
 
-Strasbourg 
-
-</td>
-      <td align="center">
-
-Ressort des tribunaux d'instance d'Illkirch-Graffenstaden, de Schiltigheim et de Strasbourg 
-
-</td>
+Ressort de la chambre de proximité d'Haguenau </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td align="center" colspan="4">
 
-Cour d'appel de Metz 
-
-</td>
+Cour d'appel de Metz </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="left">
 
-Metz 
+Metz </td>
+      <td align="left">
 
-</td>
-      <td align="center">
+Metz </td>
+      <td align="justify">
 
-Metz 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal de grande instance de Metz 
-
-</td>
+Ressort du tribunal judiciaire de Metz </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" colspan="2">
 
-Sarreguemines 
+Sarreguemines </td>
+      <td align="left">
 
-</td>
-      <td align="center">
+Sarreguemines </td>
+      <td align="justify">
 
-Sarreguemines 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal de grande instance de Sarreguemines 
-
-</td>
+Ressort du tribunal judiciaire de Sarreguemines </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" colspan="2">
 
-Thionville 
+Thionville </td>
+      <td align="left">
 
-</td>
-      <td align="center">
+Thionville </td>
+      <td align="justify">
 
-Thionville 
-
-</td>
-      <td align="center">
-
-Ressort du tribunal de grande instance de Thionville
-
-</td>
+Ressort du tribunal judiciaire de Thionville</td>
     </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Conformément à l'article 3 de l’arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont
+applicables aux procédures en cours dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Arrêté du 15 octobre 2009 - art.
+  - Arrêté du 30 août 2019 - art.
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. D215-4 (VD)
 
 _Cité par_:
 

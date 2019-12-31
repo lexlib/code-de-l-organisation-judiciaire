@@ -1,227 +1,56 @@
 # Article Annexe Tableau XI
 
-SIÈGE ET RESSORT DES GREFFES DÉTACHÉS 
+SIÈGE ET RESSORT DES GREFFES DÉTACHÉS IMPLANTÉS HORS DU SIÈGE D'UNE CHAMBRE DE PROXIMITÉ
 
-(annexe des articles D. 212-17-2 et D. 222-7) 
+(annexe de l'article D. 212-17-2)
 
-<table border="1" cellpadding="0">
+<table border="1">
   <tbody>
     <tr>
-      <td>
+      <th>
 
-TRIBUNAL
+TRIBUNAL JUDICIAIRE</th>
+      <th>
 
-de grande instance 
+CHAMBRE
 
-</td>
-      <td>
+DE PROXIMITE</th>
+      <th>
 
-TRIBUNAL
+SIEGE
 
-d'instance 
+DU GREFFE
 
-</td>
-      <td>
+DÉTACHÉ</th>
+      <th>
 
-SIÈGE DU GREFFE
-
-détaché 
-
-</td>
-      <td>
-
-RESSORT DU GREFFE
-
-détaché 
-
-</td>
+RESSORT DU GREFFE DÉTACHÉ</th>
     </tr>
     <tr>
-      <td colspan="4">
+      <td colspan="4" align="center">
 
-Cour d'appel d'Agen 
-
-</td>
+Cour d'appel de Saint-Denis</td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
 
-Agen 
+Mamoudzou</td>
+      <td align="left">
+      </td><td align="left">
 
-</td>
-      <td>
-      </td><td>
+Sada</td>
+      <td align="justify">
 
-Marmande 
-
-</td>
-      <td>
-
-Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est,
-Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Basse-Terre
-
-</td>
-    </tr>
-    <tr>
-      <td> Basse-Terre</td>
-      <td> </td>
-      <td> Saint-Martin</td>
-      <td> Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton.</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Besançon 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lons-le-Saunier 
-
-</td>
-      <td>
-      </td><td>
-
-Dôle 
-
-</td>
-      <td>
-
-Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-
-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay. 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Cayenne 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cayenne 
-
-</td>
-      <td>
-      </td><td>
-
-Saint-Laurent-du-Maroni 
-
-</td>
-      <td>
-
-Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-
-Cayenne 
-
-</td>
-      <td>
-
-Saint-Laurent-du-Maroni 
-
-</td>
-      <td>
-
-Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Montpellier
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Rodez
-
-</td>
-      <td>
-
-Millau
-
-</td>
-      <td colspan="2">
-
-Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-
-Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Rennes 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-St-Brieuc 
-
-</td>
-      <td>
-      </td><td>
-
-Guingamp 
-
-</td>
-      <td>
-
-Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix,
-Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Saint-Denis 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>
-
-Mamoudzou 
-
-</td>
-      <td>
-
-Sada 
-
-</td>
-      <td>
-
-Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada
-
-</td>
+Cantons de Bouéni, Bandrele, Chiconi, Chirongui, Kani-Kéli, Sada </td>
     </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par
+les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
 
 **Liens relatifs à cet article**
 
@@ -229,9 +58,9 @@ _Cité par_:
 
   - Décret n°2008-1110 du 30 octobre 2008 - art. 2 (V)
   - Décret n°2008-1482 du 22 décembre 2008 - art. 4 (V)
-  - Code de l'organisation judiciaire - art. D212-17-2 (V)
+  - Code de l'organisation judiciaire - art. D212-17-2 (VD)
   - Code de l'organisation judiciaire - art. D222-7 (VT)
 
 _Modifié par_:
 
-  - Décret n°2015-1844 du 30 décembre 2015 - art. 2
+  - Décret n°2019-914 du 30 août 2019 - art.

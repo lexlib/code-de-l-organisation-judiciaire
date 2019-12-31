@@ -2,7 +2,7 @@
 
 Siège et ressort du tribunal pour la navigation du Rhin et du tribunal de première instance
 
-pour la navigation de la Moselle (annexe de l'article D. 223-2)
+pour la navigation de la Moselle (annexe de l'article D. 215-2)
 
 <table align="center" border="1">
   <tbody>
@@ -59,7 +59,17 @@ Partie de la Moselle située entre Metz et la frontière.
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par
+les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-914 du 30 août 2019 - art. 9
 
 _Cité par_:
 
