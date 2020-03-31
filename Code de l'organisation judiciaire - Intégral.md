@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2020-03-01
+Version Consolidée au 2020-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -15713,21 +15713,26 @@ _Anciens textes_:
 ###### Article D311-8
 
 Le siège et le ressort des cours d'appel mentionnées à l'article R. 411-19 du code de la propriété intellectuelle compétentes
-pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété
-industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques, en matière d'homologation, de
-rejet et de retrait d'homologation du cahier des charges des indications géographiques définies à l'article L. 721-2 du code
-de la propriété intellectuelle, ainsi qu'en matière d'homologation et de rejet des modifications de ce cahier des charges
-sont fixés conformément au tableau XVI annexé au présent code.
+pour connaître directement des recours formés contre les décisions du directeur général de l'Institut national de la
+propriété industrielle en matière de délivrance, rejet ou maintien des dessins et modèles et des marques, de nullité ou de
+déchéance des marques, en matière d'homologation, de rejet et de retrait d'homologation du cahier des charges des indications
+géographiques définies à l'article L. 721-2 du code de la propriété intellectuelle, ainsi qu'en matière d'homologation et de
+rejet des modifications de ce cahier des charges sont fixés conformément au tableau XVI annexé au présent code.
+
+**Nota:**
+
+Conformément aux dispositions du 3° du I de l'article 16 du décret n° 2019-1316 du 9 décembre 2019, ces dispositions entrent
+en vigueur le 1er avril 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1097 du 13 juin 2017 - art. 3
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 14
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L721-2 (V)
+  - Code de la propriété intellectuelle - art. L721-2
   - Code de la propriété intellectuelle - art. R411-19
 
 _Anciens textes_:
@@ -15739,6 +15744,7 @@ _Cité par_:
   - Code de l'organisation judiciaire - art. Annexe Tableau XVI (V)
   - Code de l'organisation judiciaire - art. R552-23 (VD)
   - Code de l'organisation judiciaire - art. R562-32 (VD)
+  - Code de la propriété intellectuelle - art. D411-19-1 (VT)
 
 
 ###### Article D311-9
