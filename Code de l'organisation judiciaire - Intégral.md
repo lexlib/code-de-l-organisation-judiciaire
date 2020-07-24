@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2020-07-01
+Version Consolidée au 2020-07-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -1046,16 +1046,13 @@ d'appel.
 Ce transfert est prononcé par ordonnance du premier président de la cour d'appel après avis du procureur général près cette
 cour.
 
-La durée du transfert ne peut excéder six mois. Cependant, si la situation l'exige, elle peut faire l'objet d'une prorogation
-pour une durée égale dans les conditions définies ci-dessus.
-
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 103
+  - Décret n°2020-900 du 22 juillet 2020 - art. 1
 
 
 ###### Article L124-2
@@ -9410,11 +9407,19 @@ Pour l'application de l'article L. 124-1, lorsque l'ensemble des services de la 
 juridiction est le lieu dans lequel elle est transférée. Lorsque certains services sont transférés, le siège de la
 juridiction est, pour chaque service, le lieu dans lequel son activité se déroule.
 
+La commune dans laquelle est transféré tout ou partie des services de la juridiction est située dans le ressort de cette
+juridiction et, à défaut, dans le ressort de la même cour d'appel.
+
 L'ordonnance mentionnée à l'article L. 124-1 indique le motif du transfert, la date à laquelle il sera effectif, la durée
 prévisible, l'adresse du ou des services transférés.
 
 Elle fait l'objet d'une publication dans deux journaux diffusés dans le ressort et de toute autre mesure de publicité dans
 tout lieu jugé utile.
+
+La durée du transfert ne peut excéder deux ans. Cependant, si la situation l'exige, elle peut, dans les mêmes conditions,
+faire l'objet d'une prorogation pour une durée égale par ordonnance du premier président de la cour d'appel après avis du
+procureur général près cette cour. Le transfert peut être une seconde fois prorogé dans les mêmes conditions, portant la
+durée maximale et continue de transfert à six ans.
 
 Un bilan annuel écrit des transferts ordonnés par le premier président de la cour d'appel est présenté au comité technique de
 service déconcentré placé auprès de ce dernier.
@@ -9423,7 +9428,7 @@ service déconcentré placé auprès de ce dernier.
 
 _Modifié par_:
 
-  - Décret n°2019-912 du 30 août 2019 - art. 24
+  - Décret n°2020-900 du 22 juillet 2020 - art. 2
 
 _Anciens textes_:
 
@@ -19981,35 +19986,41 @@ _Anciens textes_:
 ###### Article R531-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable à Wallis-et-Futuna, dans sa rédaction résultant du décret
-n° 2020-797 du 29 juin 2020 relatif à la mise à la disposition du public des décisions des juridictions administratives et
-judiciaires, à l'exception du second alinéa de l'article R. 111-3, du dernier alinéa de l'article R. 123-1, des articles R.
-123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, du second alinéa de l'article R. 123-20 et de l'article R.
-124-2. En outre, ne sont pas non plus applicables à Wallis-et-Futuna les dispositions de l'article R. 123-26 en ce qu'elles
-s'appliquent aux chambres de proximité
+n° 2020-900 du 22 juillet 2020, à l'exception du second alinéa de l'article R. 111-3, du dernier alinéa de l'article R.
+123-1, des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, du second alinéa de l'article R. 123-20
+et de l'article R. 124-2. En outre, ne sont pas non plus applicables à Wallis-et-Futuna les dispositions de l'article R.
+123-26 en ce qu'elles s'appliquent aux chambres de proximité 
 
 Les dispositions de l'article R. 121-1 sont applicables à Wallis-et-Futuna dans sa rédaction résultant du décret n° 2008-522
 du 2 juin 2008.
 
-**Nota:**
-
-Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
-2020.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2008-522 du 2 juin 2008
+  - Décret n°2020-900 du 22 juillet 2020
+  - Code de l'organisation judiciaire - art. R111-3
+  - Code de l'organisation judiciaire - art. R121-1
+  - Code de l'organisation judiciaire - art. R123-1
+  - Code de l'organisation judiciaire - art. R123-10
+  - Code de l'organisation judiciaire - art. R123-15
+  - Code de l'organisation judiciaire - art. R123-17
+  - Code de l'organisation judiciaire - art. R123-19
+  - Code de l'organisation judiciaire - art. R123-2
+  - Code de l'organisation judiciaire - art. R123-20
+  - Code de l'organisation judiciaire - art. R123-6
+  - Code de l'organisation judiciaire - art. R123-9
+  - Code de l'organisation judiciaire - art. R124-2
 
 _Cité par_:
 
   - Décret n°2008-522 du 2 juin 2008 - art. 13 (VD)
   - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
-_Cite_:
-
-  - Décret n°2020-797 du 29 juin 2020
-  - décret n°2008-522 du 2 juin 2008
-
 _Modifié par_:
 
-  - Décret n°2020-797 du 29 juin 2020 - art. 10 (V)
+  - Décret n°2020-900 du 22 juillet 2020 - art. 3
 
 _Anciens textes_:
 
@@ -20691,25 +20702,36 @@ _Cité par_:
 ###### Article R551-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable à la Polynésie française, dans sa rédaction résultant du
-décret n° 2020-797 du 29 juin 2020 relatif à la mise à la disposition du public des décisions des juridictions
-administratives et judiciaires, à l'exception du second alinéa de l'article R. 111-3, du dernier alinéa de l'article R.
-123-1, des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, du second alinéa de l'article R. 123-20
-et des articles R. 124-2 et R. 131-12. En outre, ne sont pas non plus applicables à la Polynésie-française les dispositions
-de l'article R. 123-26 en ce qu'elles s'appliquent aux chambres de proximité.
+décret n° 2020-900 du 22 juillet 2020, à l'exception du second alinéa de l'article R. 111-3, du dernier alinéa de l'article
+R. 123-1, des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, du second alinéa de l'article R.
+123-20 et des articles R. 124-2 et R. 131-12. En outre, ne sont pas non plus applicables à la Polynésie-française les
+dispositions de l'article R. 123-26 en ce qu'elles s'appliquent aux chambres de proximité.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2020-797 du 29 juin 2020
 
 _Cité par_:
 
   - Décret n°2020-797 du 29 juin 2020 - art. 10 (V)
 
+_Cite_:
+
+  - Décret n°2020-900 du 22 juillet 2020
+  - Code de l'organisation judiciaire - art. R111-3
+  - Code de l'organisation judiciaire - art. R123-1
+  - Code de l'organisation judiciaire - art. R123-10
+  - Code de l'organisation judiciaire - art. R123-15
+  - Code de l'organisation judiciaire - art. R123-17
+  - Code de l'organisation judiciaire - art. R123-19
+  - Code de l'organisation judiciaire - art. R123-2
+  - Code de l'organisation judiciaire - art. R123-20
+  - Code de l'organisation judiciaire - art. R123-6
+  - Code de l'organisation judiciaire - art. R123-9
+  - Code de l'organisation judiciaire - art. R124-2
+  - Code de l'organisation judiciaire - art. R131-12
+
 _Modifié par_:
 
-  - Décret n°2020-797 du 29 juin 2020 - art. 10 (V)
+  - Décret n°2020-900 du 22 juillet 2020 - art. 3
 
 _Anciens textes_:
 
@@ -21760,30 +21782,36 @@ _Anciens textes_:
 ###### Article R561-1
 
 Le livre Ier du présent code (partie Réglementaire) est applicable en Nouvelle-Calédonie, dans sa rédaction résultant du
-décret n° 2020-797 du 29 juin 2020 relatif à la mise à la disposition du public des décisions des juridictions
-administratives et judiciaires, à l'exception du second alinéa de l'article R. 111-3, du dernier alinéa de l'article R.
-123-1, des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, du second alinéa de l'article R. 123-20
-et des articles R. 124-2 et R. 131-12. En outre, ne sont pas non plus applicables à la Nouvelle-Calédonie les dispositions de
-l'article R. 123-26 en ce qu'elles s'appliquent aux chambres de proximité.
-
-**Nota:**
-
-Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
-2020.
+décret n° 2020-900 du 22 juillet 2020, à l'exception du second alinéa de l'article R. 111-3, du dernier alinéa de l'article
+R. 123-1, des articles R. 123-2, R. 123-9, R. 123-10, R. 123-15, R. 123-17, R. 123-19, du second alinéa de l'article R.
+123-20 et des articles R. 124-2 et R. 131-12. En outre, ne sont pas non plus applicables à la Nouvelle-Calédonie les
+dispositions de l'article R. 123-26 en ce qu'elles s'appliquent aux chambres de proximité.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2020-797 du 29 juin 2020
 
 _Cité par_:
 
   - Décret n°2020-797 du 29 juin 2020 - art. 10 (V)
 
+_Cite_:
+
+  - Décret n°2020-900 du 22 juillet 2020
+  - Code de l'organisation judiciaire - art. R111-3
+  - Code de l'organisation judiciaire - art. R123-1
+  - Code de l'organisation judiciaire - art. R123-10
+  - Code de l'organisation judiciaire - art. R123-15
+  - Code de l'organisation judiciaire - art. R123-17
+  - Code de l'organisation judiciaire - art. R123-19
+  - Code de l'organisation judiciaire - art. R123-2
+  - Code de l'organisation judiciaire - art. R123-20
+  - Code de l'organisation judiciaire - art. R123-26
+  - Code de l'organisation judiciaire - art. R123-9
+  - Code de l'organisation judiciaire - art. R124-2
+  - Code de l'organisation judiciaire - art. R131-12
+
 _Modifié par_:
 
-  - Décret n°2020-797 du 29 juin 2020 - art. 10 (V)
+  - Décret n°2020-900 du 22 juillet 2020 - art. 3
 
 _Anciens textes_:
 
