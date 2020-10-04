@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2020-07-25
+Version Consolidée au 2020-10-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -10223,10 +10223,10 @@ _Créé par_:
 Le tribunal judiciaire connaît des contestations relatives à l'électorat, à l'éligibilité et à la régularité des opérations
 électorales en ce qui concerne l'élection :
 
-1° Des représentants du personnel aux comités d'entreprise, aux comités d'établissement et aux comités centraux
-d'entreprise ;
+1° Des membres de la délégation du personnel aux comités sociaux et économiques d'entreprise, aux comités sociaux et
+économiques d'établissement et aux comités sociaux et économiques centraux d'entreprise ;
 
-2° Des délégués du personnel ;
+2° (Abrogé) ;
 
 3° Des représentants des salariés au conseil d'administration ou au conseil de surveillance des sociétés anonymes ;
 
@@ -10245,45 +10245,36 @@ générales de sécurité sociale et des caisses d'allocations familiales ;
 9° Des représentants des professionnels de la santé exerçant à titre libéral sous le régime des conventions nationales
 mentionnées au titre VI du livre Ier du code de la sécurité sociale, dans les unions régionales des professionnels de santé.
 
-**Nota:**
-
-Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
-2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2019-912 du 30 août 2019 - art. 2
+  - Loi n°83-675 du 26 juillet 1983 - art. 1
 
 _Cité par_:
 
   - Décret n°2020-1214 du 2 octobre 2020 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-1214 du 2 octobre 2020 - art. 3
 
 
 ###### Article R211-3-16
 
-Le tribunal judiciaire connaît des contestations relatives à la désignation :
-
-1° Des délégués syndicaux et des représentants syndicaux aux comités d'entreprise, aux comités d'établissement, aux comités
-centraux d'entreprise et aux comités de groupe ;
-
-2° De la délégation des représentants du personnel aux comités d'hygiène, de sécurité et des conditions de travail.
-
-**Nota:**
-
-Conformément au I de l’article 40 du décret n° 2019-912 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier
-2020. Se reporter aux conditions d’application prévues aux IV à VIII du même article 40.
+Le tribunal judiciaire connaît des contestations relatives à la désignation des délégués syndicaux et des représentants
+syndicaux aux comités sociaux et économiques d'entreprise, aux comités sociaux et économiques d'établissement, aux comités
+sociaux et économiques centraux d'entreprise et aux comités de groupe.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2019-912 du 30 août 2019 - art. 2
 
 _Cité par_:
 
   - Décret n°2020-1214 du 2 octobre 2020 (V)
+
+_Modifié par_:
+
+  - Décret n°2020-1214 du 2 octobre 2020 - art. 4
 
 
 ###### Article R211-3-17
