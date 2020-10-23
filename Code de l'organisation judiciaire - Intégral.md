@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2020-10-05
+Version Consolidée au 2020-10-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -10638,6 +10638,22 @@ _Modifié par_:
 _Cite_:
 
   - Code électoral - art. L163-2
+
+
+###### Article D211-7-3
+
+Le tribunal judiciaire de Paris est seul compétent pour connaître des litiges prévus à l'article L. 7342-10 du code du
+travail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1284 du 22 octobre 2020 - art. 2
+
+_Cite_:
+
+  - Code du travail - art. L7342-10
 
 
 ###### Article D211-8
