@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2020-10-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -19,10 +19,10 @@ Version Consolidée au 2020-10-01
         - [Chapitre unique (art. L141-1 à L141-3)](#16)
     - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#17)
       - [TITRE Ier : LE TRIBUNAL JUDICIAIRE (art. L211-1 à L218-12)](#18)
-        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-16)](#19)
-          - [Section 1 : Compétence matérielle (art. L211-3 à L211-16)](#20)
+        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-18)](#19)
+          - [Section 1 : Compétence matérielle (art. L211-3 à L211-18)](#20)
             - [Sous-section 1 : Compétence commune à tous les tribunaux judiciaires (art. L211-3 à L211-9-2)](#21)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux judiciaires (art. L211-9-3  à L211-16)](#22)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux judiciaires (art. L211-9-3  à L211-18)](#22)
         - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-8)](#23)
           - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5-1)](#24)
           - [Section 2 : Le parquet (art. L212-6 à L212-7)](#25)
@@ -1657,6 +1657,56 @@ _Cite_:
   - Code de la sécurité sociale. - art. L861-5
   - Code de la sécurité sociale. - art. L863-3
   - Code de l'action sociale et des familles - art. L134-3 (V)
+
+
+###### Article L211-17
+
+Un tribunal judiciaire spécialement désigné par décret connaît :
+
+1° Des demandes d'injonction de payer, à l'exception de celles relevant de la compétence d'attribution du tribunal de
+commerce lorsqu'elle est exercée par la juridiction mentionnée à l'article L. 721-1 du code de commerce ;
+
+2° Des demandes formées en application du règlement (CE) n° 1896/2006 du Parlement européen et du Conseil du 12 décembre 2006
+instituant une procédure européenne d'injonction de payer.
+
+**Nota:**
+
+Conformément au IX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 27
+
+_Cite_:
+
+  - Code de commerce - art. L721-1
+
+
+###### Article L211-18
+
+Les demandes d'injonction de payer sont formées par voie dématérialisée devant le tribunal judiciaire spécialement désigné
+mentionné à l'article L. 211-17. Toutefois, les demandes formées par les personnes physiques n'agissant pas à titre
+professionnel et non représentées par un mandataire ainsi que les demandes mentionnées au 2° du même article L. 211-17
+peuvent être adressées au greffe sur support papier.
+
+Les oppositions sont formées devant le tribunal judiciaire spécialement désigné.
+
+Les oppositions aux ordonnances portant injonction de payer sont transmises par le greffe du tribunal judiciaire spécialement
+désigné aux tribunaux judiciaires territorialement compétents.
+
+**Nota:**
+
+Conformément au IX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 27
 
 
 #### Chapitre II : Organisation et fonctionnement<a id=23></a>
