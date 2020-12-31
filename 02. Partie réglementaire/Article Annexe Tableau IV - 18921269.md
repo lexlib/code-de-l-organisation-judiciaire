@@ -849,7 +849,7 @@ Bourges</td>
 Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er Canton, Bourges 2e Canton, Bourges 3e Canton, Bourges 4e
 Canton, Bourges 5e Canton, Chârost, Graçay, Henrichemont, La Chapelle-d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-
 Arnon, Mehun-sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er Canton
-et Vierzon 2e Canton.</td>
+et Vierzon 2e Canton et commune de Corquoy.</td>
     </tr>
     <tr>
       <td align="left">
@@ -858,8 +858,9 @@ et Vierzon 2e Canton.</td>
 Saint-Amand-Montrond</td>
       <td align="justify">
 
-Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet,
-Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.</td>
+Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher (à l'exception de la fraction de commune de Corquoy),
+Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-
+Potier.</td>
     </tr>
     <tr>
       <td align="center" colspan="3">
@@ -963,8 +964,8 @@ Cherbourg-en-Cotentin</td>
 
 Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est,
 Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Église (à
-l'exception de la fraction de commune de Carentan les Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et
-Valognes et commune de Picauville.</td>
+l'exception de la fraction de commune de Carentan-les-Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et
+Valognes et communes de Picauville et de Port-Bail-Sur-Mer.</td>
     </tr>
     <tr>
       <td align="left">
@@ -973,10 +974,10 @@ Coutances</td>
       <td align="left">
       </td><td align="justify">
 
-Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception de la fraction de
-commune de Picauville), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye,
-Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et communes
-de Carentan les Marais et de Tessy-Bocage.</td>
+Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception des fractions de
+communes de Picauville et de Port-Bail-sur-Mer), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle,
+Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-
+sur-Vire et communes de Carentan-les-Marais et de Tessy-Bocage.</td>
     </tr>
     <tr>
       <td align="left">
@@ -1002,7 +1003,7 @@ Alençon</td>
 
 Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer,
 L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé,
-Pervenchères, Rémalard, Sées et Tourouvre et commune de Chailloué.</td>
+Pervenchères, Rémalard, Sées (à l'exception de la fraction de commune de Mortrée) et Tourouvre et commune de Chailloué.</td>
     </tr>
     <tr>
       <td align="left">
@@ -1012,7 +1013,7 @@ Argentan</td>
       </td><td align="justify">
 
 Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception
-de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers.</td>
+de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers et commune de Mortrée.</td>
     </tr>
     <tr>
       <td align="left">
@@ -3940,4 +3941,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-914 du 30 août 2019 - art.
+  - Décret n°2020-1151 du 18 septembre 2020 - art.

@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2020-10-24
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -19,10 +19,10 @@ Version Consolidée au 2020-10-24
         - [Chapitre unique (art. L141-1 à L141-3)](#16)
     - [LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ (art. L211-1 à L261-1)](#17)
       - [TITRE Ier : LE TRIBUNAL JUDICIAIRE (art. L211-1 à L218-12)](#18)
-        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-16)](#19)
-          - [Section 1 : Compétence matérielle (art. L211-3 à L211-16)](#20)
+        - [Chapitre Ier : Institution et compétence (art. L211-1 à L211-18)](#19)
+          - [Section 1 : Compétence matérielle (art. L211-3 à L211-18)](#20)
             - [Sous-section 1 : Compétence commune à tous les tribunaux judiciaires (art. L211-3 à L211-9-2)](#21)
-            - [Sous-section 2 : Compétence particulière à certains tribunaux judiciaires (art. L211-9-3 à L211-16)](#22)
+            - [Sous-section 2 : Compétence particulière à certains tribunaux judiciaires (art. L211-9-3 à L211-18)](#22)
         - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-8)](#23)
           - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5-1)](#24)
           - [Section 2 : Le parquet (art. L212-6 à L212-7)](#25)
@@ -1409,7 +1409,7 @@ des affaires concernées et de la technicité de ces matières. Cette liste ne p
 398-1 du code de procédure pénale, à l'exception des délits prévus par le code du travail, le code de l'action sociale et des
 familles, le code de la sécurité sociale, la législation sociale des transports, le code de l'environnement, le code rural et
 de la pêche maritime, le code forestier, le code minier, le code de l'urbanisme, le code de la consommation, le code de la
-propriété intellectuelle, le code de la construction et de l'habitation et l'article L. 1337-4 du code de la santé publique.
+propriété intellectuelle et le code de la construction et de l'habitation.
 
 Il peut être saisi des infractions connexes aux délits et contraventions mentionnés au 2° du présent I.
 
@@ -1425,11 +1425,16 @@ proposer la désignation de tribunaux de leur ressort situés dans deux départe
 spécificités territoriales mentionnées au même III, après avis des chefs de juridiction et consultation des conseils de
 juridiction concernés.
 
+**Nota:**
+
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er
+janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 95
+  - Ordonnance n°2020-1144 du 16 septembre 2020 - art. 8
 
 _Cite_:
 
@@ -1658,6 +1663,56 @@ _Cite_:
   - Code de la sécurité sociale. - art. L861-5
   - Code de la sécurité sociale. - art. L863-3
   - Code de l'action sociale et des familles - art. L134-3 (V)
+
+
+###### Article L211-17
+
+Un tribunal judiciaire spécialement désigné par décret connaît :
+
+1° Des demandes d'injonction de payer, à l'exception de celles relevant de la compétence d'attribution du tribunal de
+commerce lorsqu'elle est exercée par la juridiction mentionnée à l'article L. 721-1 du code de commerce ;
+
+2° Des demandes formées en application du règlement (CE) n° 1896/2006 du Parlement européen et du Conseil du 12 décembre 2006
+instituant une procédure européenne d'injonction de payer.
+
+**Nota:**
+
+Conformément au IX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 27
+
+_Cite_:
+
+  - Code de commerce - art. L721-1
+
+
+###### Article L211-18
+
+Les demandes d'injonction de payer sont formées par voie dématérialisée devant le tribunal judiciaire spécialement désigné
+mentionné à l'article L. 211-17. Toutefois, les demandes formées par les personnes physiques n'agissant pas à titre
+professionnel et non représentées par un mandataire ainsi que les demandes mentionnées au 2° du même article L. 211-17
+peuvent être adressées au greffe sur support papier.
+
+Les oppositions sont formées devant le tribunal judiciaire spécialement désigné.
+
+Les oppositions aux ordonnances portant injonction de payer sont transmises par le greffe du tribunal judiciaire spécialement
+désigné aux tribunaux judiciaires territorialement compétents.
+
+**Nota:**
+
+Conformément au IX de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 27
 
 
 #### Chapitre II : Organisation et fonctionnement<a id=23></a>
@@ -26430,7 +26485,7 @@ Bourges</td>
 Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er Canton, Bourges 2e Canton, Bourges 3e Canton, Bourges 4e
 Canton, Bourges 5e Canton, Chârost, Graçay, Henrichemont, La Chapelle-d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-
 Arnon, Mehun-sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er Canton
-et Vierzon 2e Canton.</td>
+et Vierzon 2e Canton et commune de Corquoy.</td>
     </tr>
     <tr>
       <td align="left">
@@ -26439,8 +26494,9 @@ et Vierzon 2e Canton.</td>
 Saint-Amand-Montrond</td>
       <td align="justify">
 
-Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet,
-Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.</td>
+Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher (à l'exception de la fraction de commune de Corquoy),
+Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-
+Potier.</td>
     </tr>
     <tr>
       <td align="center" colspan="3">
@@ -26544,8 +26600,8 @@ Cherbourg-en-Cotentin</td>
 
 Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est,
 Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Église (à
-l'exception de la fraction de commune de Carentan les Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et
-Valognes et commune de Picauville.</td>
+l'exception de la fraction de commune de Carentan-les-Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et
+Valognes et communes de Picauville et de Port-Bail-Sur-Mer.</td>
     </tr>
     <tr>
       <td align="left">
@@ -26554,10 +26610,10 @@ Coutances</td>
       <td align="left">
       </td><td align="justify">
 
-Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception de la fraction de
-commune de Picauville), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye,
-Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et communes
-de Carentan les Marais et de Tessy-Bocage.</td>
+Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception des fractions de
+communes de Picauville et de Port-Bail-sur-Mer), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle,
+Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-
+sur-Vire et communes de Carentan-les-Marais et de Tessy-Bocage.</td>
     </tr>
     <tr>
       <td align="left">
@@ -26583,7 +26639,7 @@ Alençon</td>
 
 Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer,
 L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé,
-Pervenchères, Rémalard, Sées et Tourouvre et commune de Chailloué.</td>
+Pervenchères, Rémalard, Sées (à l'exception de la fraction de commune de Mortrée) et Tourouvre et commune de Chailloué.</td>
     </tr>
     <tr>
       <td align="left">
@@ -26593,7 +26649,7 @@ Argentan</td>
       </td><td align="justify">
 
 Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception
-de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers.</td>
+de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers et commune de Mortrée.</td>
     </tr>
     <tr>
       <td align="left">
@@ -29521,7 +29577,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-914 du 30 août 2019 - art.
+  - Décret n°2020-1151 du 18 septembre 2020 - art.
 
 
 ###### Article Annexe Tableau IV-I
