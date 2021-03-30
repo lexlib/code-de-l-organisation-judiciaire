@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2021-03-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -3963,30 +3963,39 @@ _Anciens textes_:
 
 ###### Article L312-6
 
-Un magistrat qui prend le nom de délégué à la protection de l'enfance est désigné au sein de chaque cour d'appel. 
+Un magistrat qui prend le nom de délégué à la protection de l'enfance est désigné au sein de chaque cour d'appel.
 
-Ce magistrat préside la chambre spéciale des mineurs ou y exerce les fonctions de rapporteur. 
+Ce magistrat préside la chambre spéciale des mineurs ou y exerce les fonctions de rapporteur.
 
-Il siège comme membre de la chambre de l'instruction dans les cas mentionnés à l'article 23 de l'ordonnance n° 45-174 du 2
-février 1945. 
+Il siège comme membre de la chambre de l'instruction dans les cas mentionnés à l'article L. 221-3 du code de la justice
+pénale des mineurs.
 
 Il siège également dans la formation de la cour d'appel qui statue sur les recours formés contre les décisions rendues en
 première instance sur le fondement des dispositions des instruments internationaux et communautaires relatives au déplacement
 illicite international d'enfants.
 
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°45-174 du 2 février 1945 - art. 23 (V)
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 _Cité par_:
 
@@ -6779,33 +6788,49 @@ _Cite_:
 ###### Article L552-10
 
 Les dispositions des articles L. 311-1, L. 311-3, L. 312-2 et L. 312-7 relatives à la cour d'appel sont applicables en
-Polynésie française. 
+Polynésie française.
 
 Les dispositions des articles L. 311-9 et L. 312-6 relatives à la protection de l'enfance sont applicables en Polynésie
 française.
+
+L'article L. 312-6 est applicable en Polynésie française dans sa rédaction résultant de l'ordonnance n° 2019-950 du 11
+septembre 2019 portant partie législative du code de la justice pénale des mineurs.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-3 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-9 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-6 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-7 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc PF, généralités et protection (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L311-1
+  - Code de l'organisation judiciaire - art. L311-3
+  - Code de l'organisation judiciaire - art. L311-9
+  - Code de l'organisation judiciaire - art. L312-2
+  - Code de l'organisation judiciaire - art. L312-6
+  - Code de l'organisation judiciaire - art. L312-7
 
 
 ###### Article L552-11
@@ -7659,33 +7684,49 @@ _Cite_:
 ###### Article L562-25
 
 Les dispositions des articles L. 311-1, L. 311-3, L. 312-2 et L. 312-7 relatives à la cour d'appel sont applicables en
-Nouvelle-Calédonie. 
+Nouvelle-Calédonie.
 
 Les dispositions des articles L. 311-9 et L. 312-6 relatives à la protection de l'enfance sont applicables en Nouvelle-
 Calédonie.
+
+L'article L. 312-6 est applicable en Nouvelle-Calédonie dans sa rédaction résultant de l'ordonnance n° 2019-950 du 11
+septembre 2019 portant partie législative du code de la justice pénale des mineurs.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
+
+Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 JORF 9 juin 2006
+  - Ordonnance n°2006-673 du 8 juin 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 1 (V) JORF 9 juin 2006
-
-_Cite_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-3 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-9 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-6 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-7 (V)
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 8 (VD)
 
 _Anciens textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L931-2, ecqc NC, généralités et protection (Ab)
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L311-1
+  - Code de l'organisation judiciaire - art. L311-3
+  - Code de l'organisation judiciaire - art. L311-9
+  - Code de l'organisation judiciaire - art. L312-2
+  - Code de l'organisation judiciaire - art. L312-6
+  - Code de l'organisation judiciaire - art. L312-7
 
 
 ###### Article L562-26
