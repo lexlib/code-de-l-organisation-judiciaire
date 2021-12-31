@@ -1,5 +1,5 @@
 # Code de l'organisation judiciaire  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L563-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES (art. L111-1 à L141-3)](#2)
@@ -24,7 +24,7 @@ Version Consolidée au 2021-01-01
             - [Sous-section 1 : Compétence commune à tous les tribunaux judiciaires (art. L211-3 à L211-9-2)](#21)
             - [Sous-section 2 : Compétence particulière à certains tribunaux judiciaires (art. L211-9-3  à L211-18)](#22)
         - [Chapitre II : Organisation et fonctionnement (art. L212-1 à L212-8)](#23)
-          - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5-1)](#24)
+          - [Section 1 : Le service juridictionnel (art. L212-1 à L212-5-2)](#24)
           - [Section 2 : Le parquet (art. L212-6 à L212-7)](#25)
           - [Section 4 : Les chambres de proximité (art. L212-8)](#26)
         - [Chapitre III : Fonctions particulières (art. L213-1 à L213-12)](#27)
@@ -1855,6 +1855,31 @@ janvier 2020.
 _Modifié par_:
 
   - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
+
+
+###### Article L212-5-2
+
+Les oppositions aux ordonnances portant injonction de payer statuant sur une demande initiale n'excédant pas un montant
+défini par décret en Conseil d'Etat et les demandes formées devant le tribunal judiciaire en paiement d'une somme n'excédant
+pas ce montant peuvent, à l'initiative des parties lorsqu'elles en sont expressément d'accord, être traitées dans le cadre
+d'une procédure dématérialisée. Dans ce cas, la procédure se déroule sans audience.
+
+Toutefois, le tribunal peut décider de tenir une audience s'il estime qu'il n'est pas possible de rendre une décision au
+regard des preuves écrites ou si l'une des parties en fait la demande. Le tribunal peut, par décision spécialement motivée,
+rejeter cette demande s'il estime que, compte tenu des circonstances de l'espèce, une audience n'est pas nécessaire pour
+garantir le déroulement équitable de la procédure. Le refus de tenir une audience ne peut être contesté indépendamment du
+jugement sur le fond.
+
+**Nota:**
+
+Conformément au VIII de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à une date
+définie par décret en Conseil d'Etat, et au plus tard le 1er janvier 2022.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 26
 
 
 ##### Section 2 : Le parquet<a id=25></a>
